@@ -1,5 +1,5 @@
 # 📺 Channel Status Dashboard
-**Last Updated:** 2026-02-18 23:11:35.499689 UTC
+**Last Sync:** 2026-02-18 23:20:34.595482 UTC
 
 | Status | Channel | Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -547,7 +547,7 @@
 | ✅ | HLN (CNN Headline News) | Rocket | `` |
 | ✅ | HollyWire | News Channels | `` |
 | ✅ | i24 News | News Channels | `` |
-| ✅ | InfoWars | News Channels | `` |
+| ❌ | InfoWars | Offline | `` |
 | ✅ | LiveNOW from FOX | News Channels | `` |
 | ✅ | MS NOW | Rocket | `` |
 | ✅ | NBC Dateline 24/7 | News Channels | `` |
@@ -567,10 +567,10 @@
 | ✅ | News 12+ (New York NY) | News Channels | `` |
 | ✅ | News Nation | Rocket | `` |
 | ✅ | Newsmax | News Channels | `` |
-| ✅ | Newsmax 2 | News Channels | `` |
+| ❌ | Newsmax 2 | Offline | `` |
 | ✅ | NewsWorld | News Channels | `` |
-| ✅ | NTD TV News (New Tang Dynasty Television) | News Channels | `` |
-| ✅ | OAN News (One America News Network) | News Channels | `` |
+| ❌ | NTD TV News (New Tang Dynasty Television) | Offline | `` |
+| ❌ | OAN News (One America News Network) | Offline | `` |
 | ✅ | OAN Plus | News Channels | `` |
 | ✅ | Real America's Voice | News Channels | `` |
 | ✅ | Reuters TV | News Channels | `` |
@@ -934,7 +934,7 @@
 | ✅ | KSTS-TV Telemundo 48 (San Francisco CA) | Rocket | `` |
 | ✅ | KTAZ-TV Telemundo 39 (Phoenix AZ) | Rocket | `` |
 | ❌ | KTFD-TV UniMás 50 (Denver CO) | Offline | `` |
-| ✅ | KTFK-DT UniMás 64 (Sacramento CA) | Latino (Spanish) | `` |
+| ❌ | KTFK-DT UniMás 64 (Sacramento CA) | Offline | `` |
 | ✅ | KTMD-TV Telemundo 47 (Houston TX) | Rocket | `` |
 | ✅ | KTMW-TV Telemundo 20 (Salt Lake City UT) | Rocket | `` |
 | ❌ | KTVW-TV Univision 33 (Phoenix AZ) | Offline | `` |
@@ -978,7 +978,7 @@
 | ✅ | Telesur | Latino (Spanish) | `` |
 | ❌ | Tlaxcala Televisión | Offline | `` |
 | ✅ | TLN (TeleLatino) (East) (Canada) | Rocket | `` |
-| ✅ | TLN (TeleLatino) (West) (Canada) | Rocket | `` |
+| ❌ | TLN (TeleLatino) (West) (Canada) | Rocket | `` |
 | ✅ | TV 4.1 | Latino (Spanish) | `` |
 | ❌ | TV 4.2 | Offline | `` |
 | ✅ | TV 4.3 | Latino (Spanish) | `` |
@@ -1004,7 +1004,7 @@
 | ✅ | WIPR-TV 6 (San Juan PR) | Latino (Spanish) | `` |
 | ✅ | WJAN-CD América TeVé 41 (Miami FL) | Latino (Spanish) | `` |
 | ✅ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Latino (Spanish) | `` |
-| ✅ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Latino (Spanish) | `` |
+| ❌ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Offline | `` |
 | ✅ | WKTB-TV Telemundo 47 (Atlanta GA) | Rocket | `` |
 | ✅ | WLII-TV Univision 11 (San Juan PR) | Latino (Spanish) | `` |
 | ✅ | WLTV-TV Univision 23 (Miami FL) | Latino (Spanish) | `` |
@@ -1194,7 +1194,7 @@
 | ✅ | Cooking Channel | Rocket | `` |
 | ✅ | Recipe.tv | Rocket | `` |
 | ✅ | Gusto TV | Cooking | `` |
-| ✅ | Bon Appétit | Cooking | `` |
+| ❌ | Bon Appétit | Offline | `` |
 | ✅ | PBS Food | Cooking | `` |
 | ✅ | BBC Food | Cooking | `` |
 | ✅ | Cook's Country Channel | Cooking | `` |
@@ -1212,7 +1212,7 @@
 | ✅ | AMC+ | Network Channels | `` |
 | ✅ | Antenna TV | Rocket | `` |
 | ✅ | Aspire | Rocket | `` |
-| ✅ | AWE | Network Channels | `` |
+| ❌ | AWE | Offline | `` |
 | ✅ | AWE Encore | Network Channels | `` |
 | ✅ | AXS-TV | Rocket | `` |
 | ✅ | AXS-TV Now | Network Channels | `` |
@@ -1485,7 +1485,7 @@
 | ✅ | Fanduel Sports Network (Ohio) | Sports | `` |
 | ✅ | Fanduel Sports Network (Oklahoma) | Sports | `` |
 | ✅ | Fanduel Sports Network (Socal) | Sports | `` |
-| ✅ | Fanduel Sports Network (South) | Sports | `` |
+| ❌ | Fanduel Sports Network (South) | Offline | `` |
 | ✅ | Fanduel Sports Network (Southeast) | Sports | `` |
 | ✅ | Fanduel Sports Network (Southwest) | Sports | `` |
 | ✅ | Fanduel Sports Network (Sun) | Sports | `` |
@@ -1495,7 +1495,7 @@
 | ✅ | FanDuel TV+ | Sports | `` |
 | ✅ | FIFA+ | Sports | `` |
 | ✅ | Fite 24/7 by Triller | Sports | `` |
-| ❌ | FN (Fight Network) | Rocket | `` |
+| ✅ | FN (Fight Network) | Rocket | `` |
 | ✅ | FOX Soccer Plus | Rocket | `` |
 | ✅ | FOX Sports | Sports | `` |
 | ✅ | FOX Sports on Tubi | Sports | `` |
@@ -1901,14 +1901,14 @@
 | ✅ | PPV Cinebox Blockbuster | PPV (Pay Per View) | `` |
 | ✅ | PPV Cinebox Comedy | PPV (Pay Per View) | `` |
 | ✅ | PPV Cinebox Cult | PPV (Pay Per View) | `` |
-| ✅ | PPV Cinebox Family | PPV (Pay Per View) | `` |
+| ❌ | PPV Cinebox Family | Offline | `` |
 | ✅ | PPV Cinebox Greats | PPV (Pay Per View) | `` |
 | ✅ | PPV Cinebox Hits | PPV (Pay Per View) | `` |
 | ✅ | PPV Cinebox Musical | PPV (Pay Per View) | `` |
 | ✅ | PPV Cinebox Mystery | PPV (Pay Per View) | `` |
-| ✅ | PPV Cinebox Premiere | PPV (Pay Per View) | `` |
+| ❌ | PPV Cinebox Premiere | Offline | `` |
 | ✅ | PPV Cinebox Romance | PPV (Pay Per View) | `` |
-| ✅ | PPV Cinebox Sci-Fi | PPV (Pay Per View) | `` |
+| ❌ | PPV Cinebox Sci-Fi | Offline | `` |
 | ❌ | Canela.TV Music Hits | Offline | `` |
 | ✅ | CMC (California Music Channel) | Music | `` |
 | ✅ | CMC (Country Music Channel) | Music | `` |
@@ -2200,7 +2200,7 @@
 | ❌ | MC (Music Choice) | '70s (Audio Channel) | Rocket | `` |
 | ✅ | MC (Music Choice) | '80s | Rocket | `` |
 | ❌ | MC (Music Choice) | '80s (Audio Channel) | Rocket | `` |
-| ❌ | MC (Music Choice) | '80s Rock (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | '80s Rock (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | '90s | Rocket | `` |
 | ✅ | MC (Music Choice) | '90s (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Adult Alternative (Audio Channel) | Music | `` |
@@ -2209,36 +2209,36 @@
 | ❌ | MC (Music Choice) | Classic Alternative (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Classic Christmas (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Classic Country | Rocket | `` |
-| ✅ | MC (Music Choice) | Classic Country (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | Classic Country (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Classic Dance | Music | `` |
 | ✅ | MC (Music Choice) | Classic Rock | Rocket | `` |
-| ❌ | MC (Music Choice) | Classic Rock (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Classic Rock (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Contemporary Christian | Rocket | `` |
 | ✅ | MC (Music Choice) | Country Hits | Rocket | `` |
-| ❌ | MC (Music Choice) | Country Hits (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Country Hits (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Dance | Rocket | `` |
 | ✅ | MC (Music Choice) | Dance EDM | Rocket | `` |
 | ✅ | MC (Music Choice) | Easy Listening | Rocket | `` |
 | ✅ | MC (Music Choice) | Easy Listening (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Funk (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Gospel (Audio Channel) | Offline | `` |
-| ✅ | MC (Music Choice) | Hard Rock (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | Hard Rock (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Hip-Hop And R&B | Rocket | `` |
 | ❌ | MC (Music Choice) | Hip-Hop And R&B (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Hip-Hop Classics (Audio Channel) | Rocket | `` |
 | ❌ | MC (Music Choice) | Kids Only | Offline | `` |
-| ✅ | MC (Music Choice) | Love Songs (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | Love Songs (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Mainstream Rap (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Malt Shop Favorites (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Mellow Hits | Rocket | `` |
 | ❌ | MC (Music Choice) | Metal (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Mexicana | Rocket | `` |
-| ✅ | MC (Music Choice) | Mexicana (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | Mexicana (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Music Choice Max (Audio Channel) | Rocket | `` |
 | ✅ | MC (Music Choice) | Musica Urbana | Rocket | `` |
 | ❌ | MC (Music Choice) | Musica Urbana (Audio Channel) | Offline | `` |
-| ❌ | MC (Music Choice) | New Wave (Audio Channel) | Offline | `` |
-| ✅ | MC (Music Choice) | Party Favorites (Audio Channel) | Music | `` |
+| ✅ | MC (Music Choice) | New Wave (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | Party Favorites (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Pop And Country | Rocket | `` |
 | ✅ | MC (Music Choice) | Pop Hits | Rocket | `` |
 | ✅ | MC (Music Choice) | Pop Hits (Audio Channel) | Music | `` |
@@ -2279,7 +2279,7 @@
 | ❌ | AHC (American Heroes Channel) (Canada) | Rocket | `` |
 | ✅ | AMC (Canada) | Rocket | `` |
 | ✅ | APTN (Canada) | Rocket | `` |
-| ❌ | BBC Earth (Canada) | Rocket | `` |
+| ✅ | BBC Earth (Canada) | Rocket | `` |
 | ✅ | BBC World News (Canada) | Canadian Channels | `` |
 | ✅ | beIN Sports 1 (Canada) | Rocket | `` |
 | ✅ | beIN Sports 2 (Canada) | Rocket | `` |
@@ -2437,9 +2437,9 @@
 | ✅ | Sportsnet 360 (Canada) | Canadian Channels | `` |
 | ✅ | Sportsnet East (Canada) | Canadian Channels | `` |
 | ✅ | Sportsnet One (Canada) | Canadian Channels | `` |
-| ✅ | Sportsnet Ontario (Canada) | Canadian Channels | `` |
-| ✅ | Sportsnet Pacific (Canada) | Canadian Channels | `` |
-| ✅ | Sportsnet West (Canada) | Canadian Channels | `` |
+| ❌ | Sportsnet Ontario (Canada) | Offline | `` |
+| ❌ | Sportsnet Pacific (Canada) | Offline | `` |
+| ❌ | Sportsnet West (Canada) | Offline | `` |
 | ✅ | Sportsnet World (Canada) | Rocket | `` |
 | ❌ | Starz (Canada) | Rocket | `` |
 | ❌ | Starz 2 (Canada) | Rocket | `` |
@@ -2518,7 +2518,7 @@
 | ✅ | GB News (UK) | UK Channels | `` |
 | ✅ | Great! Movies (UK) | UK Channels | `` |
 | ✅ | Great! Romance (UK) | UK Channels | `` |
-| ✅ | H2 (History Channel 2) (UK) | Rocket | `` |
+| ❌ | H2 (History Channel 2) (UK) | Rocket | `` |
 | ✅ | History Channel (UK) | UK Channels | `` |
 | ✅ | Hobby Maker (UK) | UK Channels | `` |
 | ✅ | Horse & Country TV (UK) | UK Channels | `` |
