@@ -2,8 +2,8 @@ name: Daily Status & Playlist Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update:
@@ -19,16 +19,16 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install Requests
-        run: pip install requests
+      - name: Install dependencies
+        run: pip install requests thefuzz python-Levenshtein
 
       - name: Run Update Script
         run: python convert_oly.py
 
       - name: Push Updates
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add playlist.m3u README.md
-          git commit -m "Multithreaded update for Rocket and Offline groups" || echo "No changes"
+          git commit -m "Update playlist with EPG header and status" || echo "No changes"
           git push
