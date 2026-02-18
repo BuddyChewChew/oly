@@ -1,82 +1,97 @@
 import requests
 import re
-import urllib3
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 from thefuzz import fuzz, process
 
-# Suppress SSL warnings
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-
-# Configuration
+# --- Configuration ---
 SOURCE_URL = "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/OLY"
 EPG_XML_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-EPG_DATA_URL = "https://raw.githubusercontent.com/fleung49/star/main/epg_ripper_ALL_SOURCES1.txt"
+# CORRECTED URL BELOW
+EPG_DATA_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.txt"
 
 M3U_FILE = "playlist.m3u"
 MD_FILE = "README.md"
 MAX_WORKERS = 30 
 
-def find_smart_match(channel_name, epg_list):
+def super_clean(text):
     """
-    Uses fuzzy logic to find the best EPG ID.
-    Example: 'KCBS-TV CBS 2' matches 'KCBS.us2'
+    Standardizes names for matching.
+    'ABC.News.Live.us2' -> 'abcnewslive'
+    'ABC News Live' -> 'abcnewslive'
     """
-    if not channel_name: return ""
+    if not text: return ""
+    text = text.lower()
+    # Remove common EPG suffixes (.us2, .ca, etc)
+    text = re.sub(r'\.[a-z]{2,3}\d?$', '', text)
+    # Remove all non-alphanumeric characters
+    return re.sub(r'[^a-z0-9]', '', text)
+
+def find_best_epg_match(channel_name, epg_list):
+    """
+    Matches playlist name to EPG ID list.
+    """
+    if not channel_name or not epg_list:
+        return ""
     
-    # Clean the channel name for better matching
-    clean_name = re.sub(r'\(.*?\)|-TV|HD|4K|Channel|ch', '', channel_name, flags=re.IGNORECASE).strip()
+    target = super_clean(channel_name)
     
-    # 1. Try to find an exact match first
-    for e_id in epg_list:
-        if clean_name.lower() in e_id.lower().replace('.', ' '):
-            return e_id
+    # 1. Immediate match for cleaned strings
+    for original_id in epg_list:
+        if target == super_clean(original_id):
+            return original_id
             
-    # 2. Use Fuzzy Matching to find the closest ID in the list
-    # We look for a score higher than 80 to ensure accuracy
-    match, score = process.extractOne(clean_name, epg_list, scorer=fuzz.token_set_ratio)
+    # 2. Fuzzy fallback
+    match, score = process.extractOne(target, epg_list, scorer=fuzz.token_set_ratio)
     
-    return match if score > 80 else ""
+    return match if score > 75 else ""
 
 def load_epg_database():
+    """Downloads the actual epgshare01 ID list."""
     try:
-        r = requests.get(EPG_DATA_URL, timeout=10)
+        r = requests.get(EPG_DATA_URL, timeout=15)
+        r.raise_for_status()
+        # Filter for valid IDs
         return [l.strip() for l in r.text.splitlines() if l.strip() and not l.startswith("--")]
-    except:
+    except Exception as e:
+        print(f"Error loading EPG list: {e}")
         return []
 
 def check_link(url):
-    headers = {'User-Agent': 'Mozilla/5.0 (VLC)'}
+    """Strict SSL connection check."""
+    headers = {'User-Agent': 'Mozilla/5.0 (VLC; Win64; x64)'}
     try:
-        # verify=False ensures links with expired certificates still show as Online
-        r = requests.get(url, headers=headers, timeout=5, stream=True, verify=False)
+        r = requests.get(url, headers=headers, timeout=5, stream=True)
         return r.status_code < 400
     except:
         return False
 
 def process_channel(name, url, genre, epg_list):
-    is_active = check_link(url)
+    active = check_link(url)
     
-    # Grouping Logic
+    # Rocket Grouping
     if "s.rocketdns.info:8080" in url:
         group = "Rocket"
-    elif not is_active:
+    elif not active:
         group = "Offline"
     else:
         group = genre
 
     return {
         "name": name, "url": url, "group": group, 
-        "active": is_active, "tvg_id": find_smart_match(name, epg_list)
+        "active": active, "tvg_id": find_best_epg_match(name, epg_list)
     }
 
 def main():
-    print("Loading EPG Database...")
+    print(f"Downloading EPG list from {EPG_DATA_URL}...")
     epg_list = load_epg_database()
+    print(f"Loaded {len(epg_list)} EPG IDs.")
     
     try:
         r = requests.get(SOURCE_URL)
+        r.raise_for_status()
         lines = r.text.splitlines()
+        
         channels = []
         current_genre = "General"
 
@@ -90,28 +105,30 @@ def main():
                 name, url = l.split(",", 1)
                 channels.append((name.strip(), url.strip(), current_genre))
 
-        print(f"Syncing {len(channels)} channels...")
+        print(f"Processing {len(channels)} channels...")
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             results = list(executor.map(lambda p: process_channel(*p, epg_list), channels))
 
-        # Write Full M3U
+        # Build M3U
         with open(M3U_FILE, "w", encoding="utf-8") as f:
             f.write(f'#EXTM3U x-tvg-url="{EPG_XML_URL}"\n')
             for res in results:
                 f.write(f'#EXTINF:-1 tvg-id="{res["tvg_id"]}" group-title="{res["group"]}",{res["name"]}\n')
                 f.write(f'{res["url"]}\n')
 
-        # Write Dashboard
+        # Build README Dashboard
         with open(MD_FILE, "w", encoding="utf-8") as f:
-            f.write("# 📺 Channel Status Dashboard\n\n| Status | Channel | Group | EPG ID |\n| :---: | :--- | :--- | :--- |\n")
+            f.write("# 📺 Channel Status Dashboard\n\n")
+            f.write(f"**Last Update:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n")
+            f.write("| Status | Channel | Group | EPG Match |\n| :---: | :--- | :--- | :--- |\n")
             for res in results:
                 icon = "✅" if res["active"] else "❌"
                 f.write(f"| {icon} | {res['name']} | {res['group']} | `{res['tvg_id']}` |\n")
         
-        print("Playlist and Dashboard Updated Successfully.")
+        print("Playlist and Dashboard successfully updated.")
 
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Critical Error: {e}")
 
 if __name__ == "__main__":
     main()
