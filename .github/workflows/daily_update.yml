@@ -11,18 +11,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+
       - name: Install dependencies
-        run: pip install requests thefuzz python-Levenshtein
+        run: pip install requests
+
       - name: Run Update Script
         run: python convert_oly.py
+
       - name: Push Updates
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add playlist.m3u README.md
-          git commit -m "Fixed EPG mapping and status" || echo "No changes"
+          git commit -m "Updated status and fixed EPG mapping logic" || echo "No changes"
           git push
