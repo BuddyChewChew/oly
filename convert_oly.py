@@ -3,7 +3,6 @@ import re
 import urllib3
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
-from thefuzz import process as fuzzy_process
 
 # Suppress SSL warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -11,46 +10,58 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # Configuration
 SOURCE_URL = "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/OLY"
 EPG_XML_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Since you haven't uploaded the .txt to root, I'm fetching it from your known repo
 EPG_DATA_URL = "https://raw.githubusercontent.com/fleung49/star/main/epg_ripper_ALL_SOURCES1.txt"
 
 M3U_FILE = "playlist.m3u"
 MD_FILE = "README.md"
 MAX_WORKERS = 25 
 
-def get_epg_id(channel_name, epg_list):
+def simplify(text):
     """
-    Improved Mapping Logic:
-    1. Extracts Call Sign (KCBS, WABC, etc.)
-    2. Searches EPG list for IDs containing that Call Sign
+    Cleans names for comparison.
+    Example: 'A.and.E.HD.East.us2' -> 'aandehdeast'
+             'A & E HD East' -> 'aandehdeast'
     """
-    # Clean name for searching
-    name_clean = channel_name.upper()
-    
-    # 1. Try to extract Call Sign (4 letters starting with K or W)
-    match = re.search(r'\b([K|W][A-Z]{2,3})\b', name_clean)
-    if match:
-        call_sign = match.group(1)
-        # Look for exact prefix match in EPG list (e.g., "KCBS.us")
-        for epg_id in epg_list:
-            if epg_id.upper().startswith(f"{call_sign}."):
-                return epg_id
+    if not text: return ""
+    text = text.lower()
+    # Remove .us2, .ae, etc. at the end
+    text = re.sub(r'\.[a-z]{2,3}\d?$', '', text)
+    # Remove dots, dashes, parentheses, and spaces
+    text = re.sub(r'[^a-z0-9]', '', text)
+    return text
 
-    # 2. Fallback: Fuzzy match if no call sign found
-    # We strip common suffixes to improve matching
-    stripped_name = re.sub(r'\(.*?\)|-TV|HD|4K', '', name_clean).strip()
-    match, score = fuzzy_process.extractOne(stripped_name, epg_list)
-    if score > 75:
-        return match
-        
+def find_best_match(channel_name, epg_dict):
+    """
+    Compares the simplified channel name against the simplified EPG database.
+    """
+    simple_name = simplify(channel_name)
+    
+    # 1. Look for exact simplified match
+    if simple_name in epg_dict:
+        return epg_dict[simple_name]
+    
+    # 2. Look for Call Sign match (first 4 letters)
+    call_sign = re.search(r'^[k|w][a-z]{2,3}', simple_name)
+    if call_sign:
+        cs = call_sign.group(0)
+        for simple_epg, original_id in epg_dict.items():
+            if simple_epg.startswith(cs):
+                return original_id
+                
     return ""
 
-def load_epg_ids():
+def load_epg_database():
+    """Returns a dictionary mapping {simplified_name: original_id}"""
+    db = {}
     try:
         response = requests.get(EPG_DATA_URL, timeout=10)
-        return [line.strip() for line in response.text.splitlines() if line.strip() and not line.startswith("--")]
+        for line in response.text.splitlines():
+            line = line.strip()
+            if line and not line.startswith("--"):
+                db[simplify(line)] = line
     except:
-        return []
+        pass
+    return db
 
 def check_link(url):
     headers = {'User-Agent': 'Mozilla/5.0 (VLC; Win64; x64)'}
@@ -60,7 +71,7 @@ def check_link(url):
     except:
         return False
 
-def process_channel(name, url, genre, epg_list):
+def process_channel(name, url, genre, epg_db):
     is_active = check_link(url)
     
     # Grouping
@@ -71,8 +82,8 @@ def process_channel(name, url, genre, epg_list):
     else:
         group = genre
 
-    # Smart EPG ID Assignment
-    tvg_id = get_epg_id(name, epg_list)
+    # Match against EPG database
+    tvg_id = find_best_match(name, epg_db)
         
     return {
         "name": name, "url": url, "group": group, 
@@ -80,8 +91,8 @@ def process_channel(name, url, genre, epg_list):
     }
 
 def main():
-    print("Loading EPG database and channel list...")
-    epg_ids = load_epg_ids()
+    print("Building EPG mapping database...")
+    epg_db = load_epg_database()
     
     try:
         response = requests.get(SOURCE_URL)
@@ -102,27 +113,27 @@ def main():
                 channels_to_check.append((name.strip(), url.strip(), current_genre))
 
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            results = list(executor.map(lambda p: process_channel(*p, epg_ids), channels_to_check))
+            results = list(executor.map(lambda p: process_channel(*p, epg_db), channels_to_check))
 
-        # Write M3U
-        m3u_lines = [f'#EXTM3U x-tvg-url="{EPG_XML_URL}"']
+        # Write Files
+        m3u_output = [f'#EXTM3U x-tvg-url="{EPG_XML_URL}"']
+        md_output = ["# 📺 Channel Status Dashboard", f"**Last Sync:** {datetime.now()} UTC\n", 
+                     "| Status | Channel | Group | EPG Match |", "| :---: | :--- | :--- | :--- |"]
+
         for res in results:
-            m3u_lines.append(f'#EXTINF:-1 tvg-id="{res["tvg_id"]}" group-title="{res["group"]}",{res["name"]}')
-            m3u_lines.append(res["url"])
+            m3u_output.append(f'#EXTINF:-1 tvg-id="{res["tvg_id"]}" group-title="{res["group"]}",{res["name"]}')
+            m3u_output.append(res["url"])
             
-        # Write README
-        md_lines = ["# 📺 Channel Status Dashboard", f"**Last Updated:** {datetime.now()} UTC\n", 
-                    "| Status | Channel | Group | EPG Match |", "| :---: | :--- | :--- | :--- |"]
-        for res in results:
             icon = "✅" if res["active"] else "❌"
-            md_lines.append(f"| {icon} | {res['name']} | {res['group']} | `{res['tvg_id']}` |")
+            md_output.append(f"| {icon} | {res['name']} | {res['group']} | `{res['tvg_id']}` |")
 
-        with open(M3U_FILE, "w", encoding="utf-8") as f: f.write("\n".join(m3u_lines))
-        with open(MD_FILE, "w", encoding="utf-8") as f: f.write("\n".join(md_lines))
-        print("Playlist generated with mapped tvg-ids.")
+        with open(M3U_FILE, "w", encoding="utf-8") as f: f.write("\n".join(m3u_output))
+        with open(MD_FILE, "w", encoding="utf-8") as f: f.write("\n".join(md_output))
+        
+        print(f"Success. Playlist updated at {datetime.now()}")
 
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Critical Error: {e}")
 
 if __name__ == "__main__":
     main()
