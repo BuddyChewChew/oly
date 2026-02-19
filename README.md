@@ -1,6 +1,8 @@
 # 📺 Channel Status Dashboard
 
-| Status | Channel | Group | EPG ID |
+**Last Update:** 2026-02-19 00:05:20 UTC
+
+| Status | Channel | Group | EPG Match |
 | :---: | :--- | :--- | :--- |
 | ✅ | KCBS-TV CBS 2 (Los Angeles CA) | Rocket | `` |
 | ✅ | KNBC-TV NBC 4 (Los Angeles CA) | Rocket | `` |
@@ -139,7 +141,7 @@
 | ✅ | KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX) | Rocket | `` |
 | ❌ | KDFW-TV FOX 4 (Ft. Worth/Dallas TX) | Rocket | `` |
 | ✅ | KXAS-TV NBC 5 (Ft. Worth/Dallas TX) | Rocket | `` |
-| ❌ | WFAA-TV ABC 8 (Ft. Worth/Dallas TX) | Rocket | `` |
+| ✅ | WFAA-TV ABC 8 (Ft. Worth/Dallas TX) | Rocket | `` |
 | ✅ | KTVT-TV CBS 11 (Ft. Worth/Dallas TX) | Rocket | `` |
 | ✅ | KTXA-TV Ind. 21 (Ft. Worth/Dallas TX) | Rocket | `` |
 | ✅ | KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX) | Rocket | `` |
@@ -508,49 +510,49 @@
 | ✅ | LocalNow (New Orleans LA) | Local Now | `` |
 | ✅ | ABC 20/20 | News Channels | `` |
 | ✅ | ABC Localish | News Channels | `` |
-| ✅ | ABC News | News Channels | `` |
-| ✅ | Al Jazeera English | News Channels | `` |
-| ✅ | BBC News North America | News Channels | `` |
+| ✅ | ABC News | News Channels | `ABC.News.ch` |
+| ✅ | Al Jazeera English | News Channels | `AlJazeera.English.net` |
+| ✅ | BBC News North America | News Channels | `BBC.News.(North.America).ca2` |
 | ✅ | BEK TV News | News Channels | `` |
-| ✅ | Biz TV | News Channels | `` |
-| ✅ | Bloomberg Originals | News Channels | `` |
+| ✅ | Biz TV | News Channels | `Biz.TV.us2` |
+| ✅ | Bloomberg Originals | News Channels | `DE:.Bloomberg.Originals.be` |
 | ✅ | Bloomberg Politics Live Event | News Channels | `` |
-| ✅ | Bloomberg TV | News Channels | `` |
-| ✅ | Bloomberg TV+ (4K) | News Channels | `` |
+| ✅ | Bloomberg TV | News Channels | `Bloomberg.TV.at` |
+| ✅ | Bloomberg TV+ (4K) | News Channels | `Bloomberg.it` |
 | ✅ | Bloomberg U.S. Live Event | News Channels | `` |
 | ✅ | CBS 48 Hours | News Channels | `` |
 | ✅ | CBS 60 Minutes | News Channels | `` |
 | ✅ | CBS ET (Entertainment Tonight) | News Channels | `` |
 | ✅ | CBS Inside Edition | News Channels | `` |
 | ✅ | CBS News | News Channels | `` |
-| ✅ | CGTN | News Channels | `` |
+| ✅ | CGTN | News Channels | `CGTN.ae` |
 | ✅ | CGTN America | News Channels | `` |
 | ✅ | CGTN World | News Channels | `` |
-| ✅ | Cheddar | News Channels | `` |
-| ✅ | CNBC | Rocket | `` |
-| ❌ | CNBC Europe | Offline | `` |
-| ✅ | CNBC World | Rocket | `` |
-| ✅ | CNN | Rocket | `` |
-| ✅ | CNN Headlines | News Channels | `` |
-| ✅ | CNN International | Rocket | `` |
-| ✅ | CNN Originals | News Channels | `` |
-| ✅ | CNN+ | News Channels | `` |
-| ✅ | C-SPAN | News Channels | `` |
-| ✅ | C-SPAN 2 | Rocket | `` |
-| ✅ | C-SPAN 3 | Rocket | `` |
+| ✅ | Cheddar | News Channels | `Cheddar.us2` |
+| ✅ | CNBC | Rocket | `CNBC.at` |
+| ❌ | CNBC Europe | Offline | `CNBC.Europe.cz` |
+| ✅ | CNBC World | Rocket | `CNBC.World.us2` |
+| ✅ | CNN | Rocket | `CNN.ch` |
+| ✅ | CNN Headlines | News Channels | `en:.CNN.Headlines.ae` |
+| ✅ | CNN International | Rocket | `CNN.International.ae` |
+| ✅ | CNN Originals | News Channels | `NL:.CNA.Originals.be` |
+| ✅ | CNN+ | News Channels | `CNN.ch` |
+| ✅ | C-SPAN | News Channels | `CSPAN.us2` |
+| ✅ | C-SPAN 2 | Rocket | `CSPAN2.us2` |
+| ✅ | C-SPAN 3 | Rocket | `CSPAN3.us2` |
 | ✅ | DW News | News Channels | `` |
-| ❌ | Euronews | Offline | `` |
-| ✅ | FOX Business | Rocket | `` |
-| ✅ | FOX News Channel | Rocket | `` |
+| ❌ | Euronews | Offline | `Euronews.au` |
+| ✅ | FOX Business | Rocket | `Fox.Business.it` |
+| ✅ | FOX News Channel | Rocket | `FOXNewsChannel.au` |
 | ✅ | Free Speech | News Channels | `` |
 | ✅ | HLN (CNN Headline News) | Rocket | `` |
 | ✅ | HollyWire | News Channels | `` |
-| ✅ | i24 News | News Channels | `` |
-| ✅ | InfoWars | News Channels | `` |
+| ✅ | i24 News | News Channels | `i24.News.ch` |
+| ✅ | InfoWars | News Channels | `InfoWars.DUMMY.us` |
 | ✅ | LiveNOW from FOX | News Channels | `` |
 | ✅ | MS NOW | Rocket | `` |
 | ✅ | NBC Dateline 24/7 | News Channels | `` |
-| ✅ | NBC News Now | News Channels | `` |
+| ✅ | NBC News Now | News Channels | `NBCNewsNowHD.uk` |
 | ✅ | News 12 ("Connecticut" Norwalk CT) | News Channels | `` |
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | News Channels | `` |
 | ✅ | News 12 ("New Jersey" Edison NJ) | News Channels | `` |
@@ -564,42 +566,42 @@
 | ✅ | News 12+ ("New Jersey" Edison NJ) | News Channels | `` |
 | ✅ | News 12+ (Long Island NY) | News Channels | `` |
 | ✅ | News 12+ (New York NY) | News Channels | `` |
-| ✅ | News Nation | Rocket | `` |
-| ✅ | Newsmax | News Channels | `` |
-| ✅ | Newsmax 2 | News Channels | `` |
-| ✅ | NewsWorld | News Channels | `` |
-| ✅ | NTD TV News (New Tang Dynasty Television) | News Channels | `` |
+| ✅ | News Nation | Rocket | `News.Nation.in` |
+| ✅ | Newsmax | News Channels | `NEWSMAX.il` |
+| ✅ | Newsmax 2 | News Channels | `plex.tv.Newsmax2.plex` |
+| ✅ | NewsWorld | News Channels | `DE:.NewsWorld.be` |
+| ❌ | NTD TV News (New Tang Dynasty Television) | Offline | `` |
 | ✅ | OAN News (One America News Network) | News Channels | `` |
 | ✅ | OAN Plus | News Channels | `` |
-| ✅ | Real America's Voice | News Channels | `` |
+| ✅ | Real America's Voice | News Channels | `Real.Americas.Voice.us2` |
 | ✅ | Reuters TV | News Channels | `` |
-| ✅ | RT News | News Channels | `` |
-| ✅ | Salem News Channel | News Channels | `` |
-| ✅ | Scripps News | News Channels | `` |
+| ✅ | RT News | News Channels | `ÎÎ¡Î¤.NEWS.gr` |
+| ✅ | Salem News Channel | News Channels | `Salem.News.Channel.us2` |
+| ✅ | Scripps News | News Channels | `Scripps.News.us2` |
 | ✅ | Spectrum News NY1 (New York NY) | Rocket | `` |
-| ✅ | Spectrum News+ | News Channels | `` |
+| ✅ | Spectrum News+ | News Channels | `Spectrum.News+.us2` |
 | ✅ | Spend Smart | News Channels | `` |
 | ✅ | TED Talks | News Channels | `` |
-| ✅ | The First | News Channels | `` |
+| ✅ | The First | News Channels | `The.First.us2` |
 | ❌ | The Hill | Offline | `` |
 | ✅ | The National News Desk | News Channels | `` |
 | ✅ | The Young Turks | News Channels | `` |
 | ✅ | TMZ Live | News Channels | `` |
-| ✅ | TRT World | News Channels | `` |
+| ✅ | TRT World | News Channels | `TRT.World.ae` |
 | ✅ | UN Web TV | News Channels | `` |
 | ✅ | USA Today News | News Channels | `` |
 | ✅ | Yahoo! Finance | News Channels | `` |
-| ✅ | AccuWeather | Weather News | `` |
+| ✅ | AccuWeather | Weather News | `plex.tv.AccuWeather.NOW.plex` |
 | ✅ | FOX Weather | Weather News | `` |
 | ✅ | Sky News Weather | Weather News | `` |
 | ✅ | The Weather Channel | Weather News | `` |
 | ✅ | The Weather Channel+ | Weather News | `` |
 | ✅ | WeatherNation | Weather News | `` |
-| ✅ | Weather Spy | Weather News | `` |
-| ✅ | Create | Local Public Broadcast | `` |
-| ✅ | NHK World | Local Public Broadcast | `` |
-| ✅ | PBS World | Local Public Broadcast | `` |
-| ✅ | FNX | Local Public Broadcast | `` |
+| ✅ | Weather Spy | Weather News | `plex.tv.WeatherSpy.plex` |
+| ✅ | Create | Local Public Broadcast | `Create.us2` |
+| ✅ | NHK World | Local Public Broadcast | `NHK.World.id` |
+| ✅ | PBS World | Local Public Broadcast | `KBS.Worldãéæµå°éãã£ã³ãã«.jp` |
+| ✅ | FNX | Local Public Broadcast | `FNX.First.Nations.Experience.us2` |
 | ✅ | PBS National (West) | Local Public Broadcast | `` |
 | ✅ | PBS National (East) | Local Public Broadcast | `` |
 | ✅ | PBS Retro | Local Public Broadcast | `` |
@@ -663,7 +665,7 @@
 | ✅ | ACTV #1 | Local Public Access | `` |
 | ✅ | ACTV #2 | Local Public Access | `` |
 | ✅ | ACTV #3 | Local Public Access | `` |
-| ❌ | ACTV #4 | Offline | `` |
+| ❌ | ACTV #4 | Offline | `CCTV4.at` |
 | ✅ | Akaku 53 (Maui Hi) | Local Public Access | `` |
 | ✅ | Akaku 54 (Maui Hi) | Local Public Access | `` |
 | ✅ | Akaku 55 (Maui Hi) | Local Public Access | `` |
@@ -781,7 +783,7 @@
 | ✅ | Lompoc TAP TV Channel 23 (Lompoc CA) | Local Public Access | `` |
 | ✅ | Lompoc TAP TV Channel 24 (Lompoc CA) | Local Public Access | `` |
 | ✅ | Lompoc TAP TV Channel 25 (Lompoc CA) | Local Public Access | `` |
-| ❌ | Long Beach Television (Long Beach CA) | Offline | `` |
+| ✅ | Long Beach Television (Long Beach CA) | Local Public Access | `` |
 | ✅ | Manatee Schools Television MSTV (Manatee County FL) | Local Public Access | `` |
 | ❌ | Marin TV Community Channel (San Rafael CA) | Offline | `` |
 | ❌ | Marin TV Educational Channel (San Rafael CA) | Offline | `` |
@@ -809,7 +811,7 @@
 | ✅ | NECAT Network Access Nashville (Nashville TN) | Local Public Access | `` |
 | ✅ | NECAT Network IQTV Education (Nashville TN) | Local Public Access | `` |
 | ✅ | NECAT Network Music City Arts (Nashville TN) | Local Public Access | `` |
-| ❌ | New Canaan Television 79 (NCTV79) (New Canaan CT) | Offline | `` |
+| ✅ | New Canaan Television 79 (NCTV79) (New Canaan CT) | Local Public Access | `` |
 | ❌ | Newington Community Television Channel 14 (Newington CT) | Offline | `` |
 | ❌ | Newington Community Television Channel 16 (Newington CT) | Offline | `` |
 | ✅ | NOTV (New Orleans Television) | Local Public Access | `` |
@@ -847,7 +849,7 @@
 | ✅ | Room 120 (District of Columbia Channel) | Local Public Access | `` |
 | ✅ | Room 123 (District of Columbia Channel) | Local Public Access | `` |
 | ✅ | Room 412 (District of Columbia Channel) | Local Public Access | `` |
-| ✅ | Salem News Channel | Local Public Access | `` |
+| ✅ | Salem News Channel | Local Public Access | `Salem.News.Channel.us2` |
 | ✅ | Santa Maria Community Television Education Channel | Local Public Access | `` |
 | ✅ | Santa Maria Community Television Government Channel | Local Public Access | `` |
 | ✅ | Santa Maria Community Television Public Access Channel | Local Public Access | `` |
@@ -889,25 +891,25 @@
 | ❌ | Wolcott Governmental TV (Wolcott CT) | Offline | `` |
 | ❌ | WPPA-TV (Wallingford CT) | Offline | `` |
 | ✅ | 13Cultura | Latino (Spanish) | `` |
-| ❌ | Canal 1 | Offline | `` |
-| ✅ | Canal 1 Mar Menor-Torre Pacheco | Latino (Spanish) | `` |
+| ❌ | Canal 1 | Offline | `Canal.1.co` |
+| ❌ | Canal 1 Mar Menor-Torre Pacheco | Offline | `` |
 | ✅ | Canal 10 | Latino (Spanish) | `` |
 | ❌ | Canal 10 Cancun (México) | Offline | `` |
 | ❌ | Canal 13 | Offline | `` |
-| ❌ | Canal 14 (México) | Offline | `` |
+| ❌ | Canal 14 (México) | Offline | `Canal.PÃ¡nico.mx` |
 | ❌ | Canal 15 Sabinas | Offline | `` |
-| ❌ | Canal 2 | Offline | `` |
+| ❌ | Canal 2 | Offline | `Canal2.fr` |
 | ✅ | Canal 2 (San Antonio) | Latino (Spanish) | `` |
 | ✅ | Canal 2 Alpavisión Neiva | Latino (Spanish) | `` |
-| ❌ | Canal 2 CR | Offline | `` |
-| ✅ | Canal 2 de Ushuaia | Latino (Spanish) | `` |
+| ❌ | Canal 2 CR | Offline | `Canal2.fr` |
+| ❌ | Canal 2 de Ushuaia | Offline | `` |
 | ✅ | Canal 2 Misiones | Latino (Spanish) | `` |
-| ❌ | Canal 21 | Offline | `` |
+| ❌ | Canal 21 | Offline | `Canal.21.br` |
 | ✅ | Canal 26 Aguascalientes | Latino (Spanish) | `` |
 | ❌ | Canal 28 | Offline | `` |
 | ✅ | Canal 33 Tijuana | Latino (Spanish) | `` |
 | ✅ | Canal 44 Chihuahua (México) | Latino (Spanish) | `` |
-| ✅ | Canal 5 (México) | Latino (Spanish) | `` |
+| ✅ | Canal 5 (México) | Latino (Spanish) | `Canal.PÃ¡nico.mx` |
 | ✅ | Canal 57 | Latino (Spanish) | `` |
 | ✅ | Canal 66 Mexicali | Latino (Spanish) | `` |
 | ❌ | Canal 7.1 (Bolivia) | Offline | `` |
@@ -917,7 +919,7 @@
 | ❌ | Canal del Congreso 45.2 | Offline | `` |
 | ❌ | Canal del Congreso 45.3 | Offline | `` |
 | ✅ | Canal Once.3 Digital (México) | Latino (Spanish) | `` |
-| ✅ | CGTN en Español | Latino (Spanish) | `` |
+| ✅ | CGTN en Español | Latino (Spanish) | `CGTN.EspaÃ±ol.es` |
 | ✅ | KAKW-TV Univision 62 (Austin TX) | Latino (Spanish) | `` |
 | ✅ | KASA-TV Telemundo 2 (Santa Fe NM) | Rocket | `` |
 | ✅ | KBLR-TV Telemundo 39 (Las Vegas NV) | Rocket | `` |
@@ -933,10 +935,10 @@
 | ✅ | KSTS-TV Telemundo 48 (San Francisco CA) | Rocket | `` |
 | ✅ | KTAZ-TV Telemundo 39 (Phoenix AZ) | Rocket | `` |
 | ❌ | KTFD-TV UniMás 50 (Denver CO) | Offline | `` |
-| ❌ | KTFK-DT UniMás 64 (Sacramento CA) | Offline | `` |
+| ✅ | KTFK-DT UniMás 64 (Sacramento CA) | Latino (Spanish) | `` |
 | ✅ | KTMD-TV Telemundo 47 (Houston TX) | Rocket | `` |
 | ✅ | KTMW-TV Telemundo 20 (Salt Lake City UT) | Rocket | `` |
-| ❌ | KTVW-TV Univision 33 (Phoenix AZ) | Offline | `` |
+| ✅ | KTVW-TV Univision 33 (Phoenix AZ) | Latino (Spanish) | `` |
 | ✅ | KUAN-TV Telemundo 20 (San Diego CA) | Rocket | `` |
 | ✅ | KUNA-CD Telemundo 15 (Palm Springs CA) | Latino (Spanish) | `` |
 | ✅ | KUVN-TV Univision 23 (Ft. Worth/Dallas TX) | Latino (Spanish) | `` |
@@ -945,8 +947,8 @@
 | ✅ | KXLN-TV Univision 45 (Houston TX) | Latino (Spanish) | `` |
 | ❌ | KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX) | Rocket | `` |
 | ✅ | Latin Hola TV | Rocket | `` |
-| ✅ | LATV | Latino (Spanish) | `` |
-| ✅ | Mega TV | Rocket | `` |
+| ✅ | LATV | Latino (Spanish) | `plex.tv.LATV.plex` |
+| ✅ | Mega TV | Rocket | `MEGA.TV.in` |
 | ✅ | Multimedios Canal 6 Telediario México (Bajío México) | Latino (Spanish) | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Ciudad Juárez México) | Latino (Spanish) | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Costa Rica México) | Latino (Spanish) | `` |
@@ -974,7 +976,7 @@
 | ✅ | Telemundo Noticias Florida | Latino (Spanish) | `` |
 | ✅ | Telemundo Noticias Noreste | Latino (Spanish) | `` |
 | ✅ | Telemundo Noticias Texas | Latino (Spanish) | `` |
-| ✅ | Telesur | Latino (Spanish) | `` |
+| ✅ | Telesur | Latino (Spanish) | `teleSUR.ch` |
 | ❌ | Tlaxcala Televisión | Offline | `` |
 | ✅ | TLN (TeleLatino) (East) (Canada) | Rocket | `` |
 | ✅ | TLN (TeleLatino) (West) (Canada) | Rocket | `` |
@@ -991,12 +993,12 @@
 | ✅ | TVMás | Latino (Spanish) | `` |
 | ✅ | UniMás (East) | Latino (Spanish) | `` |
 | ✅ | UniMás (West) | Latino (Spanish) | `` |
-| ❌ | Univision (Canada) | Rocket | `` |
+| ❌ | Univision (Canada) | Rocket | `Univision.Canada.ca2` |
 | ✅ | Univision (East) | Latino (Spanish) | `` |
 | ✅ | Univision (West) | Latino (Spanish) | `` |
 | ❌ | WAMI-DT UniMás 69 (Miami FL) | Offline | `` |
 | ✅ | WBGO-TV Univision 66 (Chicago IL) | Latino (Spanish) | `` |
-| ✅ | WDWL-DT1 36 (Bayamon PR) | Latino (Spanish) | `` |
+| ❌ | WDWL-DT1 36 (Bayamon PR) | Offline | `` |
 | ❌ | WECN-TV Único TV | Offline | `` |
 | ✅ | WELU-DT1 CTNi 34 (Puerto Rico) | Latino (Spanish) | `` |
 | ✅ | WFUT-TV/WFTY-DT UniMás 67 (New York NY) | Latino (Spanish) | `` |
@@ -1019,7 +1021,7 @@
 | ✅ | WTMO-TV Telemundo 31 (Orlando FL) | Rocket | `` |
 | ✅ | WUVG-DT UniMás 34.2 (Atlanta GA) | Rocket | `` |
 | ✅ | WUVG-TV Univision 34.1 (Atlanta GA) | Latino (Spanish) | `` |
-| ❌ | WUVP-TV Univision 65 (Philadelphia PA) | Offline | `` |
+| ✅ | WUVP-TV Univision 65 (Philadelphia PA) | Latino (Spanish) | `` |
 | ✅ | WWSI-TV Telemundo 62 (Philadelphia PA) | Rocket | `` |
 | ✅ | WWXY-DT 19.3 (San Juan PR) | Latino (Spanish) | `` |
 | ✅ | WWXY-TV Ind. 19.1 (San Juan PR) | Latino (Spanish) | `` |
@@ -1031,66 +1033,66 @@
 | ❌ | 4K Travel | Offline | `` |
 | ✅ | AHC (American Heroes Channel) | Rocket | `` |
 | ✅ | AKC TV | Documentary | `` |
-| ✅ | Animal Planet (East) | Rocket | `` |
-| ✅ | Animal Planet (West) | Rocket | `` |
-| ❌ | BarkTV | Offline | `` |
-| ✅ | BBC Earth | Documentary | `` |
+| ✅ | Animal Planet (East) | Rocket | `AnimalPlanet.au` |
+| ✅ | Animal Planet (West) | Rocket | `AnimalPlanet.au` |
+| ❌ | BarkTV | Offline | `BarkTV.distro` |
+| ✅ | BBC Earth | Documentary | `BBCEarth.au` |
 | ✅ | BBC Travel | Documentary | `` |
-| ✅ | CGTN Documentary | Documentary | `` |
-| ✅ | Choppertown | Documentary | `` |
-| ✅ | Court TV | Documentary | `` |
-| ✅ | Court TV Legendary Trials | Documentary | `` |
-| ✅ | Crime & Investigation | Rocket | `` |
-| ❌ | Curiosity Stream | Offline | `` |
+| ✅ | CGTN Documentary | Documentary | `CGTNDocumentary.au` |
+| ✅ | Choppertown | Documentary | `ChopperTown.distro` |
+| ✅ | Court TV | Documentary | `Court.TV.uk` |
+| ✅ | Court TV Legendary Trials | Documentary | `plex.tv.Court.TV.Legendary.Trials.plex` |
+| ✅ | Crime & Investigation | Rocket | `Crime.+.Investigation.at` |
+| ❌ | Curiosity Stream | Offline | `CuriosityStream.us2` |
 | ✅ | Destination America | Rocket | `` |
-| ✅ | Discovery Channel (East) | Rocket | `` |
-| ✅ | Discovery Channel (West) | Rocket | `` |
-| ✅ | Discovery Life | Rocket | `` |
-| ✅ | Discovery Science | Rocket | `` |
-| ✅ | Discovery Turbo TV | Documentary | `` |
-| ✅ | DOC+ | Documentary | `` |
-| ✅ | Documentary+ | Documentary | `` |
-| ✅ | DogTV | Documentary | `` |
-| ✅ | EarthXtra | Documentary | `` |
+| ✅ | Discovery Channel (East) | Rocket | `DiscoveryChannel.au` |
+| ✅ | Discovery Channel (West) | Rocket | `DiscoveryChannel.au` |
+| ✅ | Discovery Life | Rocket | `Discovery.Life.pl` |
+| ✅ | Discovery Science | Rocket | `Discovery.Science.br` |
+| ✅ | Discovery Turbo TV | Documentary | `DiscoveryTurbo.au` |
+| ✅ | DOC+ | Documentary | `RT.Doc.cy` |
+| ✅ | Documentary+ | Documentary | `Al.Jazeera.Documentary.HD.ae` |
+| ✅ | DogTV | Documentary | `DOGTV.pt` |
+| ✅ | EarthXtra | Documentary | `plex.tv.EarthXtra.plex` |
 | ✅ | FilmRise Fprensic Files | Documentary | `` |
 | ✅ | FilmRise Untold Stories of the ER | Documentary | `` |
-| ✅ | Go USA | Documentary | `` |
-| ✅ | Haunt TV | Documentary | `` |
-| ✅ | History Channel | Rocket | `` |
-| ✅ | History Hit | Documentary | `` |
-| ✅ | ID (Investigation Discovery) (East) | Documentary | `` |
-| ✅ | ID (Investigation Discovery) (West) | Rocket | `` |
-| ✅ | Investigation | Documentary | `` |
+| ✅ | Go USA | Documentary | `plex.tv.GoUSA.TV.plex` |
+| ✅ | Haunt TV | Documentary | `HauntTV.au` |
+| ✅ | History Channel | Rocket | `History.Channel.br` |
+| ✅ | History Hit | Documentary | `History.it` |
+| ✅ | ID (Investigation Discovery) (East) | Documentary | `InvestigationDiscovery.au` |
+| ✅ | ID (Investigation Discovery) (West) | Rocket | `InvestigationDiscovery.au` |
+| ✅ | Investigation | Documentary | `Crime.+.Investigation.at` |
 | ✅ | Justice Central TV | Rocket | `` |
 | ❌ | Law & Crime | Offline | `` |
-| ✅ | Love & Nature | Documentary | `` |
+| ✅ | Love & Nature | Documentary | `LoveNature.au` |
 | ✅ | Meateater | Documentary | `` |
 | ✅ | Military History | Rocket | `` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Documentary | `` |
-| ❌ | NASA | Offline | `` |
-| ✅ | Nat Geo Wild | Rocket | `` |
+| ❌ | NASA | Offline | `NASA.TV.cz` |
+| ✅ | Nat Geo Wild | Rocket | `Nat.Geo.Wild.bg` |
 | ✅ | National Geographic (East) | Rocket | `` |
 | ✅ | National Geographic (West) | Rocket | `` |
-| ✅ | NBC American Crimes | Documentary | `` |
+| ✅ | NBC American Crimes | Documentary | `American.Crimes.us2` |
 | ✅ | Outside TV | Rocket | `` |
 | ✅ | Outside TV+ | Documentary | `` |
 | ✅ | Oxygen True Crime (East) | Rocket | `` |
 | ✅ | Oxygen True Crime (West) | Rocket | `` |
 | ✅ | PBS Genealogy | Documentary | `` |
-| ✅ | PBS History | Documentary | `` |
+| ✅ | PBS History | Documentary | `History.bg` |
 | ✅ | PBS Nature | Documentary | `` |
 | ✅ | PBS Science | Documentary | `` |
 | ✅ | Pluto TV History | Documentary | `` |
-| ✅ | Pursuit Channel | Documentary | `` |
+| ✅ | Pursuit Channel | Documentary | `Pursuit.Channel.us2` |
 | ✅ | REELZ (East) | Documentary | `` |
 | ❌ | REELZ (West) | Offline | `` |
 | ✅ | REELZ Famous and Infamous | Documentary | `` |
 | ✅ | Rovr Pets | Documentary | `` |
-| ✅ | Taste Made Travel | Documentary | `` |
+| ✅ | Taste Made Travel | Documentary | `Tastemade.Travel.us2` |
 | ✅ | The Real Disaster Channel | Documentary | `` |
 | ✅ | Total Crime | Documentary | `` |
-| ✅ | Travel Channel (East) | Rocket | `` |
-| ✅ | Travel Channel (West) | Rocket | `` |
+| ✅ | Travel Channel (East) | Rocket | `TravelChannel.au` |
+| ✅ | Travel Channel (West) | Rocket | `TravelChannel.au` |
 | ✅ | True Crime Network+ | Documentary | `` |
 | ❌ | True History | Offline | `` |
 | ✅ | truTV (East) | Rocket | `` |
@@ -1099,18 +1101,18 @@
 | ✅ | truTV+ (West) | Documentary | `` |
 | ✅ | TVS Hollywood History | Documentary | `` |
 | ✅ | WatchMojo | Documentary | `` |
-| ✅ | Wild Earth | Documentary | `` |
+| ✅ | Wild Earth | Documentary | `Wild.Earth.in` |
 | ✅ | Xplore #1 | Documentary | `` |
 | ✅ | Xplore #2 | Documentary | `` |
 | ✅ | Xumo Crime | Documentary | `` |
 | ✅ | Baby Einstein | Children Channels | `` |
-| ✅ | Baby First | Rocket | `` |
-| ✅ | Boomerang by Cartoon Network | Rocket | `` |
+| ✅ | Baby First | Rocket | `Babyfirst.hu` |
+| ✅ | Boomerang by Cartoon Network | Rocket | `Cartoonito./Boomerang.(RS).rs` |
 | ✅ | Brat TV | Children Channels | `` |
-| ✅ | Cartoon Classics | Children Channels | `` |
-| ❌ | CN (Cartoon Network) (East) | Offline | `` |
-| ✅ | CN (Cartoon Network) (West) | Rocket | `` |
-| ✅ | Discovery Family | Rocket | `` |
+| ✅ | Cartoon Classics | Children Channels | `DK:.Cartoon.Classics.be` |
+| ❌ | CN (Cartoon Network) (East) | Offline | `Cartoon.Network.th` |
+| ✅ | CN (Cartoon Network) (West) | Rocket | `Cartoon.Network.th` |
+| ✅ | Discovery Family | Rocket | `Discovery.Family.HD.ke` |
 | ✅ | Disney Channel (East) | Rocket | `` |
 | ✅ | Disney Channel (West) | Rocket | `` |
 | ✅ | Disney Jr. (East) | Rocket | `` |
@@ -1121,19 +1123,19 @@
 | ✅ | FreeForm (West) | Rocket | `` |
 | ✅ | Go-Go Gadget (Pluto TV) | Children Channels | `` |
 | ✅ | Kartoon Channel | Children Channels | `` |
-| ✅ | Kids Net | Children Channels | `` |
-| ✅ | Kids TV | Children Channels | `` |
-| ✅ | MeTV Toons | Rocket | `` |
+| ✅ | Kids Net | Children Channels | `Net..id` |
+| ✅ | Kids TV | Children Channels | `Kids.TV.id` |
+| ✅ | MeTV Toons | Rocket | `MeTV.Toons.us2` |
 | ✅ | Nick (Pluto TV) | Children Channels | `` |
 | ✅ | Nick Jr. (East) | Rocket | `` |
 | ✅ | Nick Jr. (Pluto TV) | Children Channels | `` |
 | ✅ | Nick Jr. (West) | Rocket | `` |
-| ✅ | Nick Music | Rocket | `` |
-| ✅ | Nickelodeon (East) | Rocket | `` |
-| ✅ | Nickelodeon (West) | Rocket | `` |
+| ✅ | Nick Music | Rocket | `Nick.Music.dk` |
+| ✅ | Nickelodeon (East) | Rocket | `NICKELODEON.(Nickelodeon).pe` |
+| ✅ | Nickelodeon (West) | Rocket | `NICKELODEON.(Nickelodeon).pe` |
 | ✅ | Nickelodeon 90's Kids (Pluto TV) | Children Channels | `` |
 | ✅ | Nickelodeon 90's Kids 2 (Pluto TV) | Children Channels | `` |
-| ✅ | Nicktoons | Rocket | `` |
+| ❌ | Nicktoons | Rocket | `Nicktoons.at` |
 | ✅ | PBS Kids (Alaska) | Children Channels | `` |
 | ✅ | PBS Kids (Eastern) | Children Channels | `` |
 | ✅ | PBS Kids (Hawaii) | Children Channels | `` |
@@ -1141,13 +1143,13 @@
 | ✅ | PBS Kids (Pacific) | Children Channels | `` |
 | ✅ | PBS Kids (Rocky Mountain) | Children Channels | `` |
 | ❌ | Q Toons | Offline | `` |
-| ✅ | RetroCrush | Children Channels | `` |
+| ✅ | RetroCrush | Children Channels | `plex.tv.RetroCrush.plex` |
 | ✅ | TeenNick (East) | Rocket | `` |
 | ✅ | TeenNick (West) | Rocket | `` |
 | ✅ | The Lego Channel | Children Channels | `` |
 | ✅ | Toonami Aftermath (East) | Children Channels | `` |
 | ✅ | Toonami Aftermath (West) | Children Channels | `` |
-| ✅ | ToonOvation | Children Channels | `` |
+| ✅ | ToonOvation | Children Channels | `ToonOvation.distro` |
 | ✅ | Toons Goggles | Children Channels | `` |
 | ✅ | Watch Mojo | Children Channels | `` |
 | ✅ | 30A Ridiculous TV | Comedy | `` |
@@ -1157,16 +1159,16 @@
 | ❌ | AFV Family | Offline | `` |
 | ✅ | Always Funny | Comedy | `` |
 | ❌ | Always Funny Pranks and Fail | Offline | `` |
-| ✅ | Animation+ | Comedy | `` |
+| ✅ | Animation+ | Comedy | `Sky.Animation.HD.ie` |
 | ✅ | BBC Comedy | Comedy | `` |
-| ✅ | Comedy Central (East) | Rocket | `` |
-| ✅ | Comedy Central (Pluto TV) | Comedy | `` |
-| ✅ | Comedy Central (West) | Rocket | `` |
+| ✅ | Comedy Central (East) | Rocket | `ComedyCentral.uk` |
+| ✅ | Comedy Central (Pluto TV) | Comedy | `ComedyCentral.uk` |
+| ✅ | Comedy Central (West) | Rocket | `ComedyCentral.uk` |
 | ✅ | Comedy Central Animation (Pluto TV) | Comedy | `` |
-| ❌ | Comedy Dynamics | Offline | `` |
-| ✅ | Comedy.tv | Rocket | `` |
-| ✅ | Comedy+ | Comedy | `` |
-| ✅ | FailArmy | Comedy | `` |
+| ❌ | Comedy Dynamics | Offline | `plex.tv.Comedy.Dynamics.plex` |
+| ✅ | Comedy.tv | Rocket | `Comedy.au` |
+| ✅ | Comedy+ | Comedy | `Comedy.au` |
+| ✅ | FailArmy | Comedy | `FailArmy.au` |
 | ✅ | FilmRise Comedy | Comedy | `` |
 | ✅ | Free Comedy Network | Comedy | `` |
 | ✅ | Funny AF | Comedy | `` |
@@ -1177,7 +1179,7 @@
 | ✅ | Just for Laughs TV | Comedy | `` |
 | ✅ | Kevin Hart’s LOL! Network | Comedy | `` |
 | ✅ | More TV Sitcoms | Comedy | `` |
-| ✅ | NBC Comedy Vault | Comedy | `` |
+| ✅ | NBC Comedy Vault | Comedy | `NBC.Comedy.Vault.us2` |
 | ✅ | Pluto Classic TV Comedy | Comedy | `` |
 | ✅ | Pluto TV Comedy | Comedy | `` |
 | ❌ | Pluto TV Pranks | Offline | `` |
@@ -1188,34 +1190,34 @@
 | ✅ | TVS Flashback Network | Comedy | `` |
 | ❌ | WITZ Comedy TV | Offline | `` |
 | ✅ | Xumo Free Comedy TV | Comedy | `` |
-| ✅ | Food Network (West) | Rocket | `` |
-| ✅ | Food Network (East) | Rocket | `` |
+| ✅ | Food Network (West) | Rocket | `FOOD.NETWORK.(Food.Network).pe` |
+| ✅ | Food Network (East) | Rocket | `FOOD.NETWORK.(Food.Network).pe` |
 | ✅ | Cooking Channel | Rocket | `` |
-| ✅ | Recipe.tv | Rocket | `` |
-| ✅ | Gusto TV | Cooking | `` |
+| ✅ | Recipe.tv | Rocket | `Recipe.TV.HD.us2` |
+| ✅ | Gusto TV | Cooking | `GustoTV.au` |
 | ✅ | Bon Appétit | Cooking | `` |
 | ✅ | PBS Food | Cooking | `` |
-| ✅ | BBC Food | Cooking | `` |
+| ✅ | BBC Food | Cooking | `BBC.Food.es` |
 | ✅ | Cook's Country Channel | Cooking | `` |
-| ✅ | Taste Made | Cooking | `` |
+| ✅ | Taste Made | Cooking | `Tastemade.us2` |
 | ❌ | Chef Roc Show | Offline | `` |
 | ✅ | America's Test Kitchen | Cooking | `` |
 | ✅ | 80's Sitcom Flashback | Network Channels | `` |
-| ❌ | A&E (Arts & Entertainment) | Offline | `` |
-| ✅ | Ace TV | Network Channels | `` |
-| ✅ | Afro | Rocket | `` |
+| ❌ | A&E (Arts & Entertainment) | Offline | `E!.Entertainment.cz` |
+| ✅ | Ace TV | Network Channels | `ACE.TV.us2` |
+| ✅ | Afro | Rocket | `AFRO.Music.English.ke` |
 | ✅ | Afroland | Network Channels | `` |
 | ✅ | AMC (American Movie Classics) (East) | Rocket | `` |
 | ✅ | AMC (American Movie Classics) (West) | Rocket | `` |
 | ✅ | AMC Thriller | Network Channels | `` |
-| ✅ | AMC+ | Network Channels | `` |
-| ✅ | Antenna TV | Rocket | `` |
-| ✅ | Aspire | Rocket | `` |
-| ✅ | AWE | Network Channels | `` |
+| ✅ | AMC+ | Network Channels | `AMC.bg` |
+| ✅ | Antenna TV | Rocket | `Antenna.TV.us2` |
+| ✅ | Aspire | Rocket | `ASPiRE.HD.us2` |
+| ✅ | AWE | Network Channels | `AWE.ae` |
 | ✅ | AWE Encore | Network Channels | `` |
-| ✅ | AXS-TV | Rocket | `` |
+| ✅ | AXS-TV | Rocket | `AXS.TV.us2` |
 | ✅ | AXS-TV Now | Network Channels | `` |
-| ✅ | Backstage | Network Channels | `` |
+| ✅ | Backstage | Network Channels | `plex.tv.BACKSTAGE.plex` |
 | ✅ | BBC America | Rocket | `` |
 | ✅ | BBC Game Shows | Network Channels | `` |
 | ✅ | BBC Sci-Fi | Network Channels | `` |
@@ -1225,50 +1227,50 @@
 | ✅ | BET (Pluto TV) | Network Channels | `` |
 | ✅ | BET (West) | Rocket | `` |
 | ✅ | BET Classics (Pluto TV) | Network Channels | `` |
-| ✅ | BET Gospel | Rocket | `` |
+| ✅ | BET Gospel | Rocket | `BET.GOSPEL.us2` |
 | ✅ | BET Her (East) | Rocket | `` |
 | ✅ | BET Her (West) | Rocket | `` |
-| ✅ | BET Jams | Rocket | `` |
-| ✅ | BET Soul | Network Channels | `` |
+| ✅ | BET Jams | Rocket | `BET.Jams.us2` |
+| ✅ | BET Soul | Network Channels | `BET.Soul.us2` |
 | ✅ | BET Throwbacks (Pluto TV) | Network Channels | `` |
-| ✅ | Bounce TV | Rocket | `` |
+| ✅ | Bounce TV | Rocket | `Bounce.TV.us2` |
 | ✅ | Bounce XL | Network Channels | `` |
 | ✅ | Bravo (East) | Rocket | `` |
 | ✅ | Bravo (West) | Rocket | `` |
-| ✅ | Buzzr | Network Channels | `` |
+| ✅ | Buzzr | Network Channels | `plex.tv.BUZZR.plex` |
 | ✅ | Buzzr (Alt) | Network Channels | `` |
-| ✅ | Cars.tv | Rocket | `` |
-| ✅ | Catchy Comedy | Rocket | `` |
-| ✅ | Charge! | Network Channels | `` |
-| ✅ | Circle Country | Network Channels | `` |
+| ✅ | Cars.tv | Rocket | `Cars.&amp;.Stars.TV.cz` |
+| ✅ | Catchy Comedy | Rocket | `Catchy.Comedy.us2` |
+| ✅ | Charge! | Network Channels | `CHARGE!.us2` |
+| ✅ | Circle Country | Network Channels | `Circle.Country.us2` |
 | ✅ | Classic Arts Showcase | Network Channels | `` |
 | ✅ | Cleo TV | Rocket | `` |
 | ✅ | Cloudflare TV | Network Channels | `` |
-| ✅ | CMT (Country Music Television) (East) | Rocket | `` |
-| ✅ | CMT (Country Music Television) (West) | Rocket | `` |
+| ✅ | CMT (Country Music Television) (East) | Rocket | `Country.Music.Television.(CMT).ca2` |
+| ✅ | CMT (Country Music Television) (West) | Rocket | `Country.Music.Television.(CMT).ca2` |
 | ✅ | CMT Equal Music (Pluto TV) | Network Channels | `` |
-| ✅ | Comet | Network Channels | `` |
+| ✅ | Comet | Network Channels | `Comet.us2` |
 | ✅ | Confess by Nosey | Network Channels | `` |
-| ✅ | COZI TV | Rocket | `` |
+| ✅ | COZI TV | Rocket | `COZI.TV.us2` |
 | ✅ | Crime Beat TV | Network Channels | `` |
 | ✅ | Crime Thriller | Network Channels | `` |
 | ✅ | CW Forever | Network Channels | `` |
 | ✅ | CW Gold | Network Channels | `` |
-| ✅ | DABL | Rocket | `` |
+| ✅ | DABL | Rocket | `Dabl.us2` |
 | ✅ | Dove Channel | Network Channels | `` |
 | ✅ | Dr. Phil's Merit TV (Merit Street) | Network Channels | `` |
-| ✅ | E! (Entertainment Television) (East) | Rocket | `` |
-| ✅ | E! (Entertainment Television) (West) | Rocket | `` |
+| ✅ | E! (Entertainment Television) (East) | Rocket | `E!.Entertainment.Television.br` |
+| ✅ | E! (Entertainment Television) (West) | Rocket | `E!.Entertainment.Television.br` |
 | ✅ | Ebony TV by Lionsgate | Network Channels | `` |
 | ✅ | El Rey Rebel | Network Channels | `` |
-| ✅ | Farscape | Network Channels | `` |
-| ❌ | Fashion TV | Offline | `` |
-| ✅ | fetv (Family Entertainment Television) | Rocket | `` |
+| ✅ | Farscape | Network Channels | `plex.tv.Farscape.plex` |
+| ❌ | Fashion TV | Offline | `FashionTV.au` |
+| ✅ | fetv (Family Entertainment Television) | Rocket | `E!.Entertainment.Television.br` |
 | ✅ | FMC (Family Movie Classics) | Rocket | `` |
 | ✅ | FOX Soul | Network Channels | `` |
 | ✅ | Free Western Network | Network Channels | `` |
 | ❌ | FreeTV Fantasy | Offline | `` |
-| ✅ | Fuse | Rocket | `` |
+| ✅ | Fuse | Rocket | `Super.Channel.Fuse.ca2` |
 | ✅ | FX (East) | Rocket | `` |
 | ✅ | FX (West) | Rocket | `` |
 | ✅ | FXM (FOX Movie Channel) | Rocket | `` |
@@ -1291,58 +1293,58 @@
 | ✅ | H&I (Heroes & Icons) | Rocket | `` |
 | ✅ | Hallmark Channel (East) | Rocket | `` |
 | ✅ | Hallmark Channel (West) | Rocket | `` |
-| ✅ | Hallmark Family | Rocket | `` |
+| ✅ | Hallmark Family | Rocket | `Hallmark.Family.us2` |
 | ✅ | Hallmark Movies & More | Network Channels | `` |
-| ✅ | Hallmark Mystery (East) | Rocket | `` |
-| ✅ | Hallmark Mystery (West) | Rocket | `` |
+| ✅ | Hallmark Mystery (East) | Rocket | `Hallmark.Mystery.HD.us2` |
+| ✅ | Hallmark Mystery (West) | Rocket | `Hallmark.Mystery.HD.us2` |
 | ✅ | HerSphere by Lionsgate | Network Channels | `` |
 | ✅ | HGTV (Home and Garden Television) (East) | Rocket | `` |
 | ✅ | HGTV (Home and Garden Television) (West) | Rocket | `` |
 | ✅ | Holiday Plus | Network Channels | `` |
-| ✅ | Hunter | Network Channels | `` |
+| ✅ | Hunter | Network Channels | `plex.tv.Dog.the.Bounty.Hunter.plex` |
 | ✅ | IFC (Independent Film Channel) | Rocket | `` |
-| ✅ | INSP | Network Channels | `` |
-| ✅ | ION | Network Channels | `` |
-| ✅ | ION Mystery | Network Channels | `` |
+| ✅ | INSP | Network Channels | `INSP.HD.us2` |
+| ✅ | ION | Network Channels | `plex.tv.Ion.Mystery.plex` |
+| ✅ | ION Mystery | Network Channels | `ION.Mystery.us2` |
 | ✅ | ION Plus | Network Channels | `` |
 | ✅ | Judge Nosey | Network Channels | `` |
-| ✅ | Laff | Rocket | `` |
+| ✅ | Laff | Rocket | `Laff.us2` |
 | ✅ | Laff More! | Network Channels | `` |
-| ✅ | LifeTime (East) | Rocket | `` |
-| ✅ | LifeTime (West) | Rocket | `` |
+| ✅ | LifeTime (East) | Rocket | `LIFETIME.(Lifetime).pe` |
+| ✅ | LifeTime (West) | Rocket | `LIFETIME.(Lifetime).pe` |
 | ✅ | Lifetime Movie Favorites | Network Channels | `` |
 | ✅ | Lifetime Movies Love & Drama | Network Channels | `` |
 | ✅ | LMN (LifeTime Movie Network) | Rocket | `` |
 | ✅ | Lone Star | Network Channels | `` |
-| ❌ | LRW (LifeTime Real Women) | Offline | `` |
+| ❌ | LRW (LifeTime Real Women) | Offline | `Lifetime.Real.Women.us2` |
 | ✅ | Made In Hollywood by Movie Fone | Network Channels | `` |
-| ✅ | Magnolia Network | Rocket | `` |
+| ✅ | Magnolia Network | Rocket | `Magnolia.Network.ca2` |
 | ✅ | Maverick Black Cinema | Network Channels | `` |
 | ❌ | Mediacorp Entertainment | Offline | `` |
 | ❌ | MeTV (East) | Offline | `` |
 | ✅ | MeTV (West) | Rocket | `` |
-| ✅ | MeTV+ | Rocket | `` |
+| ✅ | MeTV+ | Rocket | `MeTV.Plus.us2` |
 | ✅ | Midnight Pulp | Network Channels | `` |
-| ✅ | Movies! | Network Channels | `` |
-| ✅ | MT (Motor Trend) | Rocket | `` |
+| ✅ | Movies! | Network Channels | `Movies!.us2` |
+| ✅ | MT (Motor Trend) | Rocket | `Motor.Trend.it` |
 | ✅ | MTV (East) | Rocket | `` |
 | ✅ | MTV (Pluto TV) | Network Channels | `` |
 | ✅ | MTV (West) | Rocket | `` |
 | ✅ | MTV 2 (East) | Rocket | `` |
 | ✅ | MTV 2 (West) | Rocket | `` |
 | ✅ | MTV Classic (West) | Rocket | `` |
-| ❌ | MTV Live | Offline | `` |
+| ❌ | MTV Live | Offline | `MTV.Live.co` |
 | ✅ | MTV Yo! (Pluto) | Network Channels | `` |
 | ✅ | MyTime Movie Network | Network Channels | `` |
 | ✅ | NBC LX Home | Network Channels | `` |
 | ✅ | Non-Stop 90's | Network Channels | `` |
-| ✅ | Nosey | Network Channels | `` |
+| ✅ | Nosey | Network Channels | `Nosey.au` |
 | ✅ | Nosey (Alt) | Network Channels | `` |
 | ✅ | NOST (The Nostalgia Network) | Network Channels | `` |
-| ✅ | ONTV4U | Network Channels | `` |
+| ✅ | ONTV4U | Network Channels | `ONTV4U.distro` |
 | ✅ | OuterSphere by Lionsgate | Network Channels | `` |
 | ✅ | OUTtv Proud | Network Channels | `` |
-| ✅ | Ovation | Network Channels | `` |
+| ✅ | Ovation | Network Channels | `Ovation.HD.us2` |
 | ✅ | OWN (Oprah Winfrey Network) (East) | Rocket | `` |
 | ✅ | OWN (Oprah Winfrey Network) (West) | Rocket | `` |
 | ✅ | Paramount Movie Channel (Pluto TV) | Network Channels | `` |
@@ -1353,24 +1355,24 @@
 | ✅ | Pluto Classic TV Family | Network Channels | `` |
 | ✅ | Pop TV (East) | Rocket | `` |
 | ✅ | Pop TV (West) | Rocket | `` |
-| ✅ | Power Nation | Network Channels | `` |
+| ✅ | Power Nation | Network Channels | `POWERNATION.us` |
 | ❌ | Reel Life | Offline | `` |
-| ✅ | Revolt | Rocket | `` |
-| ✅ | Rewind TV | Rocket | `` |
-| ✅ | Roar | Network Channels | `` |
-| ✅ | Shades of Black | Network Channels | `` |
-| ✅ | Shorts TV | Rocket | `` |
+| ✅ | Revolt | Rocket | `Revolt.HD.us2` |
+| ✅ | Rewind TV | Rocket | `Rewind.TV.us2` |
+| ✅ | Roar | Network Channels | `ROAR.TV.us2` |
+| ✅ | Shades of Black | Network Channels | `Shades.of.Black.us2` |
+| ✅ | Shorts TV | Rocket | `ShortsTV.nl` |
 | ✅ | Smart Lifestyle TV | Network Channels | `` |
 | ✅ | Smithsonian Channel (East) | Network Channels | `` |
 | ✅ | Smithsonian Channel (Pluto) | Network Channels | `` |
 | ✅ | Smithsonian Channel (West) | Rocket | `` |
 | ✅ | Spike (Pluto TV) | Network Channels | `` |
-| ✅ | Start TV | Rocket | `` |
-| ✅ | Story Television | Rocket | `` |
-| ✅ | SundanceTV | Rocket | `` |
+| ✅ | Start TV | Rocket | `STAR.TV.tr` |
+| ✅ | Story Television | Rocket | `ÎÎ¡Î¤.TELEVISION.gr` |
+| ✅ | SundanceTV | Rocket | `Sundance.TV.cz` |
 | ✅ | SYFY (East) | Rocket | `` |
 | ✅ | SYFY (West) | Rocket | `` |
-| ✅ | Taste Made Home | Network Channels | `` |
+| ✅ | Taste Made Home | Network Channels | `Tastemade.Home.us2` |
 | ✅ | TBS (East) | Rocket | `` |
 | ✅ | TBS (West) | Rocket | `` |
 | ✅ | TBS+ (East) | Network Channels | `` |
@@ -1378,12 +1380,12 @@
 | ✅ | TCM (Turner Classic Movies) | Rocket | `` |
 | ✅ | TCM+ (East) | Network Channels | `` |
 | ✅ | TCM+ (West) | Network Channels | `` |
-| ✅ | The Africa Channel | Rocket | `` |
+| ✅ | The Africa Channel | Rocket | `The.Africa.Channel.us2` |
 | ✅ | The BLK Effect | Network Channels | `` |
-| ✅ | The Cowboy Channel | Rocket | `` |
+| ✅ | The Cowboy Channel | Rocket | `The.Cowboy.Channel.us2` |
 | ✅ | The Cowboy Channel (Alt) | Network Channels | `` |
 | ✅ | The Design Network | Network Channels | `` |
-| ✅ | The Nest | Network Channels | `` |
+| ✅ | The Nest | Network Channels | `The.Nest.us2` |
 | ✅ | The Walk Network | Network Channels | `` |
 | ✅ | theGrio | Rocket | `` |
 | ✅ | theGrio+ | Network Channels | `` |
@@ -1395,33 +1397,33 @@
 | ✅ | TNT+ (West) | Network Channels | `` |
 | ✅ | TV Land (East) | Rocket | `` |
 | ✅ | TV Land (West) | Rocket | `` |
-| ✅ | TV One | Rocket | `` |
+| ✅ | TV One | Rocket | `TV.One.id` |
 | ✅ | TVS Today Home Entertainment | Network Channels | `` |
 | ✅ | TVS Western Movie | Network Channels | `` |
-| ✅ | Universal Action | Network Channels | `` |
-| ✅ | Universal Crime | Network Channels | `` |
-| ✅ | Universal Monsters | Network Channels | `` |
-| ✅ | Universal Westerns | Network Channels | `` |
-| ✅ | UpTV | Rocket | `` |
+| ✅ | Universal Action | Network Channels | `Universal.Action.us2` |
+| ✅ | Universal Crime | Network Channels | `Universal.Crime.us2` |
+| ✅ | Universal Monsters | Network Channels | `Universal.Monsters.us2` |
+| ✅ | Universal Westerns | Network Channels | `Universal.Westerns.us2` |
+| ✅ | UpTV | Rocket | `UPtv.us2` |
 | ✅ | USA Network (East) | Rocket | `` |
 | ✅ | USA Network (West) | Rocket | `` |
 | ✅ | VH1 (East) | Rocket | `` |
-| ❌ | VH1 (West) | Rocket | `` |
-| ✅ | Vice | Rocket | `` |
+| ✅ | VH1 (West) | Rocket | `` |
+| ✅ | Vice | Rocket | `Vice.us2` |
 | ✅ | Vice News | Network Channels | `` |
 | ✅ | WE Absolute Reality | Network Channels | `` |
-| ✅ | WE TV (Women Entertainment Television) | Rocket | `` |
+| ✅ | WE TV (Women Entertainment Television) | Rocket | `E!.Entertainment.Television.br` |
 | ✅ | Wild West TV | Network Channels | `` |
 | ✅ | WPS TV | Network Channels | `` |
 | ✅ | YouToo America | Network Channels | `` |
 | ❌ | America's Auction Channel (AACTV) | Offline | `` |
 | ✅ | HSN (Home Shopping Network) (West) | Shopping | `` |
 | ✅ | HSN (Home Shopping Network) (East) | Shopping | `` |
-| ✅ | HSN 2 | Shopping | `` |
+| ✅ | HSN 2 | Shopping | `HSN2.us2` |
 | ✅ | QVC (West) | Shopping | `` |
 | ✅ | QVC (East) | Shopping | `` |
-| ✅ | QVC 2 | Shopping | `` |
-| ✅ | QVC 3 | Shopping | `` |
+| ✅ | QVC 2 | Shopping | `QVC2.de` |
+| ✅ | QVC 3 | Shopping | `QVC3.us2` |
 | ✅ | QVC 4 | Shopping | `` |
 | ✅ | QVC 5 | Shopping | `` |
 | ✅ | QVC 6 | Shopping | `` |
@@ -1432,29 +1434,29 @@
 | ✅ | QVC 12 | Shopping | `` |
 | ✅ | QVC 13 | Shopping | `` |
 | ✅ | QVC 14 | Shopping | `` |
-| ❌ | JTV (Jewelry Television) | Offline | `` |
+| ❌ | JTV (Jewelry Television) | Offline | `Jewelry.Television.ca2` |
 | ✅ | JTV 2 | Shopping | `` |
 | ❌ | RFD TV (Rural Free Delivery) | Offline | `` |
-| ❌ | Shop LC | Offline | `` |
+| ❌ | Shop LC | Offline | `Shop.LC.us2` |
 | ✅ | 30A Golf Kingdom | Sports | `` |
-| ✅ | ACC Network ESPN | Rocket | `` |
-| ✅ | ACCDN | Sports | `` |
+| ✅ | ACC Network ESPN | Rocket | `ACC.Network.us2` |
+| ✅ | ACCDN | Sports | `plex.tv.ACCDN.plex` |
 | ✅ | Altitude Sports Denver | Rocket | `` |
 | ❌ | AXS-TV Fight Network Swerve Combat | Offline | `` |
 | ✅ | Bally Sports (Chicago) | Sports | `` |
 | ✅ | Bally Sports (Glory) | Sports | `` |
 | ✅ | Bally Sports (MLB) | Sports | `` |
 | ✅ | Bally Sports (Poker) | Sports | `` |
-| ✅ | beIN Sports | Rocket | `` |
-| ✅ | Bein Sports 4 | Rocket | `` |
-| ✅ | Bein Sports 5 | Rocket | `` |
-| ✅ | Bein Sports 6 | Rocket | `` |
-| ✅ | Bein Sports 7 | Rocket | `` |
-| ✅ | Bein Sports 8 | Rocket | `` |
-| ✅ | beIN Sports XL | Sports | `` |
+| ✅ | beIN Sports | Rocket | `BeIN.Sports.es` |
+| ✅ | Bein Sports 4 | Rocket | `beIN.SPORTS.4.hk` |
+| ✅ | Bein Sports 5 | Rocket | `beIN.SPORTS.5.hk` |
+| ✅ | Bein Sports 6 | Rocket | `beIN.SPORTS.6.hk` |
+| ✅ | Bein Sports 7 | Rocket | `Beinsports.tr` |
+| ✅ | Bein Sports 8 | Rocket | `logos-_beINSPORTS8_AR.bein` |
+| ✅ | beIN Sports XL | Sports | `Beinsports.tr` |
 | ✅ | BEK Sports West | Sports | `` |
 | ✅ | Big Ten Network | Rocket | `` |
-| ❌ | Billiard TV | Offline | `` |
+| ❌ | Billiard TV | Offline | `BilliardTV.Dummy.us` |
 | ❌ | CampusLore | Offline | `` |
 | ✅ | CBS Sports Golazo Network | Sports | `` |
 | ✅ | CBS Sports HQ | Sports | `` |
@@ -1467,19 +1469,19 @@
 | ✅ | DNVR Sports | Sports | `` |
 | ✅ | Eleven Sports Network | Sports | `` |
 | ❌ | EPG Fighting Network | Offline | `` |
-| ✅ | ESPN | Rocket | `` |
-| ✅ | ESPN 2 | Rocket | `` |
+| ✅ | ESPN | Rocket | `ESPN.au` |
+| ✅ | ESPN 2 | Rocket | `ESPN2.au` |
 | ✅ | ESPN News | Rocket | `` |
 | ✅ | ESPN Ocho | Sports | `` |
-| ✅ | ESPN U | Rocket | `` |
-| ✅ | Extreme+ | Sports | `` |
-| ✅ | FanDuel 2 Racing | Sports | `` |
+| ✅ | ESPN U | Rocket | `ESPNU.HD.us2` |
+| ✅ | Extreme+ | Sports | `Extreme.Sports.cz` |
+| ✅ | FanDuel 2 Racing | Sports | `FanDuel.Racing.us` |
 | ✅ | FanDuel Extra | Sports | `` |
 | ✅ | Fanduel Sports Network (Detroit) | Sports | `` |
 | ✅ | Fanduel Sports Network (Florida) | Sports | `` |
 | ✅ | Fanduel Sports Network (Indiana) | Rocket | `` |
 | ✅ | Fanduel Sports Network (Kansas City) | Rocket | `` |
-| ✅ | Fanduel Sports Network (Midwest) | Sports | `` |
+| ✅ | Fanduel Sports Network (Midwest) | Sports | `FanDuel.Sports.Network.Midwest.us` |
 | ✅ | Fanduel Sports Network (North) | Sports | `` |
 | ✅ | Fanduel Sports Network (Ohio) | Sports | `` |
 | ✅ | Fanduel Sports Network (Oklahoma) | Sports | `` |
@@ -1491,23 +1493,23 @@
 | ✅ | Fanduel Sports Network (West) | Sports | `` |
 | ✅ | Fanduel Sports Network (Wisconsin) | Rocket | `` |
 | ✅ | FanDuel TV (Formerly TVG) | Rocket | `` |
-| ✅ | FanDuel TV+ | Sports | `` |
-| ✅ | FIFA+ | Sports | `` |
+| ✅ | FanDuel TV+ | Sports | `FanDuel.TV.us` |
+| ✅ | FIFA+ | Sports | `plex.tv.FIFA+.plex` |
 | ✅ | Fite 24/7 by Triller | Sports | `` |
-| ✅ | FN (Fight Network) | Rocket | `` |
+| ✅ | FN (Fight Network) | Rocket | `Fight.Network.rs` |
 | ✅ | FOX Soccer Plus | Rocket | `` |
-| ✅ | FOX Sports | Sports | `` |
+| ✅ | FOX Sports | Sports | `FOX.SPORTS.mx` |
 | ✅ | FOX Sports on Tubi | Sports | `` |
-| ✅ | FOX Sports Racing | Rocket | `` |
+| ✅ | FOX Sports Racing | Rocket | `Fox.Sports.Racing.ca2` |
 | ✅ | FS1 (Fox Sports 1) | Rocket | `` |
 | ✅ | FS2 (Fox Sports 2) | Rocket | `` |
 | ✅ | FTF Next Live | Sports | `` |
 | ✅ | FTF Sports | Sports | `` |
 | ✅ | Fubo Sports Network | Sports | `` |
-| ✅ | Fuel TV | Sports | `` |
+| ✅ | Fuel TV | Sports | `FuelTV.au` |
 | ✅ | Goal TV | Sports | `` |
-| ❌ | Gol TV | Offline | `` |
-| ✅ | HBCU Go Sports | Sports | `` |
+| ❌ | Gol TV | Offline | `Gol.TV.es` |
+| ✅ | HBCU Go Sports | Sports | `HBCUGO.SPORTS.us2` |
 | ✅ | HBO Boxing by WB | Sports | `` |
 | ❌ | Impact Plus! | Offline | `` |
 | ✅ | K-Baseball TV | Sports | `` |
@@ -1518,22 +1520,22 @@
 | ✅ | Locked on NBA | Sports | `` |
 | ✅ | Locked on NFL | Sports | `` |
 | ✅ | Marquee Sports Network | Sports | `` |
-| ✅ | MASN | Rocket | `` |
-| ✅ | MASN 2 | Rocket | `` |
+| ✅ | MASN | Rocket | `MASN.-.Mid.Atlantic.Sports.Network.us2` |
+| ✅ | MASN 2 | Rocket | `MASN2.-.Mid.Atlantic.Sports.Network.2.HD.us2` |
 | ✅ | MLB Channel | Sports | `` |
 | ✅ | MLB Network | Rocket | `` |
 | ✅ | MLB Network (Alt) | Rocket | `` |
 | ✅ | MLB Strike Zone | Rocket | `` |
 | ✅ | Monster Jams | Sports | `` |
 | ✅ | Monumental Sports Network | Sports | `` |
-| ✅ | MSG 2 | Rocket | `` |
+| ✅ | MSG 2 | Rocket | `MSG2.HD.us2` |
 | ❌ | MSG Network | Offline | `` |
-| ✅ | MSG SportsZone | Sports | `` |
-| ❌ | MSG+ | Rocket | `` |
+| ✅ | MSG SportsZone | Sports | `MSG.SportsZone.us2` |
+| ✅ | MSG+ | Rocket | `plex.tv.MSG.SportsZone.plex` |
 | ✅ | MSGSN | Rocket | `` |
 | ✅ | MTRSP1 | Sports | `` |
-| ✅ | NASCAR | Sports | `` |
-| ✅ | NBA TV | Rocket | `` |
+| ✅ | NASCAR | Sports | `NASCAR.Channel.us2` |
+| ✅ | NBA TV | Rocket | `NBA.TV.hk` |
 | ✅ | NBC Golf Channel | Rocket | `` |
 | ✅ | NBC Golf Pass | Sports | `` |
 | ✅ | NBC Peacock Premier League TV | Sports | `` |
@@ -1543,15 +1545,15 @@
 | ✅ | NBC Sports (Chicago) | Rocket | `` |
 | ✅ | NBC Sports (Philadelphia) | Rocket | `` |
 | ✅ | NBC Sports (Washington) | Rocket | `` |
-| ✅ | NBC Sports NOW | Sports | `` |
+| ✅ | NBC Sports NOW | Sports | `NBC.Sports.Now.us2` |
 | ✅ | NBC Team USA | Sports | `` |
 | ✅ | NESN (New England Sports Network) | Sports | `` |
-| ✅ | NESN+ | Rocket | `` |
+| ✅ | NESN+ | Rocket | `plex.tv.NESN.NATION.plex` |
 | ❌ | NFL Alt Channel | Rocket | `` |
 | ✅ | NFL Channel | Sports | `` |
 | ✅ | NFL Network | Rocket | `` |
 | ❌ | NFL Red Zone #1 | Rocket | `` |
-| ❌ | NFL Red Zone #2 | Rocket | `` |
+| ❌ | NFL Red Zone #2 | Rocket | `NFL.RedZone.HD.us2` |
 | ✅ | NHL Channel | Sports | `` |
 | ✅ | NHL Network | Rocket | `` |
 | ✅ | NHRA TV | Sports | `` |
@@ -1560,17 +1562,17 @@
 | ✅ | PAC 12 Insider | Sports | `` |
 | ✅ | PBR RidePass | Sports | `` |
 | ✅ | PBTV Pickleball TV | Sports | `` |
-| ✅ | People are Awesome | Sports | `` |
+| ✅ | People are Awesome | Sports | `PeopleAreAwesome.au` |
 | ✅ | PGA Tour | Sports | `` |
 | ✅ | PHLY Sports | Sports | `` |
 | ❌ | PHNX Sports | Offline | `` |
-| ✅ | PickleTV | Sports | `` |
-| ✅ | PokerGo | Sports | `` |
+| ✅ | PickleTV | Sports | `plex.tv.PickleTV.plex` |
+| ✅ | PokerGo | Sports | `plex.tv.PokerGO.plex` |
 | ✅ | Racer (Formerly MAV TV) | Rocket | `` |
-| ✅ | Racer International | Sports | `` |
+| ✅ | Racer International | Sports | `CNNInternational.au` |
 | ✅ | Racer Select | Sports | `` |
-| ✅ | Red Bull TV | Sports | `` |
-| ✅ | Right Now TV | Sports | `` |
+| ✅ | Red Bull TV | Sports | `Red.Bull.TV.cz` |
+| ✅ | Right Now TV | Sports | `Right.Now.TV.us2` |
 | ✅ | SEC Network ESPN | Rocket | `` |
 | ✅ | Space City Home Network | Sports | `` |
 | ✅ | Spectrum Sports | Rocket | `` |
@@ -1578,29 +1580,29 @@
 | ✅ | Spectrum SportsNet LA | Sports | `` |
 | ✅ | Spectrum Sportsnet Lakers | Rocket | `` |
 | ✅ | Spectrum Sportsnet OC16 | Rocket | `` |
-| ✅ | Speed Vision | Sports | `` |
+| ✅ | Speed Vision | Sports | `plex.tv.SPEEDVISION.plex` |
 | ✅ | Sports First TV | Sports | `` |
 | ✅ | Sports Fishing | Sports | `` |
-| ✅ | Sports Grid | Sports | `` |
+| ✅ | Sports Grid | Sports | `SportsGrid.us2` |
 | ✅ | Sports Grid Live | Sports | `` |
-| ✅ | Sportsman Channel | Sports | `` |
+| ✅ | Sportsman Channel | Sports | `Sportsman.Channel.ca2` |
 | ✅ | Sportsnet 360 | Sports | `` |
 | ✅ | Sportsnet New York (SNY Comcast) | Sports | `` |
-| ✅ | Sportsnet One | Sports | `` |
+| ✅ | Sportsnet One | Sports | `Sportsnet.One.ca2` |
 | ✅ | Sportsnet Pittsburgh | Sports | `` |
-| ✅ | Sportsnet West | Sports | `` |
-| ✅ | Sportsnet World | Sports | `` |
-| ✅ | Stadium | Sports | `` |
+| ✅ | Sportsnet West | Sports | `Sportsnet.West.HD.ca2` |
+| ✅ | Sportsnet World | Sports | `Sportsnet.World.ca2` |
+| ✅ | Stadium | Sports | `Stadium.distro` |
 | ✅ | Swerve Sports | Sports | `` |
 | ✅ | T2 Tennis | Sports | `` |
 | ✅ | Tennis Channel | Rocket | `` |
 | ✅ | Tennis Channel (Alt) | Sports | `` |
 | ✅ | Tennis TV Classics | Sports | `` |
-| ✅ | Tennis+ | Sports | `` |
+| ✅ | Tennis+ | Sports | `TENNIS.za` |
 | ❌ | The Cycling Channel | Offline | `` |
 | ✅ | The NBA Channel | Sports | `` |
 | ✅ | The Original Globetrotters | Sports | `` |
-| ✅ | The Outdoor Channel | Rocket | `` |
+| ✅ | The Outdoor Channel | Rocket | `OutdoorChannel.au` |
 | ✅ | TNA Wrestling Channel | Sports | `` |
 | ✅ | TVS All American | Sports | `` |
 | ✅ | TVS Bowling Network | Sports | `` |
@@ -1608,87 +1610,87 @@
 | ✅ | TVS TeleSports | Sports | `` |
 | ✅ | TVS Turbo Network | Sports | `` |
 | ✅ | TVS Women Sports | Sports | `` |
-| ❌ | UFC Channel | Offline | `` |
+| ❌ | UFC Channel | Offline | `UChannel.id` |
 | ✅ | UFC Channel 24/7 | Sports | `` |
 | ❌ | UFC Fight Pass | Rocket | `` |
-| ✅ | UFC TV | Sports | `` |
-| ✅ | Unbeaten | Sports | `` |
+| ✅ | UFC TV | Sports | `UFCTV.ph` |
+| ✅ | Unbeaten | Sports | `en:.Unbeaten.Sports.ae` |
 | ✅ | VSIN Sports | Rocket | `` |
 | ✅ | Willow Sports | Sports | `` |
 | ✅ | Women's Sports Network | Sports | `` |
 | ✅ | WPT (World Poker Tour) | Sports | `` |
 | ✅ | WSN (Women's Sports Network) | Sports | `` |
-| ✅ | WWE Network | Rocket | `` |
+| ✅ | WWE Network | Rocket | `WWE.Network.my` |
 | ✅ | Yahoo! Sports Network | Sports | `` |
-| ✅ | YES Network | Rocket | `` |
+| ✅ | YES Network | Rocket | `Yes.Network.us2` |
 | ✅ | 00s Replay (Pluto TV) | Premium Channels | `` |
 | ✅ | 50 Cent Action | Premium Channels | `` |
 | ✅ | 70s Cinema (Pluto TV) | Premium Channels | `` |
 | ✅ | 80s Rewind (Pluto TV) | Premium Channels | `` |
 | ✅ | 90s Throwback (Pluto TV) | Premium Channels | `` |
-| ✅ | Action Hollywood Movies | Premium Channels | `` |
-| ✅ | Action! | Premium Channels | `` |
-| ✅ | Action+ | Premium Channels | `` |
+| ✅ | Action Hollywood Movies | Premium Channels | `ActionHollywoodMovies.au` |
+| ✅ | Action! | Premium Channels | `Action.be` |
+| ✅ | Action+ | Premium Channels | `Action.be` |
 | ❌ | At the Movies by WB | Offline | `` |
 | ✅ | BET Cinema (Pluto TV) | Premium Channels | `` |
 | ✅ | BET Comedy Movies (Pluto TV) | Premium Channels | `` |
 | ✅ | BET Comedy Visionaries (Pluto TV) | Premium Channels | `` |
-| ✅ | BritBox Mysteries | Premium Channels | `` |
-| ✅ | Christmas+ | Premium Channels | `` |
-| ✅ | CineLife | Premium Channels | `` |
-| ✅ | Cinemax (East) | Rocket | `` |
-| ✅ | Cinemax (West) | Rocket | `` |
-| ✅ | Cinemax Action | Rocket | `` |
-| ✅ | Cinemax Classics | Rocket | `` |
-| ✅ | Cinemax Hits (East) | Rocket | `` |
-| ✅ | Cinemax Hits (West) | Rocket | `` |
-| ✅ | CineVault | Premium Channels | `` |
-| ✅ | CineVault Classics | Premium Channels | `` |
-| ✅ | CineVault Westerns | Premium Channels | `` |
+| ✅ | BritBox Mysteries | Premium Channels | `plex.tv.BritBox.Mysteries.plex` |
+| ✅ | Christmas+ | Premium Channels | `Christmas.Dummy.us` |
+| ✅ | CineLife | Premium Channels | `CineLife.distro` |
+| ✅ | Cinemax (East) | Rocket | `CINEMAX.(Cinemax).pe` |
+| ✅ | Cinemax (West) | Rocket | `CINEMAX.(Cinemax).pe` |
+| ✅ | Cinemax Action | Rocket | `Cinemax.Action.us2` |
+| ✅ | Cinemax Classics | Rocket | `Cinemax.Classics.us2` |
+| ✅ | Cinemax Hits (East) | Rocket | `Cinemax.Hits.us2` |
+| ✅ | Cinemax Hits (West) | Rocket | `Cinemax.Hits.us2` |
+| ✅ | CineVault | Premium Channels | `CINEVAULT.us2` |
+| ✅ | CineVault Classics | Premium Channels | `Cinevault.Classics.us2` |
+| ✅ | CineVault Westerns | Premium Channels | `CINEVAULT.Westerns.us2` |
 | ❌ | Classic Cinema by WB | Offline | `` |
 | ✅ | Classic Movie Westerns (Pluto TV) | Premium Channels | `` |
 | ✅ | Classic Movies Channel (Pluto TV) | Premium Channels | `` |
-| ✅ | Comedy+ | Premium Channels | `` |
+| ✅ | Comedy+ | Premium Channels | `Comedy.au` |
 | ✅ | Cowboy Movie Channel | Premium Channels | `` |
 | ✅ | CrimeFlix | Premium Channels | `` |
-| ✅ | Electric Now | Premium Channels | `` |
-| ✅ | Encore+ | Premium Channels | `` |
+| ✅ | Electric Now | Premium Channels | `plex.tv.ElectricNOW.en.EspaÃ±ol.plex` |
+| ✅ | Encore+ | Premium Channels | `ENCORE+.distro` |
 | ✅ | FilmRise Action | Premium Channels | `` |
 | ✅ | FilmRise Black TV | Premium Channels | `` |
 | ✅ | FilmRise Classic TV | Premium Channels | `` |
 | ✅ | FilmRise Creators | Premium Channels | `` |
-| ✅ | FilmRise Free Movies | Premium Channels | `` |
-| ✅ | FilmRise Horror | Premium Channels | `` |
+| ✅ | FilmRise Free Movies | Premium Channels | `plex.tv.FilmRise.Free.Movies.plex` |
+| ✅ | FilmRise Horror | Premium Channels | `plex.tv.FilmRise.Horror.plex` |
 | ✅ | FilmRise Sci-Fi | Premium Channels | `` |
-| ✅ | FilmRise Western | Premium Channels | `` |
+| ✅ | FilmRise Western | Premium Channels | `plex.tv.FilmRise.Western.plex` |
 | ✅ | Flix (East) | Premium Channels | `` |
 | ✅ | Flix (West) | Premium Channels | `` |
 | ✅ | Free Movie Network | Premium Channels | `` |
 | ✅ | Free Movies+ | Premium Channels | `` |
-| ✅ | HBO (East) | Rocket | `` |
-| ✅ | HBO (West) | Rocket | `` |
+| ✅ | HBO (East) | Rocket | `HBO.East.us2` |
+| ✅ | HBO (West) | Rocket | `HBO.West.us2` |
 | ✅ | HBO Comedy (East) | Rocket | `` |
 | ✅ | HBO Comedy (West) | Rocket | `` |
-| ✅ | HBO Drama | Rocket | `` |
+| ✅ | HBO Drama | Rocket | `HBO.Drama.us2` |
 | ✅ | HBO Hits (East) | Rocket | `` |
 | ✅ | HBO Hits (West) | Rocket | `` |
 | ✅ | HBO Movies (East) | Rocket | `` |
 | ✅ | HBO Movies (West) | Rocket | `` |
-| ✅ | HDNET Movies | Rocket | `` |
+| ✅ | HDNET Movies | Rocket | `HDNet.Movies.us2` |
 | ✅ | Hollywood Movie Classics | Premium Channels | `` |
 | ✅ | Horror by ALTER | Premium Channels | `` |
-| ✅ | Horror+ | Premium Channels | `` |
+| ✅ | Horror+ | Premium Channels | `Pink.Horror.(BIH).ba` |
 | ✅ | IndiePlex (East) | Rocket | `` |
 | ✅ | LG Channel Romance Showcase | Premium Channels | `` |
 | ✅ | LG Channel Showcase | Premium Channels | `` |
 | ✅ | Maverick Black Cinema | Premium Channels | `` |
-| ✅ | MGM Presents | Premium Channels | `` |
-| ✅ | MGM Presents (Action) | Premium Channels | `` |
-| ✅ | MGM Presents (Horror) | Premium Channels | `` |
-| ✅ | MGM Presents (Western) | Premium Channels | `` |
+| ✅ | MGM Presents | Premium Channels | `MGM.Presents.us2` |
+| ✅ | MGM Presents (Action) | Premium Channels | `MGM.Presents.Action.us2` |
+| ✅ | MGM Presents (Horror) | Premium Channels | `MGM.Presents:.Horror.us2` |
+| ✅ | MGM Presents (Western) | Premium Channels | `MGM.Presents:.Westerns.us2` |
 | ✅ | MGM+ (East) | Rocket | `` |
 | ✅ | MGM+ (West) | Rocket | `` |
-| ✅ | MGM+ Drive-In | Rocket | `` |
+| ✅ | MGM+ Drive-In | Rocket | `MGM+.Drive-In.us2` |
 | ✅ | MGM+ Hits | Rocket | `` |
 | ✅ | MGM+ Marquee | Rocket | `` |
 | ✅ | Miramax Movie Channel | Premium Channels | `` |
@@ -1700,7 +1702,7 @@
 | ✅ | National Lampoon Channel | Premium Channels | `` |
 | ✅ | Paramount+ with Showtime (East) | Rocket | `` |
 | ✅ | Paramount+ with Showtime (West) | Rocket | `` |
-| ✅ | PixL | Rocket | `` |
+| ✅ | PixL | Rocket | `PixL.us2` |
 | ✅ | Pluto Action | Premium Channels | `` |
 | ✅ | Pluto Icon | Premium Channels | `` |
 | ✅ | Pluto Reaction | Premium Channels | `` |
@@ -1713,12 +1715,12 @@
 | ✅ | RetroPlex (West) | Rocket | `` |
 | ✅ | Samuel Goldwyn Classics | Premium Channels | `` |
 | ✅ | Samuel Goldwyn Films | Premium Channels | `` |
-| ✅ | Scream Box TV | Premium Channels | `` |
+| ✅ | Scream Box TV | Premium Channels | `plex.tv.Screambox.TV.plex` |
 | ✅ | Scream! Factory TV | Premium Channels | `` |
-| ✅ | ScreenPix | Rocket | `` |
-| ✅ | ScreenPix Action | Rocket | `` |
-| ✅ | ScreenPix Voices | Rocket | `` |
-| ✅ | ScreenPix Western | Rocket | `` |
+| ✅ | ScreenPix | Rocket | `ScreenPix.us2` |
+| ✅ | ScreenPix Action | Rocket | `ScreenPix.Action.us2` |
+| ✅ | ScreenPix Voices | Rocket | `ScreenPix.Voices.us2` |
+| ✅ | ScreenPix Western | Rocket | `ScreenPix.Westerns.us2` |
 | ✅ | Shout! Factory TV | Premium Channels | `` |
 | ✅ | Shout! Movies | Premium Channels | `` |
 | ✅ | Showtime (Sho X BET) (East) | Rocket | `` |
@@ -1747,16 +1749,16 @@
 | ✅ | Starz Encore (West) | Rocket | `` |
 | ✅ | Starz Encore Action | Rocket | `` |
 | ✅ | Starz Encore Black (West) | Rocket | `` |
-| ✅ | Starz Encore Classic | Rocket | `` |
+| ✅ | Starz Encore Classic | Rocket | `Starz.Encore.Classic.us2` |
 | ✅ | Starz Encore Family | Rocket | `` |
-| ✅ | Starz Encore Suspense | Rocket | `` |
+| ✅ | Starz Encore Suspense | Rocket | `Starz.Encore.Suspense.us2` |
 | ✅ | Starz Encore Westerns | Rocket | `` |
 | ✅ | Starz In Black (East) | Rocket | `` |
 | ✅ | Starz In Black (West) | Rocket | `` |
 | ✅ | Starz Kids & Family (East) | Rocket | `` |
 | ✅ | Starz Kids & Family (West) | Rocket | `` |
 | ✅ | The Asylum Movie Channel | Rocket | `` |
-| ✅ | The Film Detective | Premium Channels | `` |
+| ✅ | The Film Detective | Premium Channels | `The.Film.Detective.us2` |
 | ✅ | The Movie Channel (East) | Rocket | `` |
 | ✅ | The Movie Channel (West) | Rocket | `` |
 | ✅ | The Movie Channel Xtra (East) | Rocket | `` |
@@ -1767,53 +1769,53 @@
 | ✅ | TVS Drive In Movie | Premium Channels | `` |
 | ✅ | TVS Horror | Premium Channels | `` |
 | ✅ | TVS Nostalgia Movies | Premium Channels | `` |
-| ✅ | Universal Movies | Premium Channels | `` |
-| ✅ | Western+ | Premium Channels | `` |
+| ✅ | Universal Movies | Premium Channels | `Universal.Movies.us2` |
+| ✅ | Western+ | Premium Channels | `Pink.Western.(BIH).ba` |
 | ✅ | 21 Jump Street | 24/7 Shows | `` |
-| ✅ | ALF | 24/7 Shows | `` |
+| ✅ | ALF | 24/7 Shows | `ALF-TV.ch` |
 | ✅ | Alfred Hitchcock Presents | 24/7 Shows | `` |
 | ✅ | American Gladiators | 24/7 Shows | `` |
 | ✅ | American Ninja Warrior | 24/7 Shows | `` |
-| ✅ | America's Funniest Home Videos | 24/7 Shows | `` |
+| ✅ | America's Funniest Home Videos | 24/7 Shows | `plex.tv.Americaâs.Funniest.Home.Videos.plex` |
 | ❌ | America's Got Talent | Offline | `` |
 | ✅ | America's Next Top Model | 24/7 Shows | `` |
 | ✅ | Anime 24/7 | 24/7 Shows | `` |
 | ✅ | Aquí y Ahora (Español) | 24/7 Shows | `` |
 | ✅ | Are We There Yet? | 24/7 Shows | `` |
-| ✅ | Baby Shark TV | 24/7 Shows | `` |
+| ✅ | Baby Shark TV | 24/7 Shows | `Baby.TV.hr` |
 | ✅ | Bachelor Nation | 24/7 Shows | `` |
 | ✅ | Bad Girls Club | 24/7 Shows | `` |
 | ✅ | Barney & Friends | 24/7 Shows | `` |
-| ✅ | Baywatch | 24/7 Shows | `` |
-| ✅ | BBC Dinos 24/7 | 24/7 Shows | `` |
+| ✅ | Baywatch | 24/7 Shows | `Baywatch.ae` |
+| ✅ | BBC Dinos 24/7 | 24/7 Shows | `BBC.Dinos.24/7.us2` |
 | ✅ | Beverly Hills 90210 | 24/7 Shows | `` |
 | ✅ | Bizarre Foods with Andrew Zimmern | 24/7 Shows | `` |
 | ✅ | Bob The Builder | 24/7 Shows | `` |
 | ✅ | Caso Cerrado (Español) | 24/7 Shows | `` |
-| ✅ | Cheaters | 24/7 Shows | `` |
+| ✅ | Cheaters | 24/7 Shows | `plex.tv.Cheaters.en.EspaÃ±ol.plex` |
 | ✅ | Cheers & Frasier | 24/7 Shows | `` |
 | ✅ | Como Dice el Dicho (Español) | 24/7 Shows | `` |
-| ✅ | Cops | 24/7 Shows | `` |
+| ✅ | Cops | 24/7 Shows | `plex.tv.Cops.en.EspaÃ±ol.plex` |
 | ✅ | Dance Moms | 24/7 Shows | `` |
 | ✅ | Deal or No Deal | 24/7 Shows | `` |
 | ✅ | Deal Zone | 24/7 Shows | `` |
 | ✅ | Declassified | 24/7 Shows | `` |
-| ✅ | Degrassi | 24/7 Shows | `` |
+| ✅ | Degrassi | 24/7 Shows | `plex.tv.Degrassi.plex` |
 | ✅ | Dog The Bounty Hunter | 24/7 Shows | `` |
 | ✅ | Dog Whisperer with Cesar Millan | 24/7 Shows | `` |
-| ✅ | Duck Dynasty | 24/7 Shows | `` |
+| ✅ | Duck Dynasty | 24/7 Shows | `DK:.Duck.Dynasty.be` |
 | ✅ | E! Keeping Up With The Kardashians | 24/7 Shows | `` |
 | ✅ | Emeril Lagasse Channel | 24/7 Shows | `` |
 | ✅ | Family Feud | 24/7 Shows | `` |
 | ✅ | Family Feud Classics | 24/7 Shows | `` |
-| ✅ | Family Ties | 24/7 Shows | `` |
+| ✅ | Family Ties | 24/7 Shows | `Sky.Family.ie` |
 | ✅ | Fear Factor | 24/7 Shows | `` |
 | ✅ | Garfield & Friends | 24/7 Shows | `` |
 | ✅ | Ghost Are Real | 24/7 Shows | `` |
-| ✅ | Ghost Hunters | 24/7 Shows | `` |
+| ✅ | Ghost Hunters | 24/7 Shows | `GhostHunters.au` |
 | ✅ | Green Acres | 24/7 Shows | `` |
 | ✅ | Happy Days | 24/7 Shows | `` |
-| ❌ | Hardcore Pawn | Offline | `` |
+| ❌ | Hardcore Pawn | Offline | `UK:.Hardcore.Pawn.be` |
 | ✅ | Hell's Kitchen | 24/7 Shows | `` |
 | ✅ | Highway To Heaven | 24/7 Shows | `` |
 | ✅ | Hi-Yah! | 24/7 Shows | `` |
@@ -1823,7 +1825,7 @@
 | ✅ | How To? | 24/7 Shows | `` |
 | ✅ | Impossible Quiz Show (UK) | 24/7 Shows | `` |
 | ✅ | Ink Master | 24/7 Shows | `` |
-| ✅ | Jail | 24/7 Shows | `` |
+| ✅ | Jail | 24/7 Shows | `plex.tv.JAIL.plex` |
 | ✅ | JaJaJa (Español) | 24/7 Shows | `` |
 | ✅ | Jamie Oliver Channel | 24/7 Shows | `` |
 | ✅ | Jersey Shore | 24/7 Shows | `` |
@@ -1839,7 +1841,7 @@
 | ✅ | Matched Married Meet | 24/7 Shows | `` |
 | ✅ | Mission Impossible | 24/7 Shows | `` |
 | ✅ | Murder She Wrote | 24/7 Shows | `` |
-| ✅ | Mythbusters | 24/7 Shows | `` |
+| ✅ | Mythbusters | 24/7 Shows | `Mythbusters.au` |
 | ✅ | Nikita | 24/7 Shows | `` |
 | ✅ | Nip/Tuck | 24/7 Shows | `` |
 | ✅ | Operation Repo | 24/7 Shows | `` |
@@ -1858,10 +1860,10 @@
 | ✅ | Stargate by MGM | 24/7 Shows | `` |
 | ✅ | Strawberry Shortcake | 24/7 Shows | `` |
 | ✅ | Super Mario Bros. Channel | 24/7 Shows | `` |
-| ✅ | Supermarket Sweep | 24/7 Shows | `` |
+| ✅ | Supermarket Sweep | 24/7 Shows | `plex.tv.Supermarket.Sweep.plex` |
 | ✅ | Teen Moms | 24/7 Shows | `` |
 | ✅ | Teen Wolf by MGM | 24/7 Shows | `` |
-| ❌ | Teletubbies | Offline | `` |
+| ❌ | Teletubbies | Offline | `plex.tv.Teletubbies.plex` |
 | ✅ | The Adams Family | 24/7 Shows | `` |
 | ✅ | The Amazing Race | 24/7 Shows | `` |
 | ✅ | The Andy Griffith Show | 24/7 Shows | `` |
@@ -1892,7 +1894,7 @@
 | ✅ | The Walking Dead Universe | 24/7 Shows | `` |
 | ✅ | Three's Company | 24/7 Shows | `` |
 | ✅ | Today All Day | 24/7 Shows | `` |
-| ✅ | Transformers | 24/7 Shows | `` |
+| ✅ | Transformers | 24/7 Shows | `plex.tv.Transformers.plex` |
 | ✅ | Unsolved Mysteries | 24/7 Shows | `` |
 | ✅ | Xena Warrior Princess | 24/7 Shows | `` |
 | ✅ | Yu-Gi-Oh! | 24/7 Shows | `` |
@@ -2164,19 +2166,19 @@
 | ✅ | TuneIn Vintage Country | Music | `` |
 | ✅ | TVS Music Network | Music | `` |
 | ✅ | V2BEAT TV (UK) | Music | `` |
-| ✅ | Vevo 2K | Music | `` |
-| ✅ | Vevo '70s | Music | `` |
-| ✅ | Vevo '80s | Music | `` |
-| ✅ | Vevo '90s | Music | `` |
-| ✅ | Vevo Country | Music | `` |
-| ✅ | Vevo Hip-Hop | Music | `` |
+| ✅ | Vevo 2K | Music | `Vevo.2K.us2` |
+| ✅ | Vevo '70s | Music | `Vevo.70s.us2` |
+| ✅ | Vevo '80s | Music | `Vevo.80s.us2` |
+| ✅ | Vevo '90s | Music | `Vevo.90s.us2` |
+| ✅ | Vevo Country | Music | `Vevo.Country.us2` |
+| ✅ | Vevo Hip-Hop | Music | `Vevo.Hip-Hop.us2` |
 | ✅ | Vevo Latinos | Music | `` |
-| ✅ | Vevo Pop | Music | `` |
+| ✅ | Vevo Pop | Music | `Vevo.Pop.us2` |
 | ✅ | Vevo R&B | Music | `` |
 | ✅ | Vevo Reggaeton & Trap | Music | `` |
-| ✅ | Vevo Regional Mexicano | Music | `` |
+| ✅ | Vevo Regional Mexicano | Music | `Vevo.Regional.Mexicano.us2` |
 | ✅ | Vevo Retro Rock | Music | `` |
-| ✅ | Vevo True School Hip-Hop | Music | `` |
+| ✅ | Vevo True School Hip-Hop | Music | `Vevo.True.School.Hip-Hop.us2` |
 | ✅ | Amazon | XITE 60s & 70s Groove | Music | `` |
 | ✅ | Amazon | XITE 80s Flashback | Music | `` |
 | ✅ | Amazon | XITE 90s Throwback | Music | `` |
@@ -2220,24 +2222,24 @@
 | ✅ | MC (Music Choice) | Easy Listening | Rocket | `` |
 | ✅ | MC (Music Choice) | Easy Listening (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Funk (Audio Channel) | Music | `` |
-| ❌ | MC (Music Choice) | Gospel (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Gospel (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Hard Rock (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Hip-Hop And R&B | Rocket | `` |
 | ❌ | MC (Music Choice) | Hip-Hop And R&B (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Hip-Hop Classics (Audio Channel) | Rocket | `` |
 | ❌ | MC (Music Choice) | Kids Only | Offline | `` |
-| ❌ | MC (Music Choice) | Love Songs (Audio Channel) | Offline | `` |
-| ❌ | MC (Music Choice) | Mainstream Rap (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Love Songs (Audio Channel) | Music | `` |
+| ✅ | MC (Music Choice) | Mainstream Rap (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Malt Shop Favorites (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Mellow Hits | Rocket | `` |
-| ❌ | MC (Music Choice) | Metal (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Metal (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Mexicana | Rocket | `` |
 | ✅ | MC (Music Choice) | Mexicana (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Music Choice Max (Audio Channel) | Rocket | `` |
 | ✅ | MC (Music Choice) | Musica Urbana | Rocket | `` |
 | ✅ | MC (Music Choice) | Musica Urbana (Audio Channel) | Music | `` |
-| ❌ | MC (Music Choice) | New Wave (Audio Channel) | Offline | `` |
-| ❌ | MC (Music Choice) | Party Favorites (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | New Wave (Audio Channel) | Music | `` |
+| ✅ | MC (Music Choice) | Party Favorites (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Pop And Country | Rocket | `` |
 | ✅ | MC (Music Choice) | Pop Hits | Rocket | `` |
 | ✅ | MC (Music Choice) | Pop Hits (Audio Channel) | Music | `` |
@@ -2259,7 +2261,7 @@
 | ✅ | MC (Music Choice) | Solid Gold Oldies | Rocket | `` |
 | ✅ | MC (Music Choice) | Sounds of The Seasons | Rocket | `` |
 | ✅ | MC (Music Choice) | Sounds of The Seasons (Audio Channel) | Music | `` |
-| ❌ | MC (Music Choice) | Teen Beats (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Teen Beats (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Throwback Jams (Audio Channel) | Rocket | `` |
 | ✅ | MC (Music Choice) | Today's Country | Rocket | `` |
 | ✅ | MC (Music Choice) | Today's Country (Audio Channel) | Music | `` |
@@ -2269,7 +2271,7 @@
 | ✅ | MC (Music Choice) | Tropicales | Rocket | `` |
 | ✅ | MC (Music Choice) | Tropicales (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Underground Hip-Hop (Audio Channel) | Offline | `` |
-| ❌ | MC (Music Choice) | Y2K (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Y2K (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Y2K Rap (Audio Channel) | Rocket | `` |
 | ❌ | (ZH) NTD (Canada) | Offline | `` |
 | ✅ | 3ABN (Canada) | Canadian Channels | `` |
@@ -2283,11 +2285,11 @@
 | ✅ | beIN Sports 1 (Canada) | Rocket | `` |
 | ✅ | beIN Sports 2 (Canada) | Rocket | `` |
 | ✅ | beIN Sports NBA (Canada) | Rocket | `` |
-| ✅ | BNN Bloomberg (Canada) | Canadian Channels | `` |
+| ✅ | BNN Bloomberg (Canada) | Canadian Channels | `Canal.Bloomberg.pa` |
 | ❌ | Boomerang by Cartoon Network (Canada) | Rocket | `` |
-| ❌ | Bravo (Canada) | Rocket | `` |
+| ❌ | Bravo (Canada) | Rocket | `Bravo.Canada.ca2` |
 | ✅ | Canal Vie French (Canada) | Canadian Channels | `` |
-| ✅ | Cartoon Network (Canada) | Rocket | `` |
+| ✅ | Cartoon Network (Canada) | Rocket | `Cartoon.Network.Canada.ca2` |
 | ✅ | CBC Calgary (Canada) | Rocket | `` |
 | ✅ | CBC Charlottetown (Canada) | Rocket | `` |
 | ✅ | CBC Edmonton (Canada) | Rocket | `` |
@@ -2301,7 +2303,7 @@
 | ✅ | CBC Vancouver (Canada) | Rocket | `` |
 | ✅ | CBC Windsor (Canada) | Rocket | `` |
 | ✅ | CBC Winnipeg (Canada) | Rocket | `` |
-| ✅ | CHCH (Canada) | Canadian Channels | `404: Not Found` |
+| ✅ | CHCH (Canada) | Canadian Channels | `` |
 | ✅ | Cheddar News (Canada) | Canadian Channels | `` |
 | ✅ | Christmas 365 (Canada) | Canadian Channels | `` |
 | ✅ | City TV Calgary (Canada) | Canadian Channels | `` |
@@ -2314,7 +2316,7 @@
 | ❌ | City TV Winnipeg (Canada) | Offline | `` |
 | ✅ | CMT (Canada) | Rocket | `` |
 | ✅ | CNN (Canada) | Canadian Channels | `` |
-| ✅ | CNN International (Canada) | Canadian Channels | `` |
+| ✅ | CNN International (Canada) | Canadian Channels | `CNN.International.ng` |
 | ✅ | Cottage Life (Canada) | Rocket | `` |
 | ✅ | CP24 News (Canada) | Canadian Channels | `` |
 | ✅ | CPAC (Canada) | Canadian Channels | `` |
@@ -2322,7 +2324,7 @@
 | ❌ | Crave 2 (Canada) | Rocket | `` |
 | ❌ | Crave 3 (Canada) | Rocket | `` |
 | ❌ | Crave 4 (Canada) | Rocket | `` |
-| ✅ | Crime & Investigation (Canada) | Rocket | `` |
+| ✅ | Crime & Investigation (Canada) | Rocket | `Crime.+.Investigation.nl` |
 | ✅ | CTV 2 Atlantic (Canada) | Rocket | `` |
 | ✅ | CTV 2 Barrie Ontario (Canada) | Rocket | `` |
 | ❌ | CTV 2 London (Canada) | Rocket | `` |
@@ -2356,17 +2358,17 @@
 | ✅ | CTV Winnipeg (Canada) | Rocket | `` |
 | ✅ | Daystar Television Network (Canada) | Canadian Channels | `` |
 | ❌ | Dejaview (Canada) | Rocket | `` |
-| ✅ | Disney Channel (Canada) | Rocket | `` |
-| ✅ | Documentary (Canada) | Rocket | `` |
+| ✅ | Disney Channel (Canada) | Rocket | `Disney.Channel.Canada.ca2` |
+| ✅ | Documentary (Canada) | Rocket | `Documentary.Canada.ca2` |
 | ❌ | DTOUR (Canada) | Rocket | `` |
 | ✅ | E! (Canada) | Rocket | `` |
 | ❌ | Fight Network (Canada) | Offline | `` |
 | ✅ | Flavour Network (Canada) | Rocket | `` |
 | ✅ | FOX News Network (Canada) | Canadian Channels | `` |
 | ✅ | FX (Canada) | Rocket | `` |
-| ✅ | FXX (Canada) | Rocket | `` |
+| ✅ | FXX (Canada) | Rocket | `FXX.Canada.ca2` |
 | ✅ | Game Show Network (Canada) | Canadian Channels | `` |
-| ❌ | Game TV (Canada) | Rocket | `` |
+| ❌ | Game TV (Canada) | Rocket | `GameTV.Canada.ca2` |
 | ✅ | Game+ (Canada) | Canadian Channels | `` |
 | ✅ | Ginx esports TV (Canada) | Rocket | `` |
 | ❌ | Global Calgary (Canada) | Rocket | `` |
@@ -2403,9 +2405,9 @@
 | ✅ | Hollywood Suite 80's Movies (Canada) | Rocket | `` |
 | ✅ | Hollywood Suite 90's Movies (Canada) | Rocket | `` |
 | ✅ | HPItv East (Canada) | Canadian Channels | `` |
-| ✅ | ID (Investigation Discovery) (Canada) | Rocket | `` |
+| ✅ | ID (Investigation Discovery) (Canada) | Rocket | `InvestigationDiscovery.au` |
 | ✅ | Knowledge Network (Canada) | Rocket | `` |
-| ✅ | Lifetime (Canada) | Rocket | `` |
+| ✅ | Lifetime (Canada) | Rocket | `Lifetime.(Canada).ca2` |
 | ✅ | Lifetime Movie Network (Canada) | Canadian Channels | `` |
 | ✅ | Love Nature (Canada) | Rocket | `` |
 | ✅ | Magnolia Network (Canada) | Rocket | `` |
@@ -2413,7 +2415,7 @@
 | ✅ | Movietime (Canada) | Rocket | `` |
 | ✅ | MSNBC (Canada) | Rocket | `` |
 | ✅ | Much (Canada) | Rocket | `` |
-| ✅ | National Geographic (Canada) | Rocket | `` |
+| ✅ | National Geographic (Canada) | Rocket | `National.Geographic.(Canada).ca2` |
 | ✅ | National Geographic Wild (Canada) | Rocket | `` |
 | ✅ | NBA TV (Canada) | Canadian Channels | `` |
 | ✅ | NBC Golf Channel (Canada) | Canadian Channels | `` |
@@ -2477,107 +2479,107 @@
 | ✅ | ZESTE French (Canada) | Rocket | `` |
 | ❌ | Z-Télé French (Canada) | Rocket | `` |
 | ✅ | AMC (UK) | Rocket | `` |
-| ✅ | Animal Planet (UK) | Rocket | `` |
-| ❌ | BBC 3 (UK) | Offline | `` |
+| ✅ | Animal Planet (UK) | Rocket | `AnimalPlanet.UK.cz` |
+| ❌ | BBC 3 (UK) | Offline | `BBC.R3.uk` |
 | ✅ | BBC 4 (UK) | Rocket | `` |
-| ❌ | BBC 4 Cbeebies (UK) | Offline | `` |
+| ❌ | BBC 4 Cbeebies (UK) | Offline | `BBC.CBeebies.pl` |
 | ✅ | BBC Alba (UK) | Rocket | `` |
 | ✅ | BBC One (UK) | Rocket | `` |
-| ❌ | BBC Two (UK) | Offline | `` |
-| ✅ | BBC World News (UK) | Rocket | `` |
+| ❌ | BBC Two (UK) | Offline | `BBC.Two.HD.uk` |
+| ✅ | BBC World News (UK) | Rocket | `Bbcworld.News.ph` |
 | ❌ | BET (UK) | Rocket | `` |
-| ✅ | Blaze (UK) | UK Channels | `` |
+| ✅ | Blaze (UK) | UK Channels | `BLAZE.uk` |
 | ✅ | Bloomberg (Austrailia) | UK Channels | `` |
-| ✅ | Bloomberg (UK) | UK Channels | `` |
-| ✅ | Boomerang (UK) | UK Channels | `` |
-| ✅ | Cartoon Network (UK) | UK Channels | `` |
-| ✅ | Challenge (UK) | Rocket | `` |
-| ❌ | Channel 4 (UK) | Offline | `404: Not Found` |
+| ✅ | Bloomberg (UK) | UK Channels | `Bloomberg.Eu.sk` |
+| ✅ | Boomerang (UK) | UK Channels | `Boomerang+1.uk` |
+| ✅ | Cartoon Network (UK) | UK Channels | `Cartoon.Netwrk.uk` |
+| ✅ | Challenge (UK) | Rocket | `Challenge.uk` |
+| ❌ | Channel 4 (UK) | Offline | `Channel.5.uk` |
 | ❌ | Channel 4 Seven (UK) | Offline | `` |
-| ❌ | Channel 5 (UK) | Offline | `` |
+| ❌ | Channel 5 (UK) | Offline | `Channel.5.uk` |
 | ❌ | Channel 5 Action (UK) | Offline | `` |
-| ❌ | Channel 5 USA (UK) | Offline | `` |
-| ❌ | Channel 5+ (UK) | Offline | `` |
-| ✅ | CNBC (UK) | UK Channels | `` |
-| ✅ | CNN (UK) | UK Channels | `` |
-| ✅ | Comedy Central (UK) | UK Channels | `` |
-| ✅ | Comedy Central Extra (UK) | UK Channels | `` |
-| ✅ | Discovery Channel (UK) | Rocket | `` |
-| ✅ | Discovery History (UK) | UK Channels | `` |
-| ✅ | Discovery Science (UK) | UK Channels | `` |
-| ✅ | Discovery Turbo (UK) | UK Channels | `` |
+| ❌ | Channel 5 USA (UK) | Offline | `Islam.Channel.uk` |
+| ❌ | Channel 5+ (UK) | Offline | `Channel.5.uk` |
+| ✅ | CNBC (UK) | UK Channels | `CNBC.UK.ch` |
+| ✅ | CNN (UK) | UK Channels | `CNN.uk` |
+| ✅ | Comedy Central (UK) | UK Channels | `ComedyCentral.uk` |
+| ✅ | Comedy Central Extra (UK) | UK Channels | `ComedyCentral.uk` |
+| ✅ | Discovery Channel (UK) | Rocket | `DiscoveryChannel.au` |
+| ✅ | Discovery History (UK) | UK Channels | `Discovery.History.ie` |
+| ✅ | Discovery Science (UK) | UK Channels | `Discovery.Science.br` |
+| ✅ | Discovery Turbo (UK) | UK Channels | `DiscoveryTurbo.au` |
 | ✅ | E4 (UK) | Rocket | `` |
-| ❌ | EuroSports 1 (UK) | Rocket | `` |
-| ❌ | EuroSports 2 (UK) | Rocket | `` |
-| ❌ | Film4 (UK) | Offline | `` |
-| ✅ | Food Network (UK) | UK Channels | `` |
-| ✅ | FOX News Channel (UK) | Rocket | `` |
+| ❌ | EuroSports 1 (UK) | Rocket | `Eurosport.kr` |
+| ❌ | EuroSports 2 (UK) | Rocket | `Eurosport.kr` |
+| ❌ | Film4 (UK) | Offline | `Film4+1.uk` |
+| ✅ | Food Network (UK) | UK Channels | `Food.Network.uk` |
+| ✅ | FOX News Channel (UK) | Rocket | `FOXNewsChannel.au` |
 | ✅ | FreeForm (UK) | Rocket | `` |
 | ❌ | Game One (UK) | Offline | `` |
-| ✅ | GB News (UK) | UK Channels | `` |
-| ✅ | Great! Movies (UK) | UK Channels | `` |
-| ✅ | Great! Romance (UK) | UK Channels | `` |
+| ✅ | GB News (UK) | UK Channels | `UK:.GB.News.be` |
+| ✅ | Great! Movies (UK) | UK Channels | `GREAT!.movies.uk` |
+| ✅ | Great! Romance (UK) | UK Channels | `GREAT!.romance.uk` |
 | ✅ | H2 (History Channel 2) (UK) | Rocket | `` |
 | ✅ | History Channel (UK) | UK Channels | `` |
-| ✅ | Hobby Maker (UK) | UK Channels | `` |
+| ✅ | Hobby Maker (UK) | UK Channels | `HobbyMaker.uk` |
 | ✅ | Horse & Country TV (UK) | UK Channels | `` |
 | ✅ | Ideal World (UK) | UK Channels | `` |
-| ✅ | Investigation Discovery (UK) | UK Channels | `` |
-| ✅ | Investigation Discovery+ (UK) | UK Channels | `` |
-| ✅ | ITV 1 (UK) | Rocket | `` |
-| ❌ | ITV 2 (UK) | Offline | `` |
-| ❌ | ITV 3 (UK) | Offline | `` |
-| ❌ | ITV 4 (UK) | Offline | `` |
+| ✅ | Investigation Discovery (UK) | UK Channels | `InvestigationDiscovery.au` |
+| ✅ | Investigation Discovery+ (UK) | UK Channels | `InvestigationDiscovery.au` |
+| ✅ | ITV 1 (UK) | Rocket | `ITV1+1.uk` |
+| ❌ | ITV 2 (UK) | Offline | `ITV2+1.uk` |
+| ❌ | ITV 3 (UK) | Offline | `ITV3+1.uk` |
+| ❌ | ITV 4 (UK) | Offline | `ITV4+1.uk` |
 | ✅ | ITV Be (UK) | UK Channels | `` |
-| ✅ | Jewellery Maker (UK) | UK Channels | `` |
-| ✅ | Legend Xtra (UK) | UK Channels | `` |
-| ❌ | More4 (UK) | Offline | `` |
+| ✅ | Jewellery Maker (UK) | UK Channels | `JewelleryMaker.uk` |
+| ✅ | Legend Xtra (UK) | UK Channels | `Legend.Xtra.ie` |
+| ❌ | More4 (UK) | Offline | `More4+1.uk` |
 | ✅ | Movie Spare (UK) | Rocket | `` |
-| ✅ | Movie24 (UK) | UK Channels | `` |
+| ✅ | Movie24 (UK) | UK Channels | `Movies24.uk` |
 | ✅ | MTV (UK) | UK Channels | `` |
 | ✅ | MUTV (UK) | Rocket | `` |
-| ✅ | NatGeo Wild (UK) | UK Channels | `` |
+| ✅ | NatGeo Wild (UK) | UK Channels | `NatGeoWild.HD.uk` |
 | ✅ | National Geographic Channel (UK) | UK Channels | `` |
 | ✅ | Nick Jr. (UK) | UK Channels | `` |
-| ✅ | Nick Jr. Too (UK) | UK Channels | `` |
-| ✅ | Nickelodeon (UK) | Rocket | `` |
-| ✅ | Nicktoons (UK) | UK Channels | `` |
+| ✅ | Nick Jr. Too (UK) | UK Channels | `Nicktoons.uk` |
+| ✅ | Nickelodeon (UK) | Rocket | `Nickelodeon+1.uk` |
+| ✅ | Nicktoons (UK) | UK Channels | `Nicktoons.uk` |
 | ✅ | Paramount Network (UK) | Rocket | `` |
 | ✅ | PBS America (UK) | UK Channels | `` |
-| ❌ | Pop (UK) | Offline | `` |
+| ❌ | Pop (UK) | Offline | `POP.uk` |
 | ❌ | Pop Max (UK) | Offline | `` |
-| ✅ | Premier Sports 1 (UK) | Rocket | `` |
-| ✅ | Premier Sports 2 (UK) | Rocket | `` |
-| ✅ | Quest (UK) | UK Channels | `` |
+| ✅ | Premier Sports 1 (UK) | Rocket | `PREMIERSPORTS1.ph` |
+| ✅ | Premier Sports 2 (UK) | Rocket | `PREMIERSPORTS2.ph` |
+| ✅ | Quest (UK) | UK Channels | `QUEST.uk` |
 | ✅ | QVC (UK) | UK Channels | `` |
 | ✅ | QVC Beauty (UK) | UK Channels | `` |
 | ✅ | QVC Extra (UK) | UK Channels | `` |
-| ✅ | QVC Style (UK) | UK Channels | `` |
-| ✅ | Racing TV (UK) | UK Channels | `` |
+| ✅ | QVC Style (UK) | UK Channels | `QVC.Style.HD.uk` |
+| ✅ | Racing TV (UK) | UK Channels | `Racing.TV.uk` |
 | ❌ | Racing.com (Austrailia) | Offline | `` |
-| ✅ | Really (UK) | UK Channels | `` |
+| ✅ | Really (UK) | UK Channels | `Really.uk` |
 | ✅ | Sky Arts (UK) | UK Channels | `` |
 | ✅ | Sky Atlantic (UK) | UK Channels | `` |
 | ✅ | Sky Cinema Action (UK) | UK Channels | `` |
-| ✅ | Sky Cinema Animation (UK) | UK Channels | `` |
-| ✅ | Sky Cinema Comedy (UK) | UK Channels | `` |
+| ✅ | Sky Cinema Animation (UK) | UK Channels | `SkyAnimationHD.uk` |
+| ✅ | Sky Cinema Comedy (UK) | UK Channels | `Sky.Cinema.Comedy.uk` |
 | ✅ | Sky Cinema Drama (UK) | UK Channels | `` |
 | ✅ | Sky Cinema Sci-Fi & Horror (UK) | UK Channels | `` |
 | ✅ | Sky Cinema Section (UK) | UK Channels | `` |
 | ✅ | Sky Cinema Thriller (UK) | UK Channels | `` |
 | ✅ | Sky Comedy (UK) | UK Channels | `` |
 | ✅ | Sky Crime (UK) | UK Channels | `` |
-| ✅ | Sky Documentaries (UK) | UK Channels | `` |
+| ✅ | Sky Documentaries (UK) | UK Channels | `Sky.Documentaries.lu` |
 | ✅ | Sky Family (UK) | UK Channels | `` |
 | ✅ | Sky Greats (UK) | UK Channels | `` |
 | ✅ | Sky Hits (UK) | UK Channels | `` |
 | ✅ | Sky Max (UK) | UK Channels | `` |
 | ✅ | Sky Nature (UK) | UK Channels | `` |
-| ✅ | Sky News (UK) | UK Channels | `` |
+| ✅ | Sky News (UK) | UK Channels | `SkyNewsUK.au` |
 | ✅ | Sky One (UK) | Rocket | `` |
-| ✅ | Sky Premiere (UK) | UK Channels | `` |
-| ✅ | Sky Showcase (UK) | UK Channels | `` |
-| ❌ | Sky Sports (UK) | Offline | `` |
+| ✅ | Sky Premiere (UK) | UK Channels | `SkyPremiere+1.uk` |
+| ✅ | Sky Showcase (UK) | UK Channels | `SkyShowcase+1.uk` |
+| ✅ | Sky Sports (UK) | UK Channels | `Sky.Sports.NFL.uk` |
 | ✅ | Sky Sports Action (UK) | Rocket | `` |
 | ✅ | Sky Sports Arena (UK) | Rocket | `` |
 | ✅ | Sky Sports F1 (UK) | Rocket | `` |
@@ -2591,28 +2593,28 @@
 | ✅ | Sky Sports Racing (UK) | Rocket | `` |
 | ✅ | Sky SYFY (UK) | Rocket | `` |
 | ✅ | Sky Two (UK) | Rocket | `` |
-| ✅ | Sky Witness (UK) | UK Channels | `` |
+| ✅ | Sky Witness (UK) | UK Channels | `Sky.Witness.ie` |
 | ✅ | Sony Channel (UK) | UK Channels | `` |
 | ✅ | Sony Max (UK) | UK Channels | `` |
-| ✅ | STV (UK) | Rocket | `` |
-| ✅ | Talking Pictures (UK) | Rocket | `` |
-| ✅ | TBN (UK) | UK Channels | `` |
+| ✅ | STV (UK) | Rocket | `CHSTV.uk` |
+| ✅ | Talking Pictures (UK) | Rocket | `TalkingPictures.uk` |
+| ✅ | TBN (UK) | UK Channels | `TBN.UK.us` |
 | ✅ | TBN Pacific (Austrailia) | UK Channels | `` |
 | ✅ | TCM (UK) | Rocket | `` |
 | ✅ | Tennis Channel (UK) | UK Channels | `` |
 | ✅ | Tiny Pop (UK) | UK Channels | `` |
-| ✅ | TJC (UK) | UK Channels | `` |
+| ✅ | TJC (UK) | UK Channels | `TJC.uk` |
 | ✅ | TLC (The Learning Channel) (UK) | UK Channels | `` |
 | ✅ | TNT Sports 1 (UK) | Rocket | `` |
 | ✅ | TNT Sports 2 (UK) | Rocket | `` |
 | ✅ | TNT Sports 3 (UK) | Rocket | `` |
 | ✅ | TNT Sports 4 (UK) | Rocket | `` |
 | ✅ | TNT Sports Ultimate 4K (UK) | UK Channels | `` |
-| ✅ | Travel Channel (UK) | Rocket | `` |
+| ✅ | Travel Channel (UK) | Rocket | `TravelChannel.au` |
 | ✅ | True Crime (UK) | UK Channels | `` |
 | ✅ | True Crime Xtra (UK) | UK Channels | `` |
 | ✅ | TVSN (Austrailia) | UK Channels | `` |
-| ✅ | U&Alibi (UK) | UK Channels | `` |
+| ✅ | U&Alibi (UK) | UK Channels | `alibi+1.uk` |
 | ✅ | U&Dave (UK) | UK Channels | `` |
 | ✅ | U&Drama (UK) | UK Channels | `` |
 | ✅ | U&Eden (UK) | UK Channels | `` |
