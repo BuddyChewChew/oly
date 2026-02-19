@@ -16,7 +16,6 @@ EPG_DBS = {
     "DUMMY": "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.txt"
 }
 
-# Header includes all relevant XML sources for the player
 XML_URLS = [
     "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
@@ -29,7 +28,6 @@ M3U_FILE = "playlist.m3u"
 MD_FILE = "README.md"
 MAX_WORKERS = 30 
 
-# Refined Manual Map
 MANUAL_MAP = {
     "u&gold": "Gold.uk",
     "u&w": "W.uk",
@@ -49,11 +47,12 @@ def find_best_epg_match(channel_name, databases):
     for kw, m_id in MANUAL_MAP.items():
         if kw in name_lower: return m_id, ""
 
-    # 2. Regional and Type Detection
+    # 2. Regional Analysis
     is_uk = "(uk)" in name_lower or "(ire)" in name_lower
     is_ca = "(ca)" in name_lower and "los angeles" not in name_lower
     is_west = "(west)" in name_lower
-    is_us_local = "los angeles" in name_lower or re.search(r'\b([kw][a-z]{2,3})\b', name_lower)
+    # Identify LA locals or call signs starting with K or W
+    is_us_local = "los angeles" in name_lower or re.search(r'\b[kw][a-z]{2,3}\b', name_lower)
 
     # 3. Targeted Pool Selection
     if is_uk:
@@ -61,23 +60,27 @@ def find_best_epg_match(channel_name, databases):
     elif is_ca:
         pool = databases.get("CA", [])
     elif is_us_local:
-        pool = databases.get("US_LOCALS", [])
+        # Search LOCALS first, then CABLE for US stations
+        pool = databases.get("US_LOCALS", []) + databases.get("US_CABLE", [])
     else:
-        # For everything else, search Cable feeds first
-        pool = databases.get("US_CABLE", [])
+        pool = databases.get("US_CABLE", []) + databases.get("DUMMY", [])
 
-    # 4. First Attempt: Targeted Search
+    # 4. Fuzzy Matching Logic
+    # Remove clutter like (UK), (CA), (West), HD, etc.
     clean_target = re.sub(r'\(.*?\)|-tv|hd|4k|[^a-z0-9\s]', '', name_lower).strip()
+    
     match, score = process.extractOne(clean_target, pool, scorer=fuzz.token_set_ratio) if pool else (None, 0)
     
-    if score >= 75:
+    # Use 70 threshold for locals/cable, 80 for everything else
+    min_score = 70 if is_us_local else 78
+    
+    if score >= min_score:
         shift = "-3" if (is_west and ".west." not in match.lower()) else ""
         return match, shift
 
-    # 5. Second Attempt: Fallback to Dummy Channels
-    # This catches things like "Movie Channel" -> "Movie.Dummy.us"
+    # 5. Last Resort Fallback to DUMMY
     dummy_match, dummy_score = process.extractOne(clean_target, databases.get("DUMMY", []), scorer=fuzz.token_set_ratio)
-    if dummy_score >= 70:
+    if dummy_score >= 75:
         return dummy_match, ""
 
     return "", ""
@@ -109,7 +112,6 @@ def process_channel(name, url, genre, dbs):
     return {"name": name, "url": url, "group": group, "active": active, "tvg_id": tvg_id, "tvg_shift": tvg_shift}
 
 def main():
-    print("Initializing Multi-Source EPG System...")
     dbs = load_all_dbs()
     try:
         r = requests.get(SOURCE_URL)
@@ -131,6 +133,7 @@ def main():
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             results = list(executor.map(lambda p: process_channel(*p, dbs), channels))
 
+        # Write M3U with multi-xml support
         with open(M3U_FILE, "w", encoding="utf-8") as f:
             f.write(f'#EXTM3U x-tvg-url="{",".join(XML_URLS)}"\n')
             for res in results:
@@ -138,13 +141,14 @@ def main():
                 f.write(f'#EXTINF:-1 tvg-id="{res["tvg_id"]}"{shift} group-title="{res["group"]}",{res["name"]}\n')
                 f.write(f'{res["url"]}\n')
 
+        # Update Dashboard
         with open(MD_FILE, "w", encoding="utf-8") as f:
-            f.write("# 📺 Multi-Source EPG Dashboard\n\n| Status | Channel | Group | EPG Match | Shift |\n| :---: | :--- | :--- | :--- | :---: |\n")
+            f.write("# 📺 Final Multi-Source Dashboard\n\n| Status | Channel | Group | EPG Match |\n| :---: | :--- | :--- | :--- |\n")
             for res in results:
                 icon = "✅" if res["active"] else "❌"
-                f.write(f"| {icon} | {res['name']} | {res['group']} | `{res['tvg_id']}` | {res['tvg_shift']} |\n")
+                f.write(f"| {icon} | {res['name']} | {res['group']} | `{res['tvg_id']}` |\n")
         
-        print("Playlist and Dashboard successfully updated.")
+        print("Success: Playlist and Dashboard fully populated.")
     except Exception as e:
         print(f"Error: {e}")
 
