@@ -31,37 +31,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add playlist.m3u README.md
           git commit -m "Integrated service grouping and hourly status update" || echo "No changes"
-          git pushname: Daily Status & Playlist Update
-
-on:
-  schedule:
-    - cron: '0 * * * *'  # Runs every hour on the hour
-  workflow_dispatch:
-
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
-        run: pip install requests thefuzz python-Levenshtein
-
-      - name: Run Update Script
-        run: python convert_oly.py
-
-      - name: Push Updates
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add playlist.m3u README.md
-          git commit -m "Integrated service grouping and hourly status update" || echo "No changes"
           git push
