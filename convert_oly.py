@@ -15,29 +15,42 @@ MAX_WORKERS = 30
 
 def find_best_epg_match(channel_name, epg_list):
     if not channel_name or not epg_list:
-        return ""
+        return "", ""
     
     name_lower = channel_name.lower()
+    shift = ""
     
-    # 1. CALL SIGN SHIELD (US Stations)
-    # Extracts 4-letter call signs starting with K or W (e.g., KCBS)
+    # Identify Region/Shift
+    is_uk = "(uk)" in name_lower or "(ire)" in name_lower
+    is_west = "(west)" in name_lower
+    is_us_ca = "(ca)" in name_lower or "(east)" in name_lower or "(la)" in name_lower or is_west
+    
+    # 1. CALL SIGN EXTRACTION
     call_sign_match = re.search(r'\b([kw][a-z]{2,3})\b', name_lower)
-    if call_sign_match:
-        call_sign = call_sign_match.group(1)
-        # Force a match to a .us ID containing that call sign
-        for e_id in epg_list:
-            e_id_lower = e_id.lower()
-            if e_id_lower.startswith(call_sign) and (".us" in e_id_lower):
-                return e_id
+    call_sign = call_sign_match.group(1) if call_sign_match else None
 
-    # 2. CLEANING FOR GENERAL MATCHING
-    # Remove (City), -TV, HD, 4K, and non-alphanumeric
+    # 2. FILTERED POOL
+    regional_pool = []
+    if is_uk:
+        regional_pool = [e for e in epg_list if e.lower().endswith(('.uk', '.ie', '.uk2'))]
+    elif is_us_ca or call_sign:
+        regional_pool = [e for e in epg_list if '.us' in e.lower() or '.ca' in e.lower()]
+    
+    search_pool = regional_pool if regional_pool else epg_list
+
+    # 3. DIRECT SEARCH (Try exact first)
     clean_target = re.sub(r'\(.*?\)|-tv|hd|4k|[^a-z0-9\s]', '', name_lower).strip()
     
-    # 3. FUZZY MATCHING (Strict Threshold: 85)
-    match, score = process.extractOne(clean_target, epg_list, scorer=fuzz.token_set_ratio)
+    match, score = process.extractOne(clean_target, search_pool, scorer=fuzz.token_set_ratio)
     
-    return match if score >= 85 else ""
+    # 4. FALLBACK & TIMESHIFT LOGIC
+    # If we matched a 'West' channel to a generic ID, apply -3 shift
+    if score >= 80:
+        if is_west and ".west." not in match.lower():
+            shift = "-3"
+        return match, shift
+
+    return "", ""
 
 def load_epg_database():
     try:
@@ -68,15 +81,15 @@ def process_channel(name, url, genre, epg_list):
     else:
         group = genre
 
+    tvg_id, tvg_shift = find_best_epg_match(name, epg_list)
     return {
-        "name": name, "url": url, "group": group, 
-        "active": active, "tvg_id": find_best_epg_match(name, epg_list)
+        "name": name, "url": url, "group": group, "active": active, 
+        "tvg_id": tvg_id, "tvg_shift": tvg_shift
     }
 
 def main():
-    print(f"Sync started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"Sync started: {datetime.now().strftime('%H:%M:%S')}")
     epg_list = load_epg_database()
-    print(f"Loaded {len(epg_list)} EPG IDs.")
     
     try:
         r = requests.get(SOURCE_URL)
@@ -99,22 +112,22 @@ def main():
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             results = list(executor.map(lambda p: process_channel(*p, epg_list), channels))
 
-        # Output Playlist
+        # Output Playlist with tvg-shift support
         with open(M3U_FILE, "w", encoding="utf-8") as f:
             f.write(f'#EXTM3U x-tvg-url="{EPG_XML_URL}"\n')
             for res in results:
-                f.write(f'#EXTINF:-1 tvg-id="{res["tvg_id"]}" group-title="{res["group"]}",{res["name"]}\n')
+                shift_tag = f' tvg-shift="{res["tvg_shift"]}"' if res["tvg_shift"] else ""
+                f.write(f'#EXTINF:-1 tvg-id="{res["tvg_id"]}"{shift_tag} group-title="{res["group"]}",{res["name"]}\n')
                 f.write(f'{res["url"]}\n')
 
         # Output README
         with open(MD_FILE, "w", encoding="utf-8") as f:
-            f.write("# 📺 Channel Status Dashboard\n\n")
-            f.write("| Status | Channel | Group | EPG Match |\n| :---: | :--- | :--- | :--- |\n")
+            f.write("# 📺 Channel Status Dashboard\n\n| Status | Channel | Group | EPG Match | Shift |\n| :---: | :--- | :--- | :--- | :---: |\n")
             for res in results:
                 icon = "✅" if res["active"] else "❌"
-                f.write(f"| {icon} | {res['name']} | {res['group']} | `{res['tvg_id']}` |\n")
+                f.write(f"| {icon} | {res['name']} | {res['group']} | `{res['tvg_id']}` | {res['tvg_shift']} |\n")
         
-        print("Success: Playlist and Dashboard updated.")
+        print("Success.")
 
     except Exception as e:
         print(f"Error: {e}")
