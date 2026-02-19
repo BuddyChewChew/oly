@@ -7,51 +7,42 @@ from thefuzz import fuzz, process
 # --- Configuration ---
 SOURCE_URL = "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/OLY"
 EPG_XML_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# CORRECTED URL BELOW
 EPG_DATA_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.txt"
 
 M3U_FILE = "playlist.m3u"
 MD_FILE = "README.md"
 MAX_WORKERS = 30 
 
-def super_clean(text):
-    """
-    Standardizes names for matching.
-    'ABC.News.Live.us2' -> 'abcnewslive'
-    'ABC News Live' -> 'abcnewslive'
-    """
-    if not text: return ""
-    text = text.lower()
-    # Remove common EPG suffixes (.us2, .ca, etc)
-    text = re.sub(r'\.[a-z]{2,3}\d?$', '', text)
-    # Remove all non-alphanumeric characters
-    return re.sub(r'[^a-z0-9]', '', text)
-
 def find_best_epg_match(channel_name, epg_list):
     """
-    Matches playlist name to EPG ID list.
+    Two-step matching:
+    1. Naked string comparison (ignores dots/spaces).
+    2. Fuzzy matching fallback.
     """
     if not channel_name or not epg_list:
         return ""
     
-    target = super_clean(channel_name)
+    # Clean the playlist name
+    name_clean = re.sub(r'\(.*?\)', '', channel_name.lower()) # Remove (City)
+    name_clean = re.sub(r'[^a-z0-9]', '', name_clean) # Remove all symbols
     
-    # 1. Immediate match for cleaned strings
-    for original_id in epg_list:
-        if target == super_clean(original_id):
-            return original_id
-            
-    # 2. Fuzzy fallback
-    match, score = process.extractOne(target, epg_list, scorer=fuzz.token_set_ratio)
+    # 1. Direct Search: Naked comparison
+    for e_id in epg_list:
+        clean_eid = re.sub(r'[^a-z0-9]', '', e_id.lower())
+        if name_clean == clean_eid or name_clean in clean_eid:
+            return e_id
+
+    # 2. Fuzzy Search: Fallback for complex names
+    match, score = process.extractOne(channel_name, epg_list, scorer=fuzz.token_set_ratio)
     
-    return match if score > 75 else ""
+    return match if score > 65 else ""
 
 def load_epg_database():
-    """Downloads the actual epgshare01 ID list."""
+    """Downloads the ID list using a browser-like User-Agent."""
     try:
-        r = requests.get(EPG_DATA_URL, timeout=15)
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+        r = requests.get(EPG_DATA_URL, headers=headers, timeout=20)
         r.raise_for_status()
-        # Filter for valid IDs
         return [l.strip() for l in r.text.splitlines() if l.strip() and not l.startswith("--")]
     except Exception as e:
         print(f"Error loading EPG list: {e}")
@@ -59,7 +50,7 @@ def load_epg_database():
 
 def check_link(url):
     """Strict SSL connection check."""
-    headers = {'User-Agent': 'Mozilla/5.0 (VLC; Win64; x64)'}
+    headers = {'User-Agent': 'Mozilla/5.0'}
     try:
         r = requests.get(url, headers=headers, timeout=5, stream=True)
         return r.status_code < 400
@@ -69,7 +60,6 @@ def check_link(url):
 def process_channel(name, url, genre, epg_list):
     active = check_link(url)
     
-    # Rocket Grouping
     if "s.rocketdns.info:8080" in url:
         group = "Rocket"
     elif not active:
@@ -83,9 +73,9 @@ def process_channel(name, url, genre, epg_list):
     }
 
 def main():
-    print(f"Downloading EPG list from {EPG_DATA_URL}...")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Downloading EPG database...")
     epg_list = load_epg_database()
-    print(f"Loaded {len(epg_list)} EPG IDs.")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Loaded {len(epg_list)} EPG IDs.")
     
     try:
         r = requests.get(SOURCE_URL)
@@ -105,7 +95,7 @@ def main():
                 name, url = l.split(",", 1)
                 channels.append((name.strip(), url.strip(), current_genre))
 
-        print(f"Processing {len(channels)} channels...")
+        print(f"[{datetime.now().strftime('%H:%M:%S')}] Processing {len(channels)} channels...")
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             results = list(executor.map(lambda p: process_channel(*p, epg_list), channels))
 
@@ -116,7 +106,7 @@ def main():
                 f.write(f'#EXTINF:-1 tvg-id="{res["tvg_id"]}" group-title="{res["group"]}",{res["name"]}\n')
                 f.write(f'{res["url"]}\n')
 
-        # Build README Dashboard
+        # Build README
         with open(MD_FILE, "w", encoding="utf-8") as f:
             f.write("# 📺 Channel Status Dashboard\n\n")
             f.write(f"**Last Update:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n")
@@ -125,7 +115,7 @@ def main():
                 icon = "✅" if res["active"] else "❌"
                 f.write(f"| {icon} | {res['name']} | {res['group']} | `{res['tvg_id']}` |\n")
         
-        print("Playlist and Dashboard successfully updated.")
+        print(f"[{datetime.now().strftime('%H:%M:%S')}] Successfully updated all files.")
 
     except Exception as e:
         print(f"Critical Error: {e}")
