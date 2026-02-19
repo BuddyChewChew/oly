@@ -1,6 +1,6 @@
 # 📺 Channel Status Dashboard
 
-**Last Update:** 2026-02-19 00:17:31 UTC
+**Last Update:** 2026-02-19 01:07:29 UTC
 
 | Status | Channel | Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -31,7 +31,7 @@
 | ✅ | KXTV-TV ABC 10 (Sacramento CA) | Rocket | `ABC.TV.cz` |
 | ✅ | KOVR-TV CBS 13 (Stockton/Sacramento CA) | Rocket | `13.tv.cz` |
 | ✅ | KTXL-TV FOX 40 (Sacramento CA) | Rocket | `FOX.cz` |
-| ❌ | KMAX-TV CW 31 (Sacramento CA) | Rocket | `` |
+| ✅ | KMAX-TV CW 31 (Sacramento CA) | Rocket | `` |
 | ✅ | KSEE-TV NBC 24 (Fresno CA) | Rocket | `24.TV.al` |
 | ✅ | KMPH-TV FOX 26 (Fresno CA) | Rocket | `26.TV.uy` |
 | ✅ | KFSN-TV ABC 30 (Fresno CA) | Rocket | `ABC.TV.cz` |
@@ -141,7 +141,7 @@
 | ✅ | KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX) | Rocket | `TV.4.al` |
 | ❌ | KDFW-TV FOX 4 (Ft. Worth/Dallas TX) | Rocket | `ÃÄ°FTÃÄ°.TV.tr` |
 | ✅ | KXAS-TV NBC 5 (Ft. Worth/Dallas TX) | Rocket | `plex.tv.NBC.5.Dallas.Fort.Worth.News.plex` |
-| ❌ | WFAA-TV ABC 8 (Ft. Worth/Dallas TX) | Rocket | `ABC.TV.cz` |
+| ✅ | WFAA-TV ABC 8 (Ft. Worth/Dallas TX) | Rocket | `ABC.TV.cz` |
 | ✅ | KTVT-TV CBS 11 (Ft. Worth/Dallas TX) | Rocket | `ÃÄ°FTÃÄ°.TV.tr` |
 | ✅ | KTXA-TV Ind. 21 (Ft. Worth/Dallas TX) | Rocket | `ÃÄ°FTÃÄ°.TV.tr` |
 | ✅ | KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX) | Rocket | `ÃÄ°FTÃÄ°.TV.tr` |
@@ -312,7 +312,7 @@
 | ✅ | WOIO CBS 19 (Cleveland OH) | Rocket | `` |
 | ✅ | WLWT-TV NBC 5 (Cincinnati OH) | Rocket | `TV.5.cy` |
 | ✅ | WCPO-TV ABC 9 (Cincinnati OH) | Rocket | `ABC.TV.cz` |
-| ✅ | WKRC-TV CBS 12 (Cincinnati OH) | Rocket | `` |
+| ❌ | WKRC-TV CBS 12 (Cincinnati OH) | Rocket | `` |
 | ✅ | WSTR-TV MyNetworkTV 64 (Cincinnati OH) | Rocket | `` |
 | ✅ | WDTN-TV NBC 2 (Dayton OH) | Rocket | `TV.2.dk` |
 | ✅ | WHIO-TV CBS 7 (Dayton OH) | Rocket | `` |
@@ -598,12 +598,12 @@
 | ✅ | The Weather Channel+ | Weather News | `The.Weather.Channel.HD.us2` |
 | ✅ | WeatherNation | Weather News | `Weather.Nation.TV.HD.us2` |
 | ✅ | Weather Spy | Weather News | `plex.tv.WeatherSpy.plex` |
-| ✅ | Create | Local Public Broadcast | `Create.and.CraftHD.uk` |
-| ✅ | NHK World | Local Public Broadcast | `NHK.World.Japan.ae` |
-| ✅ | PBS World | Local Public Broadcast | `KBS.Worldãéæµå°éãã£ã³ãã«.jp` |
-| ✅ | FNX | Local Public Broadcast | `FNX.First.Nations.Experience.us2` |
-| ✅ | PBS National (West) | Local Public Broadcast | `PTV.National.pk` |
-| ✅ | PBS National (East) | Local Public Broadcast | `DD.National.in` |
+| ❌ | Create | Offline | `Create.and.CraftHD.uk` |
+| ❌ | NHK World | Offline | `NHK.World.Japan.ae` |
+| ❌ | PBS World | Offline | `KBS.Worldãéæµå°éãã£ã³ãã«.jp` |
+| ❌ | FNX | Offline | `FNX.First.Nations.Experience.us2` |
+| ❌ | PBS National (West) | Offline | `PTV.National.pk` |
+| ❌ | PBS National (East) | Offline | `DD.National.in` |
 | ✅ | PBS Retro | Local Public Broadcast | `plex.tv.PBS.Retro.plex` |
 | ✅ | WVIZ-DT 25.2 The Ohio Channel (Cleveland OH) | Local Public Broadcast | `The.God.Channel.ie` |
 | ✅ | WOSU-TV PBS 34 (Columbus OH) | Rocket | `` |
@@ -628,8 +628,8 @@
 | ✅ | WXXI-TV PBS 21 (Rochester NY) | Rocket | `` |
 | ✅ | WEDH-TV P-CPTV PBS 24 (Hartfort CT) | Rocket | `24.TV.al` |
 | ❌ | WETA-TV WETA PBS 26.1 (Washington DC) | Rocket | `26.TV.uy` |
-| ✅ | WETA-DT WETA UK 26.2 (Washington DC) | Local Public Broadcast | `` |
-| ✅ | WETA-DT PBS Metro 26.5 (Washington DC) | Local Public Broadcast | `METRO.pl` |
+| ❌ | WETA-DT WETA UK 26.2 (Washington DC) | Offline | `` |
+| ❌ | WETA-DT PBS Metro 26.5 (Washington DC) | Offline | `METRO.pl` |
 | ✅ | WHUT-TV PBS 32 (Washington DC) | Rocket | `` |
 | ✅ | WMPB-TV MPT PBS 67 (Baltimore MD) | Local Public Broadcast | `` |
 | ✅ | WMPT-TV MPT PBS 22 (Annapolis MD) | Local Public Broadcast | `` |
@@ -643,7 +643,7 @@
 | ✅ | KLRN-TV PBS 9 (San Antonio TX) | Rocket | `plex.tv.Local.Now.San.Antonio.plex` |
 | ✅ | KERA-TV PBS 13 (Ft. Worth/Dallas TX) | Rocket | `13.tv.cz` |
 | ✅ | KQED-TV PBS 9.1 (San Francisco CA) | Rocket | `` |
-| ✅ | KQED-DT KQED+ PBS 9.2 (San Francisco CA) | Local Public Broadcast | `` |
+| ❌ | KQED-DT KQED+ PBS 9.2 (San Francisco CA) | Offline | `` |
 | ✅ | KVIE-TV PBS 6 (Sacramento CA) | Rocket | `6.TV.in` |
 | ✅ | KUED-TV Utah PBS 7 (Salt Lake City UT) | Rocket | `City.TV.co` |
 | ✅ | KOPB-TV PBS 10 (Portland OR) | Rocket | `10.TV.in` |
@@ -945,7 +945,7 @@
 | ✅ | KUVS-TV Univision 19 (Modesto/Sacramento CA) | Rocket | `UNIVISION.HD.uy` |
 | ✅ | KVEA-TV Telemundo 52 (Corona/Los Angeles CA) | Rocket | `Telemundo.co` |
 | ✅ | KXLN-TV Univision 45 (Houston TX) | Latino (Spanish) | `UNIVISION.HD.uy` |
-| ❌ | KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX) | Rocket | `Telemundo.co` |
+| ✅ | KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX) | Rocket | `Telemundo.co` |
 | ✅ | Latin Hola TV | Rocket | `Â¡Hola!.TV.co` |
 | ✅ | LATV | Latino (Spanish) | `Adala.TV.HD.ae` |
 | ✅ | Mega TV | Rocket | `SÃ£o.Paulo/SP..Mega.TV.br` |
@@ -979,7 +979,7 @@
 | ✅ | Telesur | Latino (Spanish) | `teleSUR.ch` |
 | ❌ | Tlaxcala Televisión | Offline | `+TELEVISIÃN.HD.uy` |
 | ✅ | TLN (TeleLatino) (East) (Canada) | Rocket | `Canal.TLNovelas.(Argentina).ar` |
-| ❌ | TLN (TeleLatino) (West) (Canada) | Rocket | `Canal.TLNovelas.(Argentina).ar` |
+| ✅ | TLN (TeleLatino) (West) (Canada) | Rocket | `Canal.TLNovelas.(Argentina).ar` |
 | ✅ | TV 4.1 | Latino (Spanish) | `ITV4+1.uk` |
 | ❌ | TV 4.2 | Offline | `Canal.Extra.TV.42.de.Costa.Rica.cr` |
 | ✅ | TV 4.3 | Latino (Spanish) | `TV.4.al` |
@@ -1013,7 +1013,7 @@
 | ✅ | WNJU-TV Telemundo 47 (New York NY) | Rocket | `Telemundo.co` |
 | ❌ | WQHS-DT UniMás 61.2 (Cleveland OH) | Offline | `` |
 | ❌ | WQHS-TV Univision 61.1 (Cleveland OH) | Rocket | `UNIVISION.HD.uy` |
-| ❌ | WRMD-CD Telemundo 49 (Tampa FL) | Rocket | `Telemundo.co` |
+| ✅ | WRMD-CD Telemundo 49 (Tampa FL) | Rocket | `Telemundo.co` |
 | ✅ | WRUA-DT1 Tiva TV 34 (Puerto Rico) | Latino (Spanish) | `Canal.6.de.Puerto.Rico.(WIPR-TV).sv` |
 | ✅ | WSCV-TV Telemundo 51 (Miami FL) | Rocket | `Telemundo.co` |
 | ✅ | WSNS-TV Telemundo 44 (Chicago IL) | Rocket | `×â×× ×××¨.il` |
@@ -1135,7 +1135,7 @@
 | ✅ | Nickelodeon (West) | Rocket | `Nickelodeon.at` |
 | ✅ | Nickelodeon 90's Kids (Pluto TV) | Children Channels | `Nickelodeon.at` |
 | ✅ | Nickelodeon 90's Kids 2 (Pluto TV) | Children Channels | `Nickelodeon.at` |
-| ❌ | Nicktoons | Rocket | `Nicktoons.at` |
+| ✅ | Nicktoons | Rocket | `Nicktoons.at` |
 | ✅ | PBS Kids (Alaska) | Children Channels | `PBS.KIDS.HD.us2` |
 | ✅ | PBS Kids (Eastern) | Children Channels | `PBS.KIDS.HD.us2` |
 | ✅ | PBS Kids (Hawaii) | Children Channels | `PBS.KIDS.HD.us2` |
@@ -1334,7 +1334,7 @@
 | ✅ | MTV 2 (West) | Rocket | `MTV2:.Music.Television.HD.us2` |
 | ✅ | MTV Classic (West) | Rocket | `MTV.Classic.us2` |
 | ❌ | MTV Live | Offline | `Canal.MTV.Live.HD.ar` |
-| ✅ | MTV Yo! (Pluto) | Network Channels | `Club.MTV.ro` |
+| ❌ | MTV Yo! (Pluto) | Offline | `Club.MTV.ro` |
 | ✅ | MyTime Movie Network | Network Channels | `plex.tv.MyTime.Movie.Network.plex` |
 | ✅ | NBC LX Home | Network Channels | `plex.tv.LX.Home.Streaming.plex` |
 | ✅ | Non-Stop 90's | Network Channels | `plex.tv.Non-Stop.`90s.plex` |
@@ -1538,7 +1538,7 @@
 | ✅ | NBA TV | Rocket | `NBA.TV.Canada.HD.ca2` |
 | ✅ | NBC Golf Channel | Rocket | `Golf.Channel.cz` |
 | ✅ | NBC Golf Pass | Sports | `GOLF+.ch` |
-| ✅ | NBC Peacock Premier League TV | Sports | `Premier.League.TV.HD.(RS).rs` |
+| ❌ | NBC Peacock Premier League TV | Offline | `Premier.League.TV.HD.(RS).rs` |
 | ✅ | NBC Sports (Bay Area) | Sports | `plex.tv.NBC.Sports.NOW.plex` |
 | ✅ | NBC Sports (Boston) | Sports | `plex.tv.NBC.Sports.NOW.plex` |
 | ✅ | NBC Sports (California) | Sports | `plex.tv.NBC.Sports.NOW.plex` |
@@ -1575,7 +1575,7 @@
 | ✅ | Right Now TV | Sports | `Right.Now.Tv.distro` |
 | ✅ | SEC Network ESPN | Rocket | `SEC.Network.HD.us2` |
 | ✅ | Space City Home Network | Sports | `Space.City.Home.Network.HD.us2` |
-| ✅ | Spectrum Sports | Rocket | `Spectrum.SportsNet.LA.Dodgers.HD.us2` |
+| ❌ | Spectrum Sports | Rocket | `Spectrum.SportsNet.LA.Dodgers.HD.us2` |
 | ✅ | Spectrum Sports Encore | Rocket | `Sports.1.gr` |
 | ✅ | Spectrum SportsNet LA | Sports | `Spectrum.SportsNet.LA.Dodgers.HD.us2` |
 | ✅ | Spectrum Sportsnet Lakers | Rocket | `Spectrum.SportsNet.Lakers.HD.us2` |
@@ -2280,7 +2280,7 @@
 | ❌ | AHC (American Heroes Channel) (Canada) | Rocket | `KAHC-LD.us_locals1` |
 | ✅ | AMC (Canada) | Rocket | `Dream.Cinema.ae` |
 | ✅ | APTN (Canada) | Rocket | `APTN.Languages.ca2` |
-| ✅ | BBC Earth (Canada) | Rocket | `BBCEarth.au` |
+| ❌ | BBC Earth (Canada) | Rocket | `BBCEarth.au` |
 | ✅ | BBC World News (Canada) | Canadian Channels | `BBC.World.News.ae` |
 | ✅ | beIN Sports 1 (Canada) | Rocket | `beINSports1.au` |
 | ✅ | beIN Sports 2 (Canada) | Rocket | `beINSports2.au` |
@@ -2370,7 +2370,7 @@
 | ✅ | Game Show Network (Canada) | Canadian Channels | `Game.Show.Network.ca2` |
 | ❌ | Game TV (Canada) | Rocket | `GameTV.Canada.ca2` |
 | ✅ | Game+ (Canada) | Canadian Channels | `GAME.10.ca2` |
-| ❌ | Ginx esports TV (Canada) | Rocket | `GINX.eSports.TV.fr` |
+| ✅ | Ginx esports TV (Canada) | Rocket | `GINX.eSports.TV.fr` |
 | ❌ | Global Calgary (Canada) | Rocket | `Global.Calgary.ca2` |
 | ✅ | Global Durham (CHEX-DT-2) (Canada) | Rocket | `Global.Durham.ca2` |
 | ✅ | Global Edmonton (Canada) | Canadian Channels | `Global.Edmonton.ca2` |
@@ -2493,7 +2493,7 @@
 | ✅ | Bloomberg (UK) | UK Channels | `Bloomberg.TV.at` |
 | ✅ | Boomerang (UK) | UK Channels | `Boomerang.Network.Canada.ca2` |
 | ✅ | Cartoon Network (UK) | UK Channels | `Canal.Cartoon.Network.(Argentina).ar` |
-| ✅ | Challenge (UK) | Rocket | `Challenge.ch` |
+| ❌ | Challenge (UK) | Rocket | `Challenge.ch` |
 | ❌ | Channel 4 (UK) | Offline | `Channel.4.ch` |
 | ❌ | Channel 4 Seven (UK) | Offline | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Offline | `Channel.5.ch` |
@@ -2609,7 +2609,7 @@
 | ✅ | TNT Sports 2 (UK) | Rocket | `TNT.Sports.2.HD.ie` |
 | ✅ | TNT Sports 3 (UK) | Rocket | `TNT.Sports.3.HD.ie` |
 | ✅ | TNT Sports 4 (UK) | Rocket | `TNT.Sports.4.HD.ie` |
-| ❌ | TNT Sports Ultimate 4K (UK) | Offline | `TNT.Sports.Ultimate.uk` |
+| ✅ | TNT Sports Ultimate 4K (UK) | UK Channels | `TNT.Sports.Ultimate.uk` |
 | ✅ | Travel Channel (UK) | Rocket | `TravelChannel.au` |
 | ✅ | True Crime (UK) | UK Channels | `TrueCrimeNow.au` |
 | ✅ | True Crime Xtra (UK) | UK Channels | `True.Crime.Xtra.ie` |

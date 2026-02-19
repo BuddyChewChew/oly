@@ -1187,17 +1187,17 @@ https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be
 https://live1009.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="plex.tv.WeatherSpy.plex" group-title="Weather News",Weather Spy
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="Create.and.CraftHD.uk" group-title="Local Public Broadcast",Create
+#EXTINF:-1 tvg-id="Create.and.CraftHD.uk" group-title="Offline",Create
 https://cors-proxy.cooks.fyi/https://create.lls.pbs.org/index_1080p.m3u8
-#EXTINF:-1 tvg-id="NHK.World.Japan.ae" group-title="Local Public Broadcast",NHK World
+#EXTINF:-1 tvg-id="NHK.World.Japan.ae" group-title="Offline",NHK World
 https://cors-proxy.cooks.fyi/https://nhk.lls.pbs.org/index_1080p.m3u8
-#EXTINF:-1 tvg-id="KBS.Worldãéæµå°éãã£ã³ãã«.jp" group-title="Local Public Broadcast",PBS World
+#EXTINF:-1 tvg-id="KBS.Worldãéæµå°éãã£ã³ãã«.jp" group-title="Offline",PBS World
 https://cors-proxy.cooks.fyi/https://world.lls.pbs.org/index_1080p.m3u8
-#EXTINF:-1 tvg-id="FNX.First.Nations.Experience.us2" group-title="Local Public Broadcast",FNX
+#EXTINF:-1 tvg-id="FNX.First.Nations.Experience.us2" group-title="Offline",FNX
 https://cors-proxy.cooks.fyi/https://fnx.lls.pbs.org/index_1080p.m3u8
-#EXTINF:-1 tvg-id="PTV.National.pk" group-title="Local Public Broadcast",PBS National (West)
+#EXTINF:-1 tvg-id="PTV.National.pk" group-title="Offline",PBS National (West)
 https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/pst/index_1080p.m3u8
-#EXTINF:-1 tvg-id="DD.National.in" group-title="Local Public Broadcast",PBS National (East)
+#EXTINF:-1 tvg-id="DD.National.in" group-title="Offline",PBS National (East)
 https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/est/index_1080p.m3u8
 #EXTINF:-1 tvg-id="plex.tv.PBS.Retro.plex" group-title="Local Public Broadcast",PBS Retro
 https://jmp2.uk/rok-34335ef32c02519d897664a78767cc59.m3u8
@@ -1247,9 +1247,9 @@ http://s.rocketdns.info:8080/live/52748969/72335180/470320.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/470369.ts
 #EXTINF:-1 tvg-id="26.TV.uy" group-title="Rocket",WETA-TV WETA PBS 26.1 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/470368.ts
-#EXTINF:-1 tvg-id="" group-title="Local Public Broadcast",WETA-DT WETA UK 26.2 (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Offline",WETA-DT WETA UK 26.2 (Washington DC)
 https://cors-proxy.cooks.fyi/https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8
-#EXTINF:-1 tvg-id="METRO.pl" group-title="Local Public Broadcast",WETA-DT PBS Metro 26.5 (Washington DC)
+#EXTINF:-1 tvg-id="METRO.pl" group-title="Offline",WETA-DT PBS Metro 26.5 (Washington DC)
 https://cors-proxy.cooks.fyi/https://wetadt5.lls.pbs.org/wetadt5-cmaf-hls.m3u8
 #EXTINF:-1 tvg-id="" group-title="Rocket",WHUT-TV PBS 32 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/446804.ts
@@ -1277,7 +1277,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/470293.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/597132.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket",KQED-TV PBS 9.1 (San Francisco CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/446801.ts
-#EXTINF:-1 tvg-id="" group-title="Local Public Broadcast",KQED-DT KQED+ PBS 9.2 (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Offline",KQED-DT KQED+ PBS 9.2 (San Francisco CA)
 https://cors-proxy.cooks.fyi/https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
 #EXTINF:-1 tvg-id="6.TV.in" group-title="Rocket",KVIE-TV PBS 6 (Sacramento CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/470374.ts
@@ -2659,7 +2659,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/89987.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/57969.ts
 #EXTINF:-1 tvg-id="Canal.MTV.Live.HD.ar" group-title="Offline",MTV Live
 http://fl2.moveonjoy.com/MTV_LIVE/mpegts
-#EXTINF:-1 tvg-id="Club.MTV.ro" group-title="Network Channels",MTV Yo! (Pluto)
+#EXTINF:-1 tvg-id="Club.MTV.ro" group-title="Offline",MTV Yo! (Pluto)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="plex.tv.MyTime.Movie.Network.plex" group-title="Network Channels",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
@@ -3067,7 +3067,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/3667.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/2385.ts
 #EXTINF:-1 tvg-id="GOLF+.ch" group-title="Sports",NBC Golf Pass
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993009/hls/master.m3u8?ads.xumo_channelId=99993009
-#EXTINF:-1 tvg-id="Premier.League.TV.HD.(RS).rs" group-title="Sports",NBC Peacock Premier League TV
+#EXTINF:-1 tvg-id="Premier.League.TV.HD.(RS).rs" group-title="Offline",NBC Peacock Premier League TV
 https://a1xs.vip/1100021
 #EXTINF:-1 tvg-id="plex.tv.NBC.Sports.NOW.plex" group-title="Sports",NBC Sports (Bay Area)
 http://kstv.us:8080/live/N427DpynGE/7049166651/28744.ts
@@ -5209,7 +5209,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/2336.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/2335.ts
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.ie" group-title="Rocket",TNT Sports 4 (UK)
 http://s.rocketdns.info:8080/live/52748969/72335180/675021.ts
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" group-title="Offline",TNT Sports Ultimate 4K (UK)
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" group-title="UK Channels",TNT Sports Ultimate 4K (UK)
 https://a1xs.vip/2000031
 #EXTINF:-1 tvg-id="TravelChannel.au" group-title="Rocket",Travel Channel (UK)
 http://s.rocketdns.info:8080/live/52748969/72335180/2159.ts
