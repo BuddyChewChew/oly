@@ -1,490 +1,490 @@
-# 📺 Final Multi-Source Dashboard
+# 📺 Call-Sign Matched Dashboard
 
 | Status | Channel | Group | EPG Match |
 | :---: | :--- | :--- | :--- |
-| ✅ | KCBS-TV CBS 2 (Los Angeles CA) | Rocket | `` |
-| ✅ | KNBC-TV NBC 4 (Los Angeles CA) | Rocket | `` |
-| ✅ | KTLA-TV CW 5 (Los Angeles CA) | Rocket | `` |
-| ✅ | KABC-TV ABC 7 (Los Angeles CA) | Rocket | `` |
-| ✅ | KCAL-TV CBS/Ind. 9 (Los Angeles CA) | Rocket | `KCAL-TV.us` |
-| ✅ | KTTV-TV FOX 11 (Los Angeles CA) | Rocket | `` |
-| ✅ | KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA) | Rocket | `` |
-| ✅ | KSWB-TV FOX 5/69 (San Diego CA) | Rocket | `` |
-| ✅ | KNSD-TV NBC 7/39 (San Diego CA) | Rocket | `` |
-| ✅ | KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA) | Rocket | `` |
-| ✅ | KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA) | Rocket | `` |
-| ✅ | KGTV-TV ABC 10 (San Diego CA) | Rocket | `` |
-| ✅ | KUSI-TV Ind. 51 (San Diego CA) | Rocket | `` |
-| ✅ | KESQ-TV ABC 3 (Palm Springs CA) | Local Channels (Not 24/7) | `` |
-| ✅ | KDFX-CA FOX 11/33 (Palm Springs CA) | Rocket | `` |
-| ✅ | KMIR-TV NBC 36 (Palm Springs CA) | Rocket | `` |
-| ✅ | KTVU-TV FOX 2 (San Francisco CA) | Rocket | `` |
-| ✅ | KRON-TV CW 4 (San Francisco CA) | Rocket | `` |
-| ✅ | KPIX-TV CBS 5 (San Francisco CA) | Local Channels (Not 24/7) | `` |
+| ✅ | KCBS-TV CBS 2 (Los Angeles CA) | Rocket | `KCBS-DT.us_locals1` |
+| ✅ | KNBC-TV NBC 4 (Los Angeles CA) | Rocket | `KNBC-DT.us_locals1` |
+| ✅ | KTLA-TV CW 5 (Los Angeles CA) | Rocket | `KTLA-DT.us_locals1` |
+| ✅ | KABC-TV ABC 7 (Los Angeles CA) | Rocket | `KABC-DT.us_locals1` |
+| ✅ | KCAL-TV CBS/Ind. 9 (Los Angeles CA) | Rocket | `KCAL-DT.us_locals1` |
+| ✅ | KTTV-TV FOX 11 (Los Angeles CA) | Rocket | `KTTV-DT.us_locals1` |
+| ✅ | KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA) | Rocket | `KCOP-DT.us_locals1` |
+| ✅ | KSWB-TV FOX 5/69 (San Diego CA) | Rocket | `KSWB-DT.us_locals1` |
+| ✅ | KNSD-TV NBC 7/39 (San Diego CA) | Rocket | `KNSD-DT.us_locals1` |
+| ✅ | KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA) | Rocket | `KFMB-DT.us_locals1` |
+| ✅ | KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA) | Rocket | `KFMB-DT.us_locals1` |
+| ✅ | KGTV-TV ABC 10 (San Diego CA) | Rocket | `KGTV-DT.us_locals1` |
+| ✅ | KUSI-TV Ind. 51 (San Diego CA) | Rocket | `KUSI-DT.us_locals1` |
+| ✅ | KESQ-TV ABC 3 (Palm Springs CA) | Local Channels (Not 24/7) | `KESQ-DT3.us_locals1` |
+| ✅ | KDFX-CA FOX 11/33 (Palm Springs CA) | Rocket | `KDFX-CD.us_locals1` |
+| ✅ | KMIR-TV NBC 36 (Palm Springs CA) | Rocket | `KMIR-DT.us_locals1` |
+| ✅ | KTVU-TV FOX 2 (San Francisco CA) | Rocket | `KTVU-DT.us_locals1` |
+| ✅ | KRON-TV CW 4 (San Francisco CA) | Rocket | `KRON-DT.us_locals1` |
+| ✅ | KPIX-TV CBS 5 (San Francisco CA) | Local Channels (Not 24/7) | `KPIX-DT.us_locals1` |
 | ✅ | KGO-TV ABC 7 (San Francisco CA) | Rocket | `` |
-| ✅ | KNTV-TV NBC 10 (San Francisco CA) | Rocket | `` |
-| ✅ | KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA) | Rocket | `` |
-| ✅ | KPYX-TV/KBCW-TV Ind. 44 (KPIX+) (San Francisco CA) | Rocket | `` |
-| ✅ | KCRA-TV NBC 3 (Sacramento CA) | Rocket | `` |
-| ✅ | KXTV-TV ABC 10 (Sacramento CA) | Rocket | `` |
-| ✅ | KOVR-TV CBS 13 (Stockton/Sacramento CA) | Rocket | `` |
-| ✅ | KTXL-TV FOX 40 (Sacramento CA) | Rocket | `` |
-| ✅ | KMAX-TV CW 31 (Sacramento CA) | Rocket | `` |
-| ✅ | KSEE-TV NBC 24 (Fresno CA) | Rocket | `` |
-| ✅ | KMPH-TV FOX 26 (Fresno CA) | Rocket | `` |
-| ✅ | KFSN-TV ABC 30 (Fresno CA) | Rocket | `` |
-| ✅ | KGPE-TV CBS 47 (Fresno CA) | Rocket | `` |
-| ❌ | KNXT-TV MyNetworkTV 53 (Fresno CA) | Offline | `` |
+| ✅ | KNTV-TV NBC 10 (San Francisco CA) | Rocket | `KNTV-DT.us_locals1` |
+| ✅ | KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA) | Rocket | `KICU-DT.us_locals1` |
+| ✅ | KPYX-TV/KBCW-TV Ind. 44 (KPIX+) (San Francisco CA) | Rocket | `KPYX-DT.us_locals1` |
+| ✅ | KCRA-TV NBC 3 (Sacramento CA) | Rocket | `KCRA-DT.us_locals1` |
+| ✅ | KXTV-TV ABC 10 (Sacramento CA) | Rocket | `KXTV-DT.us_locals1` |
+| ✅ | KOVR-TV CBS 13 (Stockton/Sacramento CA) | Rocket | `KOVR-DT.us_locals1` |
+| ✅ | KTXL-TV FOX 40 (Sacramento CA) | Rocket | `KTXL-DT.us_locals1` |
+| ✅ | KMAX-TV CW 31 (Sacramento CA) | Rocket | `KMAX-DT.us_locals1` |
+| ✅ | KSEE-TV NBC 24 (Fresno CA) | Rocket | `KSEE-DT.us_locals1` |
+| ✅ | KMPH-TV FOX 26 (Fresno CA) | Rocket | `KMPH-CD.us_locals1` |
+| ✅ | KFSN-TV ABC 30 (Fresno CA) | Rocket | `KFSN-DT.us_locals1` |
+| ✅ | KGPE-TV CBS 47 (Fresno CA) | Rocket | `KGPE-DT.us_locals1` |
+| ❌ | KNXT-TV MyNetworkTV 53 (Fresno CA) | Offline | `KNXT-LD.us_locals1` |
 | ✅ | WFRE-TV CW 59 (Fresno CA) | Rocket | `` |
-| ✅ | KGET-TV NBC 17 (Bakerfield CA) | Rocket | `` |
-| ✅ | KERO-TV ABC 23 (Bakerfield CA) | Rocket | `` |
-| ✅ | KBAK-TV CBS 29 (Bakerfield CA) | Rocket | `` |
-| ✅ | KBFX-CD FOX 58 (Bakerfield CA) | Rocket | `` |
-| ✅ | KEYT-TV ABC 3 (Santa Barbara CA) | Rocket | `` |
-| ✅ | KION-TV CBS 5/46 (Monterey CA) | Rocket | `` |
-| ✅ | WCBS-TV CBS 2 (New York NY) | Rocket | `CBS.West.us2` |
-| ✅ | WNBC-TV NBC 4 (New York NY) | Rocket | `` |
-| ✅ | WNYW-TV FOX 5 (New York NY) | Rocket | `` |
-| ✅ | WABC-TV ABC 7 (New York NY) | Rocket | `` |
-| ✅ | WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY) | Rocket | `` |
-| ✅ | WPIX-TV CW 11 (PIX 11+) (New York NY) | Rocket | `` |
-| ✅ | WLNY-TV CBS/Ind. 10/55 (New York NY) | Rocket | `` |
-| ✅ | WBBM-TV CBS 2 (Chicago IL) | Rocket | `` |
-| ✅ | WMAQ-TV NBC 5 (Chicago IL) | Rocket | `` |
+| ✅ | KGET-TV NBC 17 (Bakerfield CA) | Rocket | `KGET-DT.us_locals1` |
+| ✅ | KERO-TV ABC 23 (Bakerfield CA) | Rocket | `KERO-DT.us_locals1` |
+| ✅ | KBAK-TV CBS 29 (Bakerfield CA) | Rocket | `KBAK-DT.us_locals1` |
+| ✅ | KBFX-CD FOX 58 (Bakerfield CA) | Rocket | `KBFX-CD.us_locals1` |
+| ✅ | KEYT-TV ABC 3 (Santa Barbara CA) | Rocket | `KEYT-DT2.us_locals1` |
+| ✅ | KION-TV CBS 5/46 (Monterey CA) | Rocket | `KION-DT.us_locals1` |
+| ✅ | WCBS-TV CBS 2 (New York NY) | Rocket | `WCBS-DT.us_locals1` |
+| ✅ | WNBC-TV NBC 4 (New York NY) | Rocket | `WNBC-DT.us_locals1` |
+| ✅ | WNYW-TV FOX 5 (New York NY) | Rocket | `WNYW-DT.us_locals1` |
+| ✅ | WABC-TV ABC 7 (New York NY) | Rocket | `WABC-DT.us_locals1` |
+| ✅ | WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY) | Rocket | `WWOR-DT.us_locals1` |
+| ✅ | WPIX-TV CW 11 (PIX 11+) (New York NY) | Rocket | `WPIX-DT.us_locals1` |
+| ✅ | WLNY-TV CBS/Ind. 10/55 (New York NY) | Rocket | `WLNY-DT.us_locals1` |
+| ✅ | WBBM-TV CBS 2 (Chicago IL) | Rocket | `WBBM-DT.us_locals1` |
+| ✅ | WMAQ-TV NBC 5 (Chicago IL) | Rocket | `WMAQ-DT.us_locals1` |
 | ✅ | WLS-TV ABC 7 (Chicago IL) | Rocket | `` |
 | ✅ | WGN-TV CW 9 (Chicago IL) | Rocket | `` |
-| ✅ | WFLD-TV FOX 32 (Chicago IL) | Rocket | `` |
-| ✅ | WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL) | Rocket | `` |
-| ✅ | WJBK-TV FOX 2 (Detroit MI) | Rocket | `` |
-| ✅ | WDIV-TV NBC 4 (Detroit MI) | Rocket | `` |
-| ❌ | WXYZ-TV ABC 7 (Detroit MI) | Offline | `` |
-| ✅ | WKBD-TV CW 50 (Detroit MI) | Rocket | `` |
+| ✅ | WFLD-TV FOX 32 (Chicago IL) | Rocket | `WFLD-DT.us_locals1` |
+| ✅ | WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL) | Rocket | `WPWR-DT.us_locals1` |
+| ✅ | WJBK-TV FOX 2 (Detroit MI) | Rocket | `WJBK-DT.us_locals1` |
+| ✅ | WDIV-TV NBC 4 (Detroit MI) | Rocket | `WDIV-DT.us_locals1` |
+| ❌ | WXYZ-TV ABC 7 (Detroit MI) | Offline | `WXYZ-DT.us_locals1` |
+| ✅ | WKBD-TV CW 50 (Detroit MI) | Rocket | `WKBD-DT.us_locals1` |
 | ✅ | WWJ-TV CBS 62 (Detroit MI) | Rocket | `` |
-| ✅ | WCCO-TV CBS 4 (Minneapolis/St. Paul MN) | Rocket | `` |
-| ✅ | KSTP-TV ABC 5 (Minneapolis/St. Paul MN) | Rocket | `` |
-| ✅ | KMSP-TV FOX 9 (Minneapolis/St. Paul MN) | Rocket | `` |
-| ✅ | KARE-TV NBC 11 (Minneapolis/St. Paul MN) | Rocket | `` |
-| ✅ | WUCW-TV CW 23 (Minneapolis/St. Paul MN) | Rocket | `` |
-| ✅ | WFTC-TV MyNetworkTV 29 (FOX 9+) (Minneapolis/St. Paul MN) | Rocket | `` |
+| ✅ | WCCO-TV CBS 4 (Minneapolis/St. Paul MN) | Rocket | `WCCO-DT.us_locals1` |
+| ✅ | KSTP-TV ABC 5 (Minneapolis/St. Paul MN) | Rocket | `KSTP-DT.us_locals1` |
+| ✅ | KMSP-TV FOX 9 (Minneapolis/St. Paul MN) | Rocket | `KMSP-DT.us_locals1` |
+| ✅ | KARE-TV NBC 11 (Minneapolis/St. Paul MN) | Rocket | `KARE-DT.us_locals1` |
+| ✅ | WUCW-TV CW 23 (Minneapolis/St. Paul MN) | Rocket | `WUCW-DT.us_locals1` |
+| ✅ | WFTC-TV MyNetworkTV 29 (FOX 9+) (Minneapolis/St. Paul MN) | Rocket | `WFTC-DT.us_locals1` |
 | ✅ | KYW-TV CBS 3 (Philadelphia PA) | Rocket | `` |
-| ✅ | WPVI-TV ABC 6 (Philadelphia PA) | Rocket | `` |
-| ✅ | WCAU-TV NBC 10 (Philadelphia PA) | Rocket | `` |
+| ✅ | WPVI-TV ABC 6 (Philadelphia PA) | Rocket | `WPVI-DT.us_locals1` |
+| ✅ | WCAU-TV NBC 10 (Philadelphia PA) | Rocket | `WCAU-DT.us_locals1` |
 | ✅ | WHPL-TV CW 17 (Philadelphia PA) | Rocket | `` |
-| ✅ | WTXF-TV FOX 29 (Philadelphia PA) | Rocket | `` |
-| ✅ | WPSG-TV Ind. Philly 57 (Philadelphia PA) | Rocket | `` |
+| ✅ | WTXF-TV FOX 29 (Philadelphia PA) | Rocket | `WTXF-DT.us_locals1` |
+| ✅ | WPSG-TV Ind. Philly 57 (Philadelphia PA) | Rocket | `WPSG-DT.us_locals1` |
 | ✅ | WBZ-TV CBS 4 (Boston MA) | Rocket | `` |
-| ✅ | WCVB-TV ABC 5 (Boston MA) | Rocket | `` |
-| ✅ | WBTS-LD NBC 10 (Boston MA) | Rocket | `` |
-| ✅ | WFXT-CD FOX 25 (Boston MA) | Rocket | `` |
-| ✅ | WSBK-TV Ind. 38 (Boston MA) | Rocket | `` |
-| ✅ | WLVI-TV CW 56 (Boston MA) | Rocket | `` |
-| ✅ | KDKA-TV CBS 2 (Pittsburgh PA) | Rocket | `` |
-| ✅ | WTAE-TV ABC 4 (Pittsburgh PA) | Rocket | `` |
-| ✅ | WPXI-TV NBC 11 (Pittsburgh PA) | Rocket | `` |
+| ✅ | WCVB-TV ABC 5 (Boston MA) | Rocket | `WCVB-DT.us_locals1` |
+| ✅ | WBTS-LD NBC 10 (Boston MA) | Rocket | `WBTS-CD.us_locals1` |
+| ✅ | WFXT-CD FOX 25 (Boston MA) | Rocket | `WFXT-DT.us_locals1` |
+| ❌ | WSBK-TV Ind. 38 (Boston MA) | Rocket | `WSBK-DT.us_locals1` |
+| ✅ | WLVI-TV CW 56 (Boston MA) | Rocket | `WLVI-DT.us_locals1` |
+| ✅ | KDKA-TV CBS 2 (Pittsburgh PA) | Rocket | `KDKA-DT.us_locals1` |
+| ✅ | WTAE-TV ABC 4 (Pittsburgh PA) | Rocket | `WTAE-DT.us_locals1` |
+| ✅ | WPXI-TV NBC 11 (Pittsburgh PA) | Rocket | `WPXI-DT.us_locals1` |
 | ✅ | WPCW-TV CW 19 (KDKA+) (Pittsburgh PA) | Rocket | `` |
-| ✅ | WPGH-CD FOX 53 (Pittsburgh PA) | Rocket | `` |
-| ✅ | WICU-TV NBC 12 (Erie PA) | Rocket | `` |
-| ✅ | WJET-TV ABC 24 (Erie PA) | Rocket | `` |
-| ✅ | WSEE-TV CBS 35.1 (Erie PA) | Rocket | `` |
-| ❌ | WSEE-DT CW 35.2 (Erie PA) | Rocket | `` |
-| ✅ | WSEE-DT ENN+ (Erie News Now Plus) 35.3 (Erie PA) | Local Channels (Not 24/7) | `` |
-| ✅ | WFXP-CD TV FOX 66 (Hartford CT) | Rocket | `` |
-| ✅ | WFSB-TV CBS 3 (Hartford CT) | Rocket | `` |
-| ✅ | WTNH-TV ABC 8 (Hartford CT) | Rocket | `` |
-| ✅ | WVIT-TV NBC 30 (Hartford CT) | Rocket | `` |
-| ✅ | WTIC-CD TV FOX 61 (Hartford CT) | Rocket | `` |
-| ✅ | WFOR-TV CBS 4 (Miami FL) | Rocket | `` |
-| ✅ | WTVJ-TV NBC 6 (Miami FL) | Rocket | `` |
-| ✅ | WSVN-TV FOX 7 (Miami FL) | Rocket | `` |
-| ✅ | WPLG-TV ABC 10 (Miami FL) | Rocket | `` |
-| ❌ | WBFS-TV CW/MyNetworkTV 33 (Miami FL) | Rocket | `` |
-| ✅ | WSFL-TV CW/Ind. 39 (Miami FL) | Rocket | `` |
-| ✅ | WFLA-TV NBC 8 (Tampa Bay FL) | Rocket | `` |
-| ✅ | WTSP-DT CBS 10 (Tampa Bay FL) | Local Channels (Not 24/7) | `` |
-| ✅ | WTVT-TV FOX 13 (Tampa Bay FL) | Rocket | `` |
-| ✅ | WFTS-TV ABC 28 (Tampa Bay FL) | Rocket | `` |
-| ❌ | WTOG-TV Ind. 44 (Tampa Bay FL) | Rocket | `` |
-| ✅ | WESH-TV NBC 2 (Orlando FL) | Rocket | `` |
-| ✅ | WKMG-TV CBS 6 (Orlando FL) | Rocket | `` |
-| ✅ | WFTV-TV ABC 9 (Orlando FL) | Rocket | `` |
-| ✅ | WKCF-TV CW 18 (Orlando FL) | Rocket | `` |
-| ✅ | WOFL-TV FOX 35 (Orlando FL) | Rocket | `` |
-| ✅ | WACX-TV 55.1 SuperChannel Orlando (Orlando FL) | Local Channels (Not 24/7) | `` |
-| ✅ | WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL) | Rocket | `` |
-| ❌ | WNBW-DT NBC 9 (Gainsville FL) | Offline | `` |
-| ❌ | WCJB-TV ABC 20 (Gainsville FL) | Offline | `` |
-| ✅ | WOGX-TV FOX 51 (Ocala/Gainsville FL) | Rocket | `` |
-| ✅ | WWSB-TV ABC 7 (Sarasota FL) | Rocket | `` |
+| ✅ | WPGH-CD FOX 53 (Pittsburgh PA) | Rocket | `WPGH-DT.us_locals1` |
+| ✅ | WICU-TV NBC 12 (Erie PA) | Rocket | `WICU-DT.us_locals1` |
+| ✅ | WJET-TV ABC 24 (Erie PA) | Rocket | `WJET-DT.us_locals1` |
+| ✅ | WSEE-TV CBS 35.1 (Erie PA) | Rocket | `WSEE-DT.us_locals1` |
+| ❌ | WSEE-DT CW 35.2 (Erie PA) | Rocket | `WSEE-DT.us_locals1` |
+| ✅ | WSEE-DT ENN+ (Erie News Now Plus) 35.3 (Erie PA) | Local Channels (Not 24/7) | `WSEE-DT.us_locals1` |
+| ✅ | WFXP-CD TV FOX 66 (Hartford CT) | Rocket | `WFXP-DT.us_locals1` |
+| ✅ | WFSB-TV CBS 3 (Hartford CT) | Rocket | `WFSB-DT.us_locals1` |
+| ✅ | WTNH-TV ABC 8 (Hartford CT) | Rocket | `WTNH-DT.us_locals1` |
+| ✅ | WVIT-TV NBC 30 (Hartford CT) | Rocket | `WVIT-DT.us_locals1` |
+| ✅ | WTIC-CD TV FOX 61 (Hartford CT) | Rocket | `WTIC-DT.us_locals1` |
+| ✅ | WFOR-TV CBS 4 (Miami FL) | Rocket | `WFOR-DT.us_locals1` |
+| ✅ | WTVJ-TV NBC 6 (Miami FL) | Rocket | `WTVJ-DT.us_locals1` |
+| ✅ | WSVN-TV FOX 7 (Miami FL) | Rocket | `WSVN-DT2.us_locals1` |
+| ✅ | WPLG-TV ABC 10 (Miami FL) | Rocket | `WPLG-DT.us_locals1` |
+| ❌ | WBFS-TV CW/MyNetworkTV 33 (Miami FL) | Rocket | `WBFS-DT.us_locals1` |
+| ✅ | WSFL-TV CW/Ind. 39 (Miami FL) | Rocket | `WSFL-DT.us_locals1` |
+| ✅ | WFLA-TV NBC 8 (Tampa Bay FL) | Rocket | `WFLA-DT.us_locals1` |
+| ✅ | WTSP-DT CBS 10 (Tampa Bay FL) | Local Channels (Not 24/7) | `WTSP-DT.us_locals1` |
+| ✅ | WTVT-TV FOX 13 (Tampa Bay FL) | Rocket | `WTVT-DT.us_locals1` |
+| ✅ | WFTS-TV ABC 28 (Tampa Bay FL) | Rocket | `WFTS-DT.us_locals1` |
+| ❌ | WTOG-TV Ind. 44 (Tampa Bay FL) | Rocket | `WTOG-DT.us_locals1` |
+| ✅ | WESH-TV NBC 2 (Orlando FL) | Rocket | `WESH-DT.us_locals1` |
+| ✅ | WKMG-TV CBS 6 (Orlando FL) | Rocket | `WKMG-DT.us_locals1` |
+| ✅ | WFTV-TV ABC 9 (Orlando FL) | Rocket | `WFTV-DT.us_locals1` |
+| ✅ | WKCF-TV CW 18 (Orlando FL) | Rocket | `WKCF-DT.us_locals1` |
+| ✅ | WOFL-TV FOX 35 (Orlando FL) | Rocket | `WOFL-DT.us_locals1` |
+| ✅ | WACX-TV 55.1 SuperChannel Orlando (Orlando FL) | Local Channels (Not 24/7) | `WACX-DT.us_locals1` |
+| ✅ | WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL) | Rocket | `WRBW-DT.us_locals1` |
+| ❌ | WNBW-DT NBC 9 (Gainsville FL) | Offline | `WNBW-DT.us_locals1` |
+| ❌ | WCJB-TV ABC 20 (Gainsville FL) | Offline | `WCJB-DT.us_locals1` |
+| ✅ | WOGX-TV FOX 51 (Ocala/Gainsville FL) | Rocket | `WOGX-DT.us_locals1` |
+| ✅ | WWSB-TV ABC 7 (Sarasota FL) | Rocket | `WWSB-DT.us_locals1` |
 | ✅ | KOB-TV NBC 4 (Albuquerque NM) | Rocket | `` |
-| ✅ | KOAT-TV ABC 7 (Albuquerque NM) | Rocket | `` |
-| ✅ | KRQE-TV CBS 13.1 (Albuquerque NM) | Rocket | `` |
-| ✅ | KRQE-TV FOX 13.2 (Albuquerque NM) | Rocket | `` |
-| ✅ | KDBC-TV CBS 4 (El Paso TX) | Rocket | `` |
-| ✅ | KVIA-TV ABC 7 (El Paso TX) | Rocket | `` |
-| ✅ | KTSM-TV NBC 9 (El Paso TX) | Rocket | `` |
-| ✅ | KFOX-TV FOX 14 (El Paso TX) | Rocket | `` |
-| ✅ | KIII-TV ABC 3 (Corpus Christi TX) | Rocket | `` |
-| ✅ | KRIS-TV NBC 6 (Corpus Christi TX) | Rocket | `` |
-| ✅ | KZTV-TV CBS 10 (Corpus Christi TX) | Rocket | `` |
-| ✅ | KSCC-TV FOX 38 (Corpus Christi TX) | Local Channels (Not 24/7) | `` |
-| ✅ | KCBD-TV NBC 11 (Lubbock TX) | Rocket | `` |
-| ✅ | KLBK-TV CBS 13 (Lubbock TX) | Rocket | `` |
-| ✅ | KAMC-TV ABC 28 (Lubbock TX) | Rocket | `` |
-| ✅ | KJTV-TV FOX 34 (Lubbock TX) | Rocket | `` |
-| ✅ | KCWX-TV MyNetworkTV 2 (San Antonio TX) | Local Channels (Not 24/7) | `` |
-| ✅ | WOAI-TV NBC 4.1 (San Antonio TX) | Rocket | `` |
-| ✅ | KENS-TV CBS 5 (San Antonio TX) | Rocket | `` |
-| ✅ | KSAT-TV ABC 12 (San Antonio TX) | Rocket | `` |
-| ✅ | KABB-TV FOX 29 (San Antonio TX) | Rocket | `` |
-| ✅ | KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX) | Rocket | `` |
-| ❌ | KDFW-TV FOX 4 (Ft. Worth/Dallas TX) | Rocket | `` |
-| ✅ | KXAS-TV NBC 5 (Ft. Worth/Dallas TX) | Rocket | `` |
-| ✅ | WFAA-TV ABC 8 (Ft. Worth/Dallas TX) | Rocket | `` |
-| ✅ | KTVT-TV CBS 11 (Ft. Worth/Dallas TX) | Rocket | `` |
-| ✅ | KTXA-TV Ind. 21 (Ft. Worth/Dallas TX) | Rocket | `` |
-| ✅ | KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX) | Rocket | `` |
+| ✅ | KOAT-TV ABC 7 (Albuquerque NM) | Rocket | `KOAT-DT.us_locals1` |
+| ✅ | KRQE-TV CBS 13.1 (Albuquerque NM) | Rocket | `KRQE-DT2.us_locals1` |
+| ✅ | KRQE-TV FOX 13.2 (Albuquerque NM) | Rocket | `KRQE-DT2.us_locals1` |
+| ✅ | KDBC-TV CBS 4 (El Paso TX) | Rocket | `KDBC-DT.us_locals1` |
+| ✅ | KVIA-TV ABC 7 (El Paso TX) | Rocket | `KVIA-DT.us_locals1` |
+| ✅ | KTSM-TV NBC 9 (El Paso TX) | Rocket | `KTSM-DT.us_locals1` |
+| ✅ | KFOX-TV FOX 14 (El Paso TX) | Rocket | `KFOX-DT.us_locals1` |
+| ✅ | KIII-TV ABC 3 (Corpus Christi TX) | Rocket | `KIII-DT.us_locals1` |
+| ✅ | KRIS-TV NBC 6 (Corpus Christi TX) | Rocket | `KRIS-DT.us_locals1` |
+| ✅ | KZTV-TV CBS 10 (Corpus Christi TX) | Rocket | `KZTV-DT.us_locals1` |
+| ✅ | KSCC-TV FOX 38 (Corpus Christi TX) | Local Channels (Not 24/7) | `KSCC-DT.us_locals1` |
+| ✅ | KCBD-TV NBC 11 (Lubbock TX) | Rocket | `KCBD-DT.us_locals1` |
+| ✅ | KLBK-TV CBS 13 (Lubbock TX) | Rocket | `KLBK-DT.us_locals1` |
+| ✅ | KAMC-TV ABC 28 (Lubbock TX) | Rocket | `KAMC-DT.us_locals1` |
+| ✅ | KJTV-TV FOX 34 (Lubbock TX) | Rocket | `KJTV-CD.us_locals1` |
+| ✅ | KCWX-TV MyNetworkTV 2 (San Antonio TX) | Local Channels (Not 24/7) | `KCWX-DT.us_locals1` |
+| ✅ | WOAI-TV NBC 4.1 (San Antonio TX) | Rocket | `WOAI-DT.us_locals1` |
+| ✅ | KENS-TV CBS 5 (San Antonio TX) | Rocket | `KENS-DT.us_locals1` |
+| ✅ | KSAT-TV ABC 12 (San Antonio TX) | Rocket | `KSAT-DT.us_locals1` |
+| ✅ | KABB-TV FOX 29 (San Antonio TX) | Rocket | `KABB-DT.us_locals1` |
+| ✅ | KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX) | Rocket | `KMYS-DT.us_locals1` |
+| ❌ | KDFW-TV FOX 4 (Ft. Worth/Dallas TX) | Rocket | `KDFW-DT.us_locals1` |
+| ✅ | KXAS-TV NBC 5 (Ft. Worth/Dallas TX) | Rocket | `KXAS-DT.us_locals1` |
+| ✅ | WFAA-TV ABC 8 (Ft. Worth/Dallas TX) | Rocket | `WFAA-DT.us_locals1` |
+| ✅ | KTVT-TV CBS 11 (Ft. Worth/Dallas TX) | Rocket | `KTVT-DT.us_locals1` |
+| ✅ | KTXA-TV Ind. 21 (Ft. Worth/Dallas TX) | Rocket | `KTXA-DT.us_locals1` |
+| ✅ | KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX) | Rocket | `KDFI-DT.us_locals1` |
 | ✅ | KDAFF-TV CW 39 (Ft. Worth/Dallas TX) | Rocket | `` |
-| ✅ | KPRC-TV NBC 2 (Houston TX) | Rocket | `` |
-| ✅ | KHOU-TV CBS 8 (Houston TX) | Rocket | `` |
-| ✅ | KTRK-TV ABC 13 (Houston TX) | Rocket | `` |
-| ✅ | KTXH-TV MyNetworkTV 20 (My20 Vision) (Houston TX) | Rocket | `` |
-| ✅ | KRIV-TV FOX 26 (Houston TX) | Rocket | `` |
-| ✅ | KIAH-TV CW 39 (Houston TX) | Rocket | `` |
-| ✅ | KTBC-TV FOX 7 (Austin TX) | Rocket | `` |
-| ✅ | KVUE-TV ABC 24 (Austin TX) | Rocket | `` |
-| ✅ | KXAN-TV NBC 36 (Austin TX) | Rocket | `` |
-| ✅ | KEYE-TV CBS 42 (Austin TX) | Rocket | `` |
+| ✅ | KPRC-TV NBC 2 (Houston TX) | Rocket | `KPRC-DT.us_locals1` |
+| ✅ | KHOU-TV CBS 8 (Houston TX) | Rocket | `KHOU-DT.us_locals1` |
+| ✅ | KTRK-TV ABC 13 (Houston TX) | Rocket | `KTRK-DT.us_locals1` |
+| ✅ | KTXH-TV MyNetworkTV 20 (My20 Vision) (Houston TX) | Rocket | `KTXH-DT.us_locals1` |
+| ✅ | KRIV-TV FOX 26 (Houston TX) | Rocket | `KRIV-DT.us_locals1` |
+| ✅ | KIAH-TV CW 39 (Houston TX) | Rocket | `KIAH-DT.us_locals1` |
+| ✅ | KTBC-TV FOX 7 (Austin TX) | Rocket | `KTBC-DT.us_locals1` |
+| ✅ | KVUE-TV ABC 24 (Austin TX) | Rocket | `KVUE-DT.us_locals1` |
+| ✅ | KXAN-TV NBC 36 (Austin TX) | Rocket | `KXAN-DT.us_locals1` |
+| ✅ | KEYE-TV CBS 42 (Austin TX) | Rocket | `KEYE-DT.us_locals1` |
 | ✅ | WWL-TV CBS 4 (New Orleans LA) | Rocket | `` |
-| ✅ | WDSU-TV NBC 6 (New Orleans LA) | Rocket | `` |
-| ✅ | WVUE-TV FOX 8 (New Orleans LA) | Rocket | `` |
-| ✅ | WGNO-TV ABC 26 (New Orleans LA) | Rocket | `` |
-| ✅ | WBRZ-TV ABC 2 (Baton Rouge LA) | Rocket | `` |
-| ✅ | WAFB-TV CBS 9 (Baton Rouge LA) | Rocket | `` |
-| ✅ | WVLA-TV NBC 33 (Baton Rouge LA) | Rocket | `` |
-| ✅ | WGMB-TV FOX 44 (Baton Rouge LA) | Rocket | `` |
-| ✅ | KTBS-TV ABC 3 (Shreveport LA) | Rocket | `` |
-| ✅ | KTAL-TV NBC 6 (Shreveport LA) | Rocket | `` |
-| ✅ | KSLA-TV CBS 12 (Shreveport LA) | Rocket | `` |
-| ✅ | KMSS-TV FOX 33 (Shreveport LA) | Rocket | `` |
-| ✅ | KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ) | Rocket | `` |
-| ✅ | KPHO-TV CBS 5 (Phoenix AZ) | Rocket | `` |
-| ✅ | KSAZ-TV FOX 10.1 (Phoenix AZ) | Rocket | `` |
-| ✅ | KSAZ-DT FOX Xtra 10.2/KUTP-TV MyNetworkTV 45 (Phoenix AZ) | Rocket | `` |
-| ✅ | KPNX-TV NBC 12 (Phoenix AZ) | Rocket | `` |
-| ✅ | KNXV-TV ABC 15 (Phoenix AZ) | Rocket | `` |
-| ✅ | KVOA-TV NBC 4 (Tucson AZ) | Rocket | `` |
-| ✅ | KGUN-TV ABC 9 (Tucson AZ) | Rocket | `` |
-| ✅ | KMSB-TV FOX 11 (Tucson AZ) | Rocket | `` |
-| ✅ | KOLD-TV CBS 13 (Tucson AZ) | Rocket | `` |
-| ✅ | KSNV-TV NBC 3 (Las Vegas NV) | Rocket | `` |
-| ✅ | KVVU-TV FOX 5 (Las Vegas NV) | Rocket | `` |
-| ✅ | KLAS-TV CBS 8 (Las Vegas NV) | Rocket | `` |
-| ✅ | KTNV-TV ABC 13 (Las Vegas NV) | Rocket | `` |
-| ✅ | KVCW-TV CW 33 (Las Vegas NV) | Rocket | `` |
-| ❌ | WJXT-TV 4 Ind. (Jacksonville FL) | Rocket | `` |
-| ✅ | WTLV-TV NBC 12 (Jacksonville FL) | Rocket | `` |
-| ✅ | WCWJ-TV CW 17 (Jacksonville FL) | Rocket | `` |
-| ✅ | WJXX-TV ABC 25 (Jacksonville FL) | Rocket | `` |
-| ✅ | WFOX-TV FOX 30 (Jacksonville FL) | Rocket | `` |
-| ✅ | WJAX-TV CBS 47 (Jacksonville FL) | Rocket | `` |
-| ✅ | WPTV-TV NBC 5 (West Palm Beach FL) | Rocket | `` |
-| ✅ | WPEC-TV CBS 12 (West Palm Beach FL) | Rocket | `CBS.West.us2` |
-| ✅ | WPBF-TV ABC 25 (West Palm Beach FL) | Rocket | `` |
-| ✅ | WFLX-TV FOX 29 (West Palm Beach FL) | Rocket | `` |
-| ✅ | WTVX-TV CW 34 (West Palm Beach FL) | Rocket | `` |
-| ✅ | WFTX-TV FOX 4 (Naples FL) | Rocket | `` |
-| ✅ | WZVN-TV ABC 7 (Naples FL) | Rocket | `` |
-| ✅ | WINK-TV CBS 11 (Naples FL) | Rocket | `` |
-| ✅ | WBBH-TV NBC 20 (Naples FL) | Rocket | `` |
-| ✅ | KARK-TV NBC 4 (Litlle Rock AR) | Rocket | `` |
-| ❌ | KATV-TV ABC 7 (Litlle Rock AR) | Rocket | `` |
-| ✅ | KTHV-TV CBS 11 (Litlle Rock AR) | Rocket | `` |
-| ✅ | KLRT-TV FOX 16 (Litlle Rock AR) | Rocket | `` |
-| ✅ | WBRC-TV FOX 6 (Birmingham AL) | Rocket | `` |
-| ✅ | WVTM-TV NBC 13 (Birmingham AL) | Rocket | `` |
-| ✅ | WIAT-TV CBS 42 (Birmingham AL) | Rocket | `CBS.West.us2` |
-| ✅ | WABM-TV ABC 68 (Birmingham AL) | Rocket | `` |
-| ✅ | WHNT-TV CBS 19 (Huntsville AL) | Rocket | `` |
-| ✅ | WAAY-TV ABC 31 (Huntsville AL) | Rocket | `` |
-| ✅ | WAFF-TV NBC 48 (Huntsville AL) | Rocket | `` |
-| ✅ | WZDX-TV FOX 54 (Huntsville AL) | Rocket | `` |
-| ✅ | KTVI-TV FOX 2 (St. Louis MO) | Rocket | `` |
-| ✅ | KMOV-TV CBS 4 (St. Louis MO) | Rocket | `` |
-| ✅ | KSDK-TV NBC 5 (St. Louis MO) | Rocket | `` |
-| ✅ | KPLR-TV CW 11 (St. Louis MO) | Rocket | `` |
-| ✅ | KDNL-TV ABC 30 (St. Louis MO) | Rocket | `` |
-| ✅ | KOMU-TV NBC 8.1 (Jefferson City MO) | Rocket | `` |
-| ✅ | KOMU-DT CW+ 8.3 (Jefferson City MO) | Rocket | `` |
-| ✅ | KRCG-TV CBS 13 (Jefferson City MO) | Rocket | `` |
-| ✅ | KMIZ-TV ABC 17.1 (Jefferson City MO) | Rocket | `` |
-| ❌ | KMIZ-DT MyNetworkTV 17.3 (Jefferson City MO) | Offline | `` |
-| ✅ | KQFX-TV FOX 22 (Jefferson City MO) | Rocket | `` |
-| ✅ | KCTV-TV CBS 5 (Kansas City MO) | Rocket | `` |
-| ✅ | KMBC-TV ABC 9 (Kansas City MO) | Rocket | `` |
-| ✅ | WDAF-TV FOX 4 (Kansas City MO) | Rocket | `` |
-| ✅ | KCWE-TV CW 29 (Kansas City MO) | Rocket | `` |
-| ✅ | KSHB-TV NBC 41 (Kansas City MO) | Rocket | `` |
-| ❌ | KMCI-TV Ind./NBC 38 (Kansas City MO) | Offline | `` |
-| ✅ | KSMO-TV MyNetworkTV 62 (Kansas City MO) | Rocket | `` |
-| ✅ | WREG-TV CBS 3 (Memphis TN) | Rocket | `` |
+| ✅ | WDSU-TV NBC 6 (New Orleans LA) | Rocket | `WDSU-DT.us_locals1` |
+| ✅ | WVUE-TV FOX 8 (New Orleans LA) | Rocket | `WVUE-DT3.us_locals1` |
+| ✅ | WGNO-TV ABC 26 (New Orleans LA) | Rocket | `WGNO-DT.us_locals1` |
+| ✅ | WBRZ-TV ABC 2 (Baton Rouge LA) | Rocket | `WBRZ-DT.us_locals1` |
+| ✅ | WAFB-TV CBS 9 (Baton Rouge LA) | Rocket | `WAFB-DT.us_locals1` |
+| ✅ | WVLA-TV NBC 33 (Baton Rouge LA) | Rocket | `WVLA-DT.us_locals1` |
+| ✅ | WGMB-TV FOX 44 (Baton Rouge LA) | Rocket | `WGMB-DT.us_locals1` |
+| ✅ | KTBS-TV ABC 3 (Shreveport LA) | Rocket | `KTBS-DT.us_locals1` |
+| ✅ | KTAL-TV NBC 6 (Shreveport LA) | Rocket | `KTAL-DT.us_locals1` |
+| ✅ | KSLA-TV CBS 12 (Shreveport LA) | Rocket | `KSLA-DT.us_locals1` |
+| ✅ | KMSS-TV FOX 33 (Shreveport LA) | Rocket | `KMSS-DT.us_locals1` |
+| ✅ | KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ) | Rocket | `KTVK-DT.us_locals1` |
+| ✅ | KPHO-TV CBS 5 (Phoenix AZ) | Rocket | `KPHO-DT.us_locals1` |
+| ✅ | KSAZ-TV FOX 10.1 (Phoenix AZ) | Rocket | `KSAZ-DT.us_locals1` |
+| ✅ | KSAZ-DT FOX Xtra 10.2/KUTP-TV MyNetworkTV 45 (Phoenix AZ) | Rocket | `KSAZ-DT.us_locals1` |
+| ✅ | KPNX-TV NBC 12 (Phoenix AZ) | Rocket | `KPNX-DT.us_locals1` |
+| ✅ | KNXV-TV ABC 15 (Phoenix AZ) | Rocket | `KNXV-DT.us_locals1` |
+| ✅ | KVOA-TV NBC 4 (Tucson AZ) | Rocket | `KVOA-DT.us_locals1` |
+| ✅ | KGUN-TV ABC 9 (Tucson AZ) | Rocket | `KGUN-DT.us_locals1` |
+| ✅ | KMSB-TV FOX 11 (Tucson AZ) | Rocket | `KMSB-DT.us_locals1` |
+| ✅ | KOLD-TV CBS 13 (Tucson AZ) | Rocket | `KOLD-DT.us_locals1` |
+| ✅ | KSNV-TV NBC 3 (Las Vegas NV) | Rocket | `KSNV-DT.us_locals1` |
+| ✅ | KVVU-TV FOX 5 (Las Vegas NV) | Rocket | `KVVU-DT.us_locals1` |
+| ✅ | KLAS-TV CBS 8 (Las Vegas NV) | Rocket | `KLAS-DT.us_locals1` |
+| ✅ | KTNV-TV ABC 13 (Las Vegas NV) | Rocket | `KTNV-DT.us_locals1` |
+| ✅ | KVCW-TV CW 33 (Las Vegas NV) | Rocket | `KVCW-DT.us_locals1` |
+| ❌ | WJXT-TV 4 Ind. (Jacksonville FL) | Rocket | `WJXT-DT.us_locals1` |
+| ✅ | WTLV-TV NBC 12 (Jacksonville FL) | Rocket | `WTLV-DT.us_locals1` |
+| ✅ | WCWJ-TV CW 17 (Jacksonville FL) | Rocket | `WCWJ-DT.us_locals1` |
+| ✅ | WJXX-TV ABC 25 (Jacksonville FL) | Rocket | `WJXX-DT.us_locals1` |
+| ✅ | WFOX-TV FOX 30 (Jacksonville FL) | Rocket | `WFOX-DT.us_locals1` |
+| ✅ | WJAX-TV CBS 47 (Jacksonville FL) | Rocket | `WJAX-DT.us_locals1` |
+| ✅ | WPTV-TV NBC 5 (West Palm Beach FL) | Rocket | `WPTV-DT.us_locals1` |
+| ✅ | WPEC-TV CBS 12 (West Palm Beach FL) | Rocket | `WPEC-DT.us_locals1` |
+| ✅ | WPBF-TV ABC 25 (West Palm Beach FL) | Rocket | `WPBF-DT.us_locals1` |
+| ✅ | WFLX-TV FOX 29 (West Palm Beach FL) | Rocket | `WFLX-DT.us_locals1` |
+| ✅ | WTVX-TV CW 34 (West Palm Beach FL) | Rocket | `WTVX-DT.us_locals1` |
+| ✅ | WFTX-TV FOX 4 (Naples FL) | Rocket | `WFTX-DT.us_locals1` |
+| ✅ | WZVN-TV ABC 7 (Naples FL) | Rocket | `WZVN-DT.us_locals1` |
+| ✅ | WINK-TV CBS 11 (Naples FL) | Rocket | `WINK-DT.us_locals1` |
+| ✅ | WBBH-TV NBC 20 (Naples FL) | Rocket | `WBBH-DT.us_locals1` |
+| ✅ | KARK-TV NBC 4 (Litlle Rock AR) | Rocket | `KARK-DT.us_locals1` |
+| ❌ | KATV-TV ABC 7 (Litlle Rock AR) | Rocket | `KATV-DT.us_locals1` |
+| ✅ | KTHV-TV CBS 11 (Litlle Rock AR) | Rocket | `KTHV-DT.us_locals1` |
+| ✅ | KLRT-TV FOX 16 (Litlle Rock AR) | Rocket | `KLRT-DT.us_locals1` |
+| ✅ | WBRC-TV FOX 6 (Birmingham AL) | Rocket | `WBRC-DT.us_locals1` |
+| ✅ | WVTM-TV NBC 13 (Birmingham AL) | Rocket | `WVTM-DT.us_locals1` |
+| ✅ | WIAT-TV CBS 42 (Birmingham AL) | Rocket | `WIAT-DT.us_locals1` |
+| ✅ | WABM-TV ABC 68 (Birmingham AL) | Rocket | `WABM-DT2.us_locals1` |
+| ✅ | WHNT-TV CBS 19 (Huntsville AL) | Rocket | `WHNT-DT.us_locals1` |
+| ✅ | WAAY-TV ABC 31 (Huntsville AL) | Rocket | `WAAY-DT.us_locals1` |
+| ✅ | WAFF-TV NBC 48 (Huntsville AL) | Rocket | `WAFF-DT.us_locals1` |
+| ✅ | WZDX-TV FOX 54 (Huntsville AL) | Rocket | `WZDX-DT.us_locals1` |
+| ✅ | KTVI-TV FOX 2 (St. Louis MO) | Rocket | `KTVI-DT.us_locals1` |
+| ✅ | KMOV-TV CBS 4 (St. Louis MO) | Rocket | `KMOV-DT.us_locals1` |
+| ✅ | KSDK-TV NBC 5 (St. Louis MO) | Rocket | `KSDK-DT.us_locals1` |
+| ✅ | KPLR-TV CW 11 (St. Louis MO) | Rocket | `KPLR-DT.us_locals1` |
+| ✅ | KDNL-TV ABC 30 (St. Louis MO) | Rocket | `KDNL-DT.us_locals1` |
+| ✅ | KOMU-TV NBC 8.1 (Jefferson City MO) | Rocket | `KOMU-DT.us_locals1` |
+| ✅ | KOMU-DT CW+ 8.3 (Jefferson City MO) | Rocket | `KOMU-DT.us_locals1` |
+| ✅ | KRCG-TV CBS 13 (Jefferson City MO) | Rocket | `KRCG-DT.us_locals1` |
+| ✅ | KMIZ-TV ABC 17.1 (Jefferson City MO) | Rocket | `KMIZ-DT.us_locals1` |
+| ❌ | KMIZ-DT MyNetworkTV 17.3 (Jefferson City MO) | Offline | `KMIZ-DT.us_locals1` |
+| ✅ | KQFX-TV FOX 22 (Jefferson City MO) | Rocket | `KQFX-LD.us_locals1` |
+| ✅ | KCTV-TV CBS 5 (Kansas City MO) | Rocket | `KCTV-DT.us_locals1` |
+| ✅ | KMBC-TV ABC 9 (Kansas City MO) | Rocket | `KMBC-DT.us_locals1` |
+| ✅ | WDAF-TV FOX 4 (Kansas City MO) | Rocket | `WDAF-DT.us_locals1` |
+| ✅ | KCWE-TV CW 29 (Kansas City MO) | Rocket | `KCWE-DT.us_locals1` |
+| ✅ | KSHB-TV NBC 41 (Kansas City MO) | Rocket | `KSHB-DT.us_locals1` |
+| ❌ | KMCI-TV Ind./NBC 38 (Kansas City MO) | Offline | `KMCI-DT.us_locals1` |
+| ✅ | KSMO-TV MyNetworkTV 62 (Kansas City MO) | Rocket | `KSMO-DT.us_locals1` |
+| ✅ | WREG-TV CBS 3 (Memphis TN) | Rocket | `WREG-DT.us_locals1` |
 | ✅ | WMC-TV NBC 5 (Memphis TN) | Rocket | `` |
-| ✅ | WHBQ-TV FOX 13 (Memphis TN) | Rocket | `` |
+| ✅ | WHBQ-TV FOX 13 (Memphis TN) | Rocket | `WHBQ-DT.us_locals1` |
 | ✅ | WYPL-TV 18 (Memphis TN) | Local Channels (Not 24/7) | `` |
-| ❌ | WATN-TV ABC 24 (Memphis TN) | Rocket | `` |
-| ✅ | WKRN-TV ABC 2 (Nashville TN) | Rocket | `` |
-| ✅ | WSMV-TV NBC 4 (Nashville TN) | Rocket | `` |
-| ✅ | WTVF-TV CBS 5 (Nashville TN) | Rocket | `` |
-| ✅ | WZTV-TV FOX 17.1 (Nashville TN) | Rocket | `` |
-| ❌ | WUXP-TV MyNetworkTV 30 (Nashville TN) | Offline | `` |
-| ❌ | WNAB-TV CW 58 (Nashville TN) | Offline | `` |
-| ❌ | WATE-TV ABC 6 (Knoxville TN) | Rocket | `` |
-| ✅ | WVLT-TV CBS 8 (Knoxville TN) | Rocket | `` |
-| ✅ | WBIR-TV NBC 10 (Knoxville TN) | Rocket | `` |
-| ✅ | WTNZ-TV FOX 43 (Knoxville TN) | Rocket | `` |
-| ✅ | WRCB-TV NBC 3 (Chattanooga TN) | Rocket | `` |
-| ✅ | WTVC-TV ABC 9.1 (Chattanooga TN) | Rocket | `` |
-| ✅ | WTVC-DT FOX 9.2 (Chattanooga TN) | Rocket | `` |
-| ✅ | WDEF-TV CBS 12 (Chattanooga TN) | Rocket | `CBS.West.us2` |
+| ❌ | WATN-TV ABC 24 (Memphis TN) | Rocket | `WATN-DT.us_locals1` |
+| ✅ | WKRN-TV ABC 2 (Nashville TN) | Rocket | `WKRN-DT.us_locals1` |
+| ✅ | WSMV-TV NBC 4 (Nashville TN) | Rocket | `WSMV-DT.us_locals1` |
+| ✅ | WTVF-TV CBS 5 (Nashville TN) | Rocket | `WTVF-DT.us_locals1` |
+| ✅ | WZTV-TV FOX 17.1 (Nashville TN) | Rocket | `WZTV-DT.us_locals1` |
+| ❌ | WUXP-TV MyNetworkTV 30 (Nashville TN) | Offline | `WUXP-DT.us_locals1` |
+| ❌ | WNAB-TV CW 58 (Nashville TN) | Offline | `WNAB-DT.us_locals1` |
+| ❌ | WATE-TV ABC 6 (Knoxville TN) | Rocket | `WATE-DT.us_locals1` |
+| ✅ | WVLT-TV CBS 8 (Knoxville TN) | Rocket | `WVLT-DT.us_locals1` |
+| ✅ | WBIR-TV NBC 10 (Knoxville TN) | Rocket | `WBIR-DT.us_locals1` |
+| ✅ | WTNZ-TV FOX 43 (Knoxville TN) | Rocket | `WTNZ-DT.us_locals1` |
+| ✅ | WRCB-TV NBC 3 (Chattanooga TN) | Rocket | `WRCB-DT.us_locals1` |
+| ✅ | WTVC-TV ABC 9.1 (Chattanooga TN) | Rocket | `WTVC-DT2.us_locals1` |
+| ✅ | WTVC-DT FOX 9.2 (Chattanooga TN) | Rocket | `WTVC-DT2.us_locals1` |
+| ✅ | WDEF-TV CBS 12 (Chattanooga TN) | Rocket | `WDEF-DT.us_locals1` |
 | ✅ | WSB-TV ABC 2 (Atlanta GA) | Rocket | `` |
-| ✅ | WAGA-TV FOX 5 (Atlanta GA) | Rocket | `` |
-| ✅ | WXIA-TV NBC 11 (Atlanta GA) | Rocket | `` |
-| ✅ | WPCH-TV Peachtree TV CW 17 (Atlanta GA) | Rocket | `Peachtree.TV.us2` |
-| ✅ | WUPA-TV CBS 69 (Atlanta GA) | Rocket | `` |
-| ✅ | WJBF-TV ABC 6 (Augusta GA) | Rocket | `` |
-| ✅ | WRDW-DT CBS 12 (Augusta GA) | Rocket | `` |
-| ✅ | WAGT-TV NBC 26 (Augusta GA) | Rocket | `` |
-| ✅ | WFXG-TV FOX 54 (Augusta GA) | Rocket | `` |
-| ✅ | WRBL-DT CBS 3 (Columbus GA) | Rocket | `` |
-| ✅ | WTVM-TV ABC 9 (Columbus GA) | Rocket | `` |
-| ✅ | WLTZ-TV NBC 38 (Columbus GA) | Rocket | `` |
-| ✅ | WTVX-TV FOX 54 (Columbus GA) | Rocket | `` |
-| ✅ | WBTV-TV CBS 3 (Charlotte NC) | Rocket | `` |
-| ✅ | WSOC-TV ABC 9 (Charlotte NC) | Rocket | `` |
-| ✅ | WCNC-TV NBC 36 (Charlotte NC) | Rocket | `` |
-| ✅ | WJZY-TV FOX 46 (Charlotte NC) | Rocket | `` |
-| ✅ | WRAL-TV NBC 5 (Raleigh NC) | Rocket | `` |
-| ✅ | WTVD-TV ABC 11 (Raleigh NC) | Rocket | `` |
-| ✅ | WNCN-TV CBS 17 (Raleigh NC) | Rocket | `` |
-| ✅ | WLFL-TV CW 22 (Raleigh NC) | Rocket | `` |
-| ✅ | WRAZ-TV FOX 50 (Raleigh NC) | Rocket | `` |
-| ✅ | KWGN-TV CW 2 (Denver CO) | Rocket | `` |
-| ✅ | KCNC-TV CBS 4 (Denver CO) | Rocket | `` |
-| ✅ | KMGH-TV ABC 7 (Denver CO) | Rocket | `` |
-| ✅ | KUSA-TV NBC 9 (Denver CO) | Rocket | `` |
-| ✅ | KDVR-TV FOX 31 (Denver CO) | Rocket | `` |
-| ✅ | KMTV-TV CBS 3 (Omaha NE) | Rocket | `` |
-| ✅ | WOWT-TV NBC 6 (Omaha NE) | Rocket | `` |
-| ✅ | KETV-TV ABC 13 (Omaha NE) | Rocket | `` |
-| ✅ | KPTM-TV FOX 42 (Omaha NE) | Rocket | `` |
-| ✅ | WRIC-TV ABC 8 (Richmond VA) | Rocket | `` |
-| ✅ | WWBT-TV NBC 12 (Richmond VA) | Rocket | `` |
-| ✅ | WRLH-TV FOX 35 (Richmond VA) | Rocket | `` |
+| ✅ | WAGA-TV FOX 5 (Atlanta GA) | Rocket | `WAGA-DT.us_locals1` |
+| ✅ | WXIA-TV NBC 11 (Atlanta GA) | Rocket | `WXIA-DT.us_locals1` |
+| ✅ | WPCH-TV Peachtree TV CW 17 (Atlanta GA) | Rocket | `WPCH-DT.us_locals1` |
+| ✅ | WUPA-TV CBS 69 (Atlanta GA) | Rocket | `WUPA-DT.us_locals1` |
+| ✅ | WJBF-TV ABC 6 (Augusta GA) | Rocket | `WJBF-DT.us_locals1` |
+| ✅ | WRDW-DT CBS 12 (Augusta GA) | Rocket | `WRDW-DT.us_locals1` |
+| ✅ | WAGT-TV NBC 26 (Augusta GA) | Rocket | `WAGT-CD.us_locals1` |
+| ✅ | WFXG-TV FOX 54 (Augusta GA) | Rocket | `WFXG-DT.us_locals1` |
+| ✅ | WRBL-DT CBS 3 (Columbus GA) | Rocket | `WRBL-DT.us_locals1` |
+| ✅ | WTVM-TV ABC 9 (Columbus GA) | Rocket | `WTVM-DT.us_locals1` |
+| ✅ | WLTZ-TV NBC 38 (Columbus GA) | Rocket | `WLTZ-DT.us_locals1` |
+| ✅ | WTVX-TV FOX 54 (Columbus GA) | Rocket | `WTVX-DT.us_locals1` |
+| ✅ | WBTV-TV CBS 3 (Charlotte NC) | Rocket | `WBTV-DT.us_locals1` |
+| ✅ | WSOC-TV ABC 9 (Charlotte NC) | Rocket | `WSOC-DT.us_locals1` |
+| ✅ | WCNC-TV NBC 36 (Charlotte NC) | Rocket | `WCNC-DT.us_locals1` |
+| ✅ | WJZY-TV FOX 46 (Charlotte NC) | Rocket | `WJZY-DT.us_locals1` |
+| ✅ | WRAL-TV NBC 5 (Raleigh NC) | Rocket | `WRAL-DT.us_locals1` |
+| ✅ | WTVD-TV ABC 11 (Raleigh NC) | Rocket | `WTVD-DT.us_locals1` |
+| ✅ | WNCN-TV CBS 17 (Raleigh NC) | Rocket | `WNCN-DT.us_locals1` |
+| ✅ | WLFL-TV CW 22 (Raleigh NC) | Rocket | `WLFL-DT.us_locals1` |
+| ✅ | WRAZ-TV FOX 50 (Raleigh NC) | Rocket | `WRAZ-DT.us_locals1` |
+| ✅ | KWGN-TV CW 2 (Denver CO) | Rocket | `KWGN-DT.us_locals1` |
+| ✅ | KCNC-TV CBS 4 (Denver CO) | Rocket | `KCNC-DT.us_locals1` |
+| ✅ | KMGH-TV ABC 7 (Denver CO) | Rocket | `KMGH-DT.us_locals1` |
+| ✅ | KUSA-TV NBC 9 (Denver CO) | Rocket | `KUSA-DT.us_locals1` |
+| ✅ | KDVR-TV FOX 31 (Denver CO) | Rocket | `KDVR-DT.us_locals1` |
+| ✅ | KMTV-TV CBS 3 (Omaha NE) | Rocket | `KMTV-DT.us_locals1` |
+| ✅ | WOWT-TV NBC 6 (Omaha NE) | Rocket | `WOWT-DT.us_locals1` |
+| ✅ | KETV-TV ABC 13 (Omaha NE) | Rocket | `KETV-DT.us_locals1` |
+| ✅ | KPTM-TV FOX 42 (Omaha NE) | Rocket | `KPTM-DT.us_locals1` |
+| ✅ | WRIC-TV ABC 8 (Richmond VA) | Rocket | `WRIC-DT.us_locals1` |
+| ✅ | WWBT-TV NBC 12 (Richmond VA) | Rocket | `WWBT-DT.us_locals1` |
+| ✅ | WRLH-TV FOX 35 (Richmond VA) | Rocket | `WRLH-DT.us_locals1` |
 | ✅ | WRC-TV NBC 4 (Washington DC) | Rocket | `` |
-| ✅ | WTTG-TV FOX 5 (Washington DC) | Rocket | `` |
-| ✅ | WJLA-TV ABC 7 (Washington DC) | Rocket | `` |
-| ✅ | WUSA-TV CBS 9 (Washington DC) | Rocket | `` |
-| ✅ | WDVM-TV Ind. 25 (Washington DC) | Rocket | `` |
-| ✅ | WRDC-TV MyNetworkTV 28 (Washington DC) | Rocket | `` |
+| ✅ | WTTG-TV FOX 5 (Washington DC) | Rocket | `WTTG-DT.us_locals1` |
+| ✅ | WJLA-TV ABC 7 (Washington DC) | Rocket | `WJLA-DT.us_locals1` |
+| ✅ | WUSA-TV CBS 9 (Washington DC) | Rocket | `WUSA-DT.us_locals1` |
+| ✅ | WDVM-TV Ind. 25 (Washington DC) | Rocket | `WDVM-DT.us_locals1` |
+| ✅ | WRDC-TV MyNetworkTV 28 (Washington DC) | Rocket | `WRDC-DT.us_locals1` |
 | ✅ | WCDW-TV CW 50 (Washington DC) | Rocket | `` |
-| ✅ | WMAR-TV ABC 2 (Baltimore MD) | Rocket | `` |
-| ✅ | WBAL-TV NBC 11 (Baltimore MD) | Rocket | `` |
+| ✅ | WMAR-TV ABC 2 (Baltimore MD) | Rocket | `WMAR-DT.us_locals1` |
+| ✅ | WBAL-TV NBC 11 (Baltimore MD) | Rocket | `WBAL-DT.us_locals1` |
 | ✅ | WJZ-TV CBS 13 (Baltimore MD) | Rocket | `` |
-| ✅ | WBFF-TV FOX 45 (Baltimore MD) | Rocket | `` |
-| ✅ | WNUV-TV CW 54 (Baltimore MD) | Rocket | `` |
-| ✅ | KUTV-TV CBS 2 (Salt Lake City UT) | Rocket | `` |
-| ✅ | KTVX-TV ABC 4 (Salt Lake City UT) | Rocket | `` |
+| ✅ | WBFF-TV FOX 45 (Baltimore MD) | Rocket | `WBFF-DT.us_locals1` |
+| ✅ | WNUV-TV CW 54 (Baltimore MD) | Rocket | `WNUV-DT.us_locals1` |
+| ✅ | KUTV-TV CBS 2 (Salt Lake City UT) | Rocket | `KUTV-DT.us_locals1` |
+| ✅ | KTVX-TV ABC 4 (Salt Lake City UT) | Rocket | `KTVX-DT.us_locals1` |
 | ✅ | KSL-TV NBC 5 (Salt Lake City UT) | Rocket | `` |
-| ✅ | KSTU-TV FOX 13 (Salt Lake City UT) | Rocket | `` |
-| ✅ | KFOR-TV NBC 4 (Oklahoma City OK) | Rocket | `` |
-| ✅ | KOCO-TV ABC 5 (Oklahoma City OK) | Rocket | `` |
-| ✅ | KWTV-TV CBS 9 (Oklahoma City OK) | Rocket | `` |
-| ✅ | KOKH-TV FOX 25 (Oklahoma City OK) | Rocket | `` |
-| ✅ | KOCB-TV CW 34 (Oklahoma City OK) | Rocket | `` |
-| ✅ | WCMH-TV NBC 4 (Columbus OH) | Rocket | `` |
-| ✅ | WSYX-TV ABC 6 (Columbus OH) | Rocket | `` |
-| ✅ | WBNS-TV CBS 10 (Columbus OH) | Rocket | `` |
-| ✅ | WWHO-TV CW 53 (Columbus OH) | Rocket | `` |
-| ✅ | WKYC-TV NBC 3 (Cleveland OH) | Rocket | `` |
-| ✅ | WEWS-TV ABC 5 (Cleveland OH) | Rocket | `` |
+| ✅ | KSTU-TV FOX 13 (Salt Lake City UT) | Rocket | `KSTU-DT.us_locals1` |
+| ✅ | KFOR-TV NBC 4 (Oklahoma City OK) | Rocket | `KFOR-DT.us_locals1` |
+| ✅ | KOCO-TV ABC 5 (Oklahoma City OK) | Rocket | `KOCO-DT.us_locals1` |
+| ✅ | KWTV-TV CBS 9 (Oklahoma City OK) | Rocket | `KWTV-DT.us_locals1` |
+| ✅ | KOKH-TV FOX 25 (Oklahoma City OK) | Rocket | `KOKH-DT.us_locals1` |
+| ✅ | KOCB-TV CW 34 (Oklahoma City OK) | Rocket | `KOCB-DT.us_locals1` |
+| ✅ | WCMH-TV NBC 4 (Columbus OH) | Rocket | `WCMH-DT.us_locals1` |
+| ✅ | WSYX-TV ABC 6 (Columbus OH) | Rocket | `WSYX-DT3.us_locals1` |
+| ✅ | WBNS-TV CBS 10 (Columbus OH) | Rocket | `WBNS-DT.us_locals1` |
+| ✅ | WWHO-TV CW 53 (Columbus OH) | Rocket | `WWHO-DT.us_locals1` |
+| ✅ | WKYC-TV NBC 3 (Cleveland OH) | Rocket | `WKYC-DT.us_locals1` |
+| ✅ | WEWS-TV ABC 5 (Cleveland OH) | Rocket | `WEWS-DT.us_locals1` |
 | ✅ | WJW-TV FOX 8 (Cleveland OH) | Rocket | `` |
-| ✅ | WOIO CBS 19 (Cleveland OH) | Rocket | `` |
-| ✅ | WLWT-TV NBC 5 (Cincinnati OH) | Rocket | `` |
-| ✅ | WCPO-TV ABC 9 (Cincinnati OH) | Rocket | `` |
-| ✅ | WKRC-TV CBS 12 (Cincinnati OH) | Rocket | `` |
-| ✅ | WSTR-TV MyNetworkTV 64 (Cincinnati OH) | Rocket | `` |
-| ✅ | WDTN-TV NBC 2 (Dayton OH) | Rocket | `` |
-| ✅ | WHIO-TV CBS 7 (Dayton OH) | Rocket | `` |
-| ✅ | WKEF-TV ABC 22 (Dayton OH) | Rocket | `` |
-| ✅ | WRGT-TV FOX 45 (Dayton OH) | Rocket | `` |
-| ✅ | WTOL-TV CBS 7 (Toledo OH) | Rocket | `` |
-| ✅ | WTVG-TV ABC 13 (Toledo OH) | Rocket | `` |
-| ✅ | WNWO-TV NBC 24 (Toledo OH) | Rocket | `` |
-| ✅ | WUPW-TV FOX 36 (Toledo OH) | Rocket | `` |
-| ✅ | WLIO-TV NBC 8 (Lima OH) | Rocket | `` |
-| ✅ | WTTV-TV CBS 4 (Indianapolis IN) | Rocket | `` |
-| ✅ | WRTV-TV ABC 6 (Indianapolis IN) | Rocket | `` |
-| ✅ | WTHR-TV NBC 13 (Indianapolis IN) | Rocket | `` |
-| ✅ | WXIN-TV FOX 59 (Indianapolis IN) | Rocket | `` |
-| ✅ | WGRZ-TV NBC 2 (Buffalo NY) | Rocket | `` |
-| ✅ | WIVB-TV CBS 4 (Buffalo NY) | Rocket | `` |
-| ✅ | WKBW-TV ABC 7 (Buffalo NY) | Rocket | `` |
-| ✅ | WNLO-TV CW 23 (Buffalo NY) | Rocket | `` |
-| ✅ | WUTV-TV FOX 29 (Buffalo NY) | Rocket | `` |
-| ✅ | WNYO-TV MyNetworkTV 49 (Buffalo NY) | Rocket | `` |
-| ✅ | WRGB-TV CBS 6 (Albany NY) | Rocket | `` |
-| ✅ | WTEN-TV ABC 10 (Albany NY) | Rocket | `` |
-| ✅ | WNYT-TV NBC 13 (Albany NY) | Rocket | `` |
-| ✅ | WCWN-TV CW 15 (Albany NY) | Rocket | `` |
-| ✅ | WXXA-TV FOX 23 (Albany NY) | Rocket | `` |
-| ✅ | WSTM-TV NBC 3 (Syracuse NY) | Rocket | `` |
-| ✅ | WTVH-TV CBS 5 (Syracuse NY) | Rocket | `` |
-| ✅ | WSYR-TV ABC 9 (Syracuse  NY) | Rocket | `` |
-| ✅ | WSYT-TV FOX 68 (Syracuse NY) | Rocket | `` |
-| ✅ | WCSH-TV NBC 6 (Portland ME) | Rocket | `` |
-| ✅ | WGME-TV CBS 13 (Portland ME) | Rocket | `` |
-| ❌ | WPFO-TV FOX 23 (Portland ME) | Offline | `` |
-| ❌ | KATU-TV ABC 2 (Portland OR) | Rocket | `` |
-| ✅ | KOIN-TV CBS 6 (Portland OR) | Rocket | `` |
+| ✅ | WOIO CBS 19 (Cleveland OH) | Rocket | `WOIO-DT.us_locals1` |
+| ✅ | WLWT-TV NBC 5 (Cincinnati OH) | Rocket | `WLWT-DT.us_locals1` |
+| ✅ | WCPO-TV ABC 9 (Cincinnati OH) | Rocket | `WCPO-DT.us_locals1` |
+| ✅ | WKRC-TV CBS 12 (Cincinnati OH) | Rocket | `WKRC-DT.us_locals1` |
+| ✅ | WSTR-TV MyNetworkTV 64 (Cincinnati OH) | Rocket | `WSTR-DT.us_locals1` |
+| ✅ | WDTN-TV NBC 2 (Dayton OH) | Rocket | `WDTN-DT.us_locals1` |
+| ✅ | WHIO-TV CBS 7 (Dayton OH) | Rocket | `WHIO-DT.us_locals1` |
+| ✅ | WKEF-TV ABC 22 (Dayton OH) | Rocket | `WKEF-DT2.us_locals1` |
+| ✅ | WRGT-TV FOX 45 (Dayton OH) | Rocket | `WRGT-DT.us_locals1` |
+| ✅ | WTOL-TV CBS 7 (Toledo OH) | Rocket | `WTOL-DT.us_locals1` |
+| ✅ | WTVG-TV ABC 13 (Toledo OH) | Rocket | `WTVG-DT.us_locals1` |
+| ✅ | WNWO-TV NBC 24 (Toledo OH) | Rocket | `WNWO-DT.us_locals1` |
+| ✅ | WUPW-TV FOX 36 (Toledo OH) | Rocket | `WUPW-DT.us_locals1` |
+| ✅ | WLIO-TV NBC 8 (Lima OH) | Rocket | `WLIO-DT.us_locals1` |
+| ✅ | WTTV-TV CBS 4 (Indianapolis IN) | Rocket | `WTTV-DT.us_locals1` |
+| ✅ | WRTV-TV ABC 6 (Indianapolis IN) | Rocket | `WRTV-DT.us_locals1` |
+| ✅ | WTHR-TV NBC 13 (Indianapolis IN) | Rocket | `WTHR-DT.us_locals1` |
+| ✅ | WXIN-TV FOX 59 (Indianapolis IN) | Rocket | `WXIN-DT.us_locals1` |
+| ✅ | WGRZ-TV NBC 2 (Buffalo NY) | Rocket | `WGRZ-DT.us_locals1` |
+| ✅ | WIVB-TV CBS 4 (Buffalo NY) | Rocket | `WIVB-DT.us_locals1` |
+| ✅ | WKBW-TV ABC 7 (Buffalo NY) | Rocket | `WKBW-DT.us_locals1` |
+| ✅ | WNLO-TV CW 23 (Buffalo NY) | Rocket | `WNLO-CD.us_locals1` |
+| ✅ | WUTV-TV FOX 29 (Buffalo NY) | Rocket | `WUTV-DT.us_locals1` |
+| ✅ | WNYO-TV MyNetworkTV 49 (Buffalo NY) | Rocket | `WNYO-DT.us_locals1` |
+| ✅ | WRGB-TV CBS 6 (Albany NY) | Rocket | `WRGB-DT.us_locals1` |
+| ✅ | WTEN-TV ABC 10 (Albany NY) | Rocket | `WTEN-DT.us_locals1` |
+| ✅ | WNYT-TV NBC 13 (Albany NY) | Rocket | `WNYT-DT.us_locals1` |
+| ✅ | WCWN-TV CW 15 (Albany NY) | Rocket | `WCWN-DT.us_locals1` |
+| ✅ | WXXA-TV FOX 23 (Albany NY) | Rocket | `WXXA-DT.us_locals1` |
+| ✅ | WSTM-TV NBC 3 (Syracuse NY) | Rocket | `WSTM-DT.us_locals1` |
+| ✅ | WTVH-TV CBS 5 (Syracuse NY) | Rocket | `WTVH-DT.us_locals1` |
+| ✅ | WSYR-TV ABC 9 (Syracuse  NY) | Rocket | `WSYR-DT.us_locals1` |
+| ✅ | WSYT-TV FOX 68 (Syracuse NY) | Rocket | `WSYT-DT.us_locals1` |
+| ✅ | WCSH-TV NBC 6 (Portland ME) | Rocket | `WCSH-DT.us_locals1` |
+| ✅ | WGME-TV CBS 13 (Portland ME) | Rocket | `WGME-DT2.us_locals1` |
+| ❌ | WPFO-TV FOX 23 (Portland ME) | Offline | `WPFO-DT.us_locals1` |
+| ❌ | KATU-TV ABC 2 (Portland OR) | Rocket | `KATU-DT2.us_locals1` |
+| ✅ | KOIN-TV CBS 6 (Portland OR) | Rocket | `KOIN-DT.us_locals1` |
 | ✅ | KGW-TV NBC 8 (Portland OR) | Rocket | `` |
-| ✅ | KPTV-TV FOX 12 (Portland OR) | Rocket | `` |
-| ✅ | WLBT-TV NBC 3 (Jackson MS) | Rocket | `` |
-| ✅ | WJTV-TV CBS 12.1 (Jackson MS) | Rocket | `` |
-| ✅ | WJTV-DT CW 12.2 (Jackson MS) | Rocket | `` |
-| ✅ | WAPT-TV ABC 16 (Jackson MS) | Rocket | `` |
-| ✅ | WDBD-TV FOX 40 (Jackson MS) | Rocket | `` |
-| ✅ | WISC-TV CBS 3 (Madison WI) | Rocket | `` |
-| ✅ | WMTV-TV NBC 15 (Madison WI) | Rocket | `` |
-| ✅ | WKOW-TV ABC 27 (Madison WI) | Rocket | `` |
-| ✅ | WMSN-TV FOX 47 (Madison WI) | Rocket | `` |
-| ✅ | WTMJ-TV NBC 4 (Milwaukee WI) | Rocket | `` |
-| ✅ | WITI-TV FOX 6 (Milwaukee WI) | Rocket | `` |
-| ✅ | WVTV-TV CW 18 (Milwaukee WI) | Rocket | `` |
-| ✅ | WISN-TV ABC 12 (Milwaukee WI) | Rocket | `` |
-| ✅ | WDJT-TV CBS 58 (Milwaukee WI) | Rocket | `` |
-| ✅ | WBAY-TV ABC 2 (Green Bay WI) | Rocket | `` |
-| ✅ | WFRV-TV CBS 5 (Green Bay WI) | Rocket | `` |
-| ✅ | WLUK-TV FOX 11 (Green Bay WI) | Rocket | `` |
-| ✅ | WCWF-TV CW 14 (Green Bay WI) | Rocket | `` |
+| ✅ | KPTV-TV FOX 12 (Portland OR) | Rocket | `KPTV-DT.us_locals1` |
+| ✅ | WLBT-TV NBC 3 (Jackson MS) | Rocket | `WLBT-DT.us_locals1` |
+| ✅ | WJTV-TV CBS 12.1 (Jackson MS) | Rocket | `WJTV-DT.us_locals1` |
+| ✅ | WJTV-DT CW 12.2 (Jackson MS) | Rocket | `WJTV-DT.us_locals1` |
+| ✅ | WAPT-TV ABC 16 (Jackson MS) | Rocket | `WAPT-DT.us_locals1` |
+| ✅ | WDBD-TV FOX 40 (Jackson MS) | Rocket | `WDBD-DT.us_locals1` |
+| ✅ | WISC-TV CBS 3 (Madison WI) | Rocket | `WISC-DT.us_locals1` |
+| ✅ | WMTV-TV NBC 15 (Madison WI) | Rocket | `WMTV-DT.us_locals1` |
+| ✅ | WKOW-TV ABC 27 (Madison WI) | Rocket | `WKOW-DT.us_locals1` |
+| ✅ | WMSN-TV FOX 47 (Madison WI) | Rocket | `WMSN-DT.us_locals1` |
+| ✅ | WTMJ-TV NBC 4 (Milwaukee WI) | Rocket | `WTMJ-DT.us_locals1` |
+| ✅ | WITI-TV FOX 6 (Milwaukee WI) | Rocket | `WITI-DT.us_locals1` |
+| ✅ | WVTV-TV CW 18 (Milwaukee WI) | Rocket | `WVTV-DT.us_locals1` |
+| ✅ | WISN-TV ABC 12 (Milwaukee WI) | Rocket | `WISN-DT.us_locals1` |
+| ✅ | WDJT-TV CBS 58 (Milwaukee WI) | Rocket | `WDJT-DT.us_locals1` |
+| ✅ | WBAY-TV ABC 2 (Green Bay WI) | Rocket | `WBAY-DT.us_locals1` |
+| ✅ | WFRV-TV CBS 5 (Green Bay WI) | Rocket | `WFRV-DT.us_locals1` |
+| ✅ | WLUK-TV FOX 11 (Green Bay WI) | Rocket | `WLUK-DT.us_locals1` |
+| ✅ | WCWF-TV CW 14 (Green Bay WI) | Rocket | `WCWF-DT.us_locals1` |
 | ✅ | WBGA-TV NBC 26 (Green Bay WI) | Rocket | `` |
-| ✅ | KREM-TV CBS 2 (Spokane WA) | Local Channels (Not 24/7) | `` |
-| ✅ | KOMO-TV ABC 4 (Seattle WA) | Rocket | `` |
-| ✅ | KING-TV NBC 5 (Seattle WA) | Rocket | `` |
-| ✅ | KIRO-TV CBS 7 (Seattle WA) | Rocket | `` |
-| ✅ | KSTW-TV Ind. 11 (Seattle WA) | Rocket | `` |
-| ✅ | KCPQ-TV FOX 13 (Seattle WA) | Rocket | `` |
-| ❌ | KZJO-TV FOX 13+/MyNetworkTV 22 (Seattle WA) | Rocket | `` |
-| ❌ | KUNS-TV CW 51 (Seattle WA) | Rocket | `` |
-| ✅ | WAVE-TV NBC 3 (Louisville KY) | Rocket | `` |
-| ✅ | WHAS-TV ABC 11 (Louisville KY) | Rocket | `` |
-| ✅ | WLKY-TV CBS 32 (Louisville KY) | Rocket | `` |
-| ✅ | WDRB-TV FOX 41 (Louisville KY) | Rocket | `` |
-| ✅ | WLEX-TV NBC 18 (Lexington KY) | Rocket | `` |
-| ✅ | WKYT-TV CBS 27.1 (Lexington KY) | Rocket | `` |
-| ✅ | WKYT-DT CW 27.2 (Lexington KY) | Rocket | `` |
-| ✅ | WTVQ-TV ABC 36 (Lexington KY) | Rocket | `` |
-| ✅ | WDKY-TV FOX 56 (Lexington KY) | Rocket | `` |
-| ✅ | KTVM-TV NBC 20 (Butte MT) | Rocket | `` |
-| ✅ | KTVQ-TV CBS 2 (Billings MT) | Rocket | `` |
-| ✅ | KHMT-TV FOX 4 (Billings MT) | Rocket | `` |
-| ✅ | KSVI-TV ABC 6 (Billings MT) | Rocket | `` |
+| ✅ | KREM-TV CBS 2 (Spokane WA) | Local Channels (Not 24/7) | `KREM-DT.us_locals1` |
+| ✅ | KOMO-TV ABC 4 (Seattle WA) | Rocket | `KOMO-DT.us_locals1` |
+| ✅ | KING-TV NBC 5 (Seattle WA) | Rocket | `KING-DT.us_locals1` |
+| ✅ | KIRO-TV CBS 7 (Seattle WA) | Rocket | `KIRO-DT.us_locals1` |
+| ✅ | KSTW-TV Ind. 11 (Seattle WA) | Rocket | `KSTW-DT.us_locals1` |
+| ✅ | KCPQ-TV FOX 13 (Seattle WA) | Rocket | `KCPQ-DT.us_locals1` |
+| ❌ | KZJO-TV FOX 13+/MyNetworkTV 22 (Seattle WA) | Rocket | `KZJO-DT.us_locals1` |
+| ❌ | KUNS-TV CW 51 (Seattle WA) | Rocket | `KUNS-DT.us_locals1` |
+| ✅ | WAVE-TV NBC 3 (Louisville KY) | Rocket | `WAVE-DT.us_locals1` |
+| ✅ | WHAS-TV ABC 11 (Louisville KY) | Rocket | `WHAS-DT.us_locals1` |
+| ✅ | WLKY-TV CBS 32 (Louisville KY) | Rocket | `WLKY-DT.us_locals1` |
+| ✅ | WDRB-TV FOX 41 (Louisville KY) | Rocket | `WDRB-DT.us_locals1` |
+| ✅ | WLEX-TV NBC 18 (Lexington KY) | Rocket | `WLEX-DT.us_locals1` |
+| ✅ | WKYT-TV CBS 27.1 (Lexington KY) | Rocket | `WKYT-DT.us_locals1` |
+| ✅ | WKYT-DT CW 27.2 (Lexington KY) | Rocket | `WKYT-DT.us_locals1` |
+| ✅ | WTVQ-TV ABC 36 (Lexington KY) | Rocket | `WTVQ-DT.us_locals1` |
+| ✅ | WDKY-TV FOX 56 (Lexington KY) | Rocket | `WDKY-DT.us_locals1` |
+| ✅ | KTVM-TV NBC 20 (Butte MT) | Rocket | `KTVM-DT.us_locals1` |
+| ✅ | KTVQ-TV CBS 2 (Billings MT) | Rocket | `KTVQ-DT.us_locals1` |
+| ✅ | KHMT-TV FOX 4 (Billings MT) | Rocket | `KHMT-DT.us_locals1` |
+| ✅ | KSVI-TV ABC 6 (Billings MT) | Rocket | `KSVI-DT.us_locals1` |
 | ✅ | KLUR-TV NBC 8 (Billings MT) | Rocket | `` |
-| ✅ | KTUU-TV NBC 2 (Anchorage AK) | Rocket | `` |
-| ✅ | KTBY-TV FOX 4 (Anchorage AK) | Rocket | `` |
-| ✅ | KYUR-TV ABC 13 (Anchorage AK) | Rocket | `` |
-| ✅ | KTVA-TV CBS 22 (Anchorage AK) | Rocket | `` |
-| ✅ | KHON-TV FOX 2.1 (Honolulu HI) | Rocket | `` |
-| ✅ | KHON-DT CW 2.2 (Honolulu HI) | Rocket | `` |
-| ✅ | KITV-TV ABC 4 (Honolulu HI) | Rocket | `` |
-| ✅ | KGMB-TV CBS 5 (Honolulu HI) | Rocket | `` |
-| ✅ | KHNL-TV NBC 13 (Honolulu HI) | Rocket | `` |
-| ✅ | KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA) | 24/7 Local News | `KCAL-TV.us` |
-| ✅ | KNBC-TV NBC 4 24/7 News (Los Angeles CA) | 24/7 Local News | `` |
-| ❌ | KABC-TV ABC 7 24/7 News (Los Angeles CA) | Offline | `` |
-| ❌ | KTTV-TV FOX 11 24/7 News (Los Angeles CA) | Offline | `` |
-| ✅ | KNSD-TV NBC 7/39 24/7 News (San Diego CA) | 24/7 Local News | `` |
-| ✅ | KFMB-TV CBS 8 24/7 News (San Diego CA) | 24/7 Local News | `` |
-| ✅ | KGTV-TV ABC 10 24/7 News (San Diego CA) | 24/7 Local News | `` |
-| ✅ | KERO-TV ABC 23 24/7 News (Bakersfield CA) | 24/7 Local News | `` |
-| ❌ | WITN-TV 22 24/7 News (Wilmington DE) | Offline | `` |
-| ✅ | WJAX-TV CBS 47 24/7 News (Jacksonville FL) | 24/7 Local News | `` |
-| ✅ | KTVU-TV FOX 2 24/7 News (San Francisco CA) | 24/7 Local News | `` |
-| ✅ | KPIX-TV CBS 4 24/7 News (San Francisco CA) | 24/7 Local News | `` |
+| ✅ | KTUU-TV NBC 2 (Anchorage AK) | Rocket | `KTUU-DT.us_locals1` |
+| ✅ | KTBY-TV FOX 4 (Anchorage AK) | Rocket | `KTBY-DT.us_locals1` |
+| ✅ | KYUR-TV ABC 13 (Anchorage AK) | Rocket | `KYUR-DT.us_locals1` |
+| ✅ | KTVA-TV CBS 22 (Anchorage AK) | Rocket | `KTVA-DT.us_locals1` |
+| ✅ | KHON-TV FOX 2.1 (Honolulu HI) | Rocket | `KHON-DT2.us_locals1` |
+| ✅ | KHON-DT CW 2.2 (Honolulu HI) | Rocket | `KHON-DT2.us_locals1` |
+| ✅ | KITV-TV ABC 4 (Honolulu HI) | Rocket | `KITV-DT.us_locals1` |
+| ✅ | KGMB-TV CBS 5 (Honolulu HI) | Rocket | `KGMB-DT.us_locals1` |
+| ✅ | KHNL-TV NBC 13 (Honolulu HI) | Rocket | `KHNL-DT.us_locals1` |
+| ✅ | KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA) | 24/7 Local News | `KCBS-DT.us_locals1` |
+| ✅ | KNBC-TV NBC 4 24/7 News (Los Angeles CA) | 24/7 Local News | `KNBC-DT.us_locals1` |
+| ❌ | KABC-TV ABC 7 24/7 News (Los Angeles CA) | Offline | `KABC-DT.us_locals1` |
+| ❌ | KTTV-TV FOX 11 24/7 News (Los Angeles CA) | Offline | `KTTV-DT.us_locals1` |
+| ✅ | KNSD-TV NBC 7/39 24/7 News (San Diego CA) | 24/7 Local News | `KNSD-DT.us_locals1` |
+| ❌ | KFMB-TV CBS 8 24/7 News (San Diego CA) | Offline | `KFMB-DT.us_locals1` |
+| ✅ | KGTV-TV ABC 10 24/7 News (San Diego CA) | 24/7 Local News | `KGTV-DT.us_locals1` |
+| ✅ | KERO-TV ABC 23 24/7 News (Bakersfield CA) | 24/7 Local News | `KERO-DT.us_locals1` |
+| ❌ | WITN-TV 22 24/7 News (Wilmington DE) | Offline | `WITN-DT.us_locals1` |
+| ✅ | WJAX-TV CBS 47 24/7 News (Jacksonville FL) | 24/7 Local News | `WJAX-DT.us_locals1` |
+| ✅ | KTVU-TV FOX 2 24/7 News (San Francisco CA) | 24/7 Local News | `KTVU-DT.us_locals1` |
+| ✅ | KPIX-TV CBS 4 24/7 News (San Francisco CA) | 24/7 Local News | `KPIX-DT.us_locals1` |
 | ❌ | KGO-TV ABC 7 24/7 News (San Francisco CA) | Offline | `` |
-| ✅ | KNTV-TV NBC 10 24/7 News (San Francisco CA) | 24/7 Local News | `` |
-| ✅ | KESQ-TV 3 ABC 24/7 News (Palm Springs CA) | 24/7 Local News | `` |
-| ✅ | WCBS-TV CBS 2 24/7 News (New York NY) | 24/7 Local News | `` |
-| ✅ | WNBC-TV NBC 4 24/7 News (New York NY) | 24/7 Local News | `` |
-| ✅ | WNYW-TV FOX 5 24/7 News (New York NY) | 24/7 Local News | `` |
-| ✅ | WABC-TV ABC 7 24/7 News (New York NY) | 24/7 Local News | `` |
-| ✅ | WBBM-TV CBS 2 24/7 News (Chicago IL) | 24/7 Local News | `` |
-| ✅ | WMAQ-TV NBC 5 24/7 News (Chicago IL) | 24/7 Local News | `` |
+| ✅ | KNTV-TV NBC 10 24/7 News (San Francisco CA) | 24/7 Local News | `KNTV-DT.us_locals1` |
+| ✅ | KESQ-TV 3 ABC 24/7 News (Palm Springs CA) | 24/7 Local News | `KESQ-DT3.us_locals1` |
+| ✅ | WCBS-TV CBS 2 24/7 News (New York NY) | 24/7 Local News | `WCBS-DT.us_locals1` |
+| ✅ | WNBC-TV NBC 4 24/7 News (New York NY) | 24/7 Local News | `WNBC-DT.us_locals1` |
+| ✅ | WNYW-TV FOX 5 24/7 News (New York NY) | 24/7 Local News | `WNYW-DT.us_locals1` |
+| ✅ | WABC-TV ABC 7 24/7 News (New York NY) | 24/7 Local News | `WABC-DT.us_locals1` |
+| ✅ | WBBM-TV CBS 2 24/7 News (Chicago IL) | 24/7 Local News | `WBBM-DT.us_locals1` |
+| ✅ | WMAQ-TV NBC 5 24/7 News (Chicago IL) | 24/7 Local News | `WMAQ-DT.us_locals1` |
 | ❌ | WLS-TV ABC 7 24/7 News (Chicago IL) | Offline | `` |
-| ✅ | WFLD-TV FOX 32 24/7 News (Chicago IL) | 24/7 Local News | `` |
-| ✅ | WJBK-TV FOX 2 24/7 News (Detroit MI) | 24/7 Local News | `` |
-| ✅ | WDIV-TV NBC 4 "Local 4+" 24/7 News (Detroit MI) | 24/7 Local News | `` |
-| ✅ | WXYZ-TV ABC 7 24/7 News (Detroit MI) | 24/7 Local News | `` |
+| ✅ | WFLD-TV FOX 32 24/7 News (Chicago IL) | 24/7 Local News | `WFLD-DT.us_locals1` |
+| ✅ | WJBK-TV FOX 2 24/7 News (Detroit MI) | 24/7 Local News | `WJBK-DT.us_locals1` |
+| ✅ | WDIV-TV NBC 4 "Local 4+" 24/7 News (Detroit MI) | 24/7 Local News | `WDIV-DT.us_locals1` |
+| ✅ | WXYZ-TV ABC 7 24/7 News (Detroit MI) | 24/7 Local News | `WXYZ-DT.us_locals1` |
 | ✅ | WWJ-TV CBS 62 24/7 News (Detroit MI) | 24/7 Local News | `` |
-| ✅ | WCCO-TV CBS 4 24/7 News (Minneapolis/St. Paul MN) | 24/7 Local News | `` |
-| ❌ | KSTP-TV ABC 5 24/7 News (Minneapolis/St. Paul MN) | Offline | `` |
-| ✅ | KMSP-TV FOX 9 24/7 News (Minneapolis/St. Paul MN) | 24/7 Local News | `` |
-| ✅ | KARE-TV NBC 11 24/7 News (Minneapolis/St. Paul MN) | 24/7 Local News | `` |
+| ✅ | WCCO-TV CBS 4 24/7 News (Minneapolis/St. Paul MN) | 24/7 Local News | `WCCO-DT.us_locals1` |
+| ❌ | KSTP-TV ABC 5 24/7 News (Minneapolis/St. Paul MN) | Offline | `KSTP-DT.us_locals1` |
+| ✅ | KMSP-TV FOX 9 24/7 News (Minneapolis/St. Paul MN) | 24/7 Local News | `KMSP-DT.us_locals1` |
+| ✅ | KARE-TV NBC 11 24/7 News (Minneapolis/St. Paul MN) | 24/7 Local News | `KARE-DT.us_locals1` |
 | ✅ | KYW-TV CBS 3 24/7 News (Philadelphia PA) | 24/7 Local News | `` |
-| ❌ | WPVI-TV ABC 6 24/7 News (Philadelphia PA) | Offline | `` |
-| ✅ | WCAU-TV NBC 10 24/7 News (Philadelphia PA) | 24/7 Local News | `` |
-| ✅ | WTXF-TV FOX 29 24/7 News (Philadelphia PA) | 24/7 Local News | `` |
+| ❌ | WPVI-TV ABC 6 24/7 News (Philadelphia PA) | Offline | `WPVI-DT.us_locals1` |
+| ✅ | WCAU-TV NBC 10 24/7 News (Philadelphia PA) | 24/7 Local News | `WCAU-DT.us_locals1` |
+| ✅ | WTXF-TV FOX 29 24/7 News (Philadelphia PA) | 24/7 Local News | `WTXF-DT.us_locals1` |
 | ✅ | WBZ-TV CBS 4 24/7 News (Boston MA) | 24/7 Local News | `` |
-| ✅ | WCVB-TV ABC 5 24/7 News (Boston MA) | 24/7 Local News | `` |
-| ✅ | WBTS-CD NBC 10 24/7 News (Boston MA) | 24/7 Local News | `` |
-| ✅ | WFXT-CD FOX 25 24/7 News (Boston MA) | 24/7 Local News | `` |
-| ✅ | KDKA-TV CBS 2 24/7 News (Pittsburgh PA) | 24/7 Local News | `` |
-| ✅ | WTAE-TV ABC 4 24/7 News (Pittsburgh PA) | 24/7 Local News | `` |
-| ✅ | WPXI-TV NBC 11 24/7 News (Pittsburgh PA) | 24/7 Local News | `` |
-| ✅ | WFOR-TV CBS 4 24/7 News (Miami FL) | 24/7 Local News | `` |
-| ✅ | WTVJ-TV NBC 6 24/7 News (Miami FL) | 24/7 Local News | `` |
-| ✅ | WPLG-TV ABC 10 24/7 News (Miami FL) | 24/7 Local News | `` |
-| ✅ | WTSP-TV CBS 10 24/7 News (Tampa Bay FL) | 24/7 Local News | `` |
-| ✅ | WTVT-TV FOX 13 24/7 News (Tampa Bay FL) | 24/7 Local News | `` |
-| ✅ | WFTS-TV ABC 28 24/7 News (Tampa Bay FL) | 24/7 Local News | `` |
-| ✅ | WESH-TV NBC 2 24/7 News (Orlando FL) | 24/7 Local News | `` |
-| ✅ | WFTV-TV ABC 9 24/7 News (Orlando FL) | 24/7 Local News | `` |
-| ✅ | WFTV-TV ABC 9 Now (Orlando FL) | 24/7 Local News | `` |
-| ✅ | WFTV-TV ABC 9 Breaking News 24/7 (Orlando FL) | 24/7 Local News | `` |
-| ✅ | WFTV-TV ABC 9 Weather 24/7 (Orlando FL) | 24/7 Local News | `` |
-| ✅ | WOFL-TV FOX 35 24/7 News (Orlando FL) | 24/7 Local News | `` |
-| ✅ | KENS-TV CBS 5 24/7 News (San Antonio TX) | 24/7 Local News | `` |
-| ✅ | KDFW-TV FOX 4 24/7 News (Ft. Worth/Dallas TX) | 24/7 Local News | `` |
-| ✅ | KXAS-TV NBC 5 24/7 News (Ft. Worth/Dallas TX) | 24/7 Local News | `` |
+| ✅ | WCVB-TV ABC 5 24/7 News (Boston MA) | 24/7 Local News | `WCVB-DT.us_locals1` |
+| ✅ | WBTS-CD NBC 10 24/7 News (Boston MA) | 24/7 Local News | `WBTS-CD.us_locals1` |
+| ✅ | WFXT-CD FOX 25 24/7 News (Boston MA) | 24/7 Local News | `WFXT-DT.us_locals1` |
+| ✅ | KDKA-TV CBS 2 24/7 News (Pittsburgh PA) | 24/7 Local News | `KDKA-DT.us_locals1` |
+| ✅ | WTAE-TV ABC 4 24/7 News (Pittsburgh PA) | 24/7 Local News | `WTAE-DT.us_locals1` |
+| ✅ | WPXI-TV NBC 11 24/7 News (Pittsburgh PA) | 24/7 Local News | `WPXI-DT.us_locals1` |
+| ✅ | WFOR-TV CBS 4 24/7 News (Miami FL) | 24/7 Local News | `WFOR-DT.us_locals1` |
+| ✅ | WTVJ-TV NBC 6 24/7 News (Miami FL) | 24/7 Local News | `WTVJ-DT.us_locals1` |
+| ✅ | WPLG-TV ABC 10 24/7 News (Miami FL) | 24/7 Local News | `WPLG-DT.us_locals1` |
+| ✅ | WTSP-TV CBS 10 24/7 News (Tampa Bay FL) | 24/7 Local News | `WTSP-DT.us_locals1` |
+| ✅ | WTVT-TV FOX 13 24/7 News (Tampa Bay FL) | 24/7 Local News | `WTVT-DT.us_locals1` |
+| ✅ | WFTS-TV ABC 28 24/7 News (Tampa Bay FL) | 24/7 Local News | `WFTS-DT.us_locals1` |
+| ✅ | WESH-TV NBC 2 24/7 News (Orlando FL) | 24/7 Local News | `WESH-DT.us_locals1` |
+| ✅ | WFTV-TV ABC 9 24/7 News (Orlando FL) | 24/7 Local News | `WFTV-DT.us_locals1` |
+| ✅ | WFTV-TV ABC 9 Now (Orlando FL) | 24/7 Local News | `WFTV-DT.us_locals1` |
+| ✅ | WFTV-TV ABC 9 Breaking News 24/7 (Orlando FL) | 24/7 Local News | `WFTV-DT.us_locals1` |
+| ✅ | WFTV-TV ABC 9 Weather 24/7 (Orlando FL) | 24/7 Local News | `WFTV-DT.us_locals1` |
+| ✅ | WOFL-TV FOX 35 24/7 News (Orlando FL) | 24/7 Local News | `WOFL-DT.us_locals1` |
+| ✅ | KENS-TV CBS 5 24/7 News (San Antonio TX) | 24/7 Local News | `KENS-DT.us_locals1` |
+| ✅ | KDFW-TV FOX 4 24/7 News (Ft. Worth/Dallas TX) | 24/7 Local News | `KDFW-DT.us_locals1` |
+| ✅ | KXAS-TV NBC 5 24/7 News (Ft. Worth/Dallas TX) | 24/7 Local News | `KXAS-DT.us_locals1` |
 | ✅ | WFFA-TV ABC 8 24/7 News (Ft. Worth/Dallas TX) | 24/7 Local News | `` |
-| ✅ | KTVT-TV CBS 11 24/7 News (Ft. Worth/Dallas TX) | 24/7 Local News | `` |
-| ✅ | KPRC-TV NBC 2 24/7 News (Houston TX) | 24/7 Local News | `` |
-| ✅ | KHOU-TV CBS 11 24/7 News (Houston TX) | 24/7 Local News | `` |
-| ❌ | KTRK-TV ABC 13 24/7 News (Houston TX) | Offline | `` |
-| ✅ | KRIV-TV FOX 26 24/7 News (Houston TX) | 24/7 Local News | `` |
-| ❌ | KTVK-TV/KPHO-TV 3TV & CBS 5 24/7 News (Phoenix AZ) | Offline | `` |
-| ✅ | KSAZ-TV FOX 10 (Phoenix AZ) | 24/7 Local News | `` |
-| ✅ | KPNX-TV NBC 12 24/7 News (Phoenix AZ) | 24/7 Local News | `` |
-| ✅ | KNXV-TV ABC 15 24/7 News (Phoenix AZ) | 24/7 Local News | `` |
-| ❌ | KSNV-TV NBC 3 24/7 News (Las Vegas NV) | Offline | `` |
-| ✅ | KVVU-TV FOX 5 (Las Vegas NV) | 24/7 Local News | `` |
-| ✅ | KTNV-TV ABC 13 24/7 News (Las Vegas NV) | 24/7 Local News | `` |
+| ✅ | KTVT-TV CBS 11 24/7 News (Ft. Worth/Dallas TX) | 24/7 Local News | `KTVT-DT.us_locals1` |
+| ✅ | KPRC-TV NBC 2 24/7 News (Houston TX) | 24/7 Local News | `KPRC-DT.us_locals1` |
+| ✅ | KHOU-TV CBS 11 24/7 News (Houston TX) | 24/7 Local News | `KHOU-DT.us_locals1` |
+| ❌ | KTRK-TV ABC 13 24/7 News (Houston TX) | Offline | `KTRK-DT.us_locals1` |
+| ✅ | KRIV-TV FOX 26 24/7 News (Houston TX) | 24/7 Local News | `KRIV-DT.us_locals1` |
+| ❌ | KTVK-TV/KPHO-TV 3TV & CBS 5 24/7 News (Phoenix AZ) | Offline | `KTVK-DT.us_locals1` |
+| ✅ | KSAZ-TV FOX 10 (Phoenix AZ) | 24/7 Local News | `KSAZ-DT.us_locals1` |
+| ✅ | KPNX-TV NBC 12 24/7 News (Phoenix AZ) | 24/7 Local News | `KPNX-DT.us_locals1` |
+| ✅ | KNXV-TV ABC 15 24/7 News (Phoenix AZ) | 24/7 Local News | `KNXV-DT.us_locals1` |
+| ❌ | KSNV-TV NBC 3 24/7 News (Las Vegas NV) | Offline | `KSNV-DT.us_locals1` |
+| ✅ | KVVU-TV FOX 5 (Las Vegas NV) | 24/7 Local News | `KVVU-DT.us_locals1` |
+| ✅ | KTNV-TV ABC 13 24/7 News (Las Vegas NV) | 24/7 Local News | `KTNV-DT.us_locals1` |
 | ✅ | WSB-TV ABC 2 24/7 News (Atlanta GA) | 24/7 Local News | `` |
-| ✅ | WAGA-TV FOX 5 24/7 News (Atlanta GA) | 24/7 Local News | `` |
-| ✅ | WXIA-TV NBC 11 24/7 News (Atlanta GA) | 24/7 Local News | `` |
+| ✅ | WAGA-TV FOX 5 24/7 News (Atlanta GA) | 24/7 Local News | `WAGA-DT.us_locals1` |
+| ✅ | WXIA-TV NBC 11 24/7 News (Atlanta GA) | 24/7 Local News | `WXIA-DT.us_locals1` |
 | ❌ | WGCL-TV CBS 46 24/7 News (Atlanta GA) | Offline | `` |
-| ❌ | WBTV-TV CBS 3 24/7 News (Charlotte NC) | Offline | `` |
-| ✅ | WSOC-TV ABC 9 24/7 News (Charlotte NC) | 24/7 Local News | `` |
-| ✅ | WCNC-TV NBC 36 24/7 News (Charlotte NC) | 24/7 Local News | `` |
-| ✅ | KCNC-TV CBS 4 24/7 News (Denver CO) | 24/7 Local News | `` |
-| ✅ | KMGH-TV ABC 7 24/7 News (Denver CO) | 24/7 Local News | `` |
-| ✅ | KUSA-TV NBC 9 24/7 News (Denver CO) | 24/7 Local News | `` |
+| ❌ | WBTV-TV CBS 3 24/7 News (Charlotte NC) | Offline | `WBTV-DT.us_locals1` |
+| ✅ | WSOC-TV ABC 9 24/7 News (Charlotte NC) | 24/7 Local News | `WSOC-DT.us_locals1` |
+| ✅ | WCNC-TV NBC 36 24/7 News (Charlotte NC) | 24/7 Local News | `WCNC-DT.us_locals1` |
+| ✅ | KCNC-TV CBS 4 24/7 News (Denver CO) | 24/7 Local News | `KCNC-DT.us_locals1` |
+| ✅ | KMGH-TV ABC 7 24/7 News (Denver CO) | 24/7 Local News | `KMGH-DT.us_locals1` |
+| ✅ | KUSA-TV NBC 9 24/7 News (Denver CO) | 24/7 Local News | `KUSA-DT.us_locals1` |
 | ✅ | WRC-TV NBC 4 24/7 News (Washington DC) | 24/7 Local News | `` |
-| ✅ | WTTG-TV FOX 5 24/7 News (Washington DC) | 24/7 Local News | `` |
-| ✅ | WJLA-TV ABC 7 24/7 News (Washington DC) | 24/7 Local News | `` |
-| ✅ | WUSA-TV CBS 9 24/7 News (Washington DC) | 24/7 Local News | `` |
-| ✅ | KOMO-TV ABC 4 24/7 News (Seattle WA) | 24/7 Local News | `` |
-| ✅ | KING-TV NBC 5 24/7 News (Seattle WA) | 24/7 Local News | `` |
-| ✅ | KIRO-TV CBS 7 24/7 News (Seattle WA) | 24/7 Local News | `` |
-| ✅ | KCPQ-TV FOX 13 24/7 News (Seattle WA) | 24/7 Local News | `` |
+| ✅ | WTTG-TV FOX 5 24/7 News (Washington DC) | 24/7 Local News | `WTTG-DT.us_locals1` |
+| ✅ | WJLA-TV ABC 7 24/7 News (Washington DC) | 24/7 Local News | `WJLA-DT.us_locals1` |
+| ✅ | WUSA-TV CBS 9 24/7 News (Washington DC) | 24/7 Local News | `WUSA-DT.us_locals1` |
+| ✅ | KOMO-TV ABC 4 24/7 News (Seattle WA) | 24/7 Local News | `KOMO-DT.us_locals1` |
+| ✅ | KING-TV NBC 5 24/7 News (Seattle WA) | 24/7 Local News | `KING-DT.us_locals1` |
+| ✅ | KIRO-TV CBS 7 24/7 News (Seattle WA) | 24/7 Local News | `KIRO-DT.us_locals1` |
+| ✅ | KCPQ-TV FOX 13 24/7 News (Seattle WA) | 24/7 Local News | `KCPQ-DT.us_locals1` |
 | ✅ | LocalNow | Local Now | `` |
 | ✅ | LocalNow (Los Angeles CA) | Local Now | `` |
 | ✅ | LocalNow (New York NY) | Local Now | `` |
@@ -586,7 +586,7 @@
 | ✅ | The Young Turks | News Channels | `TYT.The.Young.Turks.us2` |
 | ✅ | TMZ Live | News Channels | `` |
 | ✅ | TRT World | News Channels | `` |
-| ✅ | UN Web TV | News Channels | `West.TV.us2` |
+| ✅ | UN Web TV | News Channels | `` |
 | ✅ | USA Today News | News Channels | `` |
 | ✅ | Yahoo! Finance | News Channels | `` |
 | ✅ | AccuWeather | Weather News | `AccuWeather.HD.us2` |
@@ -603,53 +603,53 @@
 | ✅ | PBS National (West) | Local Public Broadcast | `ABC.National.Feed.Pacific.us2` |
 | ✅ | PBS National (East) | Local Public Broadcast | `ABC.National.Feed.Pacific.us2` |
 | ✅ | PBS Retro | Local Public Broadcast | `RETRO.us2` |
-| ✅ | WVIZ-DT 25.2 The Ohio Channel (Cleveland OH) | Local Public Broadcast | `The.Hope.Channel.us2` |
-| ✅ | WOSU-TV PBS 34 (Columbus OH) | Rocket | `` |
-| ✅ | WTVS-DT 56.6 Michigan Learning Channel (Detroit MI) | Local Public Broadcast | `S-channel.us2` |
-| ✅ | WTTW-TV PBS 11.1 (Chicago IL) | Rocket | `` |
-| ❌ | WTTW-DT Prime 11.2 (Chicago IL) | Offline | `` |
-| ✅ | KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO) | Local Public Broadcast | `` |
-| ❌ | KCPT-TV PBS 19 (Kansas City MO) | Offline | `` |
-| ✅ | KETC-TV Nine PBS 9 (St. Louis MO) | Rocket | `` |
-| ✅ | KETS-TV PBS 2 (Little Rock AR) | Rocket | `` |
-| ✅ | WKLE-TV KET PBS 46.1 (Lexington KY) | Local Public Broadcast | `` |
-| ✅ | WKLE-DT KET 2 Create 46.2 (Lexington KY) | Local Public Broadcast | `Create.us2` |
-| ✅ | WKLE-DT KET KY 46.3 (Lexington KY) | Local Public Broadcast | `` |
-| ✅ | WKMJ-TV KET PBS 68.1 (Louisville KY) | Local Public Broadcast | `` |
-| ✅ | WKMJ-DT KET World 68.4 (Louisville KY) | Local Public Broadcast | `` |
-| ✅ | KLVX-TV PBS 10 (Las Vegas NV) | Rocket | `` |
-| ✅ | KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA) | Rocket | `` |
-| ✅ | WNET-TV PBS 13 (New York NY) | Rocket | `` |
-| ✅ | WLIW-TV PBS 21 (New York NY) | Rocket | `` |
-| ✅ | WNJT-TV NJ PBS 52 (Trenton NJ) | Local Public Broadcast | `` |
-| ✅ | WNED-TV BTPM PBS 17 (Buffalo NY/Toronto ON) | Rocket | `` |
-| ✅ | WXXI-TV PBS 21 (Rochester NY) | Rocket | `` |
-| ✅ | WEDH-TV P-CPTV PBS 24 (Hartfort CT) | Rocket | `` |
-| ❌ | WETA-TV WETA PBS 26.1 (Washington DC) | Rocket | `` |
-| ✅ | WETA-DT WETA UK 26.2 (Washington DC) | Local Public Broadcast | `` |
-| ✅ | WETA-DT PBS Metro 26.5 (Washington DC) | Local Public Broadcast | `` |
-| ✅ | WHUT-TV PBS 32 (Washington DC) | Rocket | `` |
-| ✅ | WMPB-TV MPT PBS 67 (Baltimore MD) | Local Public Broadcast | `` |
-| ✅ | WMPT-TV MPT PBS 22 (Annapolis MD) | Local Public Broadcast | `` |
-| ✅ | WPBT-TV South Florida PBS 2 (Miami FL) | Rocket | `` |
-| ✅ | WUCF-TV PBS 24 (Orlando FL) | Rocket | `` |
-| ✅ | WJCT-TV JAX PBS 9 (Jacksonville FL) | Rocket | `` |
-| ✅ | WEDU-TV PBS 3 (Tampa Bay FL) | Rocket | `` |
-| ✅ | KTCA-TV PBS 2 (Minneapolis/St. Paul MN) | Rocket | `` |
-| ✅ | WGTV-TV GPB PBS 30 (Atlanta GA) | Rocket | `` |
-| ✅ | KAET-TV Arizona PBS 8 (Phoenix AZ) | Rocket | `` |
-| ✅ | KLRN-TV PBS 9 (San Antonio TX) | Rocket | `` |
-| ✅ | KERA-TV PBS 13 (Ft. Worth/Dallas TX) | Rocket | `` |
-| ✅ | KQED-TV PBS 9.1 (San Francisco CA) | Rocket | `` |
-| ✅ | KQED-DT KQED+ PBS 9.2 (San Francisco CA) | Local Public Broadcast | `` |
-| ✅ | KVIE-TV PBS 6 (Sacramento CA) | Rocket | `` |
-| ✅ | KUED-TV Utah PBS 7 (Salt Lake City UT) | Rocket | `` |
-| ✅ | KOPB-TV PBS 10 (Portland OR) | Rocket | `` |
-| ✅ | WHYY-TV PBS 12 (Philadelphia PA) | Rocket | `` |
-| ✅ | WQLN-TV PBS 54 (Erie PA) | Rocket | `` |
-| ✅ | KDIN-TV Iowa PBS 11 (Des Moines IA) | Rocket | `` |
-| ✅ | KUSM-TV PBS 9 (Butte MT) | Rocket | `` |
-| ✅ | KHET-TV/KMEB-TV Hawai'i PBS 11/10 (Honolulu HI) | Rocket | `` |
+| ✅ | WVIZ-DT 25.2 The Ohio Channel (Cleveland OH) | Local Public Broadcast | `WVIZ-DT.us_locals1` |
+| ✅ | WOSU-TV PBS 34 (Columbus OH) | Rocket | `WOSU-DT.us_locals1` |
+| ✅ | WTVS-DT 56.6 Michigan Learning Channel (Detroit MI) | Local Public Broadcast | `WTVS-DT.us_locals1` |
+| ✅ | WTTW-TV PBS 11.1 (Chicago IL) | Rocket | `WTTW-DT.us_locals1` |
+| ✅ | WTTW-DT Prime 11.2 (Chicago IL) | Local Public Broadcast | `WTTW-DT.us_locals1` |
+| ✅ | KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO) | Local Public Broadcast | `KMOS-DT.us_locals1` |
+| ❌ | KCPT-TV PBS 19 (Kansas City MO) | Offline | `KCPT-DT.us_locals1` |
+| ✅ | KETC-TV Nine PBS 9 (St. Louis MO) | Rocket | `KETC-DT.us_locals1` |
+| ✅ | KETS-TV PBS 2 (Little Rock AR) | Rocket | `KETS-DT.us_locals1` |
+| ✅ | WKLE-TV KET PBS 46.1 (Lexington KY) | Local Public Broadcast | `WKLE-DT.us_locals1` |
+| ✅ | WKLE-DT KET 2 Create 46.2 (Lexington KY) | Local Public Broadcast | `WKLE-DT.us_locals1` |
+| ✅ | WKLE-DT KET KY 46.3 (Lexington KY) | Local Public Broadcast | `WKLE-DT.us_locals1` |
+| ✅ | WKMJ-TV KET PBS 68.1 (Louisville KY) | Local Public Broadcast | `WKMJ-DT.us_locals1` |
+| ✅ | WKMJ-DT KET World 68.4 (Louisville KY) | Local Public Broadcast | `WKMJ-DT.us_locals1` |
+| ✅ | KLVX-TV PBS 10 (Las Vegas NV) | Rocket | `KLVX-DT.us_locals1` |
+| ✅ | KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA) | Rocket | `KOCE-DT.us_locals1` |
+| ✅ | WNET-TV PBS 13 (New York NY) | Rocket | `WNET-DT.us_locals1` |
+| ✅ | WLIW-TV PBS 21 (New York NY) | Rocket | `WLIW-DT.us_locals1` |
+| ✅ | WNJT-TV NJ PBS 52 (Trenton NJ) | Local Public Broadcast | `WNJT-DT.us_locals1` |
+| ✅ | WNED-TV BTPM PBS 17 (Buffalo NY/Toronto ON) | Rocket | `WNED-DT.us_locals1` |
+| ✅ | WXXI-TV PBS 21 (Rochester NY) | Rocket | `WXXI-DT.us_locals1` |
+| ✅ | WEDH-TV P-CPTV PBS 24 (Hartfort CT) | Rocket | `WEDH-DT.us_locals1` |
+| ❌ | WETA-TV WETA PBS 26.1 (Washington DC) | Rocket | `WETA-DT.us_locals1` |
+| ✅ | WETA-DT WETA UK 26.2 (Washington DC) | Local Public Broadcast | `WETA-DT.us_locals1` |
+| ✅ | WETA-DT PBS Metro 26.5 (Washington DC) | Local Public Broadcast | `WETA-DT.us_locals1` |
+| ✅ | WHUT-TV PBS 32 (Washington DC) | Rocket | `WHUT-DT.us_locals1` |
+| ✅ | WMPB-TV MPT PBS 67 (Baltimore MD) | Local Public Broadcast | `WMPB-DT.us_locals1` |
+| ✅ | WMPT-TV MPT PBS 22 (Annapolis MD) | Local Public Broadcast | `WMPT-DT.us_locals1` |
+| ✅ | WPBT-TV South Florida PBS 2 (Miami FL) | Rocket | `WPBT-DT.us_locals1` |
+| ✅ | WUCF-TV PBS 24 (Orlando FL) | Rocket | `WUCF-DT.us_locals1` |
+| ✅ | WJCT-TV JAX PBS 9 (Jacksonville FL) | Rocket | `WJCT-DT.us_locals1` |
+| ✅ | WEDU-TV PBS 3 (Tampa Bay FL) | Rocket | `WEDU-DT.us_locals1` |
+| ✅ | KTCA-TV PBS 2 (Minneapolis/St. Paul MN) | Rocket | `KTCA-DT.us_locals1` |
+| ✅ | WGTV-TV GPB PBS 30 (Atlanta GA) | Rocket | `WGTV-DT.us_locals1` |
+| ✅ | KAET-TV Arizona PBS 8 (Phoenix AZ) | Rocket | `KAET-DT.us_locals1` |
+| ✅ | KLRN-TV PBS 9 (San Antonio TX) | Rocket | `KLRN-DT.us_locals1` |
+| ✅ | KERA-TV PBS 13 (Ft. Worth/Dallas TX) | Rocket | `KERA-DT.us_locals1` |
+| ✅ | KQED-TV PBS 9.1 (San Francisco CA) | Rocket | `KQED-DT.us_locals1` |
+| ✅ | KQED-DT KQED+ PBS 9.2 (San Francisco CA) | Local Public Broadcast | `KQED-DT.us_locals1` |
+| ✅ | KVIE-TV PBS 6 (Sacramento CA) | Rocket | `KVIE-DT.us_locals1` |
+| ✅ | KUED-TV Utah PBS 7 (Salt Lake City UT) | Rocket | `KUED-DT.us_locals1` |
+| ✅ | KOPB-TV PBS 10 (Portland OR) | Rocket | `KOPB-DT.us_locals1` |
+| ✅ | WHYY-TV PBS 12 (Philadelphia PA) | Rocket | `WHYY-DT.us_locals1` |
+| ✅ | WQLN-TV PBS 54 (Erie PA) | Rocket | `WQLN-DT.us_locals1` |
+| ✅ | KDIN-TV Iowa PBS 11 (Des Moines IA) | Rocket | `KDIN-DT.us_locals1` |
+| ✅ | KUSM-TV PBS 9 (Butte MT) | Rocket | `KUSM-DT.us_locals1` |
+| ✅ | KHET-TV/KMEB-TV Hawai'i PBS 11/10 (Honolulu HI) | Rocket | `KHET-DT.us_locals1` |
 | ❌ | Access La Porte Country | Offline | `` |
 | ❌ | Access Media Productions Channel | Offline | `` |
 | ❌ | Access Media Productions Community Channel | Offline | `` |
@@ -758,20 +758,20 @@
 | ✅ | IEMG (Inland Empire Media Group) (San Bernardino CA) | Local Public Access | `` |
 | ❌ | Irvine Community Television (Irvine KY) | Offline | `` |
 | ❌ | Jacksonville Freedom Fountain (Jacksonville NC) | Offline | `` |
-| ✅ | KBRI Brighton Channel 8 (Brighton CO) | Local Public Access | `S-channel.us2` |
+| ✅ | KBRI Brighton Channel 8 (Brighton CO) | Local Public Access | `` |
 | ✅ | KCAT Public Media TV | Local Public Access | `` |
 | ✅ | Kern County TV (Bakerfield CA) | Local Public Access | `` |
 | ✅ | KFON TV Fontana Community Television (Fontana CA) | Local Public Access | `` |
-| ❌ | KOCT Oceanside Community Television Community Channel 18 | Offline | `S-channel.us2` |
-| ❌ | KOCT Oceanside Community Television Education and Government Channel 19 | Offline | `S-channel.us2` |
+| ❌ | KOCT Oceanside Community Television Community Channel 18 | Offline | `` |
+| ❌ | KOCT Oceanside Community Television Education and Government Channel 19 | Offline | `` |
 | ✅ | KOCT-TV 18 (San Diego CA) | Local Public Access | `` |
 | ✅ | KOCT-TV 19 (San Diego CA) | Local Public Access | `` |
-| ✅ | KTOO-TV 360TV (Anchorage AK) | Local Public Access | `` |
+| ✅ | KTOO-TV 360TV (Anchorage AK) | Local Public Access | `KTOO-DT.us_locals1` |
 | ✅ | KTOP-TV 10 City of Oakland (Oakland CA) | Local Public Access | `` |
-| ❌ | KTUU-TV 2 Alaska's News Source (Anchorage AK) | Offline | `` |
+| ❌ | KTUU-TV 2 Alaska's News Source (Anchorage AK) | Offline | `KTUU-DT.us_locals1` |
 | ✅ | KVVB-TV 33 (Victorville CA) | Local Public Access | `` |
 | ✅ | L.A. 36 Local Television (Los Angeles CA) | Local Public Access | `` |
-| ✅ | L.A. CityView Channel 35 (Los Angeles CA) | Local Public Access | `S-channel.us2` |
+| ✅ | L.A. CityView Channel 35 (Los Angeles CA) | Local Public Access | `` |
 | ❌ | Lakewood Channel 8 (Lakewood CO) | Offline | `` |
 | ✅ | Lakewood CityTV (Lakewood CA) | Local Public Access | `` |
 | ✅ | Leesburg Lakefront TV (Leesburg FL) | Local Public Access | `` |
@@ -882,7 +882,7 @@
 | ❌ | WCAT Winthrop Community Access TV 8 Educational (Winthrop MA) | Offline | `` |
 | ❌ | WCAT Winthrop Community Access TV 9 Public Access (Winthrop MA) | Offline | `` |
 | ✅ | West Hollywood WeHoTV (West Hollywood CA) | Local Public Access | `` |
-| ❌ | Westminster WTV Channel (Westminster CA) | Offline | `S-channel.us2` |
+| ❌ | Westminster WTV Channel (Westminster CA) | Offline | `` |
 | ✅ | White Plains Community Media (White Plains NY) | Local Public Access | `` |
 | ✅ | Whittier CityTV (Whittier CA) | Local Public Access | `` |
 | ✅ | WHOH-TV Village of Hastings-On-Hudson (Hudson NY) | Local Public Access | `` |
@@ -891,10 +891,10 @@
 | ✅ | 13Cultura | Latino (Spanish) | `` |
 | ❌ | Canal 1 | Offline | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 1 Mar Menor-Torre Pacheco | Offline | `` |
-| ✅ | Canal 10 | Latino (Spanish) | `` |
+| ✅ | Canal 10 | Latino (Spanish) | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 10 Cancun (México) | Offline | `` |
-| ❌ | Canal 13 | Offline | `` |
-| ❌ | Canal 14 (México) | Offline | `` |
+| ❌ | Canal 13 | Offline | `CANAL.22.INTERNACIONAL.us2` |
+| ❌ | Canal 14 (México) | Offline | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 15 Sabinas | Offline | `` |
 | ❌ | Canal 2 | Offline | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 2 (San Antonio) | Latino (Spanish) | `CANAL.22.INTERNACIONAL.us2` |
@@ -902,15 +902,15 @@
 | ❌ | Canal 2 CR | Offline | `` |
 | ✅ | Canal 2 de Ushuaia | Latino (Spanish) | `` |
 | ✅ | Canal 2 Misiones | Latino (Spanish) | `` |
-| ❌ | Canal 21 | Offline | `` |
+| ❌ | Canal 21 | Offline | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 26 Aguascalientes | Latino (Spanish) | `` |
-| ❌ | Canal 28 | Offline | `` |
+| ❌ | Canal 28 | Offline | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 33 Tijuana | Latino (Spanish) | `` |
 | ✅ | Canal 44 Chihuahua (México) | Latino (Spanish) | `` |
 | ✅ | Canal 5 (México) | Latino (Spanish) | `CANAL.22.INTERNACIONAL.us2` |
-| ✅ | Canal 57 | Latino (Spanish) | `` |
+| ✅ | Canal 57 | Latino (Spanish) | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 66 Mexicali | Latino (Spanish) | `` |
-| ❌ | Canal 7.1 (Bolivia) | Offline | `` |
+| ❌ | Canal 7.1 (Bolivia) | Offline | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 7.2 Deportes (Bolivia) | Offline | `` |
 | ✅ | Canal 8 TV+ | Latino (Spanish) | `` |
 | ❌ | Canal del Congreso 45.1 | Offline | `` |
@@ -918,32 +918,32 @@
 | ❌ | Canal del Congreso 45.3 | Offline | `` |
 | ✅ | Canal Once.3 Digital (México) | Latino (Spanish) | `` |
 | ✅ | CGTN en Español | Latino (Spanish) | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
-| ❌ | KAKW-TV Univision 62 (Austin TX) | Offline | `` |
-| ✅ | KASA-TV Telemundo 2 (Santa Fe NM) | Rocket | `Telemundo.Satellite.Feed.Pacific.us2` |
-| ✅ | KBLR-TV Telemundo 39 (Las Vegas NV) | Rocket | `` |
-| ✅ | KCSO-LD/KMUM-CD Telemundo 33 (Sacramento CA) | Rocket | `` |
-| ✅ | KDEN-TV Telemundo 25 (Denver CO) | Rocket | `` |
-| ✅ | KDOC-TV 56.5 Majestad Televisión | Latino (Spanish) | `` |
-| ✅ | KDTV-TV Univision 14 (San Francisco CA) | Latino (Spanish) | `` |
-| ❌ | KFTH-DT UniMás 67 (Houston TX) | Offline | `` |
-| ✅ | KFTR-TV UniMás 46 (Los Angeles CA) | Latino (Spanish) | `` |
-| ✅ | KMEX-TV Univision 34 (Los Angeles CA) | Latino (Spanish) | `` |
-| ✅ | KNSO-TV Telemundo 51 (Clovis/Fresno CA) | Rocket | `` |
-| ❌ | KSTR-TV UniMás 49 (Ft. Worth/Dallas TX) | Offline | `` |
-| ✅ | KSTS-TV Telemundo 48 (San Francisco CA) | Rocket | `` |
-| ✅ | KTAZ-TV Telemundo 39 (Phoenix AZ) | Rocket | `` |
-| ❌ | KTFD-TV UniMás 50 (Denver CO) | Offline | `` |
-| ❌ | KTFK-DT UniMás 64 (Sacramento CA) | Offline | `` |
-| ✅ | KTMD-TV Telemundo 47 (Houston TX) | Rocket | `` |
-| ✅ | KTMW-TV Telemundo 20 (Salt Lake City UT) | Rocket | `` |
-| ❌ | KTVW-TV Univision 33 (Phoenix AZ) | Offline | `` |
-| ✅ | KUAN-TV Telemundo 20 (San Diego CA) | Rocket | `` |
-| ✅ | KUNA-CD Telemundo 15 (Palm Springs CA) | Latino (Spanish) | `` |
-| ✅ | KUVN-TV Univision 23 (Ft. Worth/Dallas TX) | Latino (Spanish) | `` |
-| ✅ | KUVS-TV Univision 19 (Modesto/Sacramento CA) | Rocket | `` |
-| ✅ | KVEA-TV Telemundo 52 (Corona/Los Angeles CA) | Rocket | `` |
-| ✅ | KXLN-TV Univision 45 (Houston TX) | Latino (Spanish) | `` |
-| ✅ | KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX) | Rocket | `` |
+| ❌ | KAKW-TV Univision 62 (Austin TX) | Offline | `KAKW-DT.us_locals1` |
+| ✅ | KASA-TV Telemundo 2 (Santa Fe NM) | Rocket | `KASA-DT.us_locals1` |
+| ✅ | KBLR-TV Telemundo 39 (Las Vegas NV) | Rocket | `KBLR-DT.us_locals1` |
+| ✅ | KCSO-LD/KMUM-CD Telemundo 33 (Sacramento CA) | Rocket | `KCSO-LD.us_locals1` |
+| ✅ | KDEN-TV Telemundo 25 (Denver CO) | Rocket | `KDEN-DT.us_locals1` |
+| ✅ | KDOC-TV 56.5 Majestad Televisión | Latino (Spanish) | `KDOC-DT.us_locals1` |
+| ✅ | KDTV-TV Univision 14 (San Francisco CA) | Latino (Spanish) | `KDTV-CD.us_locals1` |
+| ❌ | KFTH-DT UniMás 67 (Houston TX) | Offline | `KFTH-DT.us_locals1` |
+| ✅ | KFTR-TV UniMás 46 (Los Angeles CA) | Latino (Spanish) | `KFTR-DT.us_locals1` |
+| ✅ | KMEX-TV Univision 34 (Los Angeles CA) | Latino (Spanish) | `KMEX-DT.us_locals1` |
+| ✅ | KNSO-TV Telemundo 51 (Clovis/Fresno CA) | Rocket | `KNSO-DT.us_locals1` |
+| ❌ | KSTR-TV UniMás 49 (Ft. Worth/Dallas TX) | Offline | `KSTR-DT.us_locals1` |
+| ✅ | KSTS-TV Telemundo 48 (San Francisco CA) | Rocket | `KSTS-DT.us_locals1` |
+| ✅ | KTAZ-TV Telemundo 39 (Phoenix AZ) | Rocket | `KTAZ-DT.us_locals1` |
+| ❌ | KTFD-TV UniMás 50 (Denver CO) | Offline | `KTFD-DT.us_locals1` |
+| ❌ | KTFK-DT UniMás 64 (Sacramento CA) | Offline | `KTFK-DT.us_locals1` |
+| ✅ | KTMD-TV Telemundo 47 (Houston TX) | Rocket | `KTMD-DT.us_locals1` |
+| ✅ | KTMW-TV Telemundo 20 (Salt Lake City UT) | Rocket | `KTMW-DT.us_locals1` |
+| ❌ | KTVW-TV Univision 33 (Phoenix AZ) | Offline | `KTVW-CD.us_locals1` |
+| ✅ | KUAN-TV Telemundo 20 (San Diego CA) | Rocket | `KUAN-LD.us_locals1` |
+| ✅ | KUNA-CD Telemundo 15 (Palm Springs CA) | Latino (Spanish) | `KUNA-LD.us_locals1` |
+| ✅ | KUVN-TV Univision 23 (Ft. Worth/Dallas TX) | Latino (Spanish) | `KUVN-CD.us_locals1` |
+| ✅ | KUVS-TV Univision 19 (Modesto/Sacramento CA) | Rocket | `KUVS-DT.us_locals1` |
+| ✅ | KVEA-TV Telemundo 52 (Corona/Los Angeles CA) | Rocket | `KVEA-DT.us_locals1` |
+| ✅ | KXLN-TV Univision 45 (Houston TX) | Latino (Spanish) | `KXLN-DT.us_locals1` |
+| ✅ | KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX) | Rocket | `KXTX-DT.us_locals1` |
 | ✅ | Latin Hola TV | Rocket | `Â¡HOLA!.TV.us2` |
 | ✅ | LATV | Latino (Spanish) | `` |
 | ✅ | Mega TV | Rocket | `Mega.TV.HD.us2` |
@@ -957,7 +957,7 @@
 | ✅ | Multimedios Canal 6 Telediario México (Puebla México) | Latino (Spanish) | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Saltillo México) | Latino (Spanish) | `` |
 | ✅ | Multimedios Canal 6 Telediario México Delay | Latino (Spanish) | `` |
-| ✅ | N+ Univision 24/7 | Latino (Spanish) | `` |
+| ✅ | N+ Univision 24/7 | Latino (Spanish) | `Univision.Network.HD.us2` |
 | ✅ | Noticias Telemundo Ahora | Latino (Spanish) | `` |
 | ✅ | Once (México) | Latino (Spanish) | `Once.us2` |
 | ✅ | PSN Canal 45.1 | Latino (Spanish) | `` |
@@ -994,38 +994,38 @@
 | ❌ | Univision (Canada) | Rocket | `Univision.Network.HD.us2` |
 | ✅ | Univision (East) | Latino (Spanish) | `Univision.Network.HD.us2` |
 | ✅ | Univision (West) | Latino (Spanish) | `Univision.Network.HD.us2` |
-| ❌ | WAMI-DT UniMás 69 (Miami FL) | Offline | `` |
+| ❌ | WAMI-DT UniMás 69 (Miami FL) | Offline | `WAMI-DT.us_locals1` |
 | ✅ | WBGO-TV Univision 66 (Chicago IL) | Latino (Spanish) | `` |
-| ❌ | WDWL-DT1 36 (Bayamon PR) | Offline | `` |
-| ❌ | WECN-TV Único TV | Offline | `` |
-| ✅ | WELU-DT1 CTNi 34 (Puerto Rico) | Latino (Spanish) | `` |
-| ✅ | WFUT-TV/WFTY-DT UniMás 67 (New York NY) | Latino (Spanish) | `` |
+| ❌ | WDWL-DT1 36 (Bayamon PR) | Offline | `WDWL-DT.us_locals1` |
+| ❌ | WECN-TV Único TV | Offline | `WECN-DT.us_locals1` |
+| ✅ | WELU-DT1 CTNi 34 (Puerto Rico) | Latino (Spanish) | `WELU-DT.us_locals1` |
+| ✅ | WFUT-TV/WFTY-DT UniMás 67 (New York NY) | Latino (Spanish) | `WFUT-DT.us_locals1` |
 | ✅ | WIPR-TV 6 (San Juan PR) | Latino (Spanish) | `WIPR-DT.us_locals1` |
-| ✅ | WJAN-CD América TeVé 41 (Miami FL) | Latino (Spanish) | `` |
-| ✅ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Latino (Spanish) | `` |
-| ✅ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Latino (Spanish) | `` |
-| ✅ | WKTB-TV Telemundo 47 (Atlanta GA) | Rocket | `` |
-| ✅ | WLII-TV Univision 11 (San Juan PR) | Latino (Spanish) | `` |
-| ✅ | WLTV-TV Univision 23 (Miami FL) | Latino (Spanish) | `` |
-| ✅ | WNEU-TV Telemundo 60 (Boston MA) | Rocket | `` |
-| ✅ | WNJU-TV Telemundo 47 (New York NY) | Rocket | `` |
-| ❌ | WQHS-DT UniMás 61.2 (Cleveland OH) | Offline | `` |
-| ❌ | WQHS-TV Univision 61.1 (Cleveland OH) | Rocket | `` |
-| ✅ | WRMD-CD Telemundo 49 (Tampa FL) | Rocket | `` |
-| ✅ | WRUA-DT1 Tiva TV 34 (Puerto Rico) | Latino (Spanish) | `` |
-| ✅ | WSCV-TV Telemundo 51 (Miami FL) | Rocket | `` |
-| ✅ | WSNS-TV Telemundo 44 (Chicago IL) | Rocket | `` |
-| ❌ | WTCL-TV Telemundo 6 (Cleveland OH) | Offline | `Telemundo.Satellite.Feed.Pacific.us2` |
-| ✅ | WTMO-TV Telemundo 31 (Orlando FL) | Rocket | `` |
-| ✅ | WUVG-DT UniMás 34.2 (Atlanta GA) | Rocket | `` |
-| ✅ | WUVG-TV Univision 34.1 (Atlanta GA) | Latino (Spanish) | `` |
-| ❌ | WUVP-TV Univision 65 (Philadelphia PA) | Offline | `` |
-| ✅ | WWSI-TV Telemundo 62 (Philadelphia PA) | Rocket | `` |
-| ✅ | WWXY-DT 19.3 (San Juan PR) | Latino (Spanish) | `` |
-| ✅ | WWXY-TV Ind. 19.1 (San Juan PR) | Latino (Spanish) | `` |
-| ✅ | WXTV-TV Univision 41 (New York NY) | Latino (Spanish) | `` |
+| ✅ | WJAN-CD América TeVé 41 (Miami FL) | Latino (Spanish) | `WJAN-CD.us_locals1` |
+| ✅ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Latino (Spanish) | `WKAQ-DT.us_locals1` |
+| ✅ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Latino (Spanish) | `WKAQ-DT.us_locals1` |
+| ✅ | WKTB-TV Telemundo 47 (Atlanta GA) | Rocket | `WKTB-CD.us_locals1` |
+| ✅ | WLII-TV Univision 11 (San Juan PR) | Latino (Spanish) | `WLII-DT.us_locals1` |
+| ✅ | WLTV-TV Univision 23 (Miami FL) | Latino (Spanish) | `WLTV-DT.us_locals1` |
+| ✅ | WNEU-TV Telemundo 60 (Boston MA) | Rocket | `WNEU-DT.us_locals1` |
+| ✅ | WNJU-TV Telemundo 47 (New York NY) | Rocket | `WNJU-DT.us_locals1` |
+| ❌ | WQHS-DT UniMás 61.2 (Cleveland OH) | Offline | `WQHS-DT.us_locals1` |
+| ❌ | WQHS-TV Univision 61.1 (Cleveland OH) | Rocket | `WQHS-DT.us_locals1` |
+| ✅ | WRMD-CD Telemundo 49 (Tampa FL) | Rocket | `WRMD-CD.us_locals1` |
+| ✅ | WRUA-DT1 Tiva TV 34 (Puerto Rico) | Latino (Spanish) | `WRUA-DT.us_locals1` |
+| ✅ | WSCV-TV Telemundo 51 (Miami FL) | Rocket | `WSCV-DT.us_locals1` |
+| ✅ | WSNS-TV Telemundo 44 (Chicago IL) | Rocket | `WSNS-DT.us_locals1` |
+| ❌ | WTCL-TV Telemundo 6 (Cleveland OH) | Offline | `WTCL-LD.us_locals1` |
+| ✅ | WTMO-TV Telemundo 31 (Orlando FL) | Rocket | `WTMO-CD.us_locals1` |
+| ✅ | WUVG-DT UniMás 34.2 (Atlanta GA) | Rocket | `WUVG-DT.us_locals1` |
+| ✅ | WUVG-TV Univision 34.1 (Atlanta GA) | Latino (Spanish) | `WUVG-DT.us_locals1` |
+| ❌ | WUVP-TV Univision 65 (Philadelphia PA) | Offline | `WUVP-DT.us_locals1` |
+| ✅ | WWSI-TV Telemundo 62 (Philadelphia PA) | Rocket | `WWSI-DT.us_locals1` |
+| ✅ | WWXY-DT 19.3 (San Juan PR) | Latino (Spanish) | `WWXY-LD.us_locals1` |
+| ✅ | WWXY-TV Ind. 19.1 (San Juan PR) | Latino (Spanish) | `WWXY-LD.us_locals1` |
+| ✅ | WXTV-TV Univision 41 (New York NY) | Latino (Spanish) | `WXTV-DT.us_locals1` |
 | ✅ | WXWZ-LD MásTV 23 (San Juan PR) | Latino (Spanish) | `` |
-| ✅ | WZDC-CD Telemundo 44 (Washington DC) | Rocket | `` |
+| ✅ | WZDC-CD Telemundo 44 (Washington DC) | Rocket | `WZDC-CD.us_locals1` |
 | ✅ | XHGV-TDT TVMás | Latino (Spanish) | `` |
 | ✅ | XHMNL-TDT TV Nuevo León Canal 28 | Latino (Spanish) | `` |
 | ❌ | 4K Travel | Offline | `Tastemade.Travel.us2` |
@@ -1035,7 +1035,7 @@
 | ✅ | Animal Planet (West) | Rocket | `Animal.Planet.HD.(Pacific).us2` |
 | ❌ | BarkTV | Offline | `` |
 | ✅ | BBC Earth | Documentary | `` |
-| ✅ | BBC Travel | Documentary | `` |
+| ✅ | BBC Travel | Documentary | `Tastemade.Travel.us2` |
 | ✅ | CGTN Documentary | Documentary | `` |
 | ✅ | Choppertown | Documentary | `` |
 | ✅ | Court TV | Documentary | `Court.TV.us2` |
@@ -1068,7 +1068,7 @@
 | ✅ | Military History | Rocket | `Military.History.Channel.us2` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Documentary | `` |
 | ❌ | NASA | Offline | `` |
-| ✅ | Nat Geo Wild | Rocket | `Nat.Geo.Mundo.us2` |
+| ✅ | Nat Geo Wild | Rocket | `` |
 | ✅ | National Geographic (East) | Rocket | `National.Geographic.HD.(Pacific).us2` |
 | ✅ | National Geographic (West) | Rocket | `National.Geographic.HD.(Pacific).us2` |
 | ✅ | NBC American Crimes | Documentary | `American.Crimes.us2` |
@@ -1133,7 +1133,7 @@
 | ✅ | Nickelodeon (West) | Rocket | `Nickelodeon.HD.us2` |
 | ✅ | Nickelodeon 90's Kids (Pluto TV) | Children Channels | `Nickelodeon.HD.us2` |
 | ✅ | Nickelodeon 90's Kids 2 (Pluto TV) | Children Channels | `Nickelodeon.HD.us2` |
-| ❌ | Nicktoons | Rocket | `Nicktoons.us2` |
+| ✅ | Nicktoons | Rocket | `Nicktoons.us2` |
 | ✅ | PBS Kids (Alaska) | Children Channels | `PBS.KIDS.HD.us2` |
 | ✅ | PBS Kids (Eastern) | Children Channels | `PBS.KIDS.HD.us2` |
 | ✅ | PBS Kids (Hawaii) | Children Channels | `PBS.KIDS.HD.us2` |
@@ -1145,8 +1145,8 @@
 | ✅ | TeenNick (East) | Rocket | `` |
 | ✅ | TeenNick (West) | Rocket | `` |
 | ✅ | The Lego Channel | Children Channels | `[TFC].The.Filipino.Channel.HD.us2` |
-| ❌ | Toonami Aftermath (East) | Offline | `` |
-| ❌ | Toonami Aftermath (West) | Offline | `` |
+| ✅ | Toonami Aftermath (East) | Children Channels | `` |
+| ✅ | Toonami Aftermath (West) | Children Channels | `` |
 | ✅ | ToonOvation | Children Channels | `` |
 | ✅ | Toons Goggles | Children Channels | `` |
 | ✅ | Watch Mojo | Children Channels | `` |
@@ -1154,11 +1154,11 @@
 | ✅ | Adult Swim 24/7 | Comedy | `` |
 | ✅ | Adult Swim+ (East) | Comedy | `` |
 | ✅ | Adult Swim+ (West) | Comedy | `` |
-| ❌ | AFV Family | Offline | `` |
+| ❌ | AFV Family | Offline | `AFN.family/AFN.pulse.us2` |
 | ✅ | Always Funny | Comedy | `` |
 | ❌ | Always Funny Pranks and Fail | Offline | `` |
 | ✅ | Animation+ | Comedy | `` |
-| ✅ | BBC Comedy | Comedy | `` |
+| ✅ | BBC Comedy | Comedy | `Catchy.Comedy.us2` |
 | ✅ | Comedy Central (East) | Rocket | `Comedy.Central.HD.(Pacific).us2` |
 | ✅ | Comedy Central (Pluto TV) | Comedy | `Comedy.Central.HD.(Pacific).us2` |
 | ✅ | Comedy Central (West) | Rocket | `Comedy.Central.HD.(Pacific).us2` |
@@ -1179,7 +1179,7 @@
 | ✅ | More TV Sitcoms | Comedy | `` |
 | ✅ | NBC Comedy Vault | Comedy | `NBC.Comedy.Vault.us2` |
 | ✅ | Pluto Classic TV Comedy | Comedy | `` |
-| ✅ | Pluto TV Comedy | Comedy | `` |
+| ✅ | Pluto TV Comedy | Comedy | `Comedy.TV.HD.us2` |
 | ❌ | Pluto TV Pranks | Offline | `` |
 | ✅ | RiffTrax | Comedy | `` |
 | ✅ | Sketchy AF (Pluto TV) | Comedy | `` |
@@ -1212,7 +1212,7 @@
 | ✅ | Antenna TV | Rocket | `Antenna.TV.us2` |
 | ✅ | Aspire | Rocket | `ASPiRE.HD.us2` |
 | ✅ | AWE | Network Channels | `AWE.A.Wealth.of.Entertainment.HD.us2` |
-| ✅ | AWE Encore | Network Channels | `` |
+| ✅ | AWE Encore | Network Channels | `Starz.Encore.Action.HD.us2` |
 | ✅ | AXS-TV | Rocket | `AXS.TV.us2` |
 | ✅ | AXS-TV Now | Network Channels | `` |
 | ✅ | Backstage | Network Channels | `` |
@@ -1223,7 +1223,7 @@
 | ✅ | BET - Tyler Perry Drama | Network Channels | `` |
 | ✅ | BET (East) | Rocket | `BET.GOSPEL.us2` |
 | ✅ | BET (Pluto TV) | Network Channels | `BET.GOSPEL.us2` |
-| ❌ | BET (West) | Rocket | `BET.GOSPEL.us2` |
+| ✅ | BET (West) | Rocket | `BET.GOSPEL.us2` |
 | ✅ | BET Classics (Pluto TV) | Network Channels | `Cinemax.Classics.us2` |
 | ✅ | BET Gospel | Rocket | `BET.GOSPEL.us2` |
 | ✅ | BET Her (East) | Rocket | `BET.Her.us2` |
@@ -1281,7 +1281,7 @@
 | ✅ | GAC Great American Pure Flix TV | Network Channels | `Pure.Flix.TV.us2` |
 | ✅ | GAC Great American RomComs | Network Channels | `` |
 | ✅ | Game Show Central | Network Channels | `` |
-| ❌ | Get Comedy | Offline | `` |
+| ❌ | Get Comedy | Offline | `Catchy.Comedy.us2` |
 | ✅ | Get TV | Rocket | `` |
 | ✅ | Get TV (Alt) | Network Channels | `` |
 | ✅ | Global Fashion Channel | Network Channels | `` |
@@ -1292,7 +1292,7 @@
 | ✅ | Hallmark Channel (East) | Rocket | `Hallmark.Channel.HD.us2` |
 | ✅ | Hallmark Channel (West) | Rocket | `Hallmark.Channel.HD.us2` |
 | ✅ | Hallmark Family | Rocket | `Hallmark.Family.us2` |
-| ✅ | Hallmark Movies & More | Network Channels | `` |
+| ✅ | Hallmark Movies & More | Network Channels | `Movies!.us2` |
 | ✅ | Hallmark Mystery (East) | Rocket | `Hallmark.Mystery.HD.us2` |
 | ✅ | Hallmark Mystery (West) | Rocket | `Hallmark.Mystery.HD.us2` |
 | ✅ | HerSphere by Lionsgate | Network Channels | `` |
@@ -1311,7 +1311,7 @@
 | ✅ | LifeTime (East) | Rocket | `DIRECTV.Lifetime.us2` |
 | ✅ | LifeTime (West) | Rocket | `DIRECTV.Lifetime.us2` |
 | ✅ | Lifetime Movie Favorites | Network Channels | `` |
-| ✅ | Lifetime Movies Love & Drama | Network Channels | `` |
+| ✅ | Lifetime Movies Love & Drama | Network Channels | `Movies!.us2` |
 | ✅ | LMN (LifeTime Movie Network) | Rocket | `LMN.HD.us2` |
 | ✅ | Lone Star | Network Channels | `` |
 | ❌ | LRW (LifeTime Real Women) | Offline | `` |
@@ -1328,7 +1328,7 @@
 | ✅ | MTV (East) | Rocket | `MTV.Classic.us2` |
 | ✅ | MTV (Pluto TV) | Network Channels | `MTV.Classic.us2` |
 | ✅ | MTV (West) | Rocket | `MTV.Classic.us2` |
-| ✅ | MTV 2 (East) | Rocket | `` |
+| ✅ | MTV 2 (East) | Rocket | `MTV.Classic.us2` |
 | ✅ | MTV 2 (West) | Rocket | `MTV.Classic.us2` |
 | ✅ | MTV Classic (West) | Rocket | `MTV.Classic.us2` |
 | ❌ | MTV Live | Offline | `` |
@@ -1348,7 +1348,7 @@
 | ✅ | Paramount Movie Channel (Pluto TV) | Network Channels | `` |
 | ✅ | Paramount Network (East) | Network Channels | `Paramount.Network.HD.us2` |
 | ✅ | Paramount Network (West) | Rocket | `Paramount.Network.HD.us2` |
-| ✅ | Paramount+ Picks (Pluto TV) | Network Channels | `Paramount+.Originals.Dummy.us` |
+| ✅ | Paramount+ Picks (Pluto TV) | Network Channels | `Paramount.Network.HD.us2` |
 | ✅ | Pluto Black Classics | Network Channels | `` |
 | ✅ | Pluto Classic TV Family | Network Channels | `` |
 | ✅ | Pop TV (East) | Rocket | `` |
@@ -1363,10 +1363,10 @@
 | ✅ | Smart Lifestyle TV | Network Channels | `` |
 | ✅ | Smithsonian Channel (East) | Network Channels | `` |
 | ✅ | Smithsonian Channel (Pluto) | Network Channels | `` |
-| ✅ | Smithsonian Channel (West) | Rocket | `Smithsonian.HD.Network.us2` |
+| ✅ | Smithsonian Channel (West) | Rocket | `` |
 | ✅ | Spike (Pluto TV) | Network Channels | `` |
 | ✅ | Start TV | Rocket | `Start.TV.Network.us2` |
-| ✅ | Story Television | Rocket | `` |
+| ✅ | Story Television | Rocket | `Bloomberg.Business.Television.us2` |
 | ✅ | SundanceTV | Rocket | `SundanceTV.HD.us2` |
 | ✅ | SYFY (East) | Rocket | `Syfy.HD.(Pacific).us2` |
 | ✅ | SYFY (West) | Rocket | `Syfy.HD.(Pacific).us2` |
@@ -1382,7 +1382,7 @@
 | ✅ | The BLK Effect | Network Channels | `` |
 | ✅ | The Cowboy Channel | Rocket | `The.Cowboy.Channel.us2` |
 | ✅ | The Cowboy Channel (Alt) | Network Channels | `The.Cowboy.Channel.us2` |
-| ✅ | The Design Network | Network Channels | `` |
+| ✅ | The Design Network | Network Channels | `The.Word.Network.us2` |
 | ✅ | The Nest | Network Channels | `The.Nest.us2` |
 | ✅ | The Walk Network | Network Channels | `The.Word.Network.us2` |
 | ✅ | theGrio | Rocket | `` |
@@ -1417,16 +1417,16 @@
 | ❌ | America's Auction Channel (AACTV) | Offline | `` |
 | ✅ | HSN (Home Shopping Network) (West) | Shopping | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN (Home Shopping Network) (East) | Shopping | `HSN.Home.Shopping.Network.HD.us2` |
-| ✅ | HSN 2 | Shopping | `` |
+| ✅ | HSN 2 | Shopping | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | QVC (West) | Shopping | `QVC.HD.us2` |
 | ✅ | QVC (East) | Shopping | `QVC.HD.us2` |
-| ✅ | QVC 2 | Shopping | `` |
-| ✅ | QVC 3 | Shopping | `` |
-| ✅ | QVC 4 | Shopping | `` |
-| ✅ | QVC 5 | Shopping | `` |
-| ✅ | QVC 6 | Shopping | `` |
-| ✅ | QVC 7 | Shopping | `` |
-| ✅ | QVC 8 | Shopping | `` |
+| ✅ | QVC 2 | Shopping | `QVC.HD.us2` |
+| ✅ | QVC 3 | Shopping | `QVC.HD.us2` |
+| ✅ | QVC 4 | Shopping | `QVC.HD.us2` |
+| ✅ | QVC 5 | Shopping | `QVC.HD.us2` |
+| ✅ | QVC 6 | Shopping | `QVC.HD.us2` |
+| ✅ | QVC 7 | Shopping | `QVC.HD.us2` |
+| ✅ | QVC 8 | Shopping | `QVC.HD.us2` |
 | ✅ | QVC 10 | Shopping | `` |
 | ✅ | QVC 11 | Shopping | `` |
 | ✅ | QVC 12 | Shopping | `` |
@@ -1461,7 +1461,7 @@
 | ✅ | CBS Sports Network | Rocket | `CBS.Sports.Network.HD.us2` |
 | ✅ | CBS Sports UEFA Champions League | Sports | `UEFA.Champions.League.Dummy.us` |
 | ✅ | CHGO Sports | Sports | `` |
-| ❌ | Chicago Sports Network | Offline | `CHSN.Chicago.Sports.Network.us2` |
+| ✅ | Chicago Sports Network | Sports | `CHSN.Chicago.Sports.Network.us2` |
 | ✅ | Court Sports Network | Sports | `CBS.Sports.Network.HD.us2` |
 | ✅ | DAZN Ringside | Sports | `` |
 | ✅ | DNVR Sports | Sports | `` |
@@ -1476,7 +1476,7 @@
 | ✅ | FanDuel 2 Racing | Sports | `` |
 | ✅ | FanDuel Extra | Sports | `` |
 | ✅ | Fanduel Sports Network (Detroit) | Sports | `CBS.Sports.Network.HD.us2` |
-| ✅ | Fanduel Sports Network (Florida) | Sports | `CBS.Sports.Network.HD.us2` |
+| ❌ | Fanduel Sports Network (Florida) | Offline | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Indiana) | Rocket | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Kansas City) | Rocket | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Midwest) | Sports | `CBS.Sports.Network.HD.us2` |
@@ -1485,9 +1485,9 @@
 | ✅ | Fanduel Sports Network (Oklahoma) | Sports | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Socal) | Sports | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (South) | Sports | `CBS.Sports.Network.HD.us2` |
-| ✅ | Fanduel Sports Network (Southeast) | Sports | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Southwest) | Offline | `CBS.Sports.Network.HD.us2` |
-| ✅ | Fanduel Sports Network (Sun) | Sports | `CBS.Sports.Network.HD.us2` |
+| ❌ | Fanduel Sports Network (Southeast) | Offline | `CBS.Sports.Network.HD.us2` |
+| ✅ | Fanduel Sports Network (Southwest) | Sports | `CBS.Sports.Network.HD.us2` |
+| ❌ | Fanduel Sports Network (Sun) | Offline | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (West) | Sports | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Wisconsin) | Rocket | `CBS.Sports.Network.HD.us2` |
 | ✅ | FanDuel TV (Formerly TVG) | Rocket | `` |
@@ -1502,7 +1502,7 @@
 | ✅ | FS1 (Fox Sports 1) | Rocket | `FS1.Fox.Sports.1.HD.us2` |
 | ✅ | FS2 (Fox Sports 2) | Rocket | `FS2.Fox.Sports.2.HD.us2` |
 | ✅ | FTF Next Live | Sports | `` |
-| ✅ | FTF Sports | Sports | `Barstool.Sports.Dummy.us` |
+| ✅ | FTF Sports | Sports | `AFN.sports.us2` |
 | ✅ | Fubo Sports Network | Sports | `Fubo.Sports.us` |
 | ✅ | Fuel TV | Sports | `` |
 | ✅ | Goal TV | Sports | `` |
@@ -1536,7 +1536,7 @@
 | ✅ | NBA TV | Rocket | `NBA.TV.HD.us2` |
 | ✅ | NBC Golf Channel | Rocket | `Golf.Channel.HD.us2` |
 | ✅ | NBC Golf Pass | Sports | `` |
-| ❌ | NBC Peacock Premier League TV | Offline | `Premier.League.Dummy.us` |
+| ✅ | NBC Peacock Premier League TV | Sports | `Premier.League.Dummy.us` |
 | ✅ | NBC Sports (Bay Area) | Sports | `NBC.Sports.4K.us2` |
 | ✅ | NBC Sports (Boston) | Sports | `NBC.Sports.4K.us2` |
 | ✅ | NBC Sports (California) | Sports | `NBC.Sports.4K.us2` |
@@ -1589,7 +1589,7 @@
 | ✅ | Sportsnet One | Sports | `MSG.Sportsnet.2.HD.us2` |
 | ✅ | Sportsnet Pittsburgh | Sports | `SportsNet.Pittsburgh.HD.us2` |
 | ✅ | Sportsnet West | Sports | `MSG.Sportsnet.2.HD.us2` |
-| ✅ | Sportsnet World | Sports | `Sportsnet+.Dummy.us` |
+| ✅ | Sportsnet World | Sports | `MSG.Sportsnet.2.HD.us2` |
 | ✅ | Stadium | Sports | `` |
 | ✅ | Swerve Sports | Sports | `` |
 | ✅ | T2 Tennis | Sports | `Tennis.Channel.HD.us2` |
@@ -1604,9 +1604,9 @@
 | ✅ | TNA Wrestling Channel | Sports | `` |
 | ✅ | TVS All American | Sports | `` |
 | ✅ | TVS Bowling Network | Sports | `` |
-| ✅ | TVS Boxing | Sports | `` |
+| ✅ | TVS Boxing | Sports | `Bowling.TV.us2` |
 | ✅ | TVS TeleSports | Sports | `` |
-| ✅ | TVS Turbo Network | Sports | `` |
+| ✅ | TVS Turbo Network | Sports | `Start.TV.Network.us2` |
 | ✅ | TVS Women Sports | Sports | `` |
 | ❌ | UFC Channel | Offline | `ABS-CBN.News.Channel.us2` |
 | ✅ | UFC Channel 24/7 | Sports | `` |
@@ -1623,15 +1623,15 @@
 | ✅ | YES Network | Rocket | `Yes.Network.Overflow.us2` |
 | ✅ | 00s Replay (Pluto TV) | Premium Channels | `` |
 | ✅ | 50 Cent Action | Premium Channels | `` |
-| ✅ | 70s Cinema (Pluto TV) | Premium Channels | `` |
-| ✅ | 80s Rewind (Pluto TV) | Premium Channels | `` |
+| ✅ | 70s Cinema (Pluto TV) | Premium Channels | `Cinema.Dinamita.(HD.Feed).us2` |
+| ✅ | 80s Rewind (Pluto TV) | Premium Channels | `Rewind.HD.us2` |
 | ✅ | 90s Throwback (Pluto TV) | Premium Channels | `XITE.90s.Throwback.DUMMY.us` |
-| ✅ | Action Hollywood Movies | Premium Channels | `` |
+| ✅ | Action Hollywood Movies | Premium Channels | `Movies!.us2` |
 | ✅ | Action! | Premium Channels | `Action.Channel.us2` |
 | ✅ | Action+ | Premium Channels | `Action.Channel.us2` |
-| ❌ | At the Movies by WB | Offline | `` |
-| ✅ | BET Cinema (Pluto TV) | Premium Channels | `` |
-| ✅ | BET Comedy Movies (Pluto TV) | Premium Channels | `` |
+| ❌ | At the Movies by WB | Offline | `Movies!.us2` |
+| ✅ | BET Cinema (Pluto TV) | Premium Channels | `Cinema.Dinamita.(HD.Feed).us2` |
+| ✅ | BET Comedy Movies (Pluto TV) | Premium Channels | `Movies!.us2` |
 | ✅ | BET Comedy Visionaries (Pluto TV) | Premium Channels | `` |
 | ✅ | BritBox Mysteries | Premium Channels | `` |
 | ✅ | Christmas+ | Premium Channels | `Christmas.Dummy.us` |
@@ -1645,7 +1645,7 @@
 | ✅ | CineVault | Premium Channels | `Cinevault.Classics.us2` |
 | ✅ | CineVault Classics | Premium Channels | `Cinevault.Classics.us2` |
 | ✅ | CineVault Westerns | Premium Channels | `CINEVAULT.Westerns.us2` |
-| ❌ | Classic Cinema by WB | Offline | `` |
+| ❌ | Classic Cinema by WB | Offline | `Cinemax.Classics.us2` |
 | ✅ | Classic Movie Westerns (Pluto TV) | Premium Channels | `` |
 | ✅ | Classic Movies Channel (Pluto TV) | Premium Channels | `Turner.Classic.Movies.HD.us2` |
 | ✅ | Comedy+ | Premium Channels | `Catchy.Comedy.us2` |
@@ -1657,14 +1657,14 @@
 | ✅ | FilmRise Black TV | Premium Channels | `` |
 | ✅ | FilmRise Classic TV | Premium Channels | `` |
 | ✅ | FilmRise Creators | Premium Channels | `` |
-| ❌ | FilmRise Free Movies | Offline | `` |
+| ❌ | FilmRise Free Movies | Offline | `Movies!.us2` |
 | ✅ | FilmRise Horror | Premium Channels | `` |
 | ✅ | FilmRise Sci-Fi | Premium Channels | `` |
 | ✅ | FilmRise Western | Premium Channels | `` |
 | ❌ | Flix (East) | Offline | `Flix.us2` |
 | ❌ | Flix (West) | Offline | `Flix.us2` |
 | ✅ | Free Movie Network | Premium Channels | `` |
-| ✅ | Free Movies+ | Premium Channels | `` |
+| ✅ | Free Movies+ | Premium Channels | `Movies!.us2` |
 | ✅ | HBO (East) | Rocket | `HBO.Comedy.HD.us2` |
 | ✅ | HBO (West) | Rocket | `HBO.Comedy.HD.us2` |
 | ✅ | HBO Comedy (East) | Rocket | `HBO.Comedy.HD.us2` |
@@ -1674,7 +1674,7 @@
 | ✅ | HBO Hits (West) | Rocket | `HBO.Hits.us2` |
 | ✅ | HBO Movies (East) | Rocket | `HBO.Movies.us2` |
 | ✅ | HBO Movies (West) | Rocket | `HBO.Movies.us2` |
-| ✅ | HDNET Movies | Rocket | `` |
+| ✅ | HDNET Movies | Rocket | `HDNet.Movies.us2` |
 | ✅ | Hollywood Movie Classics | Premium Channels | `` |
 | ✅ | Horror by ALTER | Premium Channels | `` |
 | ✅ | Horror+ | Premium Channels | `Horror.Machine.us2` |
@@ -1691,11 +1691,11 @@
 | ✅ | MGM+ Drive-In | Rocket | `MGM+.Drive-In.us2` |
 | ✅ | MGM+ Hits | Rocket | `MGM+.Hits.HD.us2` |
 | ✅ | MGM+ Marquee | Rocket | `MGM+.Marquee.HD.us2` |
-| ✅ | Miramax Movie Channel | Premium Channels | `` |
+| ✅ | Miramax Movie Channel | Premium Channels | `FX.Movie.Channel.HD.us2` |
 | ✅ | Movie Hub | Premium Channels | `` |
 | ✅ | Movie Hub Action | Premium Channels | `` |
 | ✅ | MoviePlex (East) | Rocket | `MoviePlex.HD.us2` |
-| ✅ | Movies Network | Rocket | `` |
+| ✅ | Movies Network | Rocket | `TViet.Network.us2` |
 | ✅ | MovieSphere by Lionsgate | Premium Channels | `` |
 | ✅ | National Lampoon Channel | Premium Channels | `` |
 | ✅ | Paramount+ with Showtime (East) | Rocket | `Paramount+.with.Showtime.HD.(Pacific).us2` |
@@ -1720,7 +1720,7 @@
 | ✅ | ScreenPix Voices | Rocket | `ScreenPix.Voices.us2` |
 | ✅ | ScreenPix Western | Rocket | `ScreenPix.Westerns.us2` |
 | ✅ | Shout! Factory TV | Premium Channels | `` |
-| ✅ | Shout! Movies | Premium Channels | `` |
+| ✅ | Shout! Movies | Premium Channels | `HBO.Movies.us2` |
 | ✅ | Showtime (Sho X BET) (East) | Rocket | `Paramount+.with.Showtime.HD.(Pacific).us2` |
 | ✅ | Showtime (Sho X BET) (West) | Rocket | `Paramount+.with.Showtime.HD.(Pacific).us2` |
 | ✅ | Showtime (ShoCase) (East) | Rocket | `Paramount+.with.Showtime.HD.(Pacific).us2` |
@@ -1761,12 +1761,12 @@
 | ✅ | The Movie Channel (West) | Rocket | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | The Movie Channel Xtra (East) | Rocket | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | The Movie Channel Xtra (West) | Rocket | `The.Movie.Channel.Extra.HD.us2` |
-| ✅ | Toonami Aftermath Movies | Premium Channels | `` |
+| ✅ | Toonami Aftermath Movies | Premium Channels | `Movies!.us2` |
 | ✅ | TVS Action Network | Premium Channels | `` |
 | ✅ | TVS Classic Movies | Premium Channels | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Premium Channels | `` |
-| ✅ | TVS Horror | Premium Channels | `` |
-| ✅ | TVS Nostalgia Movies | Premium Channels | `` |
+| ✅ | TVS Horror | Premium Channels | `Horror.Machine.us2` |
+| ✅ | TVS Nostalgia Movies | Premium Channels | `Movies!.us2` |
 | ✅ | Universal Movies | Premium Channels | `Universal.Movies.us2` |
 | ✅ | Western+ | Premium Channels | `` |
 | ✅ | 21 Jump Street | 24/7 Shows | `` |
@@ -1860,15 +1860,15 @@
 | ✅ | Super Mario Bros. Channel | 24/7 Shows | `` |
 | ✅ | Supermarket Sweep | 24/7 Shows | `` |
 | ✅ | Teen Moms | 24/7 Shows | `` |
-| ✅ | Teen Wolf by MGM | 24/7 Shows | `` |
+| ✅ | Teen Wolf by MGM | 24/7 Shows | `WOLF-DT.us_locals1` |
 | ❌ | Teletubbies | Offline | `` |
-| ✅ | The Adams Family | 24/7 Shows | `` |
+| ✅ | The Adams Family | 24/7 Shows | `The.Family.Channel.us2` |
 | ✅ | The Amazing Race | 24/7 Shows | `` |
 | ✅ | The Andy Griffith Show | 24/7 Shows | `` |
 | ✅ | The Best of Booby Flay | 24/7 Shows | `` |
 | ✅ | The Best of Dr. Phil | 24/7 Shows | `` |
 | ✅ | The Beverly Hillbillies | 24/7 Shows | `` |
-| ✅ | The Bob Ross Channel | 24/7 Shows | `` |
+| ✅ | The Bob Ross Channel | 24/7 Shows | `The.Cowboy.Channel.us2` |
 | ✅ | The Carol Burnette Show | 24/7 Shows | `` |
 | ✅ | The Connors | 24/7 Shows | `` |
 | ✅ | The Dick Van Dyke Show | 24/7 Shows | `` |
@@ -2075,7 +2075,7 @@
 | ✅ | Radio Tunes 60's Rock | Music | `` |
 | ✅ | Radio Tunes 70's Hits | Music | `` |
 | ✅ | Radio Tunes 70's Rock | Music | `` |
-| ✅ | Radio Tunes 80's Alt & New Wave | Music | `` |
+| ✅ | Radio Tunes 80's Alt & New Wave | Music | `WAVE-DT.us_locals1` |
 | ✅ | Radio Tunes 80's Hits | Music | `` |
 | ✅ | Radio Tunes 80's Rock | Music | `` |
 | ✅ | Radio Tunes 90's Dance | Music | `` |
@@ -2162,7 +2162,7 @@
 | ✅ | TuneIn Today's Hits | Music | `` |
 | ✅ | TuneIn Today's R&B | Music | `` |
 | ✅ | TuneIn Vintage Country | Music | `` |
-| ✅ | TVS Music Network | Music | `` |
+| ✅ | TVS Music Network | Music | `Me.TV.Network.us2` |
 | ✅ | V2BEAT TV (UK) | Music | `` |
 | ✅ | Vevo 2K | Music | `Vevo.2K.us2` |
 | ✅ | Vevo '70s | Music | `Vevo.70s.us2` |
@@ -2202,14 +2202,14 @@
 | ✅ | MC (Music Choice) | '80s Rock (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | '90s | Rocket | `` |
 | ✅ | MC (Music Choice) | '90s (Audio Channel) | Music | `` |
-| ❌ | MC (Music Choice) | Adult Alternative (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Adult Alternative (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Alternative (Audio Channel) | Offline | `` |
-| ✅ | MC (Music Choice) | Choice Blues | Music | `` |
+| ❌ | MC (Music Choice) | Choice Blues | Offline | `` |
 | ✅ | MC (Music Choice) | Classic Alternative (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Classic Christmas (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Classic Country | Rocket | `XITE.Classic.Country.DUMMY.us` |
-| ✅ | MC (Music Choice) | Classic Country (Audio Channel) | Music | `XITE.Classic.Country.DUMMY.us` |
-| ✅ | MC (Music Choice) | Classic Dance | Music | `` |
+| ❌ | MC (Music Choice) | Classic Country (Audio Channel) | Offline | `XITE.Classic.Country.DUMMY.us` |
+| ❌ | MC (Music Choice) | Classic Dance | Offline | `` |
 | ✅ | MC (Music Choice) | Classic Rock | Rocket | `` |
 | ✅ | MC (Music Choice) | Classic Rock (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Contemporary Christian | Rocket | `` |
@@ -2219,24 +2219,24 @@
 | ✅ | MC (Music Choice) | Dance EDM | Rocket | `` |
 | ✅ | MC (Music Choice) | Easy Listening | Rocket | `` |
 | ✅ | MC (Music Choice) | Easy Listening (Audio Channel) | Music | `` |
-| ✅ | MC (Music Choice) | Funk (Audio Channel) | Music | `` |
-| ❌ | MC (Music Choice) | Gospel (Audio Channel) | Offline | `BET.GOSPEL.us2` |
+| ❌ | MC (Music Choice) | Funk (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Gospel (Audio Channel) | Music | `BET.GOSPEL.us2` |
 | ✅ | MC (Music Choice) | Hard Rock (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Hip-Hop And R&B | Rocket | `` |
 | ❌ | MC (Music Choice) | Hip-Hop And R&B (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Hip-Hop Classics (Audio Channel) | Rocket | `` |
 | ❌ | MC (Music Choice) | Kids Only | Offline | `` |
-| ❌ | MC (Music Choice) | Love Songs (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Love Songs (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Mainstream Rap (Audio Channel) | Offline | `` |
-| ❌ | MC (Music Choice) | Malt Shop Favorites (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Malt Shop Favorites (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Mellow Hits | Rocket | `` |
 | ✅ | MC (Music Choice) | Metal (Audio Channel) | Music | `XITE.Rock.x.Metal.DUMMY.us` |
 | ✅ | MC (Music Choice) | Mexicana | Rocket | `` |
 | ❌ | MC (Music Choice) | Mexicana (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Music Choice Max (Audio Channel) | Rocket | `Music.Choice.Dummy.us` |
 | ✅ | MC (Music Choice) | Musica Urbana | Rocket | `` |
-| ✅ | MC (Music Choice) | Musica Urbana (Audio Channel) | Music | `` |
-| ❌ | MC (Music Choice) | New Wave (Audio Channel) | Offline | `` |
+| ❌ | MC (Music Choice) | Musica Urbana (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | New Wave (Audio Channel) | Music | `WAVE-DT.us_locals1` |
 | ❌ | MC (Music Choice) | Party Favorites (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Pop And Country | Rocket | `` |
 | ✅ | MC (Music Choice) | Pop Hits | Rocket | `` |
@@ -2245,9 +2245,9 @@
 | ❌ | MC (Music Choice) | R&B Classics | Rocket | `` |
 | ❌ | MC (Music Choice) | R&B Hits (Audio Channel) | Rocket | `` |
 | ✅ | MC (Music Choice) | Rap (Audio Channel) | Music | `` |
-| ❌ | MC (Music Choice) | Reggae (Audio Channel) | Offline | `XITE.Reggae.Vibes.DUMMY.us` |
+| ✅ | MC (Music Choice) | Reggae (Audio Channel) | Music | `XITE.Reggae.Vibes.DUMMY.us` |
 | ✅ | MC (Music Choice) | Rock | Rocket | `` |
-| ✅ | MC (Music Choice) | Rock (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | Rock (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Rock Hits (Audio Channel) | Rocket | `` |
 | ✅ | MC (Music Choice) | Rock Latino (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Romances (Audio Channel) | Music | `` |
@@ -2258,8 +2258,8 @@
 | ✅ | MC (Music Choice) | Soft Rock (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Solid Gold Oldies | Rocket | `` |
 | ✅ | MC (Music Choice) | Sounds of The Seasons | Rocket | `` |
-| ❌ | MC (Music Choice) | Sounds of The Seasons (Audio Channel) | Offline | `` |
-| ❌ | MC (Music Choice) | Teen Beats (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Sounds of The Seasons (Audio Channel) | Music | `` |
+| ✅ | MC (Music Choice) | Teen Beats (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Throwback Jams (Audio Channel) | Rocket | `` |
 | ✅ | MC (Music Choice) | Today's Country | Rocket | `` |
 | ✅ | MC (Music Choice) | Today's Country (Audio Channel) | Music | `` |
@@ -2267,9 +2267,9 @@
 | ✅ | MC (Music Choice) | Today's R&B | Rocket | `` |
 | ✅ | MC (Music Choice) | Toddler Tunes | Music | `` |
 | ✅ | MC (Music Choice) | Tropicales | Rocket | `` |
-| ❌ | MC (Music Choice) | Tropicales (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Tropicales (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Underground Hip-Hop (Audio Channel) | Offline | `` |
-| ❌ | MC (Music Choice) | Y2K (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Y2K (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Y2K Rap (Audio Channel) | Rocket | `` |
 | ❌ | (ZH) NTD (Canada) | Offline | `` |
 | ✅ | 3ABN (Canada) | Canadian Channels | `3ABN.Dare.to.Dream.Network.us2` |
@@ -2294,7 +2294,7 @@
 | ✅ | CBC Halifax (Canada) | Rocket | `` |
 | ✅ | CBC Montreal (Canada) | Rocket | `` |
 | ✅ | CBC New Brunswick/Fredericton (Canada) | Rocket | `` |
-| ✅ | CBC News (Canada) | Canadian Channels | `` |
+| ❌ | CBC News (Canada) | Offline | `` |
 | ✅ | CBC News Network (Canada) | Canadian Channels | `One.America.News.Network.HD.us2` |
 | ✅ | CBC Ottawa (Canada) | Rocket | `` |
 | ✅ | CBC Toronto (Canada) | Rocket | `` |
@@ -2333,7 +2333,7 @@
 | ✅ | CTV Atlantic (Canada) | Rocket | `AFN.prime.Atlantic.us2` |
 | ✅ | CTV Barrie Ontario (Canada) | Canadian Channels | `` |
 | ✅ | CTV Calgary (Canada) | Rocket | `` |
-| ✅ | CTV Comedy (Canada) (East) | Rocket | `` |
+| ✅ | CTV Comedy (Canada) (East) | Rocket | `Catchy.Comedy.us2` |
 | ✅ | CTV Comedy (Canada) (West) | Rocket | `Catchy.Comedy.us2` |
 | ❌ | CTV Drama Channel (Canada) | Rocket | `` |
 | ✅ | CTV Edmonton Alberta (Canada) | Canadian Channels | `` |
@@ -2394,14 +2394,14 @@
 | ❌ | H2 (History Channel 2) (Canada) | Rocket | `` |
 | ✅ | Hard Knocks (Canada) | Canadian Channels | `` |
 | ✅ | HBO (Canada) | Canadian Channels | `HBO.Comedy.HD.us2` |
-| ✅ | HBO 2 (Canada) | Canadian Channels | `HBO.MAX.us` |
+| ✅ | HBO 2 (Canada) | Canadian Channels | `HBO.Comedy.HD.us2` |
 | ❌ | Historia (Canada) | Rocket | `` |
 | ✅ | History Channel (Canada) | Rocket | `History.Channel.En.EspaÃ±ol.us2` |
 | ✅ | HLN (Canada) | Canadian Channels | `HLN.HD.us2` |
-| ❌ | Hollywood Suite 00's Movies (Canada) | Rocket | `` |
-| ✅ | Hollywood Suite 70's Movies (Canada) | Rocket | `` |
-| ✅ | Hollywood Suite 80's Movies (Canada) | Rocket | `` |
-| ✅ | Hollywood Suite 90's Movies (Canada) | Rocket | `` |
+| ❌ | Hollywood Suite 00's Movies (Canada) | Rocket | `Movies!.us2` |
+| ✅ | Hollywood Suite 70's Movies (Canada) | Rocket | `Movies!.us2` |
+| ✅ | Hollywood Suite 80's Movies (Canada) | Rocket | `Movies!.us2` |
+| ✅ | Hollywood Suite 90's Movies (Canada) | Rocket | `Movies!.us2` |
 | ✅ | HPItv East (Canada) | Canadian Channels | `` |
 | ✅ | ID (Investigation Discovery) (Canada) | Rocket | `` |
 | ✅ | Knowledge Network (Canada) | Rocket | `` |
@@ -2416,7 +2416,7 @@
 | ✅ | National Geographic (Canada) | Rocket | `National.Geographic.HD.(Pacific).us2` |
 | ✅ | National Geographic Wild (Canada) | Rocket | `National.Geographic.Wild.HD.us2` |
 | ✅ | NBA TV (Canada) | Canadian Channels | `NBA.TV.HD.us2` |
-| ✅ | NBC Golf Channel (Canada) | Canadian Channels | `Golf.Channel.HD.us2` |
+| ❌ | NBC Golf Channel (Canada) | Offline | `Golf.Channel.HD.us2` |
 | ✅ | NFL Network (Canada) | Rocket | `NFL.Network.HD.us2` |
 | ✅ | Nonstop Drama (Canada) | Canadian Channels | `` |
 | ✅ | NTV St. John`s (Canada) | Canadian Channels | `` |
@@ -2430,16 +2430,16 @@
 | ✅ | RDS Info (Canada) | Canadian Channels | `` |
 | ✅ | Romance 365 (Canada) | Canadian Channels | `` |
 | ✅ | Showcase (Canada) | Rocket | `Showtime.Showcase.HD.us2` |
-| ✅ | Silver Screen (Canada) | Rocket | `` |
-| ✅ | Slice TV (Canada) | Canadian Channels | `` |
+| ❌ | Silver Screen (Canada) | Rocket | `` |
+| ❌ | Slice TV (Canada) | Offline | `` |
 | ✅ | Smithsonian Channel (Canada) | Canadian Channels | `` |
-| ✅ | Sportsnet 360 (Canada) | Canadian Channels | `MSG.Sportsnet.2.HD.us2` |
-| ✅ | Sportsnet East (Canada) | Canadian Channels | `MSG.Sportsnet.2.HD.us2` |
+| ❌ | Sportsnet 360 (Canada) | Offline | `MSG.Sportsnet.2.HD.us2` |
+| ❌ | Sportsnet East (Canada) | Offline | `MSG.Sportsnet.2.HD.us2` |
 | ✅ | Sportsnet One (Canada) | Canadian Channels | `MSG.Sportsnet.2.HD.us2` |
-| ✅ | Sportsnet Ontario (Canada) | Canadian Channels | `` |
-| ✅ | Sportsnet Pacific (Canada) | Canadian Channels | `` |
+| ❌ | Sportsnet Ontario (Canada) | Offline | `` |
+| ❌ | Sportsnet Pacific (Canada) | Offline | `` |
 | ✅ | Sportsnet West (Canada) | Canadian Channels | `MSG.Sportsnet.2.HD.us2` |
-| ✅ | Sportsnet World (Canada) | Rocket | `Sportsnet+.Dummy.us` |
+| ✅ | Sportsnet World (Canada) | Rocket | `MSG.Sportsnet.2.HD.us2` |
 | ❌ | Starz (Canada) | Rocket | `Starz.Cinema.HD.us2` |
 | ❌ | Starz 2 (Canada) | Rocket | `Starz.Cinema.HD.us2` |
 | ❌ | Super Channel Fuse (Canada) | Rocket | `` |
@@ -2463,14 +2463,14 @@
 | ✅ | TSN 5 (Canada) | Rocket | `` |
 | ✅ | TSN The Ocho (Canada) | Canadian Channels | `ESPN8.The.Ocho.us2` |
 | ❌ | TV Ontario (Canada) | Rocket | `` |
-| ✅ | TVA Sports (Canada) | Rocket | `Barstool.Sports.Dummy.us` |
+| ✅ | TVA Sports (Canada) | Rocket | `AFN.sports.us2` |
 | ✅ | TVO Kids (Canada) | Canadian Channels | `` |
 | ✅ | UnisTV (Canada) | Rocket | `` |
 | ❌ | USA Network (Canada) | Rocket | `USA.Network.HD.(Pacific).us2` |
 | ✅ | Vision (Canada) | Rocket | `` |
 | ✅ | W Network (Canada) (East) | Rocket | `3ABN.Dare.to.Dream.Network.us2` |
 | ✅ | W Network (Canada) (West) | Rocket | `3ABN.Dare.to.Dream.Network.us2` |
-| ❌ | WILD TV (Canada) | Rocket | `National.Geographic.Wild.HD.us2` |
+| ❌ | WILD TV (Canada) | Rocket | `` |
 | ✅ | YES TV (Canada) | Rocket | `` |
 | ✅ | YTV (East) (Canada) | Rocket | `` |
 | ✅ | YTV (West) (Canada) | Canadian Channels | `` |
@@ -2478,8 +2478,8 @@
 | ❌ | Z-Télé French (Canada) | Rocket | `` |
 | ✅ | AMC (UK) | Rocket | `AMC+.Originals.Dummy.us` |
 | ✅ | Animal Planet (UK) | Rocket | `Animal.Planet.uk` |
-| ❌ | BBC 3 (UK) | Offline | `BBC.World.News.Dummy.us` |
-| ✅ | BBC 4 (UK) | Rocket | `BBC.World.News.Dummy.us` |
+| ❌ | BBC 3 (UK) | Offline | `BBC.6.Music.uk` |
+| ✅ | BBC 4 (UK) | Rocket | `BBC.6.Music.uk` |
 | ❌ | BBC 4 Cbeebies (UK) | Offline | `` |
 | ✅ | BBC Alba (UK) | Rocket | `BBC.ALBA.HD.uk` |
 | ✅ | BBC One (UK) | Rocket | `BBC.One.CI.HD.uk` |
@@ -2524,10 +2524,10 @@
 | ✅ | Ideal World (UK) | UK Channels | `Ideal.World.HD.uk` |
 | ✅ | Investigation Discovery (UK) | UK Channels | `Discovery+1.uk` |
 | ✅ | Investigation Discovery+ (UK) | UK Channels | `Discovery+1.uk` |
-| ✅ | ITV 1 (UK) | Rocket | `` |
-| ❌ | ITV 2 (UK) | Offline | `` |
-| ❌ | ITV 3 (UK) | Offline | `` |
-| ❌ | ITV 4 (UK) | Offline | `` |
+| ✅ | ITV 1 (UK) | Rocket | `ITV.Quiz.uk` |
+| ❌ | ITV 2 (UK) | Offline | `ITV.Quiz.uk` |
+| ❌ | ITV 3 (UK) | Offline | `ITV.Quiz.uk` |
+| ❌ | ITV 4 (UK) | Offline | `ITV.Quiz.uk` |
 | ✅ | ITV Be (UK) | UK Channels | `` |
 | ✅ | Jewellery Maker (UK) | UK Channels | `JewelleryMaker.uk` |
 | ✅ | Legend Xtra (UK) | UK Channels | `Legend.Xtra+1.uk` |
@@ -2536,7 +2536,7 @@
 | ✅ | Movie24 (UK) | UK Channels | `Movies24.uk` |
 | ✅ | MTV (UK) | UK Channels | `MTV.80s.uk` |
 | ✅ | MUTV (UK) | Rocket | `MUTV.HD.uk` |
-| ✅ | NatGeo Wild (UK) | UK Channels | `NatGeoWild.HD.uk` |
+| ✅ | NatGeo Wild (UK) | UK Channels | `` |
 | ✅ | National Geographic Channel (UK) | UK Channels | `` |
 | ✅ | Nick Jr. (UK) | UK Channels | `Nick.Jr+1.uk` |
 | ✅ | Nick Jr. Too (UK) | UK Channels | `Nick.Jr..Too.uk` |
@@ -2561,7 +2561,7 @@
 | ✅ | Sky Cinema Action (UK) | UK Channels | `Sky.Action.uk` |
 | ✅ | Sky Cinema Animation (UK) | UK Channels | `` |
 | ✅ | Sky Cinema Comedy (UK) | UK Channels | `Sky.Cinema.Comedy.uk` |
-| ✅ | Sky Cinema Drama (UK) | UK Channels | `` |
+| ✅ | Sky Cinema Drama (UK) | UK Channels | `Sky.Cinema.Comedy.uk` |
 | ✅ | Sky Cinema Sci-Fi & Horror (UK) | UK Channels | `` |
 | ✅ | Sky Cinema Section (UK) | UK Channels | `Sky.Cinema.Select.uk` |
 | ✅ | Sky Cinema Thriller (UK) | UK Channels | `Sky.Thriller.HD.uk` |
@@ -2579,7 +2579,7 @@
 | ✅ | Sky Showcase (UK) | UK Channels | `Sky.Showcase.uk` |
 | ✅ | Sky Sports (UK) | UK Channels | `Sky.Sports.Football.HD.uk` |
 | ✅ | Sky Sports Action (UK) | Rocket | `Sky.Action.uk` |
-| ✅ | Sky Sports Arena (UK) | Rocket | `Sky.Sports+.Dummy.us` |
+| ✅ | Sky Sports Arena (UK) | Rocket | `Sky.Sports.Football.HD.uk` |
 | ✅ | Sky Sports F1 (UK) | Rocket | `Sky.Sports.Football.HD.uk` |
 | ✅ | Sky Sports Football (UK) | Rocket | `Sky.Sports.Football.HD.uk` |
 | ✅ | Sky Sports Golf (UK) | Rocket | `Sky.Sports.Football.HD.uk` |
@@ -2588,7 +2588,7 @@
 | ✅ | Sky Sports MIX (UK) | Rocket | `Sky.Sports.Football.HD.uk` |
 | ✅ | Sky Sports News (UK) | Rocket | `Sky.Sports.Football.HD.uk` |
 | ✅ | Sky Sports Premier League (UK) | Rocket | `Premier.Sports.1.HD.uk` |
-| ✅ | Sky Sports Racing (UK) | Rocket | `` |
+| ✅ | Sky Sports Racing (UK) | Rocket | `SkySp.Racing.uk` |
 | ✅ | Sky SYFY (UK) | Rocket | `` |
 | ✅ | Sky Two (UK) | Rocket | `` |
 | ✅ | Sky Witness (UK) | UK Channels | `Sky.Witness+1.uk` |
@@ -2612,18 +2612,18 @@
 | ✅ | True Crime (UK) | UK Channels | `True.Crime.+1.uk` |
 | ✅ | True Crime Xtra (UK) | UK Channels | `True.Crime.Xtra.uk` |
 | ✅ | TVSN (Austrailia) | UK Channels | `` |
-| ✅ | U&Alibi (UK) | UK Channels | `` |
+| ❌ | U&Alibi (UK) | Offline | `` |
 | ✅ | U&Dave (UK) | UK Channels | `` |
 | ✅ | U&Drama (UK) | UK Channels | `` |
 | ✅ | U&Eden (UK) | UK Channels | `` |
-| ✅ | U&Gold (UK) | UK Channels | `Gold.uk` |
-| ✅ | U&W (UK) | Rocket | `W.uk` |
-| ✅ | UTV Ireland (UK) | Rocket | `UTV.uk` |
-| ✅ | Virgin Media One (UK) | UK Channels | `VirginMediaOne.ie` |
-| ✅ | Virgin Media Three (UK) | UK Channels | `VirginMediaThree.ie` |
-| ✅ | Virgin Media Two (UK) | UK Channels | `VirginMediaTwo.ie` |
-| ✅ | Willow Cricket (UK) | Rocket | `Cricket.Dummy.us` |
-| ✅ | Willow Cricket Xtra (UK) | Rocket | `Cricket.Dummy.us` |
+| ✅ | U&Gold (UK) | UK Channels | `` |
+| ✅ | U&W (UK) | Rocket | `` |
+| ✅ | UTV Ireland (UK) | Rocket | `` |
+| ✅ | Virgin Media One (UK) | UK Channels | `` |
+| ✅ | Virgin Media Three (UK) | UK Channels | `` |
+| ✅ | Virgin Media Two (UK) | UK Channels | `` |
+| ✅ | Willow Cricket (UK) | Rocket | `` |
+| ✅ | Willow Cricket Xtra (UK) | Rocket | `` |
 | ✅ | Willow Sports (Austrailia) | UK Channels | `` |
 | ✅ | Willow Sports (UK) | UK Channels | `` |
 | ✅ | Yesterday (UK) | UK Channels | `U.and.YESTERDAY+1.uk` |
