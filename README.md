@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-03-07 09:19
+# 📺 Playlist Status Update: 2026-03-07 10:14
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -139,7 +139,7 @@
 | ✅ | KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX) | Rocket Service | `KMYS-DT.us_locals1` |
 | ❌ | KDFW-TV FOX 4 (Ft. Worth/Dallas TX) | Rocket Service | `KDFW-DT.us_locals1` |
 | ✅ | KXAS-TV NBC 5 (Ft. Worth/Dallas TX) | Rocket Service | `KXAS-DT.us_locals1` |
-| ✅ | WFAA-TV ABC 8 (Ft. Worth/Dallas TX) | Rocket Service | `WFAA-DT.us_locals1` |
+| ❌ | WFAA-TV ABC 8 (Ft. Worth/Dallas TX) | Rocket Service | `WFAA-DT.us_locals1` |
 | ✅ | KTVT-TV CBS 11 (Ft. Worth/Dallas TX) | Rocket Service | `KTVT-DT.us_locals1` |
 | ✅ | KTXA-TV Ind. 21 (Ft. Worth/Dallas TX) | Rocket Service | `KTXA-DT.us_locals1` |
 | ✅ | KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX) | Rocket Service | `KDFI-DT.us_locals1` |
@@ -181,7 +181,7 @@
 | ✅ | KLAS-TV CBS 8 (Las Vegas NV) | Rocket Service | `KLAS-DT.us_locals1` |
 | ✅ | KTNV-TV ABC 13 (Las Vegas NV) | Rocket Service | `KTNV-DT.us_locals1` |
 | ✅ | KVCW-TV CW 33 (Las Vegas NV) | Rocket Service | `KVCW-DT.us_locals1` |
-| ❌ | WJXT-TV 4 Ind. (Jacksonville FL) | Rocket Service | `WJXT-DT.us_locals1` |
+| ✅ | WJXT-TV 4 Ind. (Jacksonville FL) | Rocket Service | `WJXT-DT.us_locals1` |
 | ✅ | WTLV-TV NBC 12 (Jacksonville FL) | Rocket Service | `WTLV-DT.us_locals1` |
 | ✅ | WCWJ-TV CW 17 (Jacksonville FL) | Rocket Service | `WCWJ-DT.us_locals1` |
 | ✅ | WJXX-TV ABC 25 (Jacksonville FL) | Rocket Service | `WJXX-DT.us_locals1` |
@@ -330,7 +330,7 @@
 | ✅ | WKBW-TV ABC 7 (Buffalo NY) | Rocket Service | `WKBW-DT.us_locals1` |
 | ✅ | WNLO-TV CW 23 (Buffalo NY) | Rocket Service | `WNLO-CD.us_locals1` |
 | ✅ | WUTV-TV FOX 29 (Buffalo NY) | Rocket Service | `WUTV-DT.us_locals1` |
-| ❌ | WNYO-TV MyNetworkTV 49 (Buffalo NY) | Rocket Service | `WNYO-DT.us_locals1` |
+| ✅ | WNYO-TV MyNetworkTV 49 (Buffalo NY) | Rocket Service | `WNYO-DT.us_locals1` |
 | ✅ | WRGB-TV CBS 6 (Albany NY) | Rocket Service | `WRGB-DT.us_locals1` |
 | ✅ | WTEN-TV ABC 10 (Albany NY) | Rocket Service | `WTEN-DT.us_locals1` |
 | ✅ | WNYT-TV NBC 13 (Albany NY) | Rocket Service | `WNYT-DT.us_locals1` |
@@ -1064,7 +1064,7 @@
 | ✅ | Justice Central TV | Rocket Service | `Justice.Central.HD.us2` |
 | ❌ | Law & Crime | Local Now | `Law.and.Crime.us2` |
 | ✅ | Love & Nature | Backend: Amagi | `Love.Nature.Dummy.us` |
-| ✅ | Meateater | Backend: Amagi | `` |
+| ❌ | Meateater | Backend: Amagi | `` |
 | ✅ | Military History | Rocket Service | `Military.History.Channel.us2` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Backend: Amagi | `` |
 | ❌ | NASA | Other Services | `` |
@@ -1210,7 +1210,7 @@
 | ✅ | AMC Thriller | Other Services | `` |
 | ✅ | AMC+ | Other Services | `AMC.HD.us2` |
 | ✅ | Antenna TV | Rocket Service | `Antenna.TV.us2` |
-| ✅ | Aspire | Rocket Service | `ASPiRE.HD.us2` |
+| ❌ | Aspire | Rocket Service | `ASPiRE.HD.us2` |
 | ✅ | AWE | Other Services | `AWE.A.Wealth.of.Entertainment.HD.us2` |
 | ✅ | AWE Encore | Other Services | `Starz.Encore.Action.HD.us2` |
 | ✅ | AXS-TV | Rocket Service | `AXS.TV.us2` |
@@ -1475,7 +1475,7 @@
 | ✅ | Extreme+ | Backend: Cloudfront | `Showtime.Extreme.HD.us2` |
 | ✅ | FanDuel 2 Racing | Backend: Cloudfront | `` |
 | ✅ | FanDuel Extra | Backend: Wurl | `` |
-| ❌ | Fanduel Sports Network (Detroit) | KSTV US | `CBS.Sports.Network.HD.us2` |
+| ✅ | Fanduel Sports Network (Detroit) | KSTV US | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Florida) | KSTV US | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Indiana) | Rocket Service | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Kansas City) | Rocket Service | `CBS.Sports.Network.HD.us2` |
@@ -1485,9 +1485,9 @@
 | ✅ | Fanduel Sports Network (Oklahoma) | KSTV US | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Socal) | KSTV US | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (South) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ✅ | Fanduel Sports Network (Southeast) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ✅ | Fanduel Sports Network (Southwest) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Sun) | KSTV US | `CBS.Sports.Network.HD.us2` |
+| ❌ | Fanduel Sports Network (Southeast) | KSTV US | `CBS.Sports.Network.HD.us2` |
+| ❌ | Fanduel Sports Network (Southwest) | KSTV US | `CBS.Sports.Network.HD.us2` |
+| ✅ | Fanduel Sports Network (Sun) | KSTV US | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (West) | KSTV US | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Wisconsin) | Rocket Service | `CBS.Sports.Network.HD.us2` |
 | ✅ | FanDuel TV (Formerly TVG) | Rocket Service | `` |
@@ -1536,7 +1536,7 @@
 | ✅ | NBA TV | Rocket Service | `NBA.TV.HD.us2` |
 | ✅ | NBC Golf Channel | Rocket Service | `Golf.Channel.HD.us2` |
 | ✅ | NBC Golf Pass | Backend: Cloudfront | `` |
-| ✅ | NBC Peacock Premier League TV | Other Services | `Premier.League.Dummy.us` |
+| ❌ | NBC Peacock Premier League TV | Other Services | `Premier.League.Dummy.us` |
 | ✅ | NBC Sports (Bay Area) | KSTV US | `NBC.Sports.4K.us2` |
 | ✅ | NBC Sports (Boston) | KSTV US | `NBC.Sports.4K.us2` |
 | ✅ | NBC Sports (California) | KSTV US | `NBC.Sports.4K.us2` |
@@ -1757,7 +1757,7 @@
 | ✅ | Starz Kids & Family (West) | Rocket Service | `Starz.Encore.Family.SD.us2` |
 | ✅ | The Asylum Movie Channel | Rocket Service | `Asylum.Movie.us2` |
 | ✅ | The Film Detective | Other Services | `The.Film.Detective.us2` |
-| ❌ | The Movie Channel (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
+| ✅ | The Movie Channel (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | The Movie Channel (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
@@ -2194,16 +2194,16 @@
 | ✅ | Amazon | XITE Reggae Vibes | Backend: Amagi | `XITE.Reggae.Vibes.DUMMY.us` |
 | ✅ | Amazon | XITE Rock x Metal | Backend: Amagi | `XITE.Rock.x.Metal.DUMMY.us` |
 | ✅ | Amazon | XITE Siempre Latino | Backend: Amagi | `XITE.Siempre.Latino.DUMMY.us` |
-| ✅ | MC (Music Choice) | '60s (Audio Channel) | KSTV US | `` |
+| ❌ | MC (Music Choice) | '60s (Audio Channel) | KSTV US | `` |
 | ✅ | MC (Music Choice) | '70s | KSTV US | `` |
 | ❌ | MC (Music Choice) | '70s (Audio Channel) | Rocket Service | `` |
 | ✅ | MC (Music Choice) | '80s | Rocket Service | `` |
 | ❌ | MC (Music Choice) | '80s (Audio Channel) | Rocket Service | `` |
-| ✅ | MC (Music Choice) | '80s Rock (Audio Channel) | KSTV US | `` |
+| ❌ | MC (Music Choice) | '80s Rock (Audio Channel) | KSTV US | `` |
 | ✅ | MC (Music Choice) | '90s | Rocket Service | `` |
-| ✅ | MC (Music Choice) | '90s (Audio Channel) | KSTV US | `` |
+| ❌ | MC (Music Choice) | '90s (Audio Channel) | KSTV US | `` |
 | ✅ | MC (Music Choice) | Adult Alternative (Audio Channel) | KSTV US | `` |
-| ✅ | MC (Music Choice) | Alternative (Audio Channel) | KSTV US | `` |
+| ❌ | MC (Music Choice) | Alternative (Audio Channel) | KSTV US | `` |
 | ✅ | MC (Music Choice) | Choice Blues | KSTV US | `` |
 | ✅ | MC (Music Choice) | Classic Alternative (Audio Channel) | KSTV US | `` |
 | ✅ | MC (Music Choice) | Classic Christmas (Audio Channel) | KSTV US | `` |
@@ -2218,38 +2218,38 @@
 | ✅ | MC (Music Choice) | Dance | Rocket Service | `` |
 | ✅ | MC (Music Choice) | Dance EDM | Rocket Service | `` |
 | ✅ | MC (Music Choice) | Easy Listening | Rocket Service | `` |
-| ✅ | MC (Music Choice) | Easy Listening (Audio Channel) | KSTV US | `` |
+| ❌ | MC (Music Choice) | Easy Listening (Audio Channel) | KSTV US | `` |
 | ✅ | MC (Music Choice) | Funk (Audio Channel) | KSTV US | `` |
-| ✅ | MC (Music Choice) | Gospel (Audio Channel) | KSTV US | `BET.GOSPEL.us2` |
+| ❌ | MC (Music Choice) | Gospel (Audio Channel) | KSTV US | `BET.GOSPEL.us2` |
 | ✅ | MC (Music Choice) | Hard Rock (Audio Channel) | KSTV US | `` |
 | ✅ | MC (Music Choice) | Hip-Hop And R&B | Rocket Service | `` |
 | ❌ | MC (Music Choice) | Hip-Hop And R&B (Audio Channel) | KSTV US | `` |
 | ❌ | MC (Music Choice) | Hip-Hop Classics (Audio Channel) | Rocket Service | `` |
 | ❌ | MC (Music Choice) | Kids Only | KSTV US | `` |
 | ❌ | MC (Music Choice) | Love Songs (Audio Channel) | KSTV US | `` |
-| ❌ | MC (Music Choice) | Mainstream Rap (Audio Channel) | KSTV US | `` |
-| ❌ | MC (Music Choice) | Malt Shop Favorites (Audio Channel) | KSTV US | `` |
+| ✅ | MC (Music Choice) | Mainstream Rap (Audio Channel) | KSTV US | `` |
+| ✅ | MC (Music Choice) | Malt Shop Favorites (Audio Channel) | KSTV US | `` |
 | ✅ | MC (Music Choice) | Mellow Hits | Rocket Service | `` |
-| ✅ | MC (Music Choice) | Metal (Audio Channel) | KSTV US | `XITE.Rock.x.Metal.DUMMY.us` |
+| ❌ | MC (Music Choice) | Metal (Audio Channel) | KSTV US | `XITE.Rock.x.Metal.DUMMY.us` |
 | ✅ | MC (Music Choice) | Mexicana | Rocket Service | `` |
-| ✅ | MC (Music Choice) | Mexicana (Audio Channel) | KSTV US | `` |
+| ❌ | MC (Music Choice) | Mexicana (Audio Channel) | KSTV US | `` |
 | ❌ | MC (Music Choice) | Music Choice Max (Audio Channel) | Rocket Service | `Music.Choice.Dummy.us` |
 | ✅ | MC (Music Choice) | Musica Urbana | Rocket Service | `` |
-| ❌ | MC (Music Choice) | Musica Urbana (Audio Channel) | KSTV US | `` |
-| ✅ | MC (Music Choice) | New Wave (Audio Channel) | KSTV US | `WAVE-DT.us_locals1` |
+| ✅ | MC (Music Choice) | Musica Urbana (Audio Channel) | KSTV US | `` |
+| ❌ | MC (Music Choice) | New Wave (Audio Channel) | KSTV US | `WAVE-DT.us_locals1` |
 | ✅ | MC (Music Choice) | Party Favorites (Audio Channel) | KSTV US | `` |
 | ✅ | MC (Music Choice) | Pop And Country | Rocket Service | `` |
 | ✅ | MC (Music Choice) | Pop Hits | Rocket Service | `` |
-| ✅ | MC (Music Choice) | Pop Hits (Audio Channel) | KSTV US | `` |
-| ✅ | MC (Music Choice) | Pop Latino (Audio Channel) | KSTV US | `` |
+| ❌ | MC (Music Choice) | Pop Hits (Audio Channel) | KSTV US | `` |
+| ❌ | MC (Music Choice) | Pop Latino (Audio Channel) | KSTV US | `` |
 | ❌ | MC (Music Choice) | R&B Classics | Rocket Service | `` |
 | ❌ | MC (Music Choice) | R&B Hits (Audio Channel) | Rocket Service | `` |
-| ✅ | MC (Music Choice) | Rap (Audio Channel) | KSTV US | `` |
+| ❌ | MC (Music Choice) | Rap (Audio Channel) | KSTV US | `` |
 | ❌ | MC (Music Choice) | Reggae (Audio Channel) | KSTV US | `XITE.Reggae.Vibes.DUMMY.us` |
 | ✅ | MC (Music Choice) | Rock | Rocket Service | `` |
-| ✅ | MC (Music Choice) | Rock (Audio Channel) | KSTV US | `` |
+| ❌ | MC (Music Choice) | Rock (Audio Channel) | KSTV US | `` |
 | ❌ | MC (Music Choice) | Rock Hits (Audio Channel) | Rocket Service | `` |
-| ❌ | MC (Music Choice) | Rock Latino (Audio Channel) | KSTV US | `` |
+| ✅ | MC (Music Choice) | Rock Latino (Audio Channel) | KSTV US | `` |
 | ✅ | MC (Music Choice) | Romances (Audio Channel) | KSTV US | `` |
 | ✅ | MC (Music Choice) | Singer & Swinging | Rocket Service | `` |
 | ✅ | MC (Music Choice) | Smooth Jazz | Rocket Service | `` |
@@ -2262,12 +2262,12 @@
 | ✅ | MC (Music Choice) | Teen Beats (Audio Channel) | KSTV US | `` |
 | ❌ | MC (Music Choice) | Throwback Jams (Audio Channel) | Rocket Service | `` |
 | ✅ | MC (Music Choice) | Today's Country | Rocket Service | `` |
-| ❌ | MC (Music Choice) | Today's Country (Audio Channel) | KSTV US | `` |
+| ✅ | MC (Music Choice) | Today's Country (Audio Channel) | KSTV US | `` |
 | ✅ | MC (Music Choice) | Today's Hits "Hit List" (Audio Channel) | Rocket Service | `` |
 | ✅ | MC (Music Choice) | Today's R&B | Rocket Service | `` |
 | ✅ | MC (Music Choice) | Toddler Tunes | KSTV US | `` |
 | ✅ | MC (Music Choice) | Tropicales | Rocket Service | `` |
-| ✅ | MC (Music Choice) | Tropicales (Audio Channel) | KSTV US | `` |
+| ❌ | MC (Music Choice) | Tropicales (Audio Channel) | KSTV US | `` |
 | ❌ | MC (Music Choice) | Underground Hip-Hop (Audio Channel) | KSTV US | `` |
 | ❌ | MC (Music Choice) | Y2K (Audio Channel) | KSTV US | `` |
 | ❌ | MC (Music Choice) | Y2K Rap (Audio Channel) | Rocket Service | `` |
@@ -2286,7 +2286,7 @@
 | ✅ | BNN Bloomberg (Canada) | KSTV US | `Bloomberg.Business.Television.us2` |
 | ❌ | Boomerang by Cartoon Network (Canada) | Rocket Service | `Boomerang.us2` |
 | ❌ | Bravo (Canada) | Rocket Service | `Bravo.HD.us2` |
-| ✅ | Canal Vie French (Canada) | KSTV US | `` |
+| ❌ | Canal Vie French (Canada) | KSTV US | `` |
 | ✅ | Cartoon Network (Canada) | Rocket Service | `AdultSwim.com.Cartoon.Network.us2` |
 | ✅ | CBC Calgary (Canada) | Rocket Service | `` |
 | ✅ | CBC Charlottetown (Canada) | Rocket Service | `` |
@@ -2433,12 +2433,12 @@
 | ✅ | Silver Screen (Canada) | Rocket Service | `` |
 | ✅ | Slice TV (Canada) | KSTV US | `` |
 | ✅ | Smithsonian Channel (Canada) | KSTV US | `` |
-| ✅ | Sportsnet 360 (Canada) | KSTV US | `MSG.Sportsnet.2.HD.us2` |
-| ✅ | Sportsnet East (Canada) | KSTV US | `MSG.Sportsnet.2.HD.us2` |
-| ✅ | Sportsnet One (Canada) | KSTV US | `MSG.Sportsnet.2.HD.us2` |
-| ✅ | Sportsnet Ontario (Canada) | KSTV US | `` |
+| ❌ | Sportsnet 360 (Canada) | KSTV US | `MSG.Sportsnet.2.HD.us2` |
+| ❌ | Sportsnet East (Canada) | KSTV US | `MSG.Sportsnet.2.HD.us2` |
+| ❌ | Sportsnet One (Canada) | KSTV US | `MSG.Sportsnet.2.HD.us2` |
+| ❌ | Sportsnet Ontario (Canada) | KSTV US | `` |
 | ✅ | Sportsnet Pacific (Canada) | KSTV US | `` |
-| ✅ | Sportsnet West (Canada) | KSTV US | `MSG.Sportsnet.2.HD.us2` |
+| ❌ | Sportsnet West (Canada) | KSTV US | `MSG.Sportsnet.2.HD.us2` |
 | ✅ | Sportsnet World (Canada) | Rocket Service | `MSG.Sportsnet.2.HD.us2` |
 | ❌ | Starz (Canada) | Rocket Service | `Starz.Cinema.HD.us2` |
 | ❌ | Starz 2 (Canada) | Rocket Service | `Starz.Cinema.HD.us2` |
@@ -2448,7 +2448,7 @@
 | ✅ | Tastemade International (Canada) | Backend: Amagi | `Tastemade.us2` |
 | ✅ | TCM (Canada) | KSTV US | `` |
 | ✅ | Télétoon French (Canada) | Rocket Service | `` |
-| ❌ | TFO French (Canada) | Rocket Service | `` |
+| ✅ | TFO French (Canada) | Rocket Service | `` |
 | ✅ | The Cooking Channel (Canada) | KSTV US | `Cooking.Channel.HD.us2` |
 | ❌ | The Weather Network (Canada) | Rocket Service | `` |
 | ✅ | Thrillers 365 (Canada) | Other Services | `` |
@@ -2542,7 +2542,7 @@
 | ✅ | Nick Jr. Too (UK) | KSTV UK | `Nick.Jr..Too.uk` |
 | ✅ | Nickelodeon (UK) | Rocket Service | `Nickelodeon+1.uk` |
 | ✅ | Nicktoons (UK) | KSTV UK | `Nicktoons.uk` |
-| ✅ | Paramount Network (UK) | Rocket Service | `` |
+| ❌ | Paramount Network (UK) | Rocket Service | `` |
 | ✅ | PBS America (UK) | KSTV UK | `PBS.America.uk` |
 | ❌ | Pop (UK) | Backend: Amagi | `POP+1.uk` |
 | ❌ | Pop Max (UK) | KSTV UK | `POP.Max+1.uk` |
@@ -2607,7 +2607,7 @@
 | ✅ | TNT Sports 2 (UK) | Rocket Service | `TNT.Sports.2.HD.uk` |
 | ✅ | TNT Sports 3 (UK) | Rocket Service | `TNT.Sports.3.HD.uk` |
 | ✅ | TNT Sports 4 (UK) | Rocket Service | `TNT.Sports.4.HD.uk` |
-| ❌ | TNT Sports Ultimate 4K (UK) | Other Services | `TNT.Sports.Ultimate.HD.uk` |
+| ✅ | TNT Sports Ultimate 4K (UK) | Other Services | `TNT.Sports.Ultimate.HD.uk` |
 | ✅ | Travel Channel (UK) | Rocket Service | `` |
 | ✅ | True Crime (UK) | KSTV UK | `True.Crime.+1.uk` |
 | ✅ | True Crime Xtra (UK) | KSTV UK | `True.Crime.Xtra.uk` |
