@@ -2525,7 +2525,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER
 http://s.rocketdns.info:8080/live/52748969/72335180/512977.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",FMC (Family Movie Classics)
 http://s.rocketdns.info:8080/live/52748969/72335180/665855.ts
-#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",FOX Soul
+#EXTINF:-1 tvg-id="FOX.SOUL.us2" group-title="Backend: Amagi",FOX Soul
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Amagi",Free Western Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious/playlist.m3u8
