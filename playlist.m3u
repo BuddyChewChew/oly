@@ -1,969 +1,969 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" group-title="Rocket Service",KCBS-TV CBS 2 (Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KCBS-TV CBS 2 (Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2637.ts
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" group-title="Rocket Service",KNBC-TV NBC 4 (Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KNBC-TV NBC 4 (Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2453.ts
-#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" group-title="Rocket Service",KTLA-TV CW 5 (Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTLA-TV CW 5 (Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/87547.ts
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" group-title="Rocket Service",KABC-TV ABC 7 (Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KABC-TV ABC 7 (Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2684.ts
 #EXTINF:-1 tvg-id="KCAL-TV.us" group-title="Rocket Service",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/87548.ts
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" group-title="Rocket Service",KTTV-TV FOX 11 (Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTTV-TV FOX 11 (Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2550.ts
-#EXTINF:-1 tvg-id="KCOP-DT.us_locals1" group-title="Rocket Service",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2478.ts
-#EXTINF:-1 tvg-id="KSWB-DT.us_locals1" group-title="Rocket Service",KSWB-TV FOX 5/69 (San Diego CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSWB-TV FOX 5/69 (San Diego CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2534.ts
-#EXTINF:-1 tvg-id="KNSD-DT.us_locals1" group-title="Rocket Service",KNSD-TV NBC 7/39 (San Diego CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KNSD-TV NBC 7/39 (San Diego CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2439.ts
-#EXTINF:-1 tvg-id="KFMB-DT.us_locals1" group-title="Rocket Service",KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2623.ts
-#EXTINF:-1 tvg-id="KFMB-DT.us_locals1" group-title="Rocket Service",KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/446862.ts
-#EXTINF:-1 tvg-id="KGTV-DT.us_locals1" group-title="Rocket Service",KGTV-TV ABC 10 (San Diego CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KGTV-TV ABC 10 (San Diego CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2670.ts
-#EXTINF:-1 tvg-id="KUSI-DT.us_locals1" group-title="Rocket Service",KUSI-TV Ind. 51 (San Diego CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KUSI-TV Ind. 51 (San Diego CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/710371.ts
-#EXTINF:-1 tvg-id="KESQ-DT3.us_locals1" group-title="Other Services",KESQ-TV ABC 3 (Palm Springs CA)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KESQ-TV ABC 3 (Palm Springs CA)
 http://xxip25.top:8080/live/char@dot.com/char@14223/121235.ts
-#EXTINF:-1 tvg-id="KDFX-CD.us_locals1" group-title="Rocket Service",KDFX-CA FOX 11/33 (Palm Springs CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KDFX-CA FOX 11/33 (Palm Springs CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/696419.ts
-#EXTINF:-1 tvg-id="KMIR-DT.us_locals1" group-title="Rocket Service",KMIR-TV NBC 36 (Palm Springs CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KMIR-TV NBC 36 (Palm Springs CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89444.ts
-#EXTINF:-1 tvg-id="KTVU-DT.us_locals1" group-title="Rocket Service",KTVU-TV FOX 2 (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTVU-TV FOX 2 (San Francisco CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2533.ts
-#EXTINF:-1 tvg-id="KRON-DT.us_locals1" group-title="Rocket Service",KRON-TV CW 4 (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KRON-TV CW 4 (San Francisco CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/597171.ts
-#EXTINF:-1 tvg-id="KPIX-DT.us_locals1" group-title="Backend: Syncbak",KPIX-TV CBS 5 (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Syncbak",KPIX-TV CBS 5 (San Francisco CA)
 https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/17871822/5743360/media.m3u8?request_token=nxe0YHktA0-dsI_EZW1Rb07DOVeAH_bnYdoNMQYbgQwdjGXaZPmTdTCFlIaanCX1J28ddzElV6JTo6Ygy7J4fal745vzxQKY9_UNKRAEnAHvVtZCRMnrDFhAPyghrOjlRSAgQNggh8xU8TdISJakRbm3wGV9UZ8NaBaxdiOIzrCcuV9lnAXBUIEMHrOqARR8&CMCD=mtp%3D170100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220ab3dada-d7cb-4c98-a87c-961d916864a4%22
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",KGO-TV ABC 7 (San Francisco CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2669.ts
-#EXTINF:-1 tvg-id="KNTV-DT.us_locals1" group-title="Rocket Service",KNTV-TV NBC 10 (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KNTV-TV NBC 10 (San Francisco CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2438.ts
-#EXTINF:-1 tvg-id="KICU-DT.us_locals1" group-title="Rocket Service",KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89459.ts
-#EXTINF:-1 tvg-id="KPYX-DT.us_locals1" group-title="Rocket Service",KPYX-TV/KBCW-TV Ind. 44 (KPIX+) (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KPYX-TV/KBCW-TV Ind. 44 (KPIX+) (San Francisco CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/34433.ts
-#EXTINF:-1 tvg-id="KCRA-DT.us_locals1" group-title="Rocket Service",KCRA-TV NBC 3 (Sacramento CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KCRA-TV NBC 3 (Sacramento CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2440.ts
-#EXTINF:-1 tvg-id="KXTV-DT.us_locals1" group-title="Rocket Service",KXTV-TV ABC 10 (Sacramento CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KXTV-TV ABC 10 (Sacramento CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2674.ts
-#EXTINF:-1 tvg-id="KOVR-DT.us_locals1" group-title="Rocket Service",KOVR-TV CBS 13 (Stockton/Sacramento CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KOVR-TV CBS 13 (Stockton/Sacramento CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2625.ts
-#EXTINF:-1 tvg-id="KTXL-DT.us_locals1" group-title="Rocket Service",KTXL-TV FOX 40 (Sacramento CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTXL-TV FOX 40 (Sacramento CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2537.ts
-#EXTINF:-1 tvg-id="KMAX-DT.us_locals1" group-title="Rocket Service",KMAX-TV CW 31 (Sacramento CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KMAX-TV CW 31 (Sacramento CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89447.ts
-#EXTINF:-1 tvg-id="KSEE-DT.us_locals1" group-title="Rocket Service",KSEE-TV NBC 24 (Fresno CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSEE-TV NBC 24 (Fresno CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89432.ts
-#EXTINF:-1 tvg-id="KMPH-CD.us_locals1" group-title="Rocket Service",KMPH-TV FOX 26 (Fresno CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KMPH-TV FOX 26 (Fresno CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/434317.ts
-#EXTINF:-1 tvg-id="KFSN-DT.us_locals1" group-title="Rocket Service",KFSN-TV ABC 30 (Fresno CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KFSN-TV ABC 30 (Fresno CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2688.ts
-#EXTINF:-1 tvg-id="KGPE-DT.us_locals1" group-title="Rocket Service",KGPE-TV CBS 47 (Fresno CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KGPE-TV CBS 47 (Fresno CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89431.ts
-#EXTINF:-1 tvg-id="KNXT-LD.us_locals1" group-title="Backend: Syncbak",KNXT-TV MyNetworkTV 53 (Fresno CA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Syncbak",KNXT-TV MyNetworkTV 53 (Fresno CA)
 https://zeam-playlist.aws.syncbak.com/cpl/23258158/dai2v5/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MjM1NTgsIm9vbSI6dHJ1ZSwiYXBzdCI6bnVsbCwic3NpZCI6ImVlYWY1ZjgyYmFiMzRjYWRhMmNhM2Y2ZDI0NTE1Mjg3IiwiaXAiOiIzLjgzLjI0NS44NCIsInVpcCI6Ijc2LjMyLjE1MC4yMyIsImRtYSI6ODAzLCJzbiI6IldlYiA0MTdlODA1Y2IwICIsInVpZCI6bnVsbCwiY3NiIjpmYWxzZSwibWlkIjoiMjMyNTgxNTgiLCJtZDUiOiI5ODc2NmNiM2QyNzgwMDEyMzYxM2FkMDE5ZTJmZDRjYiIsImlhdCI6MTc3MTEzMTg2MCwiZXhwIjoxNzcxMTMxOTUwLCJpc3MiOiJXTFMiLCJzdWIiOiJjZmU2NTMyZS03MTQ0LTRmYWQtOWJjMS0zMTVmMDRhMDZlZmUifQ.XymHAU7yHRhZo3mZrQ9qjZDbi1Ftey2lnMcJAou9wWg
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WFRE-TV CW 59 (Fresno CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/629104.ts
-#EXTINF:-1 tvg-id="KGET-DT.us_locals1" group-title="Rocket Service",KGET-TV NBC 17 (Bakerfield CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KGET-TV NBC 17 (Bakerfield CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89427.ts
-#EXTINF:-1 tvg-id="KERO-DT.us_locals1" group-title="Rocket Service",KERO-TV ABC 23 (Bakerfield CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KERO-TV ABC 23 (Bakerfield CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/512981.ts
-#EXTINF:-1 tvg-id="KBAK-DT.us_locals1" group-title="Rocket Service",KBAK-TV CBS 29 (Bakerfield CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KBAK-TV CBS 29 (Bakerfield CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89426.ts
-#EXTINF:-1 tvg-id="KBFX-CD.us_locals1" group-title="Rocket Service",KBFX-CD FOX 58 (Bakerfield CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KBFX-CD FOX 58 (Bakerfield CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/512982.ts
-#EXTINF:-1 tvg-id="KEYT-DT2.us_locals1" group-title="Rocket Service",KEYT-TV ABC 3 (Santa Barbara CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KEYT-TV ABC 3 (Santa Barbara CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/446727.ts
-#EXTINF:-1 tvg-id="KION-DT.us_locals1" group-title="Rocket Service",KION-TV CBS 5/46 (Monterey CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KION-TV CBS 5/46 (Monterey CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89441.ts
-#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" group-title="Rocket Service",WCBS-TV CBS 2 (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WCBS-TV CBS 2 (New York NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/89712.ts
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" group-title="Rocket Service",WNBC-TV NBC 4 (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WNBC-TV NBC 4 (New York NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/89714.ts
-#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" group-title="Rocket Service",WNYW-TV FOX 5 (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WNYW-TV FOX 5 (New York NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/2544.ts
-#EXTINF:-1 tvg-id="WABC-DT.us_locals1" group-title="Rocket Service",WABC-TV ABC 7 (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WABC-TV ABC 7 (New York NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/3606.ts
-#EXTINF:-1 tvg-id="WWOR-DT.us_locals1" group-title="Rocket Service",WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/597173.ts
-#EXTINF:-1 tvg-id="WPIX-DT.us_locals1" group-title="Rocket Service",WPIX-TV CW 11 (PIX 11+) (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WPIX-TV CW 11 (PIX 11+) (New York NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/93093.ts
-#EXTINF:-1 tvg-id="WLNY-DT.us_locals1" group-title="Rocket Service",WLNY-TV CBS/Ind. 10/55 (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WLNY-TV CBS/Ind. 10/55 (New York NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/89717.ts
-#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" group-title="Rocket Service",WBBM-TV CBS 2 (Chicago IL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WBBM-TV CBS 2 (Chicago IL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2648.ts
-#EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" group-title="Rocket Service",WMAQ-TV NBC 5 (Chicago IL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WMAQ-TV NBC 5 (Chicago IL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2464.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WLS-TV ABC 7 (Chicago IL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2695.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WGN-TV CW 9 (Chicago IL)
 http://s.rocketdns.info:8080/live/52748969/72335180/85340.ts
-#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" group-title="Rocket Service",WFLD-TV FOX 32 (Chicago IL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFLD-TV FOX 32 (Chicago IL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2567.ts
-#EXTINF:-1 tvg-id="WPWR-DT.us_locals1" group-title="Rocket Service",WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL)
 http://s.rocketdns.info:8080/live/52748969/72335180/92927.ts
-#EXTINF:-1 tvg-id="WJBK-DT.us_locals1" group-title="Rocket Service",WJBK-TV FOX 2 (Detroit MI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WJBK-TV FOX 2 (Detroit MI)
 http://s.rocketdns.info:8080/live/52748969/72335180/2558.ts
-#EXTINF:-1 tvg-id="WDIV-DT.us_locals1" group-title="Rocket Service",WDIV-TV NBC 4 (Detroit MI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WDIV-TV NBC 4 (Detroit MI)
 http://s.rocketdns.info:8080/live/52748969/72335180/2459.ts
-#EXTINF:-1 tvg-id="WXYZ-DT.us_locals1" group-title="Other Services",WXYZ-TV ABC 7 (Detroit MI)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WXYZ-TV ABC 7 (Detroit MI)
 https://fl1.moveonjoy.com/MI_DETROIT_ABC/mpegts
-#EXTINF:-1 tvg-id="WKBD-DT.us_locals1" group-title="Rocket Service",WKBD-TV CW 50 (Detroit MI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WKBD-TV CW 50 (Detroit MI)
 http://s.rocketdns.info:8080/live/52748969/72335180/89623.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WWJ-TV CBS 62 (Detroit MI)
 http://s.rocketdns.info:8080/live/52748969/72335180/88065.ts
-#EXTINF:-1 tvg-id="WCCO-DT.us_locals1" group-title="Rocket Service",WCCO-TV CBS 4 (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WCCO-TV CBS 4 (Minneapolis/St. Paul MN)
 http://s.rocketdns.info:8080/live/52748969/72335180/2634.ts
-#EXTINF:-1 tvg-id="KSTP-DT.us_locals1" group-title="Rocket Service",KSTP-TV ABC 5 (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSTP-TV ABC 5 (Minneapolis/St. Paul MN)
 http://s.rocketdns.info:8080/live/52748969/72335180/2673.ts
-#EXTINF:-1 tvg-id="KMSP-DT.us_locals1" group-title="Rocket Service",KMSP-TV FOX 9 (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KMSP-TV FOX 9 (Minneapolis/St. Paul MN)
 http://s.rocketdns.info:8080/live/52748969/72335180/2547.ts
-#EXTINF:-1 tvg-id="KARE-DT.us_locals1" group-title="Rocket Service",KARE-TV NBC 11 (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KARE-TV NBC 11 (Minneapolis/St. Paul MN)
 http://s.rocketdns.info:8080/live/52748969/72335180/2450.ts
-#EXTINF:-1 tvg-id="WUCW-DT.us_locals1" group-title="Rocket Service",WUCW-TV CW 23 (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WUCW-TV CW 23 (Minneapolis/St. Paul MN)
 http://s.rocketdns.info:8080/live/52748969/72335180/38311.ts
-#EXTINF:-1 tvg-id="WFTC-DT.us_locals1" group-title="Rocket Service",WFTC-TV MyNetworkTV 29 (FOX 9+) (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFTC-TV MyNetworkTV 29 (FOX 9+) (Minneapolis/St. Paul MN)
 http://s.rocketdns.info:8080/live/52748969/72335180/597166.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",KYW-TV CBS 3 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2629.ts
-#EXTINF:-1 tvg-id="WPVI-DT.us_locals1" group-title="Rocket Service",WPVI-TV ABC 6 (Philadelphia PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WPVI-TV ABC 6 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2678.ts
-#EXTINF:-1 tvg-id="WCAU-DT.us_locals1" group-title="Rocket Service",WCAU-TV NBC 10 (Philadelphia PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WCAU-TV NBC 10 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2445.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WHPL-TV CW 17 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/433308.ts
-#EXTINF:-1 tvg-id="WTXF-DT.us_locals1" group-title="Rocket Service",WTXF-TV FOX 29 (Philadelphia PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTXF-TV FOX 29 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2540.ts
-#EXTINF:-1 tvg-id="WPSG-DT.us_locals1" group-title="Rocket Service",WPSG-TV Ind. Philly 57 (Philadelphia PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WPSG-TV Ind. Philly 57 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/34426.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WBZ-TV CBS 4 (Boston MA)
 http://s.rocketdns.info:8080/live/52748969/72335180/88036.ts
-#EXTINF:-1 tvg-id="WCVB-DT.us_locals1" group-title="Rocket Service",WCVB-TV ABC 5 (Boston MA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WCVB-TV ABC 5 (Boston MA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2697.ts
-#EXTINF:-1 tvg-id="WBTS-CD.us_locals1" group-title="Rocket Service",WBTS-LD NBC 10 (Boston MA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WBTS-LD NBC 10 (Boston MA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2467.ts
-#EXTINF:-1 tvg-id="WFXT-DT.us_locals1" group-title="Rocket Service",WFXT-CD FOX 25 (Boston MA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFXT-CD FOX 25 (Boston MA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2570.ts
-#EXTINF:-1 tvg-id="WSBK-DT.us_locals1" group-title="Rocket Service",WSBK-TV Ind. 38 (Boston MA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSBK-TV Ind. 38 (Boston MA)
 http://s.rocketdns.info:8080/live/52748969/72335180/92926.ts
-#EXTINF:-1 tvg-id="WLVI-DT.us_locals1" group-title="Rocket Service",WLVI-TV CW 56 (Boston MA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WLVI-TV CW 56 (Boston MA)
 http://s.rocketdns.info:8080/live/52748969/72335180/629809.ts
-#EXTINF:-1 tvg-id="KDKA-DT.us_locals1" group-title="Rocket Service",KDKA-TV CBS 2 (Pittsburgh PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KDKA-TV CBS 2 (Pittsburgh PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2627.ts
-#EXTINF:-1 tvg-id="WTAE-DT.us_locals1" group-title="Rocket Service",WTAE-TV ABC 4 (Pittsburgh PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTAE-TV ABC 4 (Pittsburgh PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2676.ts
-#EXTINF:-1 tvg-id="WPXI-DT.us_locals1" group-title="Rocket Service",WPXI-TV NBC 11 (Pittsburgh PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WPXI-TV NBC 11 (Pittsburgh PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2443.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WPCW-TV CW 19 (KDKA+) (Pittsburgh PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/34432.ts
-#EXTINF:-1 tvg-id="WPGH-DT.us_locals1" group-title="Rocket Service",WPGH-CD FOX 53 (Pittsburgh PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WPGH-CD FOX 53 (Pittsburgh PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2538.ts
-#EXTINF:-1 tvg-id="WICU-DT.us_locals1" group-title="Rocket Service",WICU-TV NBC 12 (Erie PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WICU-TV NBC 12 (Erie PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/510266.ts
-#EXTINF:-1 tvg-id="WJET-DT.us_locals1" group-title="Rocket Service",WJET-TV ABC 24 (Erie PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WJET-TV ABC 24 (Erie PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/510265.ts
-#EXTINF:-1 tvg-id="WSEE-DT.us_locals1" group-title="Rocket Service",WSEE-TV CBS 35.1 (Erie PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSEE-TV CBS 35.1 (Erie PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/510267.ts
-#EXTINF:-1 tvg-id="WSEE-DT.us_locals1" group-title="Rocket Service",WSEE-DT CW 35.2 (Erie PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSEE-DT CW 35.2 (Erie PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/510264.ts
-#EXTINF:-1 tvg-id="WSEE-DT.us_locals1" group-title="Backend: Syncbak",WSEE-DT ENN+ (Erie News Now Plus) 35.3 (Erie PA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Syncbak",WSEE-DT ENN+ (Erie News Now Plus) 35.3 (Erie PA)
 https://dai2-playlistserver.aws.syncbak.com/cpl/22958529/dai2v5/1.0/7b7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIyMjk1ODUyOSIsImNpZCI6MjMyODIsInNpZCI6MTI4MywibWQ1IjoiZWZlN2JhM2Q4YzlkZjdmNzQwZTVhZDllYmRjMzQ3ZTgiLCJpYXQiOjE3MDA1OTUzNDQsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.8wbZ5PZavgTLOKpZjRmu0hUllUQo3WqJ1ammPozO0dE
-#EXTINF:-1 tvg-id="WFXP-DT.us_locals1" group-title="Rocket Service",WFXP-CD TV FOX 66 (Hartford CT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFXP-CD TV FOX 66 (Hartford CT)
 http://s.rocketdns.info:8080/live/52748969/72335180/510268.ts
-#EXTINF:-1 tvg-id="WFSB-DT.us_locals1" group-title="Rocket Service",WFSB-TV CBS 3 (Hartford CT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFSB-TV CBS 3 (Hartford CT)
 http://s.rocketdns.info:8080/live/52748969/72335180/629116.ts
-#EXTINF:-1 tvg-id="WTNH-DT.us_locals1" group-title="Rocket Service",WTNH-TV ABC 8 (Hartford CT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTNH-TV ABC 8 (Hartford CT)
 http://s.rocketdns.info:8080/live/52748969/72335180/2693.ts
-#EXTINF:-1 tvg-id="WVIT-DT.us_locals1" group-title="Rocket Service",WVIT-TV NBC 30 (Hartford CT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WVIT-TV NBC 30 (Hartford CT)
 http://s.rocketdns.info:8080/live/52748969/72335180/2456.ts
-#EXTINF:-1 tvg-id="WTIC-DT.us_locals1" group-title="Rocket Service",WTIC-CD TV FOX 61 (Hartford CT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTIC-CD TV FOX 61 (Hartford CT)
 http://s.rocketdns.info:8080/live/52748969/72335180/2556.ts
-#EXTINF:-1 tvg-id="WFOR-DT.us_locals1" group-title="Rocket Service",WFOR-TV CBS 4 (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFOR-TV CBS 4 (Miami FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2636.ts
-#EXTINF:-1 tvg-id="WTVJ-DT.us_locals1" group-title="Rocket Service",WTVJ-TV NBC 6 (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTVJ-TV NBC 6 (Miami FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2452.ts
-#EXTINF:-1 tvg-id="WSVN-DT2.us_locals1" group-title="Rocket Service",WSVN-TV FOX 7 (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSVN-TV FOX 7 (Miami FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/3641.ts
-#EXTINF:-1 tvg-id="WPLG-DT.us_locals1" group-title="Rocket Service",WPLG-TV ABC 10 (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WPLG-TV ABC 10 (Miami FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/3605.ts
-#EXTINF:-1 tvg-id="WBFS-DT.us_locals1" group-title="Rocket Service",WBFS-TV CW/MyNetworkTV 33 (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WBFS-TV CW/MyNetworkTV 33 (Miami FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/38327.ts
-#EXTINF:-1 tvg-id="WSFL-DT.us_locals1" group-title="Rocket Service",WSFL-TV CW/Ind. 39 (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSFL-TV CW/Ind. 39 (Miami FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/433867.ts
-#EXTINF:-1 tvg-id="WFLA-DT.us_locals1" group-title="Rocket Service",WFLA-TV NBC 8 (Tampa Bay FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFLA-TV NBC 8 (Tampa Bay FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/59890.ts
-#EXTINF:-1 tvg-id="WTSP-DT.us_locals1" group-title="Backend: Syncbak",WTSP-DT CBS 10 (Tampa Bay FL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Syncbak",WTSP-DT CBS 10 (Tampa Bay FL)
 http://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
-#EXTINF:-1 tvg-id="WTVT-DT.us_locals1" group-title="Rocket Service",WTVT-TV FOX 13 (Tampa Bay FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTVT-TV FOX 13 (Tampa Bay FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2504.ts
-#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" group-title="Rocket Service",WFTS-TV ABC 28 (Tampa Bay FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFTS-TV ABC 28 (Tampa Bay FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2666.ts
-#EXTINF:-1 tvg-id="WTOG-DT.us_locals1" group-title="Rocket Service",WTOG-TV Ind. 44 (Tampa Bay FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTOG-TV Ind. 44 (Tampa Bay FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89505.ts
-#EXTINF:-1 tvg-id="WESH-DT.us_locals1" group-title="Rocket Service",WESH-TV NBC 2 (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WESH-TV NBC 2 (Orlando FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89484.ts
-#EXTINF:-1 tvg-id="WKMG-DT.us_locals1" group-title="Rocket Service",WKMG-TV CBS 6 (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WKMG-TV CBS 6 (Orlando FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2630.ts
-#EXTINF:-1 tvg-id="WFTV-DT.us_locals1" group-title="Rocket Service",WFTV-TV ABC 9 (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFTV-TV ABC 9 (Orlando FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2679.ts
-#EXTINF:-1 tvg-id="WKCF-DT.us_locals1" group-title="Rocket Service",WKCF-TV CW 18 (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WKCF-TV CW 18 (Orlando FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/333488.ts
-#EXTINF:-1 tvg-id="WOFL-DT.us_locals1" group-title="Rocket Service",WOFL-TV FOX 35 (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WOFL-TV FOX 35 (Orlando FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2541.ts
-#EXTINF:-1 tvg-id="WACX-DT.us_locals1" group-title="Independent Streams",WACX-TV 55.1 SuperChannel Orlando (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Independent Streams",WACX-TV 55.1 SuperChannel Orlando (Orlando FL)
 https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="WRBW-DT.us_locals1" group-title="Rocket Service",WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/383407.ts
-#EXTINF:-1 tvg-id="WNBW-DT.us_locals1" group-title="Other Services",WNBW-DT NBC 9 (Gainsville FL)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WNBW-DT NBC 9 (Gainsville FL)
 https://fl1.moveonjoy.com/FL_Gainesville_NBC/mpegts
-#EXTINF:-1 tvg-id="WCJB-DT.us_locals1" group-title="Other Services",WCJB-TV ABC 20 (Gainsville FL)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WCJB-TV ABC 20 (Gainsville FL)
 https://fl1.moveonjoy.com/FL_GAINESVILLE_ABC/mpegts
-#EXTINF:-1 tvg-id="WOGX-DT.us_locals1" group-title="Rocket Service",WOGX-TV FOX 51 (Ocala/Gainsville FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WOGX-TV FOX 51 (Ocala/Gainsville FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89499.ts
-#EXTINF:-1 tvg-id="WWSB-DT.us_locals1" group-title="Rocket Service",WWSB-TV ABC 7 (Sarasota FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WWSB-TV ABC 7 (Sarasota FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/112252.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",KOB-TV NBC 4 (Albuquerque NM)
 http://s.rocketdns.info:8080/live/52748969/72335180/77964.ts
-#EXTINF:-1 tvg-id="KOAT-DT.us_locals1" group-title="Rocket Service",KOAT-TV ABC 7 (Albuquerque NM)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KOAT-TV ABC 7 (Albuquerque NM)
 http://s.rocketdns.info:8080/live/52748969/72335180/38302.ts
-#EXTINF:-1 tvg-id="KRQE-DT2.us_locals1" group-title="Rocket Service",KRQE-TV CBS 13.1 (Albuquerque NM)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KRQE-TV CBS 13.1 (Albuquerque NM)
 http://s.rocketdns.info:8080/live/52748969/72335180/77965.ts
-#EXTINF:-1 tvg-id="KRQE-DT2.us_locals1" group-title="Rocket Service",KRQE-TV FOX 13.2 (Albuquerque NM)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KRQE-TV FOX 13.2 (Albuquerque NM)
 http://s.rocketdns.info:8080/live/52748969/72335180/89695.ts
-#EXTINF:-1 tvg-id="KDBC-DT.us_locals1" group-title="Rocket Service",KDBC-TV CBS 4 (El Paso TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KDBC-TV CBS 4 (El Paso TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/89826.ts
-#EXTINF:-1 tvg-id="KVIA-DT.us_locals1" group-title="Rocket Service",KVIA-TV ABC 7 (El Paso TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KVIA-TV ABC 7 (El Paso TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/38309.ts
-#EXTINF:-1 tvg-id="KTSM-DT.us_locals1" group-title="Rocket Service",KTSM-TV NBC 9 (El Paso TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTSM-TV NBC 9 (El Paso TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/89827.ts
-#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="Rocket Service",KFOX-TV FOX 14 (El Paso TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KFOX-TV FOX 14 (El Paso TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/566739.ts
-#EXTINF:-1 tvg-id="KIII-DT.us_locals1" group-title="Rocket Service",KIII-TV ABC 3 (Corpus Christi TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KIII-TV ABC 3 (Corpus Christi TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/721023.ts
-#EXTINF:-1 tvg-id="KRIS-DT.us_locals1" group-title="Rocket Service",KRIS-TV NBC 6 (Corpus Christi TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KRIS-TV NBC 6 (Corpus Christi TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/89823.ts
-#EXTINF:-1 tvg-id="KZTV-DT.us_locals1" group-title="Rocket Service",KZTV-TV CBS 10 (Corpus Christi TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KZTV-TV CBS 10 (Corpus Christi TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/89822.ts
-#EXTINF:-1 tvg-id="KSCC-DT.us_locals1" group-title="Other Services",KSCC-TV FOX 38 (Corpus Christi TX)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KSCC-TV FOX 38 (Corpus Christi TX)
 http://xxip25.top:8080/live/char@dot.com/char@14223/216549.ts
-#EXTINF:-1 tvg-id="KCBD-DT.us_locals1" group-title="Rocket Service",KCBD-TV NBC 11 (Lubbock TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KCBD-TV NBC 11 (Lubbock TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/38305.ts
-#EXTINF:-1 tvg-id="KLBK-DT.us_locals1" group-title="Rocket Service",KLBK-TV CBS 13 (Lubbock TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KLBK-TV CBS 13 (Lubbock TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/38304.ts
-#EXTINF:-1 tvg-id="KAMC-DT.us_locals1" group-title="Rocket Service",KAMC-TV ABC 28 (Lubbock TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KAMC-TV ABC 28 (Lubbock TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/38303.ts
-#EXTINF:-1 tvg-id="KJTV-CD.us_locals1" group-title="Rocket Service",KJTV-TV FOX 34 (Lubbock TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KJTV-TV FOX 34 (Lubbock TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/89843.ts
-#EXTINF:-1 tvg-id="KCWX-DT.us_locals1" group-title="Other Services",KCWX-TV MyNetworkTV 2 (San Antonio TX)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KCWX-TV MyNetworkTV 2 (San Antonio TX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WOAI-DT.us_locals1" group-title="Rocket Service",WOAI-TV NBC 4.1 (San Antonio TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WOAI-TV NBC 4.1 (San Antonio TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/89853.ts
-#EXTINF:-1 tvg-id="KENS-DT.us_locals1" group-title="Rocket Service",KENS-TV CBS 5 (San Antonio TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KENS-TV CBS 5 (San Antonio TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/2624.ts
-#EXTINF:-1 tvg-id="KSAT-DT.us_locals1" group-title="Rocket Service",KSAT-TV ABC 12 (San Antonio TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSAT-TV ABC 12 (San Antonio TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/2671.ts
-#EXTINF:-1 tvg-id="KABB-DT.us_locals1" group-title="Rocket Service",KABB-TV FOX 29 (San Antonio TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KABB-TV FOX 29 (San Antonio TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/2535.ts
-#EXTINF:-1 tvg-id="KMYS-DT.us_locals1" group-title="Rocket Service",KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/629971.ts
-#EXTINF:-1 tvg-id="KDFW-DT.us_locals1" group-title="Rocket Service",KDFW-TV FOX 4 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KDFW-TV FOX 4 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/89824.ts
-#EXTINF:-1 tvg-id="KXAS-DT.us_locals1" group-title="Rocket Service",KXAS-TV NBC 5 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KXAS-TV NBC 5 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/2461.ts
-#EXTINF:-1 tvg-id="WFAA-DT.us_locals1" group-title="Rocket Service",WFAA-TV ABC 8 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFAA-TV ABC 8 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/2692.ts
-#EXTINF:-1 tvg-id="KTVT-DT.us_locals1" group-title="Rocket Service",KTVT-TV CBS 11 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTVT-TV CBS 11 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/2645.ts
-#EXTINF:-1 tvg-id="KTXA-DT.us_locals1" group-title="Rocket Service",KTXA-TV Ind. 21 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTXA-TV Ind. 21 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/38295.ts
-#EXTINF:-1 tvg-id="KDFI-DT.us_locals1" group-title="Rocket Service",KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/597158.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",KDAFF-TV CW 39 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/597161.ts
-#EXTINF:-1 tvg-id="KPRC-DT.us_locals1" group-title="Rocket Service",KPRC-TV NBC 2 (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KPRC-TV NBC 2 (Houston TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/2455.ts
-#EXTINF:-1 tvg-id="KHOU-DT.us_locals1" group-title="Rocket Service",KHOU-TV CBS 8 (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KHOU-TV CBS 8 (Houston TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/2640.ts
-#EXTINF:-1 tvg-id="KTRK-DT.us_locals1" group-title="Rocket Service",KTRK-TV ABC 13 (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTRK-TV ABC 13 (Houston TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/2687.ts
-#EXTINF:-1 tvg-id="KTXH-DT.us_locals1" group-title="Rocket Service",KTXH-TV MyNetworkTV 20 (My20 Vision) (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTXH-TV MyNetworkTV 20 (My20 Vision) (Houston TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/50091.ts
-#EXTINF:-1 tvg-id="KRIV-DT.us_locals1" group-title="Rocket Service",KRIV-TV FOX 26 (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KRIV-TV FOX 26 (Houston TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/89836.ts
-#EXTINF:-1 tvg-id="KIAH-DT.us_locals1" group-title="Rocket Service",KIAH-TV CW 39 (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KIAH-TV CW 39 (Houston TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/643838.ts
-#EXTINF:-1 tvg-id="KTBC-DT.us_locals1" group-title="Rocket Service",KTBC-TV FOX 7 (Austin TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTBC-TV FOX 7 (Austin TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/38241.ts
-#EXTINF:-1 tvg-id="KVUE-DT.us_locals1" group-title="Rocket Service",KVUE-TV ABC 24 (Austin TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KVUE-TV ABC 24 (Austin TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/38241.ts
-#EXTINF:-1 tvg-id="KXAN-DT.us_locals1" group-title="Rocket Service",KXAN-TV NBC 36 (Austin TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KXAN-TV NBC 36 (Austin TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/85342.ts
-#EXTINF:-1 tvg-id="KEYE-DT.us_locals1" group-title="Rocket Service",KEYE-TV CBS 42 (Austin TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KEYE-TV CBS 42 (Austin TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/85343.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WWL-TV CBS 4 (New Orleans LA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2632.ts
-#EXTINF:-1 tvg-id="WDSU-DT.us_locals1" group-title="Rocket Service",WDSU-TV NBC 6 (New Orleans LA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WDSU-TV NBC 6 (New Orleans LA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2448.ts
-#EXTINF:-1 tvg-id="WVUE-DT3.us_locals1" group-title="Rocket Service",WVUE-TV FOX 8 (New Orleans LA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WVUE-TV FOX 8 (New Orleans LA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2545.ts
-#EXTINF:-1 tvg-id="WGNO-DT.us_locals1" group-title="Rocket Service",WGNO-TV ABC 26 (New Orleans LA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WGNO-TV ABC 26 (New Orleans LA)
 http://s.rocketdns.info:8080/live/52748969/72335180/510034.ts
-#EXTINF:-1 tvg-id="WBRZ-DT.us_locals1" group-title="Rocket Service",WBRZ-TV ABC 2 (Baton Rouge LA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WBRZ-TV ABC 2 (Baton Rouge LA)
 http://s.rocketdns.info:8080/live/52748969/72335180/38252.ts
-#EXTINF:-1 tvg-id="WAFB-DT.us_locals1" group-title="Rocket Service",WAFB-TV CBS 9 (Baton Rouge LA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WAFB-TV CBS 9 (Baton Rouge LA)
 http://s.rocketdns.info:8080/live/52748969/72335180/38253.ts
-#EXTINF:-1 tvg-id="WVLA-DT.us_locals1" group-title="Rocket Service",WVLA-TV NBC 33 (Baton Rouge LA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WVLA-TV NBC 33 (Baton Rouge LA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89590.ts
-#EXTINF:-1 tvg-id="WGMB-DT.us_locals1" group-title="Rocket Service",WGMB-TV FOX 44 (Baton Rouge LA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WGMB-TV FOX 44 (Baton Rouge LA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89589.ts
-#EXTINF:-1 tvg-id="KTBS-DT.us_locals1" group-title="Rocket Service",KTBS-TV ABC 3 (Shreveport LA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTBS-TV ABC 3 (Shreveport LA)
 http://s.rocketdns.info:8080/live/52748969/72335180/38325.ts
-#EXTINF:-1 tvg-id="KTAL-DT.us_locals1" group-title="Rocket Service",KTAL-TV NBC 6 (Shreveport LA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTAL-TV NBC 6 (Shreveport LA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89602.ts
-#EXTINF:-1 tvg-id="KSLA-DT.us_locals1" group-title="Rocket Service",KSLA-TV CBS 12 (Shreveport LA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSLA-TV CBS 12 (Shreveport LA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89600.ts
-#EXTINF:-1 tvg-id="KMSS-DT.us_locals1" group-title="Rocket Service",KMSS-TV FOX 33 (Shreveport LA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KMSS-TV FOX 33 (Shreveport LA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89601.ts
-#EXTINF:-1 tvg-id="KTVK-DT.us_locals1" group-title="Rocket Service",KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/52748969/72335180/38298.ts
-#EXTINF:-1 tvg-id="KPHO-DT.us_locals1" group-title="Rocket Service",KPHO-TV CBS 5 (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KPHO-TV CBS 5 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/52748969/72335180/2628.ts
-#EXTINF:-1 tvg-id="KSAZ-DT.us_locals1" group-title="Rocket Service",KSAZ-TV FOX 10.1 (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSAZ-TV FOX 10.1 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/52748969/72335180/2539.ts
-#EXTINF:-1 tvg-id="KSAZ-DT.us_locals1" group-title="Rocket Service",KSAZ-DT FOX Xtra 10.2/KUTP-TV MyNetworkTV 45 (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSAZ-DT FOX Xtra 10.2/KUTP-TV MyNetworkTV 45 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/52748969/72335180/600290.ts
-#EXTINF:-1 tvg-id="KPNX-DT.us_locals1" group-title="Rocket Service",KPNX-TV NBC 12 (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KPNX-TV NBC 12 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/52748969/72335180/2444.ts
-#EXTINF:-1 tvg-id="KNXV-DT.us_locals1" group-title="Rocket Service",KNXV-TV ABC 15 (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KNXV-TV ABC 15 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/52748969/72335180/2677.ts
-#EXTINF:-1 tvg-id="KVOA-DT.us_locals1" group-title="Rocket Service",KVOA-TV NBC 4 (Tucson AZ)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KVOA-TV NBC 4 (Tucson AZ)
 http://s.rocketdns.info:8080/live/52748969/72335180/89422.ts
-#EXTINF:-1 tvg-id="KGUN-DT.us_locals1" group-title="Rocket Service",KGUN-TV ABC 9 (Tucson AZ)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KGUN-TV ABC 9 (Tucson AZ)
 http://s.rocketdns.info:8080/live/52748969/72335180/600301.ts
-#EXTINF:-1 tvg-id="KMSB-DT.us_locals1" group-title="Rocket Service",KMSB-TV FOX 11 (Tucson AZ)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KMSB-TV FOX 11 (Tucson AZ)
 http://s.rocketdns.info:8080/live/52748969/72335180/89421.ts
-#EXTINF:-1 tvg-id="KOLD-DT.us_locals1" group-title="Rocket Service",KOLD-TV CBS 13 (Tucson AZ)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KOLD-TV CBS 13 (Tucson AZ)
 http://s.rocketdns.info:8080/live/52748969/72335180/89420.ts
-#EXTINF:-1 tvg-id="KSNV-DT.us_locals1" group-title="Rocket Service",KSNV-TV NBC 3 (Las Vegas NV)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSNV-TV NBC 3 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/52748969/72335180/38257.ts
-#EXTINF:-1 tvg-id="KVVU-DT.us_locals1" group-title="Rocket Service",KVVU-TV FOX 5 (Las Vegas NV)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KVVU-TV FOX 5 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/52748969/72335180/89699.ts
-#EXTINF:-1 tvg-id="KLAS-DT.us_locals1" group-title="Rocket Service",KLAS-TV CBS 8 (Las Vegas NV)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KLAS-TV CBS 8 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/52748969/72335180/89700.ts
-#EXTINF:-1 tvg-id="KTNV-DT.us_locals1" group-title="Rocket Service",KTNV-TV ABC 13 (Las Vegas NV)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTNV-TV ABC 13 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/52748969/72335180/38255.ts
-#EXTINF:-1 tvg-id="KVCW-DT.us_locals1" group-title="Rocket Service",KVCW-TV CW 33 (Las Vegas NV)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KVCW-TV CW 33 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/52748969/72335180/34441.ts
-#EXTINF:-1 tvg-id="WJXT-DT.us_locals1" group-title="Rocket Service",WJXT-TV 4 Ind. (Jacksonville FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WJXT-TV 4 Ind. (Jacksonville FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/607668.ts
-#EXTINF:-1 tvg-id="WTLV-DT.us_locals1" group-title="Rocket Service",WTLV-TV NBC 12 (Jacksonville FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTLV-TV NBC 12 (Jacksonville FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2454.ts
-#EXTINF:-1 tvg-id="WCWJ-DT.us_locals1" group-title="Rocket Service",WCWJ-TV CW 17 (Jacksonville FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WCWJ-TV CW 17 (Jacksonville FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/607669.ts
-#EXTINF:-1 tvg-id="WJXX-DT.us_locals1" group-title="Rocket Service",WJXX-TV ABC 25 (Jacksonville FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WJXX-TV ABC 25 (Jacksonville FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/38245.ts
-#EXTINF:-1 tvg-id="WFOX-DT.us_locals1" group-title="Rocket Service",WFOX-TV FOX 30 (Jacksonville FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFOX-TV FOX 30 (Jacksonville FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89491.ts
-#EXTINF:-1 tvg-id="WJAX-DT.us_locals1" group-title="Rocket Service",WJAX-TV CBS 47 (Jacksonville FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WJAX-TV CBS 47 (Jacksonville FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89490.ts
-#EXTINF:-1 tvg-id="WPTV-DT.us_locals1" group-title="Rocket Service",WPTV-TV NBC 5 (West Palm Beach FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WPTV-TV NBC 5 (West Palm Beach FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89512.ts
-#EXTINF:-1 tvg-id="WPEC-DT.us_locals1" group-title="Rocket Service",WPEC-TV CBS 12 (West Palm Beach FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WPEC-TV CBS 12 (West Palm Beach FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89510.ts
-#EXTINF:-1 tvg-id="WPBF-DT.us_locals1" group-title="Rocket Service",WPBF-TV ABC 25 (West Palm Beach FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WPBF-TV ABC 25 (West Palm Beach FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/672344.ts
-#EXTINF:-1 tvg-id="WFLX-DT.us_locals1" group-title="Rocket Service",WFLX-TV FOX 29 (West Palm Beach FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFLX-TV FOX 29 (West Palm Beach FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89511.ts
-#EXTINF:-1 tvg-id="WTVX-DT.us_locals1" group-title="Rocket Service",WTVX-TV CW 34 (West Palm Beach FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTVX-TV CW 34 (West Palm Beach FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/630216.ts
-#EXTINF:-1 tvg-id="WFTX-DT.us_locals1" group-title="Rocket Service",WFTX-TV FOX 4 (Naples FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFTX-TV FOX 4 (Naples FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89482.ts
-#EXTINF:-1 tvg-id="WZVN-DT.us_locals1" group-title="Rocket Service",WZVN-TV ABC 7 (Naples FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WZVN-TV ABC 7 (Naples FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/38258.ts
-#EXTINF:-1 tvg-id="WINK-DT.us_locals1" group-title="Rocket Service",WINK-TV CBS 11 (Naples FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WINK-TV CBS 11 (Naples FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89486.ts
-#EXTINF:-1 tvg-id="WBBH-DT.us_locals1" group-title="Rocket Service",WBBH-TV NBC 20 (Naples FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WBBH-TV NBC 20 (Naples FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89487.ts
-#EXTINF:-1 tvg-id="KARK-DT.us_locals1" group-title="Rocket Service",KARK-TV NBC 4 (Litlle Rock AR)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KARK-TV NBC 4 (Litlle Rock AR)
 http://s.rocketdns.info:8080/live/52748969/72335180/89411.ts
-#EXTINF:-1 tvg-id="KATV-DT.us_locals1" group-title="Rocket Service",KATV-TV ABC 7 (Litlle Rock AR)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KATV-TV ABC 7 (Litlle Rock AR)
 http://s.rocketdns.info:8080/live/52748969/72335180/525686.ts
-#EXTINF:-1 tvg-id="KTHV-DT.us_locals1" group-title="Rocket Service",KTHV-TV CBS 11 (Litlle Rock AR)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTHV-TV CBS 11 (Litlle Rock AR)
 http://s.rocketdns.info:8080/live/52748969/72335180/89409.ts
-#EXTINF:-1 tvg-id="KLRT-DT.us_locals1" group-title="Rocket Service",KLRT-TV FOX 16 (Litlle Rock AR)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KLRT-TV FOX 16 (Litlle Rock AR)
 http://s.rocketdns.info:8080/live/52748969/72335180/89410.ts
-#EXTINF:-1 tvg-id="WBRC-DT.us_locals1" group-title="Rocket Service",WBRC-TV FOX 6 (Birmingham AL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WBRC-TV FOX 6 (Birmingham AL)
 http://s.rocketdns.info:8080/live/52748969/72335180/75346.ts
-#EXTINF:-1 tvg-id="WVTM-DT.us_locals1" group-title="Rocket Service",WVTM-TV NBC 13 (Birmingham AL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WVTM-TV NBC 13 (Birmingham AL)
 http://s.rocketdns.info:8080/live/52748969/72335180/75348.ts
-#EXTINF:-1 tvg-id="WIAT-DT.us_locals1" group-title="Rocket Service",WIAT-TV CBS 42 (Birmingham AL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WIAT-TV CBS 42 (Birmingham AL)
 http://s.rocketdns.info:8080/live/52748969/72335180/75347.ts
-#EXTINF:-1 tvg-id="WABM-DT2.us_locals1" group-title="Rocket Service",WABM-TV ABC 68 (Birmingham AL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WABM-TV ABC 68 (Birmingham AL)
 http://s.rocketdns.info:8080/live/52748969/72335180/38263.ts
-#EXTINF:-1 tvg-id="WHNT-DT.us_locals1" group-title="Rocket Service",WHNT-TV CBS 19 (Huntsville AL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WHNT-TV CBS 19 (Huntsville AL)
 http://s.rocketdns.info:8080/live/52748969/72335180/75356.ts
-#EXTINF:-1 tvg-id="WAAY-DT.us_locals1" group-title="Rocket Service",WAAY-TV ABC 31 (Huntsville AL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WAAY-TV ABC 31 (Huntsville AL)
 http://s.rocketdns.info:8080/live/52748969/72335180/38262.ts
-#EXTINF:-1 tvg-id="WAFF-DT.us_locals1" group-title="Rocket Service",WAFF-TV NBC 48 (Huntsville AL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WAFF-TV NBC 48 (Huntsville AL)
 http://s.rocketdns.info:8080/live/52748969/72335180/75355.ts
-#EXTINF:-1 tvg-id="WZDX-DT.us_locals1" group-title="Rocket Service",WZDX-TV FOX 54 (Huntsville AL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WZDX-TV FOX 54 (Huntsville AL)
 http://s.rocketdns.info:8080/live/52748969/72335180/75354.ts
-#EXTINF:-1 tvg-id="KTVI-DT.us_locals1" group-title="Rocket Service",KTVI-TV FOX 2 (St. Louis MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTVI-TV FOX 2 (St. Louis MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/2505.ts
-#EXTINF:-1 tvg-id="KMOV-DT.us_locals1" group-title="Rocket Service",KMOV-TV CBS 4 (St. Louis MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KMOV-TV CBS 4 (St. Louis MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/2619.ts
-#EXTINF:-1 tvg-id="KSDK-DT.us_locals1" group-title="Rocket Service",KSDK-TV NBC 5 (St. Louis MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSDK-TV NBC 5 (St. Louis MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/2430.ts
-#EXTINF:-1 tvg-id="KPLR-DT.us_locals1" group-title="Rocket Service",KPLR-TV CW 11 (St. Louis MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KPLR-TV CW 11 (St. Louis MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/597163.ts
-#EXTINF:-1 tvg-id="KDNL-DT.us_locals1" group-title="Rocket Service",KDNL-TV ABC 30 (St. Louis MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KDNL-TV ABC 30 (St. Louis MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/2667.ts
-#EXTINF:-1 tvg-id="KOMU-DT.us_locals1" group-title="Rocket Service",KOMU-TV NBC 8.1 (Jefferson City MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KOMU-TV NBC 8.1 (Jefferson City MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/38274.ts
-#EXTINF:-1 tvg-id="KOMU-DT.us_locals1" group-title="Rocket Service",KOMU-DT CW+ 8.3 (Jefferson City MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KOMU-DT CW+ 8.3 (Jefferson City MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/629880.ts
-#EXTINF:-1 tvg-id="KRCG-DT.us_locals1" group-title="Rocket Service",KRCG-TV CBS 13 (Jefferson City MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KRCG-TV CBS 13 (Jefferson City MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/38272.ts
-#EXTINF:-1 tvg-id="KMIZ-DT.us_locals1" group-title="Rocket Service",KMIZ-TV ABC 17.1 (Jefferson City MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KMIZ-TV ABC 17.1 (Jefferson City MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/38271.ts
-#EXTINF:-1 tvg-id="KMIZ-DT.us_locals1" group-title="Other Services",KMIZ-DT MyNetworkTV 17.3 (Jefferson City MO)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KMIZ-DT MyNetworkTV 17.3 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
-#EXTINF:-1 tvg-id="KQFX-LD.us_locals1" group-title="Rocket Service",KQFX-TV FOX 22 (Jefferson City MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KQFX-TV FOX 22 (Jefferson City MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/38273.ts
-#EXTINF:-1 tvg-id="KCTV-DT.us_locals1" group-title="Rocket Service",KCTV-TV CBS 5 (Kansas City MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KCTV-TV CBS 5 (Kansas City MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/2638.ts
-#EXTINF:-1 tvg-id="KMBC-DT.us_locals1" group-title="Rocket Service",KMBC-TV ABC 9 (Kansas City MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KMBC-TV ABC 9 (Kansas City MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/2685.ts
-#EXTINF:-1 tvg-id="WDAF-DT.us_locals1" group-title="Rocket Service",WDAF-TV FOX 4 (Kansas City MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WDAF-TV FOX 4 (Kansas City MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/2552.ts
-#EXTINF:-1 tvg-id="KCWE-DT.us_locals1" group-title="Rocket Service",KCWE-TV CW 29 (Kansas City MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KCWE-TV CW 29 (Kansas City MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/629896.ts
-#EXTINF:-1 tvg-id="KSHB-DT.us_locals1" group-title="Rocket Service",KSHB-TV NBC 41 (Kansas City MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSHB-TV NBC 41 (Kansas City MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/89644.ts
-#EXTINF:-1 tvg-id="KMCI-DT.us_locals1" group-title="Other Services",KMCI-TV Ind./NBC 38 (Kansas City MO)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KMCI-TV Ind./NBC 38 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
-#EXTINF:-1 tvg-id="KSMO-DT.us_locals1" group-title="Rocket Service",KSMO-TV MyNetworkTV 62 (Kansas City MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSMO-TV MyNetworkTV 62 (Kansas City MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/38288.ts
-#EXTINF:-1 tvg-id="WREG-DT.us_locals1" group-title="Rocket Service",WREG-TV CBS 3 (Memphis TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WREG-TV CBS 3 (Memphis TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/81884.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WMC-TV NBC 5 (Memphis TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/81883.ts
-#EXTINF:-1 tvg-id="WHBQ-DT.us_locals1" group-title="Rocket Service",WHBQ-TV FOX 13 (Memphis TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WHBQ-TV FOX 13 (Memphis TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/81882.ts
 #EXTINF:-1 tvg-id="" group-title="Local Gov/Public",WYPL-TV 18 (Memphis TN)
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
-#EXTINF:-1 tvg-id="WATN-DT.us_locals1" group-title="Rocket Service",WATN-TV ABC 24 (Memphis TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WATN-TV ABC 24 (Memphis TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/38251.ts
-#EXTINF:-1 tvg-id="WKRN-DT.us_locals1" group-title="Rocket Service",WKRN-TV ABC 2 (Nashville TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WKRN-TV ABC 2 (Nashville TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/2681.ts
-#EXTINF:-1 tvg-id="WSMV-DT.us_locals1" group-title="Rocket Service",WSMV-TV NBC 4 (Nashville TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSMV-TV NBC 4 (Nashville TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/2449.ts
-#EXTINF:-1 tvg-id="WTVF-DT.us_locals1" group-title="Rocket Service",WTVF-TV CBS 5 (Nashville TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTVF-TV CBS 5 (Nashville TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/2633.ts
-#EXTINF:-1 tvg-id="WZTV-DT2.us_locals1" group-title="Rocket Service",WZTV-TV FOX 17.1 (Nashville TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WZTV-TV FOX 17.1 (Nashville TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/2546.ts
-#EXTINF:-1 tvg-id="WUXP-DT.us_locals1" group-title="KSTV US",WUXP-TV MyNetworkTV 30 (Nashville TN)
+#EXTINF:-1 tvg-id="" group-title="KSTV US",WUXP-TV MyNetworkTV 30 (Nashville TN)
 http://kstv.us:8080/live/N427DpynGE/7049166651/49093.ts
-#EXTINF:-1 tvg-id="WNAB-DT.us_locals1" group-title="KSTV US",WNAB-TV CW 58 (Nashville TN)
+#EXTINF:-1 tvg-id="" group-title="KSTV US",WNAB-TV CW 58 (Nashville TN)
 http://kstv.us:8080/live/N427DpynGE/7049166651/49091.ts
-#EXTINF:-1 tvg-id="WATE-DT.us_locals1" group-title="Rocket Service",WATE-TV ABC 6 (Knoxville TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WATE-TV ABC 6 (Knoxville TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/620009.ts
-#EXTINF:-1 tvg-id="WVLT-DT.us_locals1" group-title="Rocket Service",WVLT-TV CBS 8 (Knoxville TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WVLT-TV CBS 8 (Knoxville TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/89802.ts
-#EXTINF:-1 tvg-id="WBIR-DT.us_locals1" group-title="Rocket Service",WBIR-TV NBC 10 (Knoxville TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WBIR-TV NBC 10 (Knoxville TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/89804.ts
-#EXTINF:-1 tvg-id="WTNZ-DT.us_locals1" group-title="Rocket Service",WTNZ-TV FOX 43 (Knoxville TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTNZ-TV FOX 43 (Knoxville TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/89803.ts
-#EXTINF:-1 tvg-id="WRCB-DT.us_locals1" group-title="Rocket Service",WRCB-TV NBC 3 (Chattanooga TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRCB-TV NBC 3 (Chattanooga TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/74688.ts
-#EXTINF:-1 tvg-id="WTVC-DT2.us_locals1" group-title="Rocket Service",WTVC-TV ABC 9.1 (Chattanooga TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTVC-TV ABC 9.1 (Chattanooga TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/74690.ts
-#EXTINF:-1 tvg-id="WTVC-DT2.us_locals1" group-title="Rocket Service",WTVC-DT FOX 9.2 (Chattanooga TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTVC-DT FOX 9.2 (Chattanooga TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/74689.ts
-#EXTINF:-1 tvg-id="WDEF-DT.us_locals1" group-title="Rocket Service",WDEF-TV CBS 12 (Chattanooga TN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WDEF-TV CBS 12 (Chattanooga TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/89799.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WSB-TV ABC 2 (Atlanta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2699.ts
-#EXTINF:-1 tvg-id="WAGA-DT.us_locals1" group-title="Rocket Service",WAGA-TV FOX 5 (Atlanta GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WAGA-TV FOX 5 (Atlanta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2574.ts
-#EXTINF:-1 tvg-id="WXIA-DT.us_locals1" group-title="Rocket Service",WXIA-TV NBC 11 (Atlanta GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WXIA-TV NBC 11 (Atlanta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2469.ts
-#EXTINF:-1 tvg-id="WPCH-DT.us_locals1" group-title="Rocket Service",WPCH-TV Peachtree TV CW 17 (Atlanta GA)
+#EXTINF:-1 tvg-id="Peachtree.TV.us2" group-title="Rocket Service",WPCH-TV Peachtree TV CW 17 (Atlanta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/38244.ts
-#EXTINF:-1 tvg-id="WUPA-DT.us_locals1" group-title="Rocket Service",WUPA-TV CBS 69 (Atlanta GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WUPA-TV CBS 69 (Atlanta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/34430.ts
-#EXTINF:-1 tvg-id="WJBF-DT.us_locals1" group-title="Rocket Service",WJBF-TV ABC 6 (Augusta GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WJBF-TV ABC 6 (Augusta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/38284.ts
-#EXTINF:-1 tvg-id="WRDW-DT.us_locals1" group-title="Rocket Service",WRDW-DT CBS 12 (Augusta GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRDW-DT CBS 12 (Augusta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89519.ts
-#EXTINF:-1 tvg-id="WAGT-CD.us_locals1" group-title="Rocket Service",WAGT-TV NBC 26 (Augusta GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WAGT-TV NBC 26 (Augusta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89521.ts
-#EXTINF:-1 tvg-id="WFXG-DT.us_locals1" group-title="Rocket Service",WFXG-TV FOX 54 (Augusta GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFXG-TV FOX 54 (Augusta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89520.ts
-#EXTINF:-1 tvg-id="WRBL-DT.us_locals1" group-title="Rocket Service",WRBL-DT CBS 3 (Columbus GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRBL-DT CBS 3 (Columbus GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/640216.ts
-#EXTINF:-1 tvg-id="WTVM-DT.us_locals1" group-title="Rocket Service",WTVM-TV ABC 9 (Columbus GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTVM-TV ABC 9 (Columbus GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/600289.ts
-#EXTINF:-1 tvg-id="WLTZ-DT.us_locals1" group-title="Rocket Service",WLTZ-TV NBC 38 (Columbus GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WLTZ-TV NBC 38 (Columbus GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89523.ts
-#EXTINF:-1 tvg-id="WTVX-DT.us_locals1" group-title="Rocket Service",WTVX-TV FOX 54 (Columbus GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTVX-TV FOX 54 (Columbus GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/630216.ts
-#EXTINF:-1 tvg-id="WBTV-DT.us_locals1" group-title="Rocket Service",WBTV-TV CBS 3 (Charlotte NC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WBTV-TV CBS 3 (Charlotte NC)
 http://s.rocketdns.info:8080/live/52748969/72335180/2649.ts
-#EXTINF:-1 tvg-id="WSOC-DT.us_locals1" group-title="Rocket Service",WSOC-TV ABC 9 (Charlotte NC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSOC-TV ABC 9 (Charlotte NC)
 http://s.rocketdns.info:8080/live/52748969/72335180/2696.ts
-#EXTINF:-1 tvg-id="WCNC-DT.us_locals1" group-title="Rocket Service",WCNC-TV NBC 36 (Charlotte NC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WCNC-TV NBC 36 (Charlotte NC)
 http://s.rocketdns.info:8080/live/52748969/72335180/2465.ts
-#EXTINF:-1 tvg-id="WJZY-DT.us_locals1" group-title="Rocket Service",WJZY-TV FOX 46 (Charlotte NC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WJZY-TV FOX 46 (Charlotte NC)
 http://s.rocketdns.info:8080/live/52748969/72335180/510776.ts
-#EXTINF:-1 tvg-id="WRAL-DT.us_locals1" group-title="Rocket Service",WRAL-TV NBC 5 (Raleigh NC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRAL-TV NBC 5 (Raleigh NC)
 http://s.rocketdns.info:8080/live/52748969/72335180/2441.ts
-#EXTINF:-1 tvg-id="WTVD-DT.us_locals1" group-title="Rocket Service",WTVD-TV ABC 11 (Raleigh NC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTVD-TV ABC 11 (Raleigh NC)
 http://s.rocketdns.info:8080/live/52748969/72335180/542959.ts
-#EXTINF:-1 tvg-id="WNCN-DT.us_locals1" group-title="Rocket Service",WNCN-TV CBS 17 (Raleigh NC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WNCN-TV CBS 17 (Raleigh NC)
 http://s.rocketdns.info:8080/live/52748969/72335180/89668.ts
-#EXTINF:-1 tvg-id="WLFL-DT.us_locals1" group-title="Rocket Service",WLFL-TV CW 22 (Raleigh NC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WLFL-TV CW 22 (Raleigh NC)
 http://s.rocketdns.info:8080/live/52748969/72335180/93154.ts
-#EXTINF:-1 tvg-id="WRAZ-DT.us_locals1" group-title="Rocket Service",WRAZ-TV FOX 50 (Raleigh NC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRAZ-TV FOX 50 (Raleigh NC)
 http://s.rocketdns.info:8080/live/52748969/72335180/89672.ts
-#EXTINF:-1 tvg-id="KWGN-DT.us_locals1" group-title="Rocket Service",KWGN-TV CW 2 (Denver CO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KWGN-TV CW 2 (Denver CO)
 http://s.rocketdns.info:8080/live/52748969/72335180/630653.ts
-#EXTINF:-1 tvg-id="KCNC-DT.us_locals1" group-title="Rocket Service",KCNC-TV CBS 4 (Denver CO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KCNC-TV CBS 4 (Denver CO)
 http://s.rocketdns.info:8080/live/52748969/72335180/2644.ts
-#EXTINF:-1 tvg-id="KMGH-DT.us_locals1" group-title="Rocket Service",KMGH-TV ABC 7 (Denver CO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KMGH-TV ABC 7 (Denver CO)
 http://s.rocketdns.info:8080/live/52748969/72335180/2691.ts
-#EXTINF:-1 tvg-id="KUSA-DT.us_locals1" group-title="Rocket Service",KUSA-TV NBC 9 (Denver CO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KUSA-TV NBC 9 (Denver CO)
 http://s.rocketdns.info:8080/live/52748969/72335180/606993.ts
-#EXTINF:-1 tvg-id="KDVR-DT.us_locals1" group-title="Rocket Service",KDVR-TV FOX 31 (Denver CO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KDVR-TV FOX 31 (Denver CO)
 http://s.rocketdns.info:8080/live/52748969/72335180/2560.ts
-#EXTINF:-1 tvg-id="KMTV-DT.us_locals1" group-title="Rocket Service",KMTV-TV CBS 3 (Omaha NE)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KMTV-TV CBS 3 (Omaha NE)
 http://s.rocketdns.info:8080/live/52748969/72335180/89685.ts
-#EXTINF:-1 tvg-id="WOWT-DT.us_locals1" group-title="Rocket Service",WOWT-TV NBC 6 (Omaha NE)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WOWT-TV NBC 6 (Omaha NE)
 http://s.rocketdns.info:8080/live/52748969/72335180/61809.ts
-#EXTINF:-1 tvg-id="KETV-DT.us_locals1" group-title="Rocket Service",KETV-TV ABC 13 (Omaha NE)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KETV-TV ABC 13 (Omaha NE)
 http://s.rocketdns.info:8080/live/52748969/72335180/735645.ts
-#EXTINF:-1 tvg-id="KPTM-DT.us_locals1" group-title="Rocket Service",KPTM-TV FOX 42 (Omaha NE)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KPTM-TV FOX 42 (Omaha NE)
 http://s.rocketdns.info:8080/live/52748969/72335180/61811.ts
-#EXTINF:-1 tvg-id="WRIC-DT.us_locals1" group-title="Rocket Service",WRIC-TV ABC 8 (Richmond VA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRIC-TV ABC 8 (Richmond VA)
 http://s.rocketdns.info:8080/live/52748969/72335180/38247.ts
-#EXTINF:-1 tvg-id="WWBT-DT.us_locals1" group-title="Rocket Service",WWBT-TV NBC 12 (Richmond VA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WWBT-TV NBC 12 (Richmond VA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89869.ts
-#EXTINF:-1 tvg-id="WRLH-DT.us_locals1" group-title="Rocket Service",WRLH-TV FOX 35 (Richmond VA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRLH-TV FOX 35 (Richmond VA)
 http://s.rocketdns.info:8080/live/52748969/72335180/630652.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WRC-TV NBC 4 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/2428.ts
-#EXTINF:-1 tvg-id="WTTG-DT.us_locals1" group-title="Rocket Service",WTTG-TV FOX 5 (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTTG-TV FOX 5 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/2503.ts
-#EXTINF:-1 tvg-id="WJLA-DT.us_locals1" group-title="Rocket Service",WJLA-TV ABC 7 (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WJLA-TV ABC 7 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/2665.ts
-#EXTINF:-1 tvg-id="WUSA-DT.us_locals1" group-title="Rocket Service",WUSA-TV CBS 9 (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WUSA-TV CBS 9 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/559692.ts
-#EXTINF:-1 tvg-id="WDVM-DT.us_locals1" group-title="Rocket Service",WDVM-TV Ind. 25 (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WDVM-TV Ind. 25 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/723847.ts
-#EXTINF:-1 tvg-id="WRDC-DT.us_locals1" group-title="Rocket Service",WRDC-TV MyNetworkTV 28 (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRDC-TV MyNetworkTV 28 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/2475.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WCDW-TV CW 50 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/630645.ts
-#EXTINF:-1 tvg-id="WMAR-DT.us_locals1" group-title="Rocket Service",WMAR-TV ABC 2 (Baltimore MD)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WMAR-TV ABC 2 (Baltimore MD)
 http://s.rocketdns.info:8080/live/52748969/72335180/2698.ts
-#EXTINF:-1 tvg-id="WBAL-DT.us_locals1" group-title="Rocket Service",WBAL-TV NBC 11 (Baltimore MD)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WBAL-TV NBC 11 (Baltimore MD)
 http://s.rocketdns.info:8080/live/52748969/72335180/2468.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WJZ-TV CBS 13 (Baltimore MD)
 http://s.rocketdns.info:8080/live/52748969/72335180/2651.ts
-#EXTINF:-1 tvg-id="WBFF-DT.us_locals1" group-title="Rocket Service",WBFF-TV FOX 45 (Baltimore MD)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WBFF-TV FOX 45 (Baltimore MD)
 http://s.rocketdns.info:8080/live/52748969/72335180/2572.ts
-#EXTINF:-1 tvg-id="WNUV-DT.us_locals1" group-title="Rocket Service",WNUV-TV CW 54 (Baltimore MD)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WNUV-TV CW 54 (Baltimore MD)
 http://s.rocketdns.info:8080/live/52748969/72335180/34434.ts
-#EXTINF:-1 tvg-id="KUTV-DT.us_locals1" group-title="Rocket Service",KUTV-TV CBS 2 (Salt Lake City UT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KUTV-TV CBS 2 (Salt Lake City UT)
 http://s.rocketdns.info:8080/live/52748969/72335180/89862.ts
-#EXTINF:-1 tvg-id="KTVX-DT.us_locals1" group-title="Rocket Service",KTVX-TV ABC 4 (Salt Lake City UT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTVX-TV ABC 4 (Salt Lake City UT)
 http://s.rocketdns.info:8080/live/52748969/72335180/2672.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",KSL-TV NBC 5 (Salt Lake City UT)
 http://s.rocketdns.info:8080/live/52748969/72335180/591882.ts
-#EXTINF:-1 tvg-id="KSTU-DT.us_locals1" group-title="Rocket Service",KSTU-TV FOX 13 (Salt Lake City UT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSTU-TV FOX 13 (Salt Lake City UT)
 http://s.rocketdns.info:8080/live/52748969/72335180/2536.ts
-#EXTINF:-1 tvg-id="KFOR-DT.us_locals1" group-title="Rocket Service",KFOR-TV NBC 4 (Oklahoma City OK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KFOR-TV NBC 4 (Oklahoma City OK)
 http://s.rocketdns.info:8080/live/52748969/72335180/42490.ts
-#EXTINF:-1 tvg-id="KOCO-DT.us_locals1" group-title="Rocket Service",KOCO-TV ABC 5 (Oklahoma City OK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KOCO-TV ABC 5 (Oklahoma City OK)
 http://s.rocketdns.info:8080/live/52748969/72335180/38268.ts
-#EXTINF:-1 tvg-id="KWTV-DT.us_locals1" group-title="Rocket Service",KWTV-TV CBS 9 (Oklahoma City OK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KWTV-TV CBS 9 (Oklahoma City OK)
 http://s.rocketdns.info:8080/live/52748969/72335180/42488.ts
-#EXTINF:-1 tvg-id="KOKH-DT.us_locals1" group-title="Rocket Service",KOKH-TV FOX 25 (Oklahoma City OK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KOKH-TV FOX 25 (Oklahoma City OK)
 http://s.rocketdns.info:8080/live/52748969/72335180/42489.ts
-#EXTINF:-1 tvg-id="KOCB-DT.us_locals1" group-title="Rocket Service",KOCB-TV CW 34 (Oklahoma City OK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KOCB-TV CW 34 (Oklahoma City OK)
 http://s.rocketdns.info:8080/live/52748969/72335180/34444.ts
-#EXTINF:-1 tvg-id="WCMH-DT.us_locals1" group-title="Rocket Service",WCMH-TV NBC 4 (Columbus OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WCMH-TV NBC 4 (Columbus OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/51092.ts
-#EXTINF:-1 tvg-id="WSYX-DT3.us_locals1" group-title="Rocket Service",WSYX-TV ABC 6 (Columbus OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSYX-TV ABC 6 (Columbus OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/112254.ts
-#EXTINF:-1 tvg-id="WBNS-DT.us_locals1" group-title="Rocket Service",WBNS-TV CBS 10 (Columbus OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WBNS-TV CBS 10 (Columbus OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/2646.ts
-#EXTINF:-1 tvg-id="WWHO-DT.us_locals1" group-title="Rocket Service",WWHO-TV CW 53 (Columbus OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WWHO-TV CW 53 (Columbus OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/629939.ts
-#EXTINF:-1 tvg-id="WKYC-DT.us_locals1" group-title="Rocket Service",WKYC-TV NBC 3 (Cleveland OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WKYC-TV NBC 3 (Cleveland OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/2462.ts
-#EXTINF:-1 tvg-id="WEWS-DT.us_locals1" group-title="Rocket Service",WEWS-TV ABC 5 (Cleveland OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WEWS-TV ABC 5 (Cleveland OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/2694.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WJW-TV FOX 8 (Cleveland OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/2566.ts
-#EXTINF:-1 tvg-id="WOIO-DT.us_locals1" group-title="Rocket Service",WOIO CBS 19 (Cleveland OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WOIO CBS 19 (Cleveland OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/2647.ts
-#EXTINF:-1 tvg-id="WLWT-DT.us_locals1" group-title="Rocket Service",WLWT-TV NBC 5 (Cincinnati OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WLWT-TV NBC 5 (Cincinnati OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/2463.ts
-#EXTINF:-1 tvg-id="WCPO-DT.us_locals1" group-title="Rocket Service",WCPO-TV ABC 9 (Cincinnati OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WCPO-TV ABC 9 (Cincinnati OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/62431.ts
-#EXTINF:-1 tvg-id="WKRC-DT.us_locals1" group-title="Rocket Service",WKRC-TV CBS 12 (Cincinnati OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WKRC-TV CBS 12 (Cincinnati OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/30136.ts
-#EXTINF:-1 tvg-id="WSTR-DT.us_locals1" group-title="Rocket Service",WSTR-TV MyNetworkTV 64 (Cincinnati OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSTR-TV MyNetworkTV 64 (Cincinnati OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/433309.ts
-#EXTINF:-1 tvg-id="WDTN-DT.us_locals1" group-title="Rocket Service",WDTN-TV NBC 2 (Dayton OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WDTN-TV NBC 2 (Dayton OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/70149.ts
-#EXTINF:-1 tvg-id="WHIO-DT.us_locals1" group-title="Rocket Service",WHIO-TV CBS 7 (Dayton OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WHIO-TV CBS 7 (Dayton OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/70151.ts
-#EXTINF:-1 tvg-id="WKEF-DT2.us_locals1" group-title="Rocket Service",WKEF-TV ABC 22 (Dayton OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WKEF-TV ABC 22 (Dayton OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/38322.ts
-#EXTINF:-1 tvg-id="WRGT-DT.us_locals1" group-title="Rocket Service",WRGT-TV FOX 45 (Dayton OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRGT-TV FOX 45 (Dayton OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/70150.ts
-#EXTINF:-1 tvg-id="WTOL-DT.us_locals1" group-title="Rocket Service",WTOL-TV CBS 7 (Toledo OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTOL-TV CBS 7 (Toledo OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/89738.ts
-#EXTINF:-1 tvg-id="WTVG-DT.us_locals1" group-title="Rocket Service",WTVG-TV ABC 13 (Toledo OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTVG-TV ABC 13 (Toledo OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/564741.ts
-#EXTINF:-1 tvg-id="WNWO-DT.us_locals1" group-title="Rocket Service",WNWO-TV NBC 24 (Toledo OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WNWO-TV NBC 24 (Toledo OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/89740.ts
-#EXTINF:-1 tvg-id="WUPW-DT.us_locals1" group-title="Rocket Service",WUPW-TV FOX 36 (Toledo OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WUPW-TV FOX 36 (Toledo OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/89739.ts
-#EXTINF:-1 tvg-id="WLIO-DT.us_locals1" group-title="Rocket Service",WLIO-TV NBC 8 (Lima OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WLIO-TV NBC 8 (Lima OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/89735.ts
-#EXTINF:-1 tvg-id="WTTV-DT.us_locals1" group-title="Rocket Service",WTTV-TV CBS 4 (Indianapolis IN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTTV-TV CBS 4 (Indianapolis IN)
 http://s.rocketdns.info:8080/live/52748969/72335180/61807.ts
-#EXTINF:-1 tvg-id="WRTV-DT.us_locals1" group-title="Rocket Service",WRTV-TV ABC 6 (Indianapolis IN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRTV-TV ABC 6 (Indianapolis IN)
 http://s.rocketdns.info:8080/live/52748969/72335180/2686.ts
-#EXTINF:-1 tvg-id="WTHR-DT.us_locals1" group-title="Rocket Service",WTHR-TV NBC 13 (Indianapolis IN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTHR-TV NBC 13 (Indianapolis IN)
 http://s.rocketdns.info:8080/live/52748969/72335180/56256.ts
-#EXTINF:-1 tvg-id="WXIN-DT.us_locals1" group-title="Rocket Service",WXIN-TV FOX 59 (Indianapolis IN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WXIN-TV FOX 59 (Indianapolis IN)
 http://s.rocketdns.info:8080/live/52748969/72335180/2554.ts
-#EXTINF:-1 tvg-id="WGRZ-DT.us_locals1" group-title="Rocket Service",WGRZ-TV NBC 2 (Buffalo NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WGRZ-TV NBC 2 (Buffalo NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/2466.ts
-#EXTINF:-1 tvg-id="WIVB-DT.us_locals1" group-title="Rocket Service",WIVB-TV CBS 4 (Buffalo NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WIVB-TV CBS 4 (Buffalo NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/30133.ts
-#EXTINF:-1 tvg-id="WKBW-DT.us_locals1" group-title="Rocket Service",WKBW-TV ABC 7 (Buffalo NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WKBW-TV ABC 7 (Buffalo NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/38280.ts
-#EXTINF:-1 tvg-id="WNLO-CD.us_locals1" group-title="Rocket Service",WNLO-TV CW 23 (Buffalo NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WNLO-TV CW 23 (Buffalo NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/3048.ts
-#EXTINF:-1 tvg-id="WUTV-DT.us_locals1" group-title="Rocket Service",WUTV-TV FOX 29 (Buffalo NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WUTV-TV FOX 29 (Buffalo NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/446824.ts
-#EXTINF:-1 tvg-id="WNYO-DT.us_locals1" group-title="Rocket Service",WNYO-TV MyNetworkTV 49 (Buffalo NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WNYO-TV MyNetworkTV 49 (Buffalo NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/38281.ts
-#EXTINF:-1 tvg-id="WRGB-DT.us_locals1" group-title="Rocket Service",WRGB-TV CBS 6 (Albany NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRGB-TV CBS 6 (Albany NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/89720.ts
-#EXTINF:-1 tvg-id="WTEN-DT.us_locals1" group-title="Rocket Service",WTEN-TV ABC 10 (Albany NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTEN-TV ABC 10 (Albany NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/64027.ts
-#EXTINF:-1 tvg-id="WNYT-DT.us_locals1" group-title="Rocket Service",WNYT-TV NBC 13 (Albany NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WNYT-TV NBC 13 (Albany NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/63932.ts
-#EXTINF:-1 tvg-id="WCWN-DT.us_locals1" group-title="Rocket Service",WCWN-TV CW 15 (Albany NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WCWN-TV CW 15 (Albany NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/34440.ts
-#EXTINF:-1 tvg-id="WXXA-DT.us_locals1" group-title="Rocket Service",WXXA-TV FOX 23 (Albany NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WXXA-TV FOX 23 (Albany NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/63931.ts
-#EXTINF:-1 tvg-id="WSTM-DT.us_locals1" group-title="Rocket Service",WSTM-TV NBC 3 (Syracuse NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSTM-TV NBC 3 (Syracuse NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/38314.ts
-#EXTINF:-1 tvg-id="WTVH-DT.us_locals1" group-title="Rocket Service",WTVH-TV CBS 5 (Syracuse NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTVH-TV CBS 5 (Syracuse NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/87037.ts
-#EXTINF:-1 tvg-id="WSYR-DT.us_locals1" group-title="Rocket Service",WSYR-TV ABC 9 (Syracuse  NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSYR-TV ABC 9 (Syracuse  NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/38313.ts
-#EXTINF:-1 tvg-id="WSYT-DT.us_locals1" group-title="Rocket Service",WSYT-TV FOX 68 (Syracuse NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSYT-TV FOX 68 (Syracuse NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/87038.ts
-#EXTINF:-1 tvg-id="WCSH-DT.us_locals1" group-title="Rocket Service",WCSH-TV NBC 6 (Portland ME)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WCSH-TV NBC 6 (Portland ME)
 http://s.rocketdns.info:8080/live/52748969/72335180/89617.ts
-#EXTINF:-1 tvg-id="WGME-DT2.us_locals1" group-title="Rocket Service",WGME-TV CBS 13 (Portland ME)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WGME-TV CBS 13 (Portland ME)
 http://s.rocketdns.info:8080/live/52748969/72335180/89616.ts
-#EXTINF:-1 tvg-id="WPFO-DT.us_locals1" group-title="Other Services",WPFO-TV FOX 23 (Portland ME)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WPFO-TV FOX 23 (Portland ME)
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/2163.ts
-#EXTINF:-1 tvg-id="KATU-DT2.us_locals1" group-title="Rocket Service",KATU-TV ABC 2 (Portland OR)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KATU-TV ABC 2 (Portland OR)
 http://s.rocketdns.info:8080/live/52748969/72335180/2675.ts
-#EXTINF:-1 tvg-id="KOIN-DT.us_locals1" group-title="Rocket Service",KOIN-TV CBS 6 (Portland OR)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KOIN-TV CBS 6 (Portland OR)
 http://s.rocketdns.info:8080/live/52748969/72335180/89760.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",KGW-TV NBC 8 (Portland OR)
 http://s.rocketdns.info:8080/live/52748969/72335180/2442.ts
-#EXTINF:-1 tvg-id="KPTV-DT.us_locals1" group-title="Rocket Service",KPTV-TV FOX 12 (Portland OR)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KPTV-TV FOX 12 (Portland OR)
 http://s.rocketdns.info:8080/live/52748969/72335180/89761.ts
-#EXTINF:-1 tvg-id="WLBT-DT.us_locals1" group-title="Rocket Service",WLBT-TV NBC 3 (Jackson MS)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WLBT-TV NBC 3 (Jackson MS)
 http://s.rocketdns.info:8080/live/52748969/72335180/102602.ts
-#EXTINF:-1 tvg-id="WJTV-DT.us_locals1" group-title="Rocket Service",WJTV-TV CBS 12.1 (Jackson MS)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WJTV-TV CBS 12.1 (Jackson MS)
 http://s.rocketdns.info:8080/live/52748969/72335180/102600.ts
-#EXTINF:-1 tvg-id="WJTV-DT.us_locals1" group-title="Rocket Service",WJTV-DT CW 12.2 (Jackson MS)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WJTV-DT CW 12.2 (Jackson MS)
 http://s.rocketdns.info:8080/live/52748969/72335180/629826.ts
-#EXTINF:-1 tvg-id="WAPT-DT.us_locals1" group-title="Rocket Service",WAPT-TV ABC 16 (Jackson MS)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WAPT-TV ABC 16 (Jackson MS)
 http://s.rocketdns.info:8080/live/52748969/72335180/565748.ts
-#EXTINF:-1 tvg-id="WDBD-DT.us_locals1" group-title="Rocket Service",WDBD-TV FOX 40 (Jackson MS)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WDBD-TV FOX 40 (Jackson MS)
 http://s.rocketdns.info:8080/live/52748969/72335180/102601.ts
-#EXTINF:-1 tvg-id="WISC-DT.us_locals1" group-title="Rocket Service",WISC-TV CBS 3 (Madison WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WISC-TV CBS 3 (Madison WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/89895.ts
-#EXTINF:-1 tvg-id="WMTV-DT.us_locals1" group-title="Rocket Service",WMTV-TV NBC 15 (Madison WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WMTV-TV NBC 15 (Madison WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/89896.ts
-#EXTINF:-1 tvg-id="WKOW-DT.us_locals1" group-title="Rocket Service",WKOW-TV ABC 27 (Madison WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WKOW-TV ABC 27 (Madison WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/38321.ts
-#EXTINF:-1 tvg-id="WMSN-DT.us_locals1" group-title="Rocket Service",WMSN-TV FOX 47 (Madison WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WMSN-TV FOX 47 (Madison WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/529233.ts
-#EXTINF:-1 tvg-id="WTMJ-DT.us_locals1" group-title="Rocket Service",WTMJ-TV NBC 4 (Milwaukee WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTMJ-TV NBC 4 (Milwaukee WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/89899.ts
-#EXTINF:-1 tvg-id="WITI-DT.us_locals1" group-title="Rocket Service",WITI-TV FOX 6 (Milwaukee WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WITI-TV FOX 6 (Milwaukee WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/2548.ts
-#EXTINF:-1 tvg-id="WVTV-DT.us_locals1" group-title="Rocket Service",WVTV-TV CW 18 (Milwaukee WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WVTV-TV CW 18 (Milwaukee WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/38328.ts
-#EXTINF:-1 tvg-id="WISN-DT.us_locals1" group-title="Rocket Service",WISN-TV ABC 12 (Milwaukee WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WISN-TV ABC 12 (Milwaukee WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/2682.ts
-#EXTINF:-1 tvg-id="WDJT-DT.us_locals1" group-title="Rocket Service",WDJT-TV CBS 58 (Milwaukee WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WDJT-TV CBS 58 (Milwaukee WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/2635.ts
-#EXTINF:-1 tvg-id="WBAY-DT.us_locals1" group-title="Rocket Service",WBAY-TV ABC 2 (Green Bay WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WBAY-TV ABC 2 (Green Bay WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/38282.ts
-#EXTINF:-1 tvg-id="WFRV-DT.us_locals1" group-title="Rocket Service",WFRV-TV CBS 5 (Green Bay WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WFRV-TV CBS 5 (Green Bay WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/89890.ts
-#EXTINF:-1 tvg-id="WLUK-DT.us_locals1" group-title="Rocket Service",WLUK-TV FOX 11 (Green Bay WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WLUK-TV FOX 11 (Green Bay WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/2557.ts
-#EXTINF:-1 tvg-id="WCWF-DT.us_locals1" group-title="Rocket Service",WCWF-TV CW 14 (Green Bay WI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WCWF-TV CW 14 (Green Bay WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/38283.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",WBGA-TV NBC 26 (Green Bay WI)
 http://s.rocketdns.info:8080/live/52748969/72335180/631821.ts
-#EXTINF:-1 tvg-id="KREM-DT.us_locals1" group-title="Backend: Syncbak",KREM-TV CBS 2 (Spokane WA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Syncbak",KREM-TV CBS 2 (Spokane WA)
 http://cbsplaylistserver.aws.syncbak.com/mpl/20160401/865666/5743360/media.m3u8?request_token=Z1-ZrI8l37vCBmH6YKlQZNFcvAXYiLJN8c0K9gQTvqeAS2QJAdKCNfJi781AV_GZ0FiNd9AuyH162KN25KKJ1iwvz5KrioIJ6D1yPHrvpZ68JmiHTY6U93wIgD_NiMxFXxR_tw_MCi_hka74r9ng6aLxngs2p8TTSlCW71SMmjHsk4wN7kcHLDtoRtcivA&CMCD=mtp%3D111600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ac2d9503-527a-4258-a660-a8841776bd7c%22
-#EXTINF:-1 tvg-id="KOMO-DT.us_locals1" group-title="Rocket Service",KOMO-TV ABC 4 (Seattle WA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KOMO-TV ABC 4 (Seattle WA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2668.ts
-#EXTINF:-1 tvg-id="KING-DT.us_locals1" group-title="Rocket Service",KING-TV NBC 5 (Seattle WA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KING-TV NBC 5 (Seattle WA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2437.ts
-#EXTINF:-1 tvg-id="KIRO-DT.us_locals1" group-title="Rocket Service",KIRO-TV CBS 7 (Seattle WA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KIRO-TV CBS 7 (Seattle WA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2621.ts
-#EXTINF:-1 tvg-id="KSTW-DT.us_locals1" group-title="Rocket Service",KSTW-TV Ind. 11 (Seattle WA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSTW-TV Ind. 11 (Seattle WA)
 http://s.rocketdns.info:8080/live/52748969/72335180/34428.ts
-#EXTINF:-1 tvg-id="KCPQ-DT.us_locals1" group-title="Rocket Service",KCPQ-TV FOX 13 (Seattle WA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KCPQ-TV FOX 13 (Seattle WA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89885.ts
-#EXTINF:-1 tvg-id="KZJO-DT.us_locals1" group-title="Rocket Service",KZJO-TV FOX 13+/MyNetworkTV 22 (Seattle WA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KZJO-TV FOX 13+/MyNetworkTV 22 (Seattle WA)
 http://s.rocketdns.info:8080/live/52748969/72335180/730458.ts
-#EXTINF:-1 tvg-id="KUNS-DT.us_locals1" group-title="Rocket Service",KUNS-TV CW 51 (Seattle WA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KUNS-TV CW 51 (Seattle WA)
 http://s.rocketdns.info:8080/live/52748969/72335180/597174.ts
-#EXTINF:-1 tvg-id="WAVE-DT.us_locals1" group-title="Rocket Service",WAVE-TV NBC 3 (Louisville KY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WAVE-TV NBC 3 (Louisville KY)
 http://s.rocketdns.info:8080/live/52748969/72335180/70148.ts
-#EXTINF:-1 tvg-id="WHAS-DT.us_locals1" group-title="Rocket Service",WHAS-TV ABC 11 (Louisville KY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WHAS-TV ABC 11 (Louisville KY)
 http://s.rocketdns.info:8080/live/52748969/72335180/38240.ts
-#EXTINF:-1 tvg-id="WLKY-DT.us_locals1" group-title="Rocket Service",WLKY-TV CBS 32 (Louisville KY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WLKY-TV CBS 32 (Louisville KY)
 http://s.rocketdns.info:8080/live/52748969/72335180/93167.ts
-#EXTINF:-1 tvg-id="WDRB-DT.us_locals1" group-title="Rocket Service",WDRB-TV FOX 41 (Louisville KY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WDRB-TV FOX 41 (Louisville KY)
 http://s.rocketdns.info:8080/live/52748969/72335180/70147.ts
-#EXTINF:-1 tvg-id="WLEX-DT.us_locals1" group-title="Rocket Service",WLEX-TV NBC 18 (Lexington KY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WLEX-TV NBC 18 (Lexington KY)
 http://s.rocketdns.info:8080/live/52748969/72335180/93171.ts
-#EXTINF:-1 tvg-id="WKYT-DT.us_locals1" group-title="Rocket Service",WKYT-TV CBS 27.1 (Lexington KY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WKYT-TV CBS 27.1 (Lexington KY)
 http://s.rocketdns.info:8080/live/52748969/72335180/93166.ts
-#EXTINF:-1 tvg-id="WKYT-DT.us_locals1" group-title="Rocket Service",WKYT-DT CW 27.2 (Lexington KY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WKYT-DT CW 27.2 (Lexington KY)
 http://s.rocketdns.info:8080/live/52748969/72335180/629725.ts
-#EXTINF:-1 tvg-id="WTVQ-DT.us_locals1" group-title="Rocket Service",WTVQ-TV ABC 36 (Lexington KY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTVQ-TV ABC 36 (Lexington KY)
 http://s.rocketdns.info:8080/live/52748969/72335180/38296.ts
-#EXTINF:-1 tvg-id="WDKY-DT.us_locals1" group-title="Rocket Service",WDKY-TV FOX 56 (Lexington KY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WDKY-TV FOX 56 (Lexington KY)
 http://s.rocketdns.info:8080/live/52748969/72335180/89580.ts
-#EXTINF:-1 tvg-id="KTVM-DT.us_locals1" group-title="Rocket Service",KTVM-TV NBC 20 (Butte MT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTVM-TV NBC 20 (Butte MT)
 http://s.rocketdns.info:8080/live/52748969/72335180/89661.ts
-#EXTINF:-1 tvg-id="KTVQ-DT.us_locals1" group-title="Rocket Service",KTVQ-TV CBS 2 (Billings MT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTVQ-TV CBS 2 (Billings MT)
 http://s.rocketdns.info:8080/live/52748969/72335180/555994.ts
-#EXTINF:-1 tvg-id="KHMT-DT.us_locals1" group-title="Rocket Service",KHMT-TV FOX 4 (Billings MT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KHMT-TV FOX 4 (Billings MT)
 http://s.rocketdns.info:8080/live/52748969/72335180/555995.ts
-#EXTINF:-1 tvg-id="KSVI-DT.us_locals1" group-title="Rocket Service",KSVI-TV ABC 6 (Billings MT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSVI-TV ABC 6 (Billings MT)
 http://s.rocketdns.info:8080/live/52748969/72335180/555996.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",KLUR-TV NBC 8 (Billings MT)
 http://s.rocketdns.info:8080/live/52748969/72335180/89660.ts
-#EXTINF:-1 tvg-id="KTUU-DT.us_locals1" group-title="Rocket Service",KTUU-TV NBC 2 (Anchorage AK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTUU-TV NBC 2 (Anchorage AK)
 http://s.rocketdns.info:8080/live/52748969/72335180/38320.ts
-#EXTINF:-1 tvg-id="KTBY-DT.us_locals1" group-title="Rocket Service",KTBY-TV FOX 4 (Anchorage AK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTBY-TV FOX 4 (Anchorage AK)
 http://s.rocketdns.info:8080/live/52748969/72335180/38319.ts
-#EXTINF:-1 tvg-id="KYUR-DT.us_locals1" group-title="Rocket Service",KYUR-TV ABC 13 (Anchorage AK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KYUR-TV ABC 13 (Anchorage AK)
 http://s.rocketdns.info:8080/live/52748969/72335180/38317.ts
-#EXTINF:-1 tvg-id="KTVA-DT.us_locals1" group-title="Rocket Service",KTVA-TV CBS 22 (Anchorage AK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTVA-TV CBS 22 (Anchorage AK)
 http://s.rocketdns.info:8080/live/52748969/72335180/38318.ts
-#EXTINF:-1 tvg-id="KHON-DT2.us_locals1" group-title="Rocket Service",KHON-TV FOX 2.1 (Honolulu HI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KHON-TV FOX 2.1 (Honolulu HI)
 http://s.rocketdns.info:8080/live/52748969/72335180/89531.ts
-#EXTINF:-1 tvg-id="KHON-DT2.us_locals1" group-title="Rocket Service",KHON-DT CW 2.2 (Honolulu HI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KHON-DT CW 2.2 (Honolulu HI)
 http://s.rocketdns.info:8080/live/52748969/72335180/629649.ts
-#EXTINF:-1 tvg-id="KITV-DT.us_locals1" group-title="Rocket Service",KITV-TV ABC 4 (Honolulu HI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KITV-TV ABC 4 (Honolulu HI)
 http://s.rocketdns.info:8080/live/52748969/72335180/38312.ts
-#EXTINF:-1 tvg-id="KGMB-DT.us_locals1" group-title="Rocket Service",KGMB-TV CBS 5 (Honolulu HI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KGMB-TV CBS 5 (Honolulu HI)
 http://s.rocketdns.info:8080/live/52748969/72335180/89530.ts
-#EXTINF:-1 tvg-id="KHNL-DT.us_locals1" group-title="Rocket Service",KHNL-TV NBC 13 (Honolulu HI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KHNL-TV NBC 13 (Honolulu HI)
 http://s.rocketdns.info:8080/live/52748969/72335180/89532.ts
 #EXTINF:-1 tvg-id="KCAL-TV.us" group-title="Other Services",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
 http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" group-title="Backend: Cloudfront",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/1ade928e-a479-425c-9fa1-28c1b4ae3eb2/4.m3u8
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" group-title="Backend: Uplynk",KABC-TV ABC 7 24/7 News (Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" group-title="Backend: Cloudfront",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
 https://d2olwakxtujj3g.cloudfront.net/playlist/amg00488-foxdigital-fox11losangeleskttv-vizious/cb563e1e726c6c8c84cb3762cef562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5daf6852db80148b6f4adafb8c2360625f5c98435ee3b24aa5ace70c4cdb65a0ac484d912e58e68314c9c94dba89d2469841d576a3119c9bf1dad342e025a059816f639f943a581facb33bfefc53bfce9f6d79af6529521b4694dbf99c601df68ac7c19a85a6916aed07c6c9048c6525b2039935e95875bc5a6bd5876aa5a3afd04c0340cc08f19045d2878ea9815b1db274efaaa9fe726e96fa1d7646830ab247796fc2ae9246ceab9df1c715ebf9bbe097e1b13c7ff09d4c1bd5b9eadcc3ae8d84b930475c6a0703c973a78d52e226cf739203724b53604bb79359c887960b7e320fceb757da1714aec8cbadeb4e6a9a2e4b01a857d05553389774742ab164b9bb2c7c85233d803716f24c7ad511abf67fa3e793ce2e0f98f28b02f366e4b04af5f301a262751921bbe0235240032c84bc285d7e298d15a4e0cbe7761b09a3a29ea98e006e754c7d383b82ece37f8c9d80784d64a67d1220254059c67e9503b927460f29c51ba9dc2a7c97092c28a6ea7f6a536292c7a692c5b1ee41a674c7c0ed334d6e0e83dc9efca4c7b5dca6315b4335bae1dc8d4adac461ca89/57/1920x1080_5701132/index.m3u8
-#EXTINF:-1 tvg-id="KNSD-DT.us_locals1" group-title="Backend: Cloudfront",KNSD-TV NBC 7/39 24/7 News (San Diego CA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",KNSD-TV NBC 7/39 24/7 News (San Diego CA)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951185/hls/master.m3u8?ads.xumo_channelId=99951185
-#EXTINF:-1 tvg-id="KFMB-DT.us_locals1" group-title="Other Services",KFMB-TV CBS 8 24/7 News (San Diego CA)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KFMB-TV CBS 8 24/7 News (San Diego CA)
 https://video.tegnaone.com/kfmb/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB-Production/live/index.m3u8
-#EXTINF:-1 tvg-id="KGTV-DT.us_locals1" group-title="Backend: Uplynk",KGTV-TV ABC 10 24/7 News (San Diego CA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",KGTV-TV ABC 10 24/7 News (San Diego CA)
 https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
-#EXTINF:-1 tvg-id="KERO-DT.us_locals1" group-title="Backend: Uplynk",KERO-TV ABC 23 24/7 News (Bakersfield CA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",KERO-TV ABC 23 24/7 News (Bakersfield CA)
 http://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 tvg-id="WITN-DT.us_locals1" group-title="Local Gov/Public",WITN-TV 22 24/7 News (Wilmington DE)
+#EXTINF:-1 tvg-id="" group-title="Local Gov/Public",WITN-TV 22 24/7 News (Wilmington DE)
 https://witn.cablecast.tv/live-4/live/live.m3u8
-#EXTINF:-1 tvg-id="WJAX-DT.us_locals1" group-title="Backend: Amagi",WJAX-TV CBS 47 24/7 News (Jacksonville FL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WJAX-TV CBS 47 24/7 News (Jacksonville FL)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="KTVU-DT.us_locals1" group-title="Backend: Amagi",KTVU-TV FOX 2 24/7 News (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",KTVU-TV FOX 2 24/7 News (San Francisco CA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2sanfranciscoktvu-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KPIX-DT.us_locals1" group-title="Other Services",KPIX-TV CBS 4 24/7 News (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KPIX-TV CBS 4 24/7 News (San Francisco CA)
 http://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",KGO-TV ABC 7 24/7 News (San Francisco CA)
 https://content-ause1.uplynk.com/channel/7c0eae0d267941d283a3ab14dd6fd399.m3u8
-#EXTINF:-1 tvg-id="KNTV-DT.us_locals1" group-title="Backend: Cloudfront",KNTV-TV NBC 10 24/7 News (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",KNTV-TV NBC 10 24/7 News (San Francisco CA)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/master.m3u8?ads.xumo_channelId=99951162&ads.asnw=169843
-#EXTINF:-1 tvg-id="KESQ-DT3.us_locals1" group-title="Backend: Syncbak",KESQ-TV 3 ABC 24/7 News (Palm Springs CA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Syncbak",KESQ-TV 3 ABC 24/7 News (Palm Springs CA)
 https://dai2-playlistserver.aws.syncbak.com/cpl/22046797/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIyMjA0Njc5NyIsImNpZCI6MjIyODAsInNpZCI6MTE5OSwibWQ1IjoiYjkzMDQ4ZTBhMDAyZTliNTkxMWI5ZWVkNTgwYzBmODEiLCJpYXQiOjE2ODE3Njg4NjUsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.Dz7v9duOQcxtwGtOh7ZTWHQ47ehbC7_WsmC2NsMWl6k
-#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" group-title="Other Services",WCBS-TV CBS 2 24/7 News (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WCBS-TV CBS 2 24/7 News (New York NY)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" group-title="Backend: Cloudfront",WNBC-TV NBC 4 24/7 News (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",WNBC-TV NBC 4 24/7 News (New York NY)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951163/hls/master.m3u8?ads.xumo_channelId=99951163
-#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" group-title="Backend: Amagi",WNYW-TV FOX 5 24/7 News (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WNYW-TV FOX 5 24/7 News (New York NY)
 https://amg00488-foxdigital-amg00488c7-vizio-us-903.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox5newyorkwnyw-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WABC-DT.us_locals1" group-title="Backend: Amagi",WABC-TV ABC 7 24/7 News (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WABC-TV ABC 7 24/7 News (New York NY)
 https://amg00497-amg00497c14-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c14-amgplt0023/playlist.m3u8
-#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" group-title="Other Services",WBBM-TV CBS 2 24/7 News (Chicago IL)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WBBM-TV CBS 2 24/7 News (Chicago IL)
 http://dai.google.com/linear/hls/event/_xQBtL7ZSEClkNebaXzn8w/master.m3u8
-#EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" group-title="Backend: Cloudfront",WMAQ-TV NBC 5 24/7 News (Chicago IL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",WMAQ-TV NBC 5 24/7 News (Chicago IL)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951163/hls/master.m3u8?ads.xumo_channelId=99951165
 #EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",WLS-TV ABC 7 24/7 News (Chicago IL)
 https://content-ause1.uplynk.com/channel/553fe1231b83487383a725f2da8433f5.m3u8
-#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" group-title="Backend: Amagi",WFLD-TV FOX 32 24/7 News (Chicago IL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WFLD-TV FOX 32 24/7 News (Chicago IL)
 https://amg00488-foxdigital-amg00488c4-vizio-us-900.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox32chicagowfld-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WJBK-DT.us_locals1" group-title="Backend: Amagi",WJBK-TV FOX 2 24/7 News (Detroit MI)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WJBK-TV FOX 2 24/7 News (Detroit MI)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WDIV-DT.us_locals1" group-title="Other Services",WDIV-TV NBC 4 "Local 4+" 24/7 News (Detroit MI)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WDIV-TV NBC 4 "Local 4+" 24/7 News (Detroit MI)
 http://dai.google.com/linear/hls/event/-2ZiaXcPRBaDmq0dLLnpOQ/master.m3u8
-#EXTINF:-1 tvg-id="WXYZ-DT.us_locals1" group-title="Tubi TV",WXYZ-TV ABC 7 24/7 News (Detroit MI)
+#EXTINF:-1 tvg-id="" group-title="Tubi TV",WXYZ-TV ABC 7 24/7 News (Detroit MI)
 https://apollo.production-public.tubi.io/live/wxyz-detroit-7-action-news-JKSGsM.m3u8
 #EXTINF:-1 tvg-id="" group-title="Other Services",WWJ-TV CBS 62 24/7 News (Detroit MI)
 https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
-#EXTINF:-1 tvg-id="WCCO-DT.us_locals1" group-title="Other Services",WCCO-TV CBS 4 24/7 News (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WCCO-TV CBS 4 24/7 News (Minneapolis/St. Paul MN)
 https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
-#EXTINF:-1 tvg-id="KSTP-DT.us_locals1" group-title="Local Now",KSTP-TV ABC 5 24/7 News (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="" group-title="Local Now",KSTP-TV ABC 5 24/7 News (Minneapolis/St. Paul MN)
 https://s6host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/v1/fast/kstplocalnow2/2e38cb42-d73c-488b-ac4b-e2a1b6e0a815.m3u8?ads.cdnhost=s6host5.localnow.api.cms.amdvids.com&ads.playbackid=7D7450A0-459E-4747-AC41-354EDF49694F&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=7D7450A0-459E-4747-AC41-354EDF49694F&ads.n4=content_name&ads.v4=EPG%20%7C%20KSTP%20Minneapolis%2C%20MN&ads.n21=device_type&ads.v21=&ads.n22=content_custom_3_param&ads.v22=channel&ads.n23=gpp_sid&ads.v23=&ads.n24=channel_title&ads.v24=EPG%20%20KSTP%20Minneapolis%2C%20MN&ads.n25=network_name&ads.v25=kstp&ads.n26=device_make&ads.v26=&ads.n27=url&ads.v27=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n28=app_name&ads.v28=&ads.n29=pos&ads.v29=midroll&ads.n30=device_model&ads.v30=&ads.n31=channel_corp&ads.v31=Hubbard%20Broadcasting&ads.n32=content_provider&ads.v32=kstp&ads.n33=dnt&ads.v33=&ads.n34=gpp&ads.v34=&ads.n35=channel_language&ads.v35=en&ads.n36=channel_brand_id&ads.v36=AMDB012144&ads.n37=app_bundle&ads.v37=&ads.n38=channel_id&ads.v38=7D7450A0-459E-4747-AC41-354EDF49694F&ads.n39=channel_ext_id&ads.v39=64529f8eb580cbee940c6c63&ads.n40=ip&ads.v40=193.228.206.147&ads.n41=channel_rating&ads.v41=TV-PG&ads.n42=app_version&ads.v42=0.0.0&ads.n43=channel_company_id&ads.v43=AMDP500170&ads.n44=cust_devicename&ads.v44=desktop_web&ads.n45=us_privacy&ads.v45=1YNY&ads.n46=channel_genre&ads.v46=News&ads.n47=content_producer_name&ads.v47=Hubbard%20Broadcasting&ads.n48=ifa_type&ads.v48=&ads.n49=channel_name&ads.v49=EPG%20%20KSTP%20Minneapolis%2C%20MN&ads.n50=w&ads.v50=1920&ads.n51=ua&ads.v51=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n52=content_type&ads.v52=channel&ads.n53=content_custom_2_param&ads.v53=AMDB012144&ads.n54=content_custom_1_param&ads.v54=7D7450A0-459E-4747-AC41-354EDF49694F&ads.n55=app_store_url&ads.v55=&ads.n56=did&ads.v56=&ads.n57=content_livestream&ads.v57=1&ads.n58=h&ads.v58=1080
-#EXTINF:-1 tvg-id="KMSP-DT.us_locals1" group-title="Backend: Amagi",KMSP-TV FOX 9 24/7 News (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",KMSP-TV FOX 9 24/7 News (Minneapolis/St. Paul MN)
 https://amg00488-amg00488c8-tclideo-na-2446.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox9minneapoliskmsp-tclideona/playlist.m3u8
-#EXTINF:-1 tvg-id="KARE-DT.us_locals1" group-title="Other Services",KARE-TV NBC 11 24/7 News (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KARE-TV NBC 11 24/7 News (Minneapolis/St. Paul MN)
 https://video.tegnaone.com/kare/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KARE-Production/live/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Other Services",KYW-TV CBS 3 24/7 News (Philadelphia PA)
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
-#EXTINF:-1 tvg-id="WPVI-DT.us_locals1" group-title="Backend: Uplynk",WPVI-TV ABC 6 24/7 News (Philadelphia PA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",WPVI-TV ABC 6 24/7 News (Philadelphia PA)
 https://content-ausw1.uplynk.com/channel/c03e1d48809d476eb0dfa839b6fb0ca4.m3u8
-#EXTINF:-1 tvg-id="WCAU-DT.us_locals1" group-title="Backend: Cloudfront",WCAU-TV NBC 10 24/7 News (Philadelphia PA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",WCAU-TV NBC 10 24/7 News (Philadelphia PA)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951166/hls/master.m3u8?ads.xumo_channelId=99951166
-#EXTINF:-1 tvg-id="WTXF-DT.us_locals1" group-title="Backend: Amagi",WTXF-TV FOX 29 24/7 News (Philadelphia PA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WTXF-TV FOX 29 24/7 News (Philadelphia PA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Other Services",WBZ-TV CBS 4 24/7 News (Boston MA)
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-#EXTINF:-1 tvg-id="WCVB-DT.us_locals1" group-title="Other Services",WCVB-TV ABC 5 24/7 News (Boston MA)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WCVB-TV ABC 5 24/7 News (Boston MA)
 https://pubads.g.doubleclick.net/ssai/event/Yo0UqqfJQp2EXhFEfrdDGQ/master.m3u8
-#EXTINF:-1 tvg-id="WBTS-CD.us_locals1" group-title="Backend: Cloudfront",WBTS-CD NBC 10 24/7 News (Boston MA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",WBTS-CD NBC 10 24/7 News (Boston MA)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951168/hls/master.m3u8?ads.xumo_channelId=99951168
-#EXTINF:-1 tvg-id="WFXT-DT.us_locals1" group-title="Other Services",WFXT-CD FOX 25 24/7 News (Boston MA)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WFXT-CD FOX 25 24/7 News (Boston MA)
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
-#EXTINF:-1 tvg-id="KDKA-DT.us_locals1" group-title="Other Services",KDKA-TV CBS 2 24/7 News (Pittsburgh PA)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KDKA-TV CBS 2 24/7 News (Pittsburgh PA)
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-#EXTINF:-1 tvg-id="WTAE-DT.us_locals1" group-title="Backend: Uplynk",WTAE-TV ABC 4 24/7 News (Pittsburgh PA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",WTAE-TV ABC 4 24/7 News (Pittsburgh PA)
 https://content.uplynk.com/channel/738511700c9145ca8e4c8147f15aedb9.m3u8
-#EXTINF:-1 tvg-id="WPXI-DT.us_locals1" group-title="Backend: Amagi",WPXI-TV NBC 11 24/7 News (Pittsburgh PA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WPXI-TV NBC 11 24/7 News (Pittsburgh PA)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WFOR-DT.us_locals1" group-title="Other Services",WFOR-TV CBS 4 24/7 News (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WFOR-TV CBS 4 24/7 News (Miami FL)
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-#EXTINF:-1 tvg-id="WTVJ-DT.us_locals1" group-title="Backend: Cloudfront",WTVJ-TV NBC 6 24/7 News (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",WTVJ-TV NBC 6 24/7 News (Miami FL)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951167/hls/master.m3u8?ads.xumo_channelId=99951167
-#EXTINF:-1 tvg-id="WPLG-DT.us_locals1" group-title="Backend: Cloudfront",WPLG-TV ABC 10 24/7 News (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",WPLG-TV ABC 10 24/7 News (Miami FL)
 https://d2jy668awuauer.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/wplginc_PROD_wplg_9a735077-eccb-4adb-9630-34d51840431c_LE/live/out/wplginc-wplgott-hls-v7/live.m3u8
-#EXTINF:-1 tvg-id="WTSP-DT.us_locals1" group-title="Other Services",WTSP-TV CBS 10 24/7 News (Tampa Bay FL)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WTSP-TV CBS 10 24/7 News (Tampa Bay FL)
 https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8
-#EXTINF:-1 tvg-id="WTVT-DT.us_locals1" group-title="Backend: Amagi",WTVT-TV FOX 13 24/7 News (Tampa Bay FL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WTVT-TV FOX 13 24/7 News (Tampa Bay FL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" group-title="Backend: Uplynk",WFTS-TV ABC 28 24/7 News (Tampa Bay FL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",WFTS-TV ABC 28 24/7 News (Tampa Bay FL)
 https://content.uplynk.com/channel/5bfc0bb9d2be47448fb2c1aaaa2dfd0a.m3u8
-#EXTINF:-1 tvg-id="WESH-DT.us_locals1" group-title="Backend: Uplynk",WESH-TV NBC 2 24/7 News (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",WESH-TV NBC 2 24/7 News (Orlando FL)
 https://content.uplynk.com/channel/21cc54a6fc484e6ba580befaadf83502.m3u8
-#EXTINF:-1 tvg-id="WFTV-DT.us_locals1" group-title="Backend: Amagi",WFTV-TV ABC 9 24/7 News (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WFTV-TV ABC 9 24/7 News (Orlando FL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvnow-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WFTV-DT.us_locals1" group-title="Backend: Amagi",WFTV-TV ABC 9 Now (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WFTV-TV ABC 9 Now (Orlando FL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvnow-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WFTV-DT.us_locals1" group-title="Backend: Amagi",WFTV-TV ABC 9 Breaking News 24/7 (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WFTV-TV ABC 9 Breaking News 24/7 (Orlando FL)
 https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WFTV-DT.us_locals1" group-title="Backend: Amagi",WFTV-TV ABC 9 Weather 24/7 (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WFTV-TV ABC 9 Weather 24/7 (Orlando FL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvweather-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WOFL-DT.us_locals1" group-title="Backend: Amagi",WOFL-TV FOX 35 24/7 News (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WOFL-TV FOX 35 24/7 News (Orlando FL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox35orlandowofl-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KENS-DT.us_locals1" group-title="Other Services",KENS-TV CBS 5 24/7 News (San Antonio TX)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KENS-TV CBS 5 24/7 News (San Antonio TX)
 https://video.tegnaone.com/kens/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KENS-Production/live/index.m3u8
-#EXTINF:-1 tvg-id="KDFW-DT.us_locals1" group-title="Backend: Amagi",KDFW-TV FOX 4 24/7 News (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",KDFW-TV FOX 4 24/7 News (Ft. Worth/Dallas TX)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KXAS-DT.us_locals1" group-title="Backend: Cloudfront",KXAS-TV NBC 5 24/7 News (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",KXAS-TV NBC 5 24/7 News (Ft. Worth/Dallas TX)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951182/hls/master.m3u8?ads.xumo_channelId=99951182
 #EXTINF:-1 tvg-id="" group-title="Other Services",WFFA-TV ABC 8 24/7 News (Ft. Worth/Dallas TX)
 https://video.tegnaone.com/wfaa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA-Production/live/index.m3u8
-#EXTINF:-1 tvg-id="KTVT-DT.us_locals1" group-title="Other Services",KTVT-TV CBS 11 24/7 News (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KTVT-TV CBS 11 24/7 News (Ft. Worth/Dallas TX)
 http://dai.google.com/linear/hls/event/ogzLhRCkRbG3lFHHJwqaNw/master.m3u8
-#EXTINF:-1 tvg-id="KPRC-DT.us_locals1" group-title="Other Services",KPRC-TV NBC 2 24/7 News (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KPRC-TV NBC 2 24/7 News (Houston TX)
 https://pubads.g.doubleclick.net/ssai/event/jHV2RfV4QQuU2swXQUVHsA/master.m3u8
-#EXTINF:-1 tvg-id="KHOU-DT.us_locals1" group-title="Other Services",KHOU-TV CBS 11 24/7 News (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KHOU-TV CBS 11 24/7 News (Houston TX)
 https://video.tegnaone.com/khou/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU-Production/live/index.m3u8
-#EXTINF:-1 tvg-id="KTRK-DT.us_locals1" group-title="Backend: Uplynk",KTRK-TV ABC 13 24/7 News (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",KTRK-TV ABC 13 24/7 News (Houston TX)
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
-#EXTINF:-1 tvg-id="KRIV-DT.us_locals1" group-title="Backend: Amagi",KRIV-TV FOX 26 24/7 News (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",KRIV-TV FOX 26 24/7 News (Houston TX)
 https://amg00488-foxdigital-amg00488c1-vizio-us-892.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox26houstonkriv-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KTVK-DT.us_locals1" group-title="Backend: Syncbak",KTVK-TV/KPHO-TV 3TV & CBS 5 24/7 News (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Backend: Syncbak",KTVK-TV/KPHO-TV 3TV & CBS 5 24/7 News (Phoenix AZ)
 https://zeam-playlist.aws.syncbak.com/cpl/18563081/dai2v6/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MTczMzUsIm9vbSI6dHJ1ZSwiYXBzdCI6bnVsbCwic3NpZCI6ImQyZDAyMjE5ODhjNjQyMGY4N2E3MjMzZjI4Y2EwYzQzIiwiaXAiOiI1NC4yMDkuODcuMTQyIiwidWlwIjoiNDcuMTU5LjE4My40MiIsImRtYSI6ODAzLCJzbiI6IldlYiAxNDhhOTcyMDBmICIsInVpZCI6bnVsbCwiY3NiIjpmYWxzZSwibWlkIjoiMTg1NjMwODEiLCJtZDUiOiJkYTFiYTUyNjgzNzBiODcxNGQ2MTQxMDQwMTYwYzEzYiIsImlhdCI6MTc0NjQxMTA2MSwiZXhwIjoxNzQ2NDExMTUxLCJpc3MiOiJXTFMiLCJzdWIiOiI1MDk1Y2I1Yi04NmQ1LTQwYTctOTk1Ny0yMWNmYjgyMTQ1NzIifQ.a047bApFEcORxyONvmXuuexswNLa_SbjinQy0H16LcU
-#EXTINF:-1 tvg-id="KSAZ-DT.us_locals1" group-title="Backend: Amagi",KSAZ-TV FOX 10 (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",KSAZ-TV FOX 10 (Phoenix AZ)
 https://amg00488-foxdigital-amg00488c2-vizio-us-898.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox10ksazphoenix-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KPNX-DT.us_locals1" group-title="Other Services",KPNX-TV NBC 12 24/7 News (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KPNX-TV NBC 12 24/7 News (Phoenix AZ)
 https://video.tegnaone.com/kpnx/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KPNX-Production/live/index.m3u8
-#EXTINF:-1 tvg-id="KNXV-DT.us_locals1" group-title="Backend: Uplynk",KNXV-TV ABC 15 24/7 News (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",KNXV-TV ABC 15 24/7 News (Phoenix AZ)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 tvg-id="KSNV-DT.us_locals1" group-title="Local Now",KSNV-TV NBC 3 24/7 News (Las Vegas NV)
+#EXTINF:-1 tvg-id="" group-title="Local Now",KSNV-TV NBC 3 24/7 News (Las Vegas NV)
 https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/708/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KVVU-DT.us_locals1" group-title="Backend: Amagi",KVVU-TV FOX 5 (Las Vegas NV)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",KVVU-TV FOX 5 (Las Vegas NV)
 https://amg00312-amg00312c3-vizio-us-2632.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-kvvufox5vegas-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KTNV-DT.us_locals1" group-title="Backend: Uplynk",KTNV-TV ABC 13 24/7 News (Las Vegas NV)
+#EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",KTNV-TV ABC 13 24/7 News (Las Vegas NV)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WSB-TV ABC 2 24/7 News (Atlanta GA)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WAGA-DT.us_locals1" group-title="Backend: Amagi",WAGA-TV FOX 5 24/7 News (Atlanta GA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WAGA-TV FOX 5 24/7 News (Atlanta GA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5atlantawaga-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WXIA-DT.us_locals1" group-title="Other Services",WXIA-TV NBC 11 24/7 News (Atlanta GA)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WXIA-TV NBC 11 24/7 News (Atlanta GA)
 https://video.tegnaone.com/wxia/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA-Production/live/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Syncbak",WGCL-TV CBS 46 24/7 News (Atlanta GA)
 https://zeam-playlist.aws.syncbak.com/cpl/20010010/dai2v6/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjcxMSwiY2lkIjoyMDQ3MSwibWlkIjoyMDAxMDAxMCwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI0Ny4xNTkuMTgzLjQyIiwidWlwIjoiNDcuMTU5LjE4My40MiIsImRtYSI6ODAzLCJzc2lkIjoiY2Q5YWRhZmQ1YjE2NDM3MGI5OWViOWNhZjRmNGU0N2YiLCJzbiI6IldlYiA1MTdkNWU1Mzg5ICggbnVsbCApIiwidWlkIjpudWxsLCJhcHN0IjpudWxsLCJzYmVwIjpmYWxzZSwiY3NiIjpmYWxzZSwibWQ1IjoiZWQ2MmI0OGFhMjc1ZWYzMWZkM2YxZjMzZTIzMjg2YTYiLCJpYXQiOjE3NDY0MTE2NDEsImV4cCI6MTc0NjQxMTk0MSwiYXVkIjoiaHR0cHM6Ly9wbGF5bGlzdHNlcnZlci5hd3Muc3luY2Jhay5jb20iLCJpc3MiOiJTeW5jYmFrIEdyYXBoUUwgQVBJIiwic3ViIjoiR24tcVF2ODdBN1NjQjB4bDBpeHRsNVJvenUwQ3l3Zzd6Mm9rUVJRNEJsS3FsVHVZdHUifQ.xG0mRaGN2xKH0UckTTUw-MEwkxumO7jXBfTL2zE1BMY
-#EXTINF:-1 tvg-id="WBTV-DT.us_locals1" group-title="Backend: Syncbak",WBTV-TV CBS 3 24/7 News (Charlotte NC)
+#EXTINF:-1 tvg-id="" group-title="Backend: Syncbak",WBTV-TV CBS 3 24/7 News (Charlotte NC)
 https://zeam-playlist.aws.syncbak.com/cpl/17186466/dai2v6/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MTU5ODIsIm9vbSI6dHJ1ZSwiYXBzdCI6bnVsbCwic3NpZCI6IjhmNzVmNjlmYWY0NjQzMTY4ZmY0NzM1NzgxZDg1OTg5IiwiaXAiOiIzNC4yMjguMjE4LjUzIiwidWlwIjoiNDcuMTU5LjE4My40MiIsImRtYSI6ODAzLCJzbiI6IldlYiAxNDhhOTcyMDBmICIsInVpZCI6bnVsbCwiY3NiIjpmYWxzZSwibWlkIjoiMTcxODY0NjYiLCJtZDUiOiI3YWRhNDA5ZjY5MjgxMjhmNjM0MTFjMTE4NGYxN2Y0NiIsImlhdCI6MTc0NjQxMjAwOSwiZXhwIjoxNzQ2NDEyMDk5LCJpc3MiOiJXTFMiLCJzdWIiOiI1MDk1Y2I1Yi04NmQ1LTQwYTctOTk1Ny0yMWNmYjgyMTQ1NzIifQ.sDYNZPYKTS6MVudEcivLw8rlC2sIbhjkfJpwVqK0CY0
-#EXTINF:-1 tvg-id="WSOC-DT.us_locals1" group-title="Backend: Amagi",WSOC-TV ABC 9 24/7 News (Charlotte NC)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WSOC-TV ABC 9 24/7 News (Charlotte NC)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocnow-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WCNC-DT.us_locals1" group-title="Other Services",WCNC-TV NBC 36 24/7 News (Charlotte NC)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WCNC-TV NBC 36 24/7 News (Charlotte NC)
 https://video.tegnaone.com/wcnc/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC-Production/live/index.m3u8
-#EXTINF:-1 tvg-id="KCNC-DT.us_locals1" group-title="Other Services",KCNC-TV CBS 4 24/7 News (Denver CO)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KCNC-TV CBS 4 24/7 News (Denver CO)
 http://dai.google.com/linear/hls/event/E9CkyheTSKeGiOiICU_JBQ/master.m3u8
-#EXTINF:-1 tvg-id="KMGH-DT.us_locals1" group-title="Backend: Uplynk",KMGH-TV ABC 7 24/7 News (Denver CO)
+#EXTINF:-1 tvg-id="" group-title="Backend: Uplynk",KMGH-TV ABC 7 24/7 News (Denver CO)
 https://content.uplynk.com/channel/4608c2dc86a14e3db517ef7e5042a915.m3u8
-#EXTINF:-1 tvg-id="KUSA-DT.us_locals1" group-title="Other Services",KUSA-TV NBC 9 24/7 News (Denver CO)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KUSA-TV NBC 9 24/7 News (Denver CO)
 https://video.tegnaone.com/kusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA-Production/live/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",WRC-TV NBC 4 24/7 News (Washington DC)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/master.m3u8?ads.xumo_channelId=99951181
-#EXTINF:-1 tvg-id="WTTG-DT.us_locals1" group-title="Backend: Amagi",WTTG-TV FOX 5 24/7 News (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WTTG-TV FOX 5 24/7 News (Washington DC)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WJLA-DT.us_locals1" group-title="Local Now",WJLA-TV ABC 7 24/7 News (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Local Now",WJLA-TV ABC 7 24/7 News (Washington DC)
 https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/681/hls/master/playlist.m3u8?ads.cdnhost=s9host1.localnow.api.cms.amdvids.com&ads.playbackid=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n4=content_name&ads.v4=WJLA%20Washington%20DC&ads.n21=content_custom_1_param&ads.v21=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n22=url&ads.v22=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n23=h&ads.v23=1080&ads.n24=channel_genre&ads.v24=News&ads.n25=app_version&ads.v25=0.0.0&ads.n26=device_make&ads.v26=&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=channel_language&ads.v28=en&ads.n29=channel_corp&ads.v29=Sinclair%20Television%20Group%20INC&ads.n30=content_type&ads.v30=channel&ads.n31=content_provider&ads.v31=wjla-washington-dc&ads.n32=gpp&ads.v32=&ads.n33=ip&ads.v33=195.179.200.80&ads.n34=channel_company_id&ads.v34=AMDP500539&ads.n35=ua&ads.v35=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n36=channel_id&ads.v36=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=gpp_sid&ads.v38=&ads.n39=ifa_type&ads.v39=&ads.n40=did&ads.v40=&ads.n41=pos&ads.v41=midroll&ads.n42=channel_rating&ads.v42=TV-PG&ads.n43=channel_title&ads.v43=WJLA%20Washington%20DC&ads.n44=device_model&ads.v44=&ads.n45=content_producer_name&ads.v45=Sinclair%20Television%20Group%20INC&ads.n46=channel_ext_id&ads.v46=&ads.n47=content_custom_2_param&ads.v47=AMDB013446&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=dnt&ads.v49=&ads.n50=content_livestream&ads.v50=1&ads.n51=app_store_url&ads.v51=&ads.n52=network_name&ads.v52=wjla-washington-dc&ads.n53=channel_brand_id&ads.v53=AMDB013446&ads.n54=app_name&ads.v54=&ads.n55=app_bundle&ads.v55=&ads.n56=device_type&ads.v56=&ads.n57=channel_name&ads.v57=WJLA%20Washington%20DC&ads.n58=w&ads.v58=1920
-#EXTINF:-1 tvg-id="WUSA-DT.us_locals1" group-title="Other Services",WUSA-TV CBS 9 24/7 News (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WUSA-TV CBS 9 24/7 News (Washington DC)
 https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
-#EXTINF:-1 tvg-id="KOMO-DT.us_locals1" group-title="Local Now",KOMO-TV ABC 4 24/7 News (Seattle WA)
+#EXTINF:-1 tvg-id="" group-title="Local Now",KOMO-TV ABC 4 24/7 News (Seattle WA)
 https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/709/hls/master/playlist.m3u8?ads.cdnhost=s9host1.localnow.api.cms.amdvids.com&ads.playbackid=5E089950-3207-495C-90C9-4EB3251B8A12&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=5E089950-3207-495C-90C9-4EB3251B8A12
-#EXTINF:-1 tvg-id="KING-DT.us_locals1" group-title="Local Now",KING-TV NBC 5 24/7 News (Seattle WA)
+#EXTINF:-1 tvg-id="" group-title="Local Now",KING-TV NBC 5 24/7 News (Seattle WA)
 https://s10host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/king/24x7/index.m3u8?vendor=LocalNow&device_devicetype=desktop_web&height=1080&ip_addr=195.179.200.80&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&ads.cdnhost=s10host3.localnow.api.cms.amdvids.com&ads.playbackid=06ABF5FD-8AFB-444D-9001-C766E5B770B8&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=06ABF5FD-8AFB-444D-9001-C766E5B770B8
-#EXTINF:-1 tvg-id="KIRO-DT.us_locals1" group-title="Local Now",KIRO-TV CBS 7 24/7 News (Seattle WA)
+#EXTINF:-1 tvg-id="" group-title="Local Now",KIRO-TV CBS 7 24/7 News (Seattle WA)
 https://s2host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config2/playlist.m3u8?ads.cdnhost=s2host3.localnow.api.cms.amdvids.com&ads.playbackid=5A82A266-838C-4E90-B31F-8C32951F0A91&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=5A82A266-838C-4E90-B31F-8C32951F0A91
-#EXTINF:-1 tvg-id="KCPQ-DT.us_locals1" group-title="Backend: Amagi",KCPQ-TV FOX 13 24/7 News (Seattle WA)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",KCPQ-TV FOX 13 24/7 News (Seattle WA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Local Now",LocalNow
 https://3d09ae6be3ae489c9c7886da2331f0a5.mediatailor.us-east-1.amazonaws.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DIST_LocalNow_SelectTV/playlist.m3u8?ads.cdn_prefix=Global&ads.origin_id=Global
@@ -1201,99 +1201,99 @@ https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/pst/index_1080p.m3u8
 https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/est/index_1080p.m3u8
 #EXTINF:-1 tvg-id="RETRO.us2" group-title="Other Services",PBS Retro
 https://jmp2.uk/rok-34335ef32c02519d897664a78767cc59.m3u8
-#EXTINF:-1 tvg-id="WVIZ-DT.us_locals1" group-title="Other Services",WVIZ-DT 25.2 The Ohio Channel (Cleveland OH)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WVIZ-DT 25.2 The Ohio Channel (Cleveland OH)
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8?player_version=1.18.0
-#EXTINF:-1 tvg-id="WOSU-DT.us_locals1" group-title="Rocket Service",WOSU-TV PBS 34 (Columbus OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WOSU-TV PBS 34 (Columbus OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/446782.ts
-#EXTINF:-1 tvg-id="WTVS-DT.us_locals1" group-title="Backend: Cloudfront",WTVS-DT 56.6 Michigan Learning Channel (Detroit MI)
+#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",WTVS-DT 56.6 Michigan Learning Channel (Detroit MI)
 https://d2jalth387y2js.cloudfront.net/test.m3u8
-#EXTINF:-1 tvg-id="WTTW-DT.us_locals1" group-title="Rocket Service",WTTW-TV PBS 11.1 (Chicago IL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTTW-TV PBS 11.1 (Chicago IL)
 http://s.rocketdns.info:8080/live/52748969/72335180/470359.ts
-#EXTINF:-1 tvg-id="WTTW-DT.us_locals1" group-title="Other Services",WTTW-DT Prime 11.2 (Chicago IL)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WTTW-DT Prime 11.2 (Chicago IL)
 http://68.251.105.81:5004/auto/v11.2
-#EXTINF:-1 tvg-id="KMOS-DT.us_locals1" group-title="Other Services",KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO)
 http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-id="KCPT-DT.us_locals1" group-title="Other Services",KCPT-TV PBS 19 (Kansas City MO)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KCPT-TV PBS 19 (Kansas City MO)
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
-#EXTINF:-1 tvg-id="KETC-DT.us_locals1" group-title="Rocket Service",KETC-TV Nine PBS 9 (St. Louis MO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KETC-TV Nine PBS 9 (St. Louis MO)
 http://s.rocketdns.info:8080/live/52748969/72335180/470333.ts
-#EXTINF:-1 tvg-id="KETS-DT.us_locals1" group-title="Rocket Service",KETS-TV PBS 2 (Little Rock AR)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KETS-TV PBS 2 (Little Rock AR)
 http://s.rocketdns.info:8080/live/52748969/72335180/470377.ts
-#EXTINF:-1 tvg-id="WKLE-DT.us_locals1" group-title="Other Services",WKLE-TV KET PBS 46.1 (Lexington KY)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WKLE-TV KET PBS 46.1 (Lexington KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8
-#EXTINF:-1 tvg-id="WKLE-DT.us_locals1" group-title="Other Services",WKLE-DT KET 2 Create 46.2 (Lexington KY)
+#EXTINF:-1 tvg-id="Create.us2" group-title="Other Services",WKLE-DT KET 2 Create 46.2 (Lexington KY)
 http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1315484/playlist.m3u8
-#EXTINF:-1 tvg-id="WKLE-DT.us_locals1" group-title="Other Services",WKLE-DT KET KY 46.3 (Lexington KY)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WKLE-DT KET KY 46.3 (Lexington KY)
 http://2-fss-2.streamhoster.com/pl_132/amlst%3a200914-1315486/playlist.m3u8
-#EXTINF:-1 tvg-id="WKMJ-DT.us_locals1" group-title="Other Services",WKMJ-TV KET PBS 68.1 (Louisville KY)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WKMJ-TV KET PBS 68.1 (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-id="WKMJ-DT.us_locals1" group-title="Other Services",WKMJ-DT KET World 68.4 (Louisville KY)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WKMJ-DT KET World 68.4 (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
-#EXTINF:-1 tvg-id="KLVX-DT.us_locals1" group-title="Rocket Service",KLVX-TV PBS 10 (Las Vegas NV)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KLVX-TV PBS 10 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/52748969/72335180/725062.ts
-#EXTINF:-1 tvg-id="KOCE-DT.us_locals1" group-title="Rocket Service",KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/597149.ts
-#EXTINF:-1 tvg-id="WNET-DT.us_locals1" group-title="Rocket Service",WNET-TV PBS 13 (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WNET-TV PBS 13 (New York NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/66782.ts
-#EXTINF:-1 tvg-id="WLIW-DT.us_locals1" group-title="Rocket Service",WLIW-TV PBS 21 (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WLIW-TV PBS 21 (New York NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/446770.ts
-#EXTINF:-1 tvg-id="WNJT-DT.us_locals1" group-title="KSTV US",WNJT-TV NJ PBS 52 (Trenton NJ)
+#EXTINF:-1 tvg-id="" group-title="KSTV US",WNJT-TV NJ PBS 52 (Trenton NJ)
 http://kstv.us:8080/live/N427DpynGE/7049166651/23264.ts
-#EXTINF:-1 tvg-id="WNED-DT.us_locals1" group-title="Rocket Service",WNED-TV BTPM PBS 17 (Buffalo NY/Toronto ON)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WNED-TV BTPM PBS 17 (Buffalo NY/Toronto ON)
 http://s.rocketdns.info:8080/live/52748969/72335180/470321.ts
-#EXTINF:-1 tvg-id="WXXI-DT.us_locals1" group-title="Rocket Service",WXXI-TV PBS 21 (Rochester NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WXXI-TV PBS 21 (Rochester NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/470320.ts
-#EXTINF:-1 tvg-id="WEDH-DT.us_locals1" group-title="Rocket Service",WEDH-TV P-CPTV PBS 24 (Hartfort CT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WEDH-TV P-CPTV PBS 24 (Hartfort CT)
 http://s.rocketdns.info:8080/live/52748969/72335180/470369.ts
-#EXTINF:-1 tvg-id="WETA-DT.us_locals1" group-title="Rocket Service",WETA-TV WETA PBS 26.1 (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WETA-TV WETA PBS 26.1 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/470368.ts
-#EXTINF:-1 tvg-id="WETA-DT.us_locals1" group-title="Other Services",WETA-DT WETA UK 26.2 (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WETA-DT WETA UK 26.2 (Washington DC)
 https://cors-proxy.cooks.fyi/https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8
-#EXTINF:-1 tvg-id="WETA-DT.us_locals1" group-title="Other Services",WETA-DT PBS Metro 26.5 (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WETA-DT PBS Metro 26.5 (Washington DC)
 https://cors-proxy.cooks.fyi/https://wetadt5.lls.pbs.org/wetadt5-cmaf-hls.m3u8
-#EXTINF:-1 tvg-id="WHUT-DT.us_locals1" group-title="Rocket Service",WHUT-TV PBS 32 (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WHUT-TV PBS 32 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/446804.ts
-#EXTINF:-1 tvg-id="WMPB-DT.us_locals1" group-title="Other Services",WMPB-TV MPT PBS 67 (Baltimore MD)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WMPB-TV MPT PBS 67 (Baltimore MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst%3a201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="WMPT-DT.us_locals1" group-title="Other Services",WMPT-TV MPT PBS 22 (Annapolis MD)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WMPT-TV MPT PBS 22 (Annapolis MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="WPBT-DT.us_locals1" group-title="Rocket Service",WPBT-TV South Florida PBS 2 (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WPBT-TV South Florida PBS 2 (Miami FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/79523.ts
-#EXTINF:-1 tvg-id="WUCF-DT.us_locals1" group-title="Rocket Service",WUCF-TV PBS 24 (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WUCF-TV PBS 24 (Orlando FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/470363.ts
-#EXTINF:-1 tvg-id="WJCT-DT.us_locals1" group-title="Rocket Service",WJCT-TV JAX PBS 9 (Jacksonville FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WJCT-TV JAX PBS 9 (Jacksonville FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/470365.ts
-#EXTINF:-1 tvg-id="WEDU-DT.us_locals1" group-title="Rocket Service",WEDU-TV PBS 3 (Tampa Bay FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WEDU-TV PBS 3 (Tampa Bay FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/470366.ts
-#EXTINF:-1 tvg-id="KTCA-DT.us_locals1" group-title="Rocket Service",KTCA-TV PBS 2 (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTCA-TV PBS 2 (Minneapolis/St. Paul MN)
 http://s.rocketdns.info:8080/live/52748969/72335180/470337.ts
-#EXTINF:-1 tvg-id="WGTV-DT.us_locals1" group-title="Rocket Service",WGTV-TV GPB PBS 30 (Atlanta GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WGTV-TV GPB PBS 30 (Atlanta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/703818.ts
-#EXTINF:-1 tvg-id="KAET-DT.us_locals1" group-title="Rocket Service",KAET-TV Arizona PBS 8 (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KAET-TV Arizona PBS 8 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/52748969/72335180/446800.ts
-#EXTINF:-1 tvg-id="KLRN-DT.us_locals1" group-title="Rocket Service",KLRN-TV PBS 9 (San Antonio TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KLRN-TV PBS 9 (San Antonio TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/470293.ts
-#EXTINF:-1 tvg-id="KERA-DT.us_locals1" group-title="Rocket Service",KERA-TV PBS 13 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KERA-TV PBS 13 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/597132.ts
-#EXTINF:-1 tvg-id="KQED-DT.us_locals1" group-title="Rocket Service",KQED-TV PBS 9.1 (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KQED-TV PBS 9.1 (San Francisco CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/446801.ts
-#EXTINF:-1 tvg-id="KQED-DT.us_locals1" group-title="Other Services",KQED-DT KQED+ PBS 9.2 (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KQED-DT KQED+ PBS 9.2 (San Francisco CA)
 https://cors-proxy.cooks.fyi/https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
-#EXTINF:-1 tvg-id="KVIE-DT.us_locals1" group-title="Rocket Service",KVIE-TV PBS 6 (Sacramento CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KVIE-TV PBS 6 (Sacramento CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/470374.ts
-#EXTINF:-1 tvg-id="KUED-DT.us_locals1" group-title="Rocket Service",KUED-TV Utah PBS 7 (Salt Lake City UT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KUED-TV Utah PBS 7 (Salt Lake City UT)
 http://s.rocketdns.info:8080/live/52748969/72335180/470290.ts
-#EXTINF:-1 tvg-id="KOPB-DT.us_locals1" group-title="Rocket Service",KOPB-TV PBS 10 (Portland OR)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KOPB-TV PBS 10 (Portland OR)
 http://s.rocketdns.info:8080/live/52748969/72335180/597138.ts
-#EXTINF:-1 tvg-id="WHYY-DT.us_locals1" group-title="Rocket Service",WHYY-TV PBS 12 (Philadelphia PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WHYY-TV PBS 12 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/629577.ts
-#EXTINF:-1 tvg-id="WQLN-DT.us_locals1" group-title="Rocket Service",WQLN-TV PBS 54 (Erie PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WQLN-TV PBS 54 (Erie PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/470303.ts
-#EXTINF:-1 tvg-id="KDIN-DT.us_locals1" group-title="Rocket Service",KDIN-TV Iowa PBS 11 (Des Moines IA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KDIN-TV Iowa PBS 11 (Des Moines IA)
 http://s.rocketdns.info:8080/live/52748969/72335180/470352.ts
-#EXTINF:-1 tvg-id="KUSM-DT.us_locals1" group-title="Rocket Service",KUSM-TV PBS 9 (Butte MT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KUSM-TV PBS 9 (Butte MT)
 http://s.rocketdns.info:8080/live/52748969/72335180/470331.ts
-#EXTINF:-1 tvg-id="KHET-DT.us_locals1" group-title="Rocket Service",KHET-TV/KMEB-TV Hawai'i PBS 11/10 (Honolulu HI)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KHET-TV/KMEB-TV Hawai'i PBS 11/10 (Honolulu HI)
 http://s.rocketdns.info:8080/live/52748969/72335180/629651.ts
 #EXTINF:-1 tvg-id="" group-title="Other Services",Access La Porte Country
 https://vbfast-c.viebit.com/810fe13b-a9ac-46b3-a523-5a7e90ddfd25/playlist.m3u8
@@ -1527,11 +1527,11 @@ https://securestream6.champds.com/hlssstc/KOCTCALIVE2/KOCTCALIVE2.m3u8
 https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8?dt=1749521028612
 #EXTINF:-1 tvg-id="" group-title="Other Services",KOCT-TV 19 (San Diego CA)
 https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8?dt=1749520937749
-#EXTINF:-1 tvg-id="KTOO-DT.us_locals1" group-title="Other Services",KTOO-TV 360TV (Anchorage AK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KTOO-TV 360TV (Anchorage AK)
 https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
 #EXTINF:-1 tvg-id="" group-title="Other Services",KTOP-TV 10 City of Oakland (Oakland CA)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
-#EXTINF:-1 tvg-id="KTUU-DT.us_locals1" group-title="Backend: Syncbak",KTUU-TV 2 Alaska's News Source (Anchorage AK)
+#EXTINF:-1 tvg-id="" group-title="Backend: Syncbak",KTUU-TV 2 Alaska's News Source (Anchorage AK)
 https://dai2-playlistserver.aws.syncbak.com/cpl/13786111/dai2v5/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjMxOSwiY2lkIjoxMjM0NiwibWlkIjoxMzc4NjExMSwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI0Ny4xNTkuMTgzLjEzMyIsInVpcCI6IjQ3LjE1OS4xODMuMTMzIiwiZG1hIjo4NTUsInNzaWQiOiI1NDUwOTA1MWU1M2E0NzEzYTUzMWJhMzg5MGM4Y2U1ZiIsInNuIjoiV2ViIGUzYThlYjdmNzkgKCBudWxsICkiLCJ1aWQiOm51bGwsImFwc3QiOm51bGwsInNiZXAiOmZhbHNlLCJjc2IiOmZhbHNlLCJtZDUiOiIwYjhlNzBmNDcwZmJlZWI1NDI2MWZiYTVjOTNjNjljYiIsImlhdCI6MTczODIwODc4NSwiZXhwIjoxNzM4MjA5MDg1LCJhdWQiOiJodHRwczovL3BsYXlsaXN0c2VydmVyLmF3cy5zeW5jYmFrLmNvbSIsImlzcyI6IlN5bmNiYWsgR3JhcGhRTCBBUEkiLCJzdWIiOiIxTjB3RTI3ZkFKUVNWaUhQQ3A3Y1ZBSVdLUXdLcGNVVVJ1b1JFbTRGRXh1MlphdWc4NiJ9.O6O7Ro_KLNEmGxvWywYZ6ARcmmW7Rxh6pBbJIgrhdNI
 #EXTINF:-1 tvg-id="" group-title="Other Services",KVVB-TV 33 (Victorville CA)
 http://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
@@ -1831,57 +1831,57 @@ https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m
 https://vivo.Canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN.Sports.En.EspaÃ±ol.HD.us2" group-title="Other Services",CGTN en Español
 http://atlas.cdmx.gob.mx:8089/https://mdstrm.com/live-stream-playlist/66a96ae9cc39c5d22b24dc65.m3u8&420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
-#EXTINF:-1 tvg-id="KAKW-DT.us_locals1" group-title="Other Services",KAKW-TV Univision 62 (Austin TX)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KAKW-TV Univision 62 (Austin TX)
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410633.ts
-#EXTINF:-1 tvg-id="KASA-DT.us_locals1" group-title="Rocket Service",KASA-TV Telemundo 2 (Santa Fe NM)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KASA-TV Telemundo 2 (Santa Fe NM)
 http://s.rocketdns.info:8080/live/52748969/72335180/89698.ts
-#EXTINF:-1 tvg-id="KBLR-DT.us_locals1" group-title="Rocket Service",KBLR-TV Telemundo 39 (Las Vegas NV)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KBLR-TV Telemundo 39 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/52748969/72335180/89702.ts
-#EXTINF:-1 tvg-id="KCSO-LD.us_locals1" group-title="Rocket Service",KCSO-LD/KMUM-CD Telemundo 33 (Sacramento CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KCSO-LD/KMUM-CD Telemundo 33 (Sacramento CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89450.ts
-#EXTINF:-1 tvg-id="KDEN-DT.us_locals1" group-title="Rocket Service",KDEN-TV Telemundo 25 (Denver CO)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KDEN-TV Telemundo 25 (Denver CO)
 http://s.rocketdns.info:8080/live/52748969/72335180/2399.ts
-#EXTINF:-1 tvg-id="KDOC-DT.us_locals1" group-title="Other Services",KDOC-TV 56.5 Majestad Televisión
+#EXTINF:-1 tvg-id="" group-title="Other Services",KDOC-TV 56.5 Majestad Televisión
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
-#EXTINF:-1 tvg-id="KDTV-CD.us_locals1" group-title="Spanish Services",KDTV-TV Univision 14 (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Spanish Services",KDTV-TV Univision 14 (San Francisco CA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="KFTH-DT.us_locals1" group-title="Other Services",KFTH-DT UniMás 67 (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KFTH-DT UniMás 67 (Houston TX)
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410619.ts
-#EXTINF:-1 tvg-id="KFTR-DT.us_locals1" group-title="Spanish Services",KFTR-TV UniMás 46 (Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Spanish Services",KFTR-TV UniMás 46 (Los Angeles CA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="KMEX-DT.us_locals1" group-title="Spanish Services",KMEX-TV Univision 34 (Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Spanish Services",KMEX-TV Univision 34 (Los Angeles CA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="KNSO-DT.us_locals1" group-title="Rocket Service",KNSO-TV Telemundo 51 (Clovis/Fresno CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KNSO-TV Telemundo 51 (Clovis/Fresno CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2398.ts
-#EXTINF:-1 tvg-id="KSTR-DT.us_locals1" group-title="Other Services",KSTR-TV UniMás 49 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KSTR-TV UniMás 49 (Ft. Worth/Dallas TX)
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3795.ts
-#EXTINF:-1 tvg-id="KSTS-DT.us_locals1" group-title="Rocket Service",KSTS-TV Telemundo 48 (San Francisco CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KSTS-TV Telemundo 48 (San Francisco CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2388.ts
-#EXTINF:-1 tvg-id="KTAZ-DT.us_locals1" group-title="Rocket Service",KTAZ-TV Telemundo 39 (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTAZ-TV Telemundo 39 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/52748969/72335180/89419.ts
-#EXTINF:-1 tvg-id="KTFD-DT.us_locals1" group-title="Other Services",KTFD-TV UniMás 50 (Denver CO)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KTFD-TV UniMás 50 (Denver CO)
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/18572.ts
-#EXTINF:-1 tvg-id="KTFK-DT.us_locals1" group-title="Other Services",KTFK-DT UniMás 64 (Sacramento CA)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KTFK-DT UniMás 64 (Sacramento CA)
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410626.ts
-#EXTINF:-1 tvg-id="KTMD-DT.us_locals1" group-title="Rocket Service",KTMD-TV Telemundo 47 (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTMD-TV Telemundo 47 (Houston TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/89832.ts
-#EXTINF:-1 tvg-id="KTMW-DT.us_locals1" group-title="Rocket Service",KTMW-TV Telemundo 20 (Salt Lake City UT)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KTMW-TV Telemundo 20 (Salt Lake City UT)
 http://s.rocketdns.info:8080/live/52748969/72335180/89864.ts
-#EXTINF:-1 tvg-id="KTVW-CD.us_locals1" group-title="Other Services",KTVW-TV Univision 33 (Phoenix AZ)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KTVW-TV Univision 33 (Phoenix AZ)
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410646.ts
-#EXTINF:-1 tvg-id="KUAN-LD.us_locals1" group-title="Rocket Service",KUAN-TV Telemundo 20 (San Diego CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KUAN-TV Telemundo 20 (San Diego CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2389.ts
-#EXTINF:-1 tvg-id="KUNA-LD.us_locals1" group-title="Other Services",KUNA-CD Telemundo 15 (Palm Springs CA)
+#EXTINF:-1 tvg-id="" group-title="Other Services",KUNA-CD Telemundo 15 (Palm Springs CA)
 http://xxip25.top:8080/live/char@dot.com/char@14223/121236.ts
-#EXTINF:-1 tvg-id="KUVN-CD.us_locals1" group-title="Spanish Services",KUVN-TV Univision 23 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Spanish Services",KUVN-TV Univision 23 (Ft. Worth/Dallas TX)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="KUVS-DT.us_locals1" group-title="Rocket Service",KUVS-TV Univision 19 (Modesto/Sacramento CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KUVS-TV Univision 19 (Modesto/Sacramento CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/50949.ts
-#EXTINF:-1 tvg-id="KVEA-DT.us_locals1" group-title="Rocket Service",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2394.ts
-#EXTINF:-1 tvg-id="KXLN-DT.us_locals1" group-title="Spanish Services",KXLN-TV Univision 45 (Houston TX)
+#EXTINF:-1 tvg-id="" group-title="Spanish Services",KXLN-TV Univision 45 (Houston TX)
 http://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="KXTX-DT.us_locals1" group-title="Rocket Service",KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/3880.ts
 #EXTINF:-1 tvg-id="Â¡HOLA!.TV.us2" group-title="Rocket Service",Latin Hola TV
 http://s.rocketdns.info:8080/live/52748969/72335180/4254.ts
@@ -1983,69 +1983,69 @@ http://s.rocketdns.info:8080/live/52748969/72335180/647750.ts
 https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast-audio_eng=128000-video=6000000.m3u8
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-shift="-3" group-title="Spanish Services",Univision (West)
 https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="WAMI-DT.us_locals1" group-title="Other Services",WAMI-DT UniMás 69 (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WAMI-DT UniMás 69 (Miami FL)
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410621.ts
 #EXTINF:-1 tvg-id="" group-title="Spanish Services",WBGO-TV Univision 66 (Chicago IL)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="WDWL-DT.us_locals1" group-title="Independent Streams",WDWL-DT1 36 (Bayamon PR)
+#EXTINF:-1 tvg-id="" group-title="Independent Streams",WDWL-DT1 36 (Bayamon PR)
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
-#EXTINF:-1 tvg-id="WECN-DT.us_locals1" group-title="Independent Streams",WECN-TV Único TV
+#EXTINF:-1 tvg-id="" group-title="Independent Streams",WECN-TV Único TV
 Canal 64 (Puerto Rico),https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
-#EXTINF:-1 tvg-id="WELU-DT.us_locals1" group-title="Other Services",WELU-DT1 CTNi 34 (Puerto Rico)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WELU-DT1 CTNi 34 (Puerto Rico)
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1 tvg-id="WFUT-DT.us_locals1" group-title="Spanish Services",WFUT-TV/WFTY-DT UniMás 67 (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Spanish Services",WFUT-TV/WFTY-DT UniMás 67 (New York NY)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="WIPR-DT.us_locals1" group-title="Other Services",WIPR-TV 6 (San Juan PR)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WIPR-TV 6 (San Juan PR)
 http://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
-#EXTINF:-1 tvg-id="WJAN-CD.us_locals1" group-title="Other Services",WJAN-CD América TeVé 41 (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WJAN-CD América TeVé 41 (Miami FL)
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
-#EXTINF:-1 tvg-id="WKAQ-DT.us_locals1" group-title="Other Services",WKAQ-DT Punto 2 2.2 (San Juan PR)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WKAQ-DT Punto 2 2.2 (San Juan PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8
-#EXTINF:-1 tvg-id="WKAQ-DT.us_locals1" group-title="Other Services",WKAQ-TV Telemundo 2.1 (San Juan PR)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WKAQ-TV Telemundo 2.1 (San Juan PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-#EXTINF:-1 tvg-id="WKTB-CD.us_locals1" group-title="Rocket Service",WKTB-TV Telemundo 47 (Atlanta GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WKTB-TV Telemundo 47 (Atlanta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/447423.ts
-#EXTINF:-1 tvg-id="WLII-DT.us_locals1" group-title="Other Services",WLII-TV Univision 11 (San Juan PR)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WLII-TV Univision 11 (San Juan PR)
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="WLTV-DT.us_locals1" group-title="Spanish Services",WLTV-TV Univision 23 (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Spanish Services",WLTV-TV Univision 23 (Miami FL)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="WNEU-DT.us_locals1" group-title="Rocket Service",WNEU-TV Telemundo 60 (Boston MA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WNEU-TV Telemundo 60 (Boston MA)
 http://s.rocketdns.info:8080/live/52748969/72335180/629801.ts
-#EXTINF:-1 tvg-id="WNJU-DT.us_locals1" group-title="Rocket Service",WNJU-TV Telemundo 47 (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WNJU-TV Telemundo 47 (New York NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/3875.ts
-#EXTINF:-1 tvg-id="WQHS-DT.us_locals1" group-title="Other Services",WQHS-DT UniMás 61.2 (Cleveland OH)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WQHS-DT UniMás 61.2 (Cleveland OH)
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410616.ts
-#EXTINF:-1 tvg-id="WQHS-DT.us_locals1" group-title="Rocket Service",WQHS-TV Univision 61.1 (Cleveland OH)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WQHS-TV Univision 61.1 (Cleveland OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/4474.ts
-#EXTINF:-1 tvg-id="WRMD-CD.us_locals1" group-title="Rocket Service",WRMD-CD Telemundo 49 (Tampa FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WRMD-CD Telemundo 49 (Tampa FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89509.ts
-#EXTINF:-1 tvg-id="WRUA-DT.us_locals1" group-title="Other Services",WRUA-DT1 Tiva TV 34 (Puerto Rico)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WRUA-DT1 Tiva TV 34 (Puerto Rico)
 https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
-#EXTINF:-1 tvg-id="WSCV-DT.us_locals1" group-title="Rocket Service",WSCV-TV Telemundo 51 (Miami FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSCV-TV Telemundo 51 (Miami FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/50929.ts
-#EXTINF:-1 tvg-id="WSNS-DT.us_locals1" group-title="Rocket Service",WSNS-TV Telemundo 44 (Chicago IL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WSNS-TV Telemundo 44 (Chicago IL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2400.ts
-#EXTINF:-1 tvg-id="WTCL-LD.us_locals1" group-title="Backend: Syncbak",WTCL-TV Telemundo 6 (Cleveland OH)
+#EXTINF:-1 tvg-id="" group-title="Backend: Syncbak",WTCL-TV Telemundo 6 (Cleveland OH)
 https://zeam-playlist.aws.syncbak.com/cpl/24004359/dai2v5/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MjQxMDksIm9vbSI6dHJ1ZSwiYXBzdCI6bnVsbCwic3NpZCI6IjUwMTk3YzUzODU4ODQ4YTA5ZjVkNjNhYzFlZmIyZDdkIiwiaXAiOiI1NC4xNzIuMTI2LjEyMiIsInVpcCI6Ijc2LjMyLjE1MC4yMyIsImRtYSI6ODAzLCJzbiI6IldlYiA0MTdlODA1Y2IwICIsInVpZCI6bnVsbCwiY3NiIjpmYWxzZSwibWlkIjoiMjQwMDQzNTkiLCJtZDUiOiJhODMwOTg0MjI2ZmY4ZDc5MTk1Mzc3NTM1Y2VjZDY0OSIsImlhdCI6MTc3MTEzMjE3MywiZXhwIjoxNzcxMTMyMjYzLCJpc3MiOiJXTFMiLCJzdWIiOiJjZmU2NTMyZS03MTQ0LTRmYWQtOWJjMS0zMTVmMDRhMDZlZmUifQ.nQgGEAy8lYPH7FqGQXr0LUjUpGNWrhE43PBapgiKF3M
-#EXTINF:-1 tvg-id="WTMO-CD.us_locals1" group-title="Rocket Service",WTMO-TV Telemundo 31 (Orlando FL)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WTMO-TV Telemundo 31 (Orlando FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89502.ts
-#EXTINF:-1 tvg-id="WUVG-DT.us_locals1" group-title="Rocket Service",WUVG-DT UniMás 34.2 (Atlanta GA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WUVG-DT UniMás 34.2 (Atlanta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/629647.ts
-#EXTINF:-1 tvg-id="WUVG-DT.us_locals1" group-title="Spanish Services",WUVG-TV Univision 34.1 (Atlanta GA)
+#EXTINF:-1 tvg-id="" group-title="Spanish Services",WUVG-TV Univision 34.1 (Atlanta GA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="WUVP-DT.us_locals1" group-title="Other Services",WUVP-TV Univision 65 (Philadelphia PA)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WUVP-TV Univision 65 (Philadelphia PA)
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410645.ts
-#EXTINF:-1 tvg-id="WWSI-DT.us_locals1" group-title="Rocket Service",WWSI-TV Telemundo 62 (Philadelphia PA)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WWSI-TV Telemundo 62 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/3878.ts
-#EXTINF:-1 tvg-id="WWXY-LD.us_locals1" group-title="Other Services",WWXY-DT 19.3 (San Juan PR)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WWXY-DT 19.3 (San Juan PR)
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
-#EXTINF:-1 tvg-id="WWXY-LD.us_locals1" group-title="Other Services",WWXY-TV Ind. 19.1 (San Juan PR)
+#EXTINF:-1 tvg-id="" group-title="Other Services",WWXY-TV Ind. 19.1 (San Juan PR)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:-1 tvg-id="WXTV-DT.us_locals1" group-title="Spanish Services",WXTV-TV Univision 41 (New York NY)
+#EXTINF:-1 tvg-id="" group-title="Spanish Services",WXTV-TV Univision 41 (New York NY)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-audio_eng=128000-video=6000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="Independent Streams",WXWZ-LD MásTV 23 (San Juan PR)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
-#EXTINF:-1 tvg-id="WZDC-CD.us_locals1" group-title="Rocket Service",WZDC-CD Telemundo 44 (Washington DC)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",WZDC-CD Telemundo 44 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/89879.ts
 #EXTINF:-1 tvg-id="" group-title="Independent Streams",XHGV-TDT TVMás
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -3715,7 +3715,7 @@ https://live1009.delivery.roku.com/4c394a43-2ae4-493b-acce-7dd7700495ef/t2-origi
 https://aka-live1050.delivery.roku.com/6b8411af-8790-49ab-932e-7d12a83c53cd/t2-origin/out/v1/live_1080.m3u8
 #EXTINF:-1 tvg-id="" group-title="Pluto TV",Teen Moms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3f05505e621000783df2f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d811-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ed84458b-d963-4758-88f3-5745e78c08a4
-#EXTINF:-1 tvg-id="WOLF-DT.us_locals1" group-title="Other Services",Teen Wolf by MGM
+#EXTINF:-1 tvg-id="" group-title="Other Services",Teen Wolf by MGM
 https://linear-1143.frequency.stream/dist/tcltv/1143/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",Teletubbies
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814631/hls/master.m3u8
@@ -4145,7 +4145,7 @@ http://prem1.radiotunes.com/60srock_hi?cde33649952951390c0ac1bb
 http://prem1.radiotunes.com/hit70s_hi?cde33649952951390c0ac1bb
 #EXTINF:-1 tvg-id="" group-title="Other Services",Radio Tunes 70's Rock
 http://prem1.radiotunes.com/70srock_hi?cde33649952951390c0ac1bb
-#EXTINF:-1 tvg-id="WAVE-DT.us_locals1" group-title="Other Services",Radio Tunes 80's Alt & New Wave
+#EXTINF:-1 tvg-id="" group-title="Other Services",Radio Tunes 80's Alt & New Wave
 http://prem1.radiotunes.com/80saltnnewwave_hi?cde33649952951390c0ac1bb
 #EXTINF:-1 tvg-id="" group-title="Other Services",Radio Tunes 80's Hits
 http://prem1.radiotunes.com/the80s_hi?cde33649952951390c0ac1bb
@@ -4467,7 +4467,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/38042.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/38043.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV US",MC (Music Choice) | Musica Urbana (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/48003.ts
-#EXTINF:-1 tvg-id="WAVE-DT.us_locals1" group-title="KSTV US",MC (Music Choice) | New Wave (Audio Channel)
+#EXTINF:-1 tvg-id="" group-title="KSTV US",MC (Music Choice) | New Wave (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/48006.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV US",MC (Music Choice) | Party Favorites (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/48008.ts
