@@ -259,7 +259,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/38303.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/89843.ts
 #EXTINF:-1 tvg-id="KCWX-DT.us_locals1" group-title="Other Services",KCWX-TV MyNetworkTV 2 (San Antonio TX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WOAI-DT.us_locals1" group-title="Rocket Service",WOAI-TV NBC 4.1 (San Antonio TX)
+#EXTINF:-1 tvg-id="WOAI-DT2.us_locals1" group-title="Rocket Service",WOAI-TV NBC 4.1 (San Antonio TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/89853.ts
 #EXTINF:-1 tvg-id="KENS-DT.us_locals1" group-title="Rocket Service",KENS-TV CBS 5 (San Antonio TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/2624.ts
